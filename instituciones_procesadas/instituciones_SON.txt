@@ -1,0 +1,232 @@
+1	SON - Aconchi
+2	SON - Administración Portuaria Integral de Sonora, S.A. de C.V. (APISON) (EXTINTO)
+3	SON - Agua Prieta
+4	SON - Alamos
+5	SON - Altar
+6	SON - Arivechi
+7	SON - Arizpe
+8	SON - Atil
+9	SON - Bacadéhuachi
+10	SON - Bacanora
+11	SON - Bacerac
+12	SON - Bacoachi
+13	SON - Bácum
+14	SON - Banámichi
+15	SON - Baviácora
+16	SON - Bavispe
+17	SON - Benito Juárez
+18	SON - Benjamín Hill
+19	SON - Biblioteca Pública Jesus Corral Ruiz (EXTINTO)
+20	SON - Caborca
+21	SON - Cajeme
+22	SON - Cananea
+23	SON - Carbó
+24	SON - Centro de Conciliación Laboral del Estado de Sonora
+25	SON - Centro de Evaluación y Control de Confianza
+26	SON - Centro Estatal de Trasplantes
+27	SON - Centro Regional de Formación Profesional Docente de Sonora
+28	SON - Centro Regional del Formación Docente e Investigación del Estado de Sonora (EXTINTO)
+29	SON - Colegio de Bachilleres del Estado de Sonora
+30	SON - Colegio de Educación Profesional Técnica (CONALEP)
+31	SON - Colegio de Estudios Científicos y Tecnológicos del Estado de Sonora (CECYTES)
+32	SON - Colegio de Sonora
+33	SON - Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora
+34	SON - Comisión de Energía del Estado de Sonora (EXTINTO)
+35	SON - Comisión del Deporte del Estado de Sonora
+36	SON - Comisión de Vivienda del Estado de Sonora
+37	SON - Comisión Ejecutiva Estatal de Atención a Víctimas del Estado de Sonora - CEEAV
+38	SON - Comisión Estatal de Bienes y Concesiones
+39	SON - Comisión Estatal de Derechos Humanos del Estado de Sonora
+40	SON - Comisión Estatal del Agua
+41	SON - Comisión Estatal de la Leche (EXTINTO)
+42	SON - Comisión Estatal para el Desarrollo de los Pueblos y Comunidades Indígenas
+43	SON - Comité de Campaña para la Erradicación Tuberculosis Bovina y Brucelosis en Sonora
+44	SON - Congreso del Estado de Sonora
+45	SON - Consejo Ciudadano del Transporte Público Sustentable del Estado de Sonora (EXTINTO)
+46	SON - Consejo Estatal de Ciencia y Tecnología (COECYT)
+47	SON - Consejo Estatal de Concertación para la Obra Pública
+48	SON - Consejo para el Desarrollo Sostenible - CODESO *
+49	SON - Consejo para la Promoción Económica de Sonora (COPRESON) (EXTINTO)
+50	SON - Consejo Sonorense Regulador del Bacanora
+51	SON - Coordinación Estatal de Protección Civil
+52	SON - Cucurpe
+53	SON - Cumpas
+54	SON - DIF Sonora
+55	SON - Divisaderos
+56	SON - Empalme
+57	SON - Etchojoa
+58	SON - Federación de Sindicatos de trabajadores al Servicio de Ayuntamientos e Instituciones Descentralizados de Carácter Municipal de Sonor...
+59	SON - Fideicomiso carretera Santa Ana-Altar (EXTINTO)
+60	SON - Fideicomiso Fondo Revolvente Sonora
+61	SON - Fideicomiso Maestro para el Financiamiento del Sector Agropecuario en Sonora (AGROSON)
+62	SON - Fideicomiso Operadora de Proyectos Estratégicos del Estado de Sonora (IMPULSOR)
+63	SON - Fideicomiso Puente Colorado
+64	SON - Financiera para el Desarrollo Económico de Sonora (FIDESON)
+65	SON - Fiscalía General del Estado de Sonora
+66	SON - Fondo de Operación de Obras Sonora Si
+67	SON - Fondo Estatal de Solidaridad
+68	SON - Fondo Estatal para la Modernización del Transporte (EXTINTO)
+69	SON - Fondo Estatal para la Prevención y Atención de Emergencias y Desastres del Estado de Sonora - FEPAEDES (EXTINTO)
+70	SON - Fondo para la Procuración de Justicia (EXTINTO)
+71	SON - Fronteras
+72	SON - Fuerza por México
+73	SON - Fundación Produce Sonora, A.C.
+74	SON - General Plutarco Elías Calles
+75	SON - Granados
+76	SON - Guaymas
+77	SON - Gubernatura
+78	SON - Hermosillo
+79	SON - Huachinera
+80	SON - Huásabas
+81	SON - Huatabampo
+82	SON - Huépac
+83	SON - Imuris
+84	SON - Instituto Catastral y Registral del Estado de Sonora
+85	SON - Instituto de Acuacultura del Estado de Sonora
+86	SON - Instituto de Becas y Crédito Educativo del Estado de Sonora
+87	SON - Instituto de Becas y Estímulos Educativos del Estado de Sonora (EXTINTO)
+88	SON - Instituto de Capacitación para el Trabajo del Estado de Sonora (ICATSON)
+89	SON - Instituto de Crédito Educativo del Estado de Sonora (EXTINTO)
+90	SON - Instituto de Formación Docente del Estado de Sonora (EXTINTO)
+91	SON - Instituto de Innovación y Evaluación Educativa del Estado de Sonora (EXTINTO)
+92	SON - Instituto de Movilidad y Transporte para el Estado de Sonora
+93	SON - Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora (ISSSTESON)
+94	SON - Instituto Estatal Electoral y de Participación Ciudadana del Estado de Sonora
+95	SON - Instituto Sonorense de Administración Pública A.C. (ISAP) (EXTINTO)
+96	SON - Instituto Sonorense de Cultura
+97	SON - Instituto Sonorense de Infraestructura Educativa
+98	SON - Instituto Sonorense de la Juventud
+99	SON - Instituto Sonorense de Transparencia Acceso a la Información y Protección de Datos Personales (EXTINTO)
+100	SON - Instituto Sonorense para la Educación de los Adultos (ISEA)
+101	SON - Instituto Superior de Auditoria y Fiscalización (ISAF)
+102	SON - Instituto Superior de Seguridad Pública del Estado (ISSPE)
+103	SON - Instituto Tecnológico de Sonora
+104	SON - Instituto Tecnológico Superior de Cajeme
+105	SON - Instituto Tecnológico Superior de Cananea
+106	SON - Instituto Tecnológico Superior de Puerto Peñasco
+107	SON - Junta de Caminos del Estado de Sonora
+108	SON - La Colorada
+109	SON - Magdalena
+110	SON - Mazatán
+111	SON - Moctezuma
+112	SON - Movimiento Ciudadano (Sonora)
+113	SON - Movimiento de Regeneración Nacional (MORENA)
+114	SON - Museo de Centro Cultural (Musas) (EXTINTO)
+115	SON - Museo Sonora en la Revolución (EXTINTO)
+116	SON - Naco
+117	SON - Nácori Chico
+118	SON - Nacozari de García
+119	SON - Navojoa
+120	SON - Nogales
+121	SON - Oficialía Mayor del Estado de Sonora
+122	SON - Onavas
+123	SON - Opodepe
+124	SON - Oquitoa
+125	SON - Partido Acción Nacional Sonora
+126	SON - Partido de la Revolución Democrática
+127	SON - Partido del Trabajo (Sonora)
+128	SON - Partido Encuentro Solidario (PES)
+129	SON - Partido Nueva Alianza Sonora
+130	SON - Partido Revolucionario Institucional (Sonora)
+131	SON - Partido verde ecologista de México
+132	SON - Patronato Pro Obras del Centro Cívico y Comercial de Hermosillo A.C.
+133	SON - Pitiquito
+134	SON - Procuraduría ambiental del Estado de Sonora
+135	SON - Progreso Fideicomiso Promotor Urbano de Sonora
+136	SON - Promotora para el Desarrollo Regional de la Minería (EXTINTO)
+137	SON - PROSONORA
+138	SON - Puerto Peñasco
+139	SON - Quiriego
+140	SON - Radio Sonora
+141	SON - Rayón
+142	SON - Régimen de Protección Social en Salud del Estado de Sonora (Seguro Popular) (EXTINTO)
+143	SON - Rosario
+144	SON - Sahuaripa
+145	SON - Sala Especializada en Materia de Anticorrupción y Responsabilidades Administrativas (Sala Anticorrupción) EXTINTO
+146	SON - San Felipe de Jesús
+147	SON - San Ignacio Río Muerto
+148	SON - San Javier
+149	SON - San Luis Río Colorado
+150	SON - San Miguel de Horcasitas
+151	SON - San Pedro de la Cueva
+152	SON - Santa Ana
+153	SON - Santa Cruz
+154	SON - Sáric
+155	SON - Secretaría Anticorrupción y Buen Gobierno (antes Contraloría)
+156	SON - Secretaría de Agricultura, Ganadería, Recursos Hidráulicos, Pesca y Acuacultura
+157	SON - Secretaría de Economía (EXTINTO)
+158	SON - Secretaría de Economía y Turismo del Estado de Sonora
+159	SON - Secretaría de Educación y Cultura
+160	SON - Secretaría de Gobierno
+161	SON - Secretaría de Hacienda
+162	SON - Secretaría de Infraestructura y Desarrollo Urbano
+163	SON - Secretaría de la Consejería Jurídica
+164	SON - Secretaría de las Mujeres
+165	SON - Secretaría del Bienestar
+166	SON - Secretaría del Trabajo
+167	SON - Secretaría de Salud Pública
+168	SON - Secretaria de Seguridad Pública
+169	SON - Secretaría de Turismo (EXTINTO)
+170	SON - Secretaría Ejecutiva del Sistema Estatal Anticorrupción (SESEA)
+171	SON - Secretaría Técnica y de Atención Ciudadana (EXTINTO)
+172	SON - Servicios de Administración y Enajenación de Bienes de Entidades del Gobierno del Estado
+173	SON - Servicios de Salud de Sonora
+174	SON - Servicios Educativos del Estado de Sonora
+175	SON - Sindicato de Personal Académico y Administrativo de las Universidades Tecnológicas del Estado de Sonora, SPAAUTES
+176	SON - Sindicato de Trabajadores Académicos de la Universidad de Sonora
+177	SON - Sindicato de Trabajadores de Agua de Hermosillo-CTM
+178	SON - Sindicato de Trabajadores del Colegio de Estudios Científicos y Tecnológicos del Estado de Sonora (SITCECYTES)
+179	SON - Sindicato de Trabajadores de OOMAPAS de Puerto Peñasco
+180	SON - Sindicato de Trabajadores y Empleados de la Universidad de Sonora
+181	SON - Sindicato Único de Empleados del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora
+182	SON - Sindicato Único de los Trabajadores al Servicio del Municipio de Huatabampo Sonora
+183	SON - Sindicato Único de los Trabajadores al Servicio de los Poderes del Estado e Instituciones Descentralizadas
+184	SON - Sindicato Único de Trabajadoras y Trabajadores del Instituto Tecnológico de Sonora
+185	SON - Sindicato Único de Trabajadores al Servicio del Ayuntamiento de Benito Juárez
+186	SON - Sindicato Único de Trabajadores al Servicio del Ayuntamiento de Cajeme (SUTSAC)
+187	SON - Sindicato Único de Trabajadores al Servicio del H. Ayuntamiento de Imuris Sonora
+188	SON - Sindicato Único de Trabajadores al Servicio del H. Ayuntamiento de San Ignacio Río Muerto
+189	SON - Sindicato Único de Trabajadores al Servicio del Municipio de Agua Prieta, Sonora
+190	SON - Sindicato Único de Trabajadores al Servicio del Municipio de Caborca Sonora
+191	SON - Sindicato Único de Trabajadores al Servicio del Municipio de Hermosillo
+192	SON - Sindicato Único de Trabajadores al Servicio del Municipio de Magdalena, Sonora
+193	SON - Sindicato Único de Trabajadores al Servicio del Municipio de Navojoa
+194	SON - Sindicato Único de Trabajadores al Servicio del Municipio de Puerto Peñasco
+195	SON - Sindicato Único de Trabajadores al Servicio del Municipio e Instituciones Descentralizadas de Nogales Sonora
+196	SON - Sindicato Único de Trabajadores de Agua Potable y Alcantarillado del Municipio de Navojoa
+197	SON - SINDICATO ÚNICO DE TRABAJADORES DE LA UNIVERSIDAD ESTATAL DE SONORA
+198	SON - Sindicato Único de Trabajadores del Colegio de Bachilleres de Sonora
+199	SON - Sindicato Único de Trabajadores del H. Ayuntamiento de Quiriego
+200	SON - Sindicato Único de Trabajadores del Instituto Tecnológico Superior de Cajeme (SUTITESCA)
+201	SON - Sindicato Único de Trabajadores del Municipio de Alamos
+202	SON - Sindicato Único de Trabajadores del Organismo Operador Municipal de Agua Potable, Alcantarillado y Saneamiento de H. Caborca, Sonora,...
+203	SON - Sindicato Unido de Trabajadoras y Trabajadores del Instituto Tecnológico de Sonora (SITTITSON)
+204	SON - Sistema de Parques Industriales de Sonora (EXTINTO)
+205	SON - Sistema Estatal de Comunicación Social
+206	SON - Sistema Estatal de Televisión Sonorense (SETS)
+207	SON - Soyopa
+208	SON - Suaqui Grande
+209	SON - Supremo Tribunal de Justicia del Estado de Sonora
+210	SON - Telefonía Rural de Sonora
+211	SON - Televisora de Hermosillo (TELEMAX)
+212	SON - Tepache
+213	SON - Tribunal de Justicia Administrativa en el Estado de Sonora
+214	SON - Tribunal Estatal Electoral del Estado de Sonora
+215	SON - Trincheras
+216	SON - Tubutama
+217	SON - Universidad de la Seguridad Pública
+218	SON - Universidad de la Sierra
+219	SON - Universidad del Pueblo Yaqui
+220	SON - Universidad de Sonora
+221	SON - Universidad Estatal de Sonora (UES)
+222	SON - Universidad Tecnológica de Etchojoa
+223	SON - Universidad Tecnológica de Guaymas
+224	SON - Universidad Tecnológica de Hermosillo
+225	SON - Universidad Tecnológica del Sur de Sonora
+226	SON - Universidad Tecnológica de Nogales
+227	SON - Universidad Tecnológica de Puerto Peñasco
+228	SON - Universidad Tecnológica de San Luis Rio Colorado
+229	SON - Ures
+230	SON - Villa Hidalgo
+231	SON - Villa Pesqueira
+232	SON - Yécora

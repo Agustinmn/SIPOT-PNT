@@ -1,0 +1,445 @@
+1	VER - Academia Regional de Seguridad Pública del Sureste
+2	VER - Academia Veracruzana de las Lenguas Indígenas
+3	VER - Agencia Estatal de Energía
+4	VER - Alianza Generacional
+5	VER - API Sistema Portuario Veracruzano, S.A de C.V.
+6	VER - Ayuntamiento de Acajete
+7	VER - Ayuntamiento de Acatlán
+8	VER - Ayuntamiento de Acayucan
+9	VER - Ayuntamiento de Actopan
+10	VER - Ayuntamiento de Acula
+11	VER - Ayuntamiento de Acultzingo
+12	VER - Ayuntamiento de Agua Dulce
+13	VER - Ayuntamiento de Álamo Temapache
+14	VER - Ayuntamiento de Alpatláhuac
+15	VER - Ayuntamiento de Alto Lucero de Gutiérrez Barrios
+16	VER - Ayuntamiento de Altotonga
+17	VER - Ayuntamiento de Alvarado
+18	VER - Ayuntamiento de Amatitlán
+19	VER - Ayuntamiento de Amatlán de Los Reyes
+20	VER - Ayuntamiento de Ángel R. Cabada
+21	VER - Ayuntamiento de Apazapan
+22	VER - Ayuntamiento de Aquila
+23	VER - Ayuntamiento de Astacinga
+24	VER - Ayuntamiento de Atlahuilco
+25	VER - Ayuntamiento de Atoyac
+26	VER - Ayuntamiento de Atzacan
+27	VER - Ayuntamiento de Atzalan
+28	VER - Ayuntamiento de Ayahualulco
+29	VER - Ayuntamiento de Banderilla
+30	VER - Ayuntamiento de Benito Juárez
+31	VER - Ayuntamiento de Boca del Río
+32	VER - Ayuntamiento de Calcahualco
+33	VER - Ayuntamiento de Camarón de Tejeda
+34	VER - Ayuntamiento de Camerino Z. Mendoza
+35	VER - Ayuntamiento de Carlos A. Carrillo
+36	VER - Ayuntamiento de Carrillo Puerto
+37	VER - Ayuntamiento de Castillo de Teayo
+38	VER - Ayuntamiento de Catemaco
+39	VER - Ayuntamiento de Cazones de Herrera
+40	VER - Ayuntamiento de Cerro Azul
+41	VER - Ayuntamiento de Chacaltianguis
+42	VER - Ayuntamiento de Chalma
+43	VER - Ayuntamiento de Chiconamel
+44	VER - Ayuntamiento de Chiconquiaco
+45	VER - Ayuntamiento de Chicontepec
+46	VER - Ayuntamiento de Chinameca
+47	VER - Ayuntamiento de Chinampa de Gorostiza
+48	VER - Ayuntamiento de Chocamán
+49	VER - Ayuntamiento de Chontla
+50	VER - Ayuntamiento de Chumatlán
+51	VER - Ayuntamiento de Citlaltépetl
+52	VER - Ayuntamiento de Coacoatzintla
+53	VER - Ayuntamiento de Coahuitlán
+54	VER - Ayuntamiento de Coatepec
+55	VER - Ayuntamiento de Coatzacoalcos
+56	VER - Ayuntamiento de Coatzintla
+57	VER - Ayuntamiento de Coetzala
+58	VER - Ayuntamiento de Colipa
+59	VER - Ayuntamiento de Comapa
+60	VER - Ayuntamiento de Córdoba
+61	VER - Ayuntamiento de Cosamaloapan
+62	VER - Ayuntamiento de Cosautlán de Carvajal
+63	VER - Ayuntamiento de Coscomatepec
+64	VER - Ayuntamiento de Cosoleacaque
+65	VER - Ayuntamiento de Cotaxtla
+66	VER - Ayuntamiento de Coxquihui
+67	VER - Ayuntamiento de Coyutla
+68	VER - Ayuntamiento de Cuichapa
+69	VER - Ayuntamiento de Cuitláhuac
+70	VER - Ayuntamiento de El Higo
+71	VER - Ayuntamiento de Emiliano Zapata
+72	VER - Ayuntamiento de Espinal
+73	VER - Ayuntamiento de Filomeno Mata
+74	VER - Ayuntamiento de Fortín
+75	VER - Ayuntamiento de Gutiérrez Zamora
+76	VER - Ayuntamiento de Hidalgotitlán
+77	VER - Ayuntamiento de Huatusco
+78	VER - Ayuntamiento de Huayacocotla
+79	VER - Ayuntamiento de Hueyapan de Ocampo
+80	VER - Ayuntamiento de Huiloapan de Cuauhtémoc
+81	VER - Ayuntamiento de Ignacio de la Llave
+82	VER - Ayuntamiento de Ilamatlán
+83	VER - Ayuntamiento de Isla
+84	VER - Ayuntamiento de Ixcatepec
+85	VER - Ayuntamiento de Ixhuacán de Los Reyes
+86	VER - Ayuntamiento de Ixhuatlancillo
+87	VER - Ayuntamiento de Ixhuatlán del Café
+88	VER - Ayuntamiento de Ixhuatlán del Sureste
+89	VER - Ayuntamiento de Ixhuatlán de Madero
+90	VER - Ayuntamiento de Ixmatlahuacan
+91	VER - Ayuntamiento de Ixtaczoquitlán
+92	VER - Ayuntamiento de Jalacingo
+93	VER - Ayuntamiento de Jalcomulco
+94	VER - Ayuntamiento de Jáltipan de Morelos
+95	VER - Ayuntamiento de Jamapa
+96	VER - Ayuntamiento de Jesús Carranza
+97	VER - Ayuntamiento de Jilotepec
+98	VER - Ayuntamiento de José Azueta
+99	VER - Ayuntamiento de Juan Rodríguez Clara
+100	VER - Ayuntamiento de Juchique de Ferrer
+101	VER - Ayuntamiento de La Antigua
+102	VER - Ayuntamiento de Landero y Coss
+103	VER - Ayuntamiento de La Perla
+104	VER - Ayuntamiento de Las Choapas
+105	VER - Ayuntamiento de Las Minas
+106	VER - Ayuntamiento de Las Vigas de Ramírez
+107	VER - Ayuntamiento de Lerdo de Tejada
+108	VER - Ayuntamiento de Los Reyes
+109	VER - Ayuntamiento de Magdalena
+110	VER - Ayuntamiento de Maltrata
+111	VER - Ayuntamiento de Manlio Fabio Altamirano
+112	VER - Ayuntamiento de Mariano Escobedo
+113	VER - Ayuntamiento de Martínez de la Torre
+114	VER - Ayuntamiento de Mecatlán
+115	VER - Ayuntamiento de Mecayapan
+116	VER - Ayuntamiento de Medellín de Bravo
+117	VER - Ayuntamiento de Miahuatlán
+118	VER - Ayuntamiento de Minatitlán
+119	VER - Ayuntamiento de Misantla
+120	VER - Ayuntamiento de Mixtla de Altamirano
+121	VER - Ayuntamiento de Moloacán
+122	VER - Ayuntamiento de Nanchital de Lázaro Cárdenas del Río
+123	VER - Ayuntamiento de Naolinco
+124	VER - Ayuntamiento de Naranjal
+125	VER - Ayuntamiento de Naranjos Amatlán
+126	VER - Ayuntamiento de Nautla
+127	VER - Ayuntamiento de Nogales
+128	VER - Ayuntamiento de Oluta
+129	VER - Ayuntamiento de Omealca
+130	VER - Ayuntamiento de Orizaba
+131	VER - Ayuntamiento de Otatitlán
+132	VER - Ayuntamiento de Oteapan
+133	VER - Ayuntamiento de Ozuluama
+134	VER - Ayuntamiento de Pajapan
+135	VER - Ayuntamiento de Pánuco
+136	VER - Ayuntamiento de Papantla
+137	VER - Ayuntamiento de Paso del Macho
+138	VER - Ayuntamiento de Paso de Ovejas
+139	VER - Ayuntamiento de Perote
+140	VER - Ayuntamiento de Platón Sánchez
+141	VER - Ayuntamiento de Playa Vicente
+142	VER - Ayuntamiento de Poza Rica de Hidalgo
+143	VER - Ayuntamiento de Pueblo Viejo
+144	VER - Ayuntamiento de Puente Nacional
+145	VER - Ayuntamiento de Rafael Delgado
+146	VER - Ayuntamiento de Rafael Lucio
+147	VER - Ayuntamiento de Río Blanco
+148	VER - Ayuntamiento de Saltabarranca
+149	VER - Ayuntamiento de San Andrés Tenejapan
+150	VER - Ayuntamiento de San Andrés Tuxtla
+151	VER - Ayuntamiento de San Juan Evangelista
+152	VER - Ayuntamiento de San Rafael
+153	VER - Ayuntamiento de Santiago Sochiapan
+154	VER - Ayuntamiento de Santiago Tuxtla
+155	VER - Ayuntamiento de Sayula de Alemán
+156	VER - Ayuntamiento de Sochiapa
+157	VER - Ayuntamiento de Soconusco
+158	VER - Ayuntamiento de Soledad Atzompa
+159	VER - Ayuntamiento de Soledad de Doblado
+160	VER - Ayuntamiento de Soteapan
+161	VER - Ayuntamiento de Tamalín
+162	VER - Ayuntamiento de Tamiahua
+163	VER - Ayuntamiento de Tampico Alto
+164	VER - Ayuntamiento de Tancoco
+165	VER - Ayuntamiento de Tantima
+166	VER - Ayuntamiento de Tantoyuca
+167	VER - Ayuntamiento de Tatahuicapan de Juárez
+168	VER - Ayuntamiento de Tatatila
+169	VER - Ayuntamiento de Tecolutla
+170	VER - Ayuntamiento de Tehuipango
+171	VER - Ayuntamiento de Tempoal
+172	VER - Ayuntamiento de Tenampa
+173	VER - Ayuntamiento de Tenochtitlán
+174	VER - Ayuntamiento de Teocelo
+175	VER - Ayuntamiento de Tepatlaxco
+176	VER - Ayuntamiento de Tepetlán
+177	VER - Ayuntamiento de Tepetzintla
+178	VER - Ayuntamiento de Tequila
+179	VER - Ayuntamiento de Texcatepec
+180	VER - Ayuntamiento de Texhuacan
+181	VER - Ayuntamiento de Texistepec
+182	VER - Ayuntamiento de Tezonapa
+183	VER - Ayuntamiento de Tierra Blanca
+184	VER - Ayuntamiento de Tihuatlán
+185	VER - Ayuntamiento de Tlachichilco
+186	VER - Ayuntamiento de Tlacojalpan
+187	VER - Ayuntamiento de Tlacolulan
+188	VER - Ayuntamiento de Tlacotalpan
+189	VER - Ayuntamiento de Tlacotepec de Mejía
+190	VER - Ayuntamiento de Tlalixcoyan
+191	VER - Ayuntamiento de Tlalnelhuayocan
+192	VER - Ayuntamiento de Tlaltetela
+193	VER - Ayuntamiento de Tlapacoyan
+194	VER - Ayuntamiento de Tlaquilpa
+195	VER - Ayuntamiento de Tlilapan
+196	VER - Ayuntamiento de Tomatlán
+197	VER - Ayuntamiento de Tonayán
+198	VER - Ayuntamiento de Totutla
+199	VER - Ayuntamiento de Tres Valles
+200	VER - Ayuntamiento de Tuxpan
+201	VER - Ayuntamiento de Tuxtilla
+202	VER - Ayuntamiento de Úrsulo Galván
+203	VER - Ayuntamiento de Uxpanapa
+204	VER - Ayuntamiento de Vega de Alatorre
+205	VER - Ayuntamiento de Veracruz
+206	VER - Ayuntamiento de Villa Aldama
+207	VER - Ayuntamiento de Xalapa
+208	VER - Ayuntamiento de Xico
+209	VER - Ayuntamiento de Xoxocotla
+210	VER - Ayuntamiento de Yanga
+211	VER - Ayuntamiento de Yecuatla
+212	VER - Ayuntamiento de Zacualpan
+213	VER - Ayuntamiento de Zaragoza
+214	VER - Ayuntamiento de Zentla
+215	VER - Ayuntamiento de Zongolica
+216	VER - Ayuntamiento de Zontecomatlán de López y Fuentes
+217	VER - Ayuntamiento de Zozocolco de Hidalgo
+218	VER - Centro de Conciliación Laboral Veracruz
+219	VER - Centro de Justicia Para Las Mujeres del Estado de Veracruz
+220	VER - Centro Estatal de Justicia Alternativa de Veracruz
+221	VER - Colegio de Bachilleres del Estado de Veracruz
+222	VER - Colegio de Educación Profesional Técnica del Estado de Veracruz
+223	VER - Colegio de Estudios Científicos y Tecnológicos del Estado de Veracruz
+224	VER - Comisión de Agua y Saneamiento de Fortín
+225	VER - Comisión de Arbitraje Médico del Estado de Veracruz (CODAMEVER)
+226	VER - Comisión del Agua del Estado de Veracruz
+227	VER - Comisión de Vigilancia y Liquidadora del Sindicato de Obreros y Artesanos Progresistas "Rafael Moreno" de la Fábrica San Lorenzo
+228	VER - Comisión Ejecutiva Estatal de Atención Integral a Víctimas
+229	VER - Comisión Estatal de Derechos Humanos
+230	VER - Comisión Estatal para la Atención y Protección de los Periodistas
+231	VER - Comisión Municipal de Agua Potable Drenaje y Alcantarillado de Banderilla
+232	VER - Comisión Municipal de Agua Potable y Saneamiento de Coatepec
+233	VER - Comisión Municipal de Agua Potable y Saneamiento de Coatzacoalcos
+234	VER - Comisión Municipal de Agua Potable y Saneamiento de Emiliano Zapata
+235	VER - Comisión Municipal de Agua Potable y Saneamiento de Huatusco
+236	VER - Comisión Municipal de Agua Potable y Saneamiento de Jamapa
+237	VER - Comisión Municipal de Agua Potable y Saneamiento de Juchique de Ferrer
+238	VER - Comisión Municipal de Agua Potable y Saneamiento de La Antigua
+239	VER - Comisión Municipal de Agua Potable y Saneamiento de Naolinco
+240	VER - Comisión Municipal de Agua Potable y Saneamiento de San Andrés Tuxtla
+241	VER - Comisión Municipal de Agua Potable y Saneamiento de San Juan Evangelista (Villa Juanita)
+242	VER - Comisión Municipal de Agua Potable y Saneamiento de Úrsulo Galván
+243	VER - Comisión Municipal de Agua Potable y Saneamiento de Xalapa
+244	VER - Comisión Municipal de Agua y Saneamiento de Coscomatepec
+245	VER - Comisión Municipal de Agua y Saneamiento de Lerdo de Tejada
+246	VER - Comité Ejecutivo del Sindicato Único de Empleados Municipales (San Andrés Tuxtla)
+247	VER - Compromiso con Veracruz
+248	VER - Consejo Veracruzano de Investigación Científica y Desarrollo Tecnológico
+249	VER - Contraloría General del Estado
+250	VER - Coordinación General de Comunicación Social
+251	VER - Democracia e Igualdad Veracruzana
+252	VER - Democráticos Unidos por Veracruz
+253	VER - El Colegio de Veracruz
+254	VER - Expresión Ciudadana de Veracruz
+255	VER - Fideicomiso 2244 para la Implementación del Sistema de Justicia Penal del Estado de Veracruz
+256	VER - Fideicomiso de Administración denominado "Acuario de Veracruz" (ACUARIO)
+257	VER - Fideicomiso de Administración e Inversión como Instrumento Impulsor del Desarrollo de la Micro, Pequeña y Mediana Empresa del Gobiern...
+258	VER - Fideicomiso de Administración e Inversión del Sistema de Ahorro para el Retiro de los Trabajadores al Servicio del Gobierno del Estad...
+259	VER - Fideicomiso de Inversión y Administración denominado Fideicomiso Veracruzano de Fomento Agropecuario (FIVERFAP)
+260	VER - Fideicomiso de Inversión y Administración para la Implementación del Programa de Aplicación de los Sistemas de Enseñanza Vivencial e ...
+261	VER - Fideicomiso de la Reserva Técnica del IPE
+262	VER - Fideicomiso Irrevocable de Inversión y Administración con el objeto que se Diseñe, Construya y Opere un Sistema Conjunto de Colección...
+263	VER - Fideicomiso Irrevocable de Inversión y Administración denominado "Fideicomiso Público del Organismo Acreditador de Competencias Labor...
+264	VER - Fideicomiso Irrevocable de Inversión y Fuente de Pago N°. 2001, denominado "Fondo de Desastres Naturales Veracruz" (FONDEN)
+265	VER - Fideicomiso Irrevocable N°. 1986 constituido para la Construcción, Operación, Explotación y Mantenimiento de la Autopista Cardel-Vera...
+266	VER - Fideicomiso para las obras adicionales materia de la prórroga de la concesión de la Autopista Veracruz - Cardel
+267	VER - Fideicomiso Público de Administración del Impuesto por la Prestación de Servicios de Hospedaje del Estado de Veracruz (Hospedaje)
+268	VER - Fideicomiso Público de Administración e Inversión del "Fondo Metropolitano de Acayucan". (FONMETROAC)
+269	VER - Fideicomiso Público de Administración e Inversión del "Fondo Metropolitano de Coatzacoalcos". (FONMETROC)
+270	VER - Fideicomiso Público de Administración e Inversión del "Fondo Metropolitano de Xalapa". (FONMETROX)
+271	VER - Fideicomiso Público de Administración e Inversión del "Fondo Metropolitano Veracruzano" (FONMETROV)
+272	VER - Fideicomiso Público de Administración y Operación del Parque Temático Takhil -Sukut (TAKHIL-SUKUT)
+273	VER - Fideicomiso Público del Centro de Exposiciones y Convenciones de Veracruz (WTC)
+274	VER - Fideicomiso Público del Fondo Ambiental Veracruzano
+275	VER - Fideicomiso Público del Proyecto denominado Apoyo a Tecnologías Educativas y de la Información para el personal al Servicio de la Edu...
+276	VER - Fideicomiso Público Irrevocable de Inversión, Administración y Fuente de Pago para la Operación, Explotación, Conservación y Mantenim...
+277	VER - Fideicomiso Público Irrevocable de Inversión y Administración para el "Programa Especial de Financiamiento a la Vivienda para el Magi...
+278	VER - Fideicomiso Público Revocable de Administración, Inversión y Garantía denominado Fideicomiso para el Desarrollo Rural del Estado de V...
+279	VER - Fideicomiso Público Revocable de Administración e Inversión para la Operación del Programa Nacional de Becas para la Educación Superi...
+280	VER - Fideicomiso SAR para los Trabajadores del IPE
+281	VER - Fiscalía General del Estado de Veracruz
+282	VER - Fondo Mixto CONACYT-Gobierno del Estado de Veracruz de Ignacio de la Llave
+283	VER - Foro Boca
+284	VER - Foro Democrático Veracruz
+285	VER - Fuerza por Veracruz México
+286	VER - Fuerza Veracruzana
+287	VER - Ganemos México la Confianza
+288	VER - Generando Bienestar 3
+289	VER - Hidrosistema de Córdoba
+290	VER - Instituto Consorcio Clavijero
+291	VER - Instituto de Capacitación para el Trabajo del Estado de Veracruz
+292	VER - Instituto de Espacios Educativos del Estado de Veracruz
+293	VER - Instituto de la Policía Auxiliar y Protección Patrimonial para el Estado de Veracruz
+294	VER - Instituto de Pensiones del Estado de Veracruz
+295	VER - Instituto Metropolitano del Agua
+296	VER - Instituto Municipal de las Mujeres del Municipio de la Antigua
+297	VER - Instituto Municipal de las Mujeres de Nogales, Veracruz (IMM)
+298	VER - Instituto Municipal de las Mujeres de Teocelo, Veracruz (IMM)
+299	VER - Instituto Municipal de las Mujeres de Tlalnelhuayocan
+300	VER - Instituto Tecnológico Superior de Acayucan
+301	VER - Instituto Tecnológico Superior de Álamo Temapache
+302	VER - Instituto Tecnológico Superior de Alvarado
+303	VER - Instituto Tecnológico Superior de Chicontepec
+304	VER - Instituto Tecnológico Superior de Coatzacoalcos
+305	VER - Instituto Tecnológico Superior de Cosamaloapan
+306	VER - Instituto Tecnológico Superior de Huatusco
+307	VER - Instituto Tecnológico Superior de Jesús Carranza
+308	VER - Instituto Tecnológico Superior de Juan Rodríguez Clara
+309	VER - Instituto Tecnológico Superior de Las Choapas
+310	VER - Instituto Tecnológico Superior de Martínez de la Torre
+311	VER - Instituto Tecnológico Superior de Misantla
+312	VER - Instituto Tecnológico Superior de Naranjos
+313	VER - Instituto Tecnológico Superior de Pánuco
+314	VER - Instituto Tecnológico Superior de Perote
+315	VER - Instituto Tecnológico Superior de Poza Rica
+316	VER - Instituto Tecnológico Superior de San Andrés Tuxtla
+317	VER - Instituto Tecnológico Superior de Tantoyuca
+318	VER - Instituto Tecnológico Superior de Tierra Blanca
+319	VER - Instituto Tecnológico Superior de Xalapa
+320	VER - Instituto Tecnológico Superior de Zongolica
+321	VER - Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales
+322	VER - Instituto Veracruzano de Desarrollo Municipal
+323	VER - Instituto Veracruzano de Educación para los Adultos
+324	VER - Instituto Veracruzano de las Mujeres
+325	VER - Instituto Veracruzano de la Vivienda
+326	VER - Instituto Veracruzano del Deporte
+327	VER - Movimiento Civilista Independiente
+328	VER - Oficina del Gobernador del Estado de Veracruz de Ignacio de la Llave
+329	VER - Oficina de Programa de Gobierno
+330	VER - Organismo Operador de Agua Potable y Alcantarillado Tierra Blanca
+331	VER - Organismo Público Local Electoral del Estado de Veracruz
+332	VER - Organización Sindical Confederación Auténtica de Trabajadores del Estado de Veracruz CAT
+333	VER - Órgano de Fiscalización Superior del Estado de Veracruz
+334	VER - Participación Ciudadana
+335	VER - Partido Acción Nacional
+336	VER - Partido Cardenista
+337	VER - Partido de la Revolución Democrática
+338	VER - Partido del Trabajo
+339	VER - Partido Encuentro Social
+340	VER - Partido Encuentro Solidario
+341	VER - Partido Morena
+342	VER - Partido Nueva Alianza
+343	VER - Partido Político Nacional Movimiento Ciudadano
+344	VER - Partido Revolucionario Institucional
+345	VER - Partido Unidad Ciudadana
+346	VER - Partido Verde Ecologista de México
+347	VER - Podemos
+348	VER - Poder Judicial del Estado de Veracruz
+349	VER - Poder Legislativo del Estado de Veracruz
+350	VER - Procuraduría Estatal de Protección al Medio Ambiente
+351	VER - Radio Televisión de Veracruz
+352	VER - Régimen Veracruzano de Protección Social en Salud
+353	VER - Sección dos del Sindicato Independiente de Mujeres Transportistas del Estado de Veracruz.
+354	VER - Secretaría de Cultura
+355	VER - Secretaría de Desarrollo Agropecuario, Rural y Pesca
+356	VER - Secretaría de Desarrollo Económico y Portuario
+357	VER - Secretaría de Desarrollo Social
+358	VER - Secretaría de Educación de Veracruz
+359	VER - Secretaría de Finanzas y Planeación
+360	VER - Secretaría de Gobierno
+361	VER - Secretaría de Infraestructura y Obras Públicas
+362	VER - Secretaría de Medio Ambiente
+363	VER - Secretaría de Protección Civil
+364	VER - Secretaría de Salud
+365	VER - Secretaría de Seguridad Pública
+366	VER - Secretaría de Trabajo, Previsión Social y Productividad
+367	VER - Secretaría de Turismo y Cultura
+368	VER - Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Veracruz
+369	VER - Sindicato "Solidaridad Urbana" de Trabajadores Municipales al Servicio del ayuntamiento de Xalapa (Solidaridad Urbana)
+370	VER - Sindicato "Solidaridad Urbana" de Trabajadores Municipales al Servicio del ayuntamiento de Xalapa Orquesta Municipal de Xalapa y Ensa...
+371	VER - Sindicato Autentico de Trabajadores del Instituto de Capacitación para el Trabajo del Estado de Veracruz-CTM (SATICATVER-CTM)
+372	VER - Sindicato de Choferes, Operadores, Ayudantes y Similares del Municipio de Pánuco
+373	VER - Sindicato de Empleados, Trabajadores y Docentes del Instituto Tecnológico Superior de Misantla
+374	VER - Sindicato de Empleados al Servicio del H. Ayuntamiento de Córdoba, Veracruz
+375	VER - Sindicato de Empleados Municipales "Eduardo Núñez Marín"
+376	VER - Sindicato de Empleados Municipales (Nanchital)
+377	VER - Sindicato de Empleados Municipales al Servicio del Honorable Ayuntamiento Constitucional de Ciudad Nanchital de Lázaro Cárdenas del R...
+378	VER - Sindicato de Empleados Trabajadores y Docentes del Instituto Tecnológico Superior de Xalapa
+379	VER - Sindicato de Empleados y Trabajadores al Servicio del Municipio de Ixtaczoquitlán
+380	VER - Sindicato de Empleados y Trabajadores al Servicio INVIVIENDA
+381	VER - Sindicato de Empleados y Trabajadores de la Comisión Municipal de Agua Potable y Saneamiento de la Ciudad de Xalapa, Veracruz
+382	VER - Sindicato Democrático de Empleados del Poder Judicial del Estado de Veracruz
+383	VER - Sindicato Democrático de Trabajadores al Servicio del DIF Estatal Veracruz
+384	VER - Sindicato Democrático de Trabajadores del Municipio de Santiago Sochiapan, Veracruz
+385	VER - Sindicato Democrático Estatal de los Trabajadores de Sistemas de Agua, Similares y Conexos del Estado de Veracruz
+386	VER - Sindicato de Obreros, Panaderos, Reposteros y Similares de la Ciudad de Xalapa, Veracruz.
+387	VER - Sindicato de Obreros y Empleados al servicio del sistema de Agua Potable, Alcantarillado, Saneamiento y Conexos de la Zona Norte del ...
+388	VER - Sindicato de Obreros y Empleados al Servicio del Sistema de Agua Potable, Alcantarillado, Saneamiento y Conexos del Municipio de Coat...
+389	VER - Sindicato de Trabajadores al servicio de la Comisión Municipal de Agua Potable y Saneamiento de Minatitlán, Veracruz
+390	VER - Sindicato de Trabajadores al Servicio del H. Ayuntamiento de Xalapa, Ver.
+391	VER - Sindicato de Trabajadores al Servicio del Honorable Ayuntamiento de la Antigua, Ver.
+392	VER - Sindicato de Trabajadores al Servicio del Municipio de Actopan, Veracruz
+393	VER - Sindicato de Trabajadores al Servicio del Municipio de Cerro Azul, Veracruz
+394	VER - Sindicato de Trabajadores al Servicio del Municipio de Jáltipan de Morelos, Veracruz
+395	VER - Sindicato de Trabajadores al Servicio del Poder Ejecutivo del Estado de Veracruz
+396	VER - Sindicato de Trabajadores de la Comisión Municipal de Agua Potable, Saneamiento, Drenaje, Alcantarillado y Conexos y Similares del Mu...
+397	VER - Sindicato de Trabajadores del Instituto Tecnológico Superior de Alvarado
+398	VER - Sindicato de Trabajadores del Instituto Tecnológico Superior de Perote
+399	VER - Sindicato de Trabajadores del Instituto Tecnológico Superior de Tierra Blanca
+400	VER - Sindicato de Trabajadores en General al Servicio de la Comisión de Agua del Estado de Veracruz, C.A.E.V Operadora Acayucan, Sistema d...
+401	VER - Sindicato de Trabajadores y Transportes de la Limpia Pública, Conexos y Similares del Puerto de Veracruz
+402	VER - Sindicato de Trabajadores y Transportes de Limpia Pública Conexos y Similares del Puerto de Veracruz
+403	VER - Sindicato Estatal del Personal Académico de la Universidad Veracruzana
+404	VER - Sindicato Estatal de Trabajadores al Servicio de la Universidad Veracruzana (SETSUV)
+405	VER - Sindicato Estatal de Trabajadores al Servicio del Poder Judicial (SETSPJ)
+406	VER - Sindicato Independiente de Trabajadores al Servicio de la Educación del Instituto Tecnológico Superior de Huatusco
+407	VER - Sindicato Industrial de Trabajadores de Expendios de Gasolina Lubricantes, Lavadores, Engrasadores, Conexos y Similares CTM
+408	VER - Sindicato Único de Empleados al Servicio del Municipio de Huatusco, Veracruz
+409	VER - Sindicato Único de Empleados Municipales (Minatitlán)
+410	VER - Sindicato Único de Empleados Municipales al Servicio del H. Ayuntamiento de Juan Rodríguez Clara, Ver.
+411	VER - Sindicato Único de Empleados Municipales al Servicio del Municipio de Perote
+412	VER - Sindicato Único de Empleados y Trabajadores "Ing. Ricardo Remes Rosales"
+413	VER - Sindicato Único de Empleados y Trabajadores al Servicio del H. Ayuntamiento de Alvarado, Veracruz
+414	VER - Sindicato Único de Empleados y Trabajadores al Servicio del Municipio de Cosautlán de Carvajal, Veracruz
+415	VER - Sindicato Único de Empleados y Trabajadores al Servicio del Municipio de Soledad de Doblado, Veracruz
+416	VER - Sindicato Único de Empleados y Trabajadores en General al Servicio del H. Ayuntamiento de Veracruz, Veracruz
+417	VER - Sindicato Único de Trabajadores al Servicio de la Comisión Municipal de Agua Potable y Saneamiento de La Antigua, Veracruz
+418	VER - Sindicato Único de Trabajadores al Servicio del H. Ayuntamiento de Zongolica, Veracruz
+419	VER - Sindicato Único de Trabajadores al Servicio del Municipio de Coatzacoalcos, Veracruz
+420	VER - Sindicato Único de Trabajadores al Servicio del Municipio de Cosamaloapan, Veracruz
+421	VER - Sindicato Único de Trabajadores al Servicio del Municipio de Juchique de Ferrer
+422	VER - Sindicato Único de Trabajadores al Servicio del Poder Legislativo (S.U.T.S.P.L.)
+423	VER - Sindicato único de Trabajadores del Agua Potable y Saneamiento del Municipio de Martínez de la Torre
+424	VER - Sindicato Único de Trabajadores de la Universidad Tecnológica del Sureste de Veracruz
+425	VER - Sindicato Único de Trabajadores del Colegio de Estudios Científicos y Tecnológicos del Estado de Veracruz
+426	VER - Sindicato Único de Trabajadores del DIF Municipal Xalapa
+427	VER - Sindicato Único de Trabajadores del instituto Tecnológico Superior de Naranjos
+428	VER - Sindicato Único de Trabajadores del Instituto Tecnológico Superior de Poza Rica
+429	VER - Sindicato Único de Trabajadores y Empleados Municipales al Servicio del Municipio de Cosoleacaque, Veracruz
+430	VER - Sindicato Único Independiente de Trabajadores del Colegio de Bachilleres del Estado de Veracruz (SUITCOBAEV)
+431	VER - Sistema Intermunicipal de Gestión Integral de Residuos Sólidos Urbanos y Manejo Especial (SIGIRES)
+432	VER - Sistema Municipal para el Desarrollo Integral de la Familia SMDIF Córdoba, Veracruz
+433	VER - Sistema para el Desarrollo Integral de la Familia
+434	VER - Todos por Veracruz
+435	VER - Tribunal de Justicia Administrativa del Estado de Veracruz
+436	VER - Tribunal Electoral del Estado de Veracruz
+437	VER - Unidad y Democracia
+438	VER - Unión Veracruzana por la Evolución de la Sociedad
+439	VER - Universidad Politécnica de Huatusco
+440	VER - Universidad Popular Autónoma de Veracruz
+441	VER - Universidad Tecnológica de Gutiérrez Zamora
+442	VER - Universidad Tecnológica del Centro de Veracruz
+443	VER - Universidad Tecnológica del Sureste de Veracruz
+444	VER - Universidad Veracruzana
+445	VER - Vía Veracruzana

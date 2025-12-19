@@ -1,0 +1,193 @@
+1	MOR - Aeropuerto de Cuernavaca, S.A. de C.V.
+2	MOR - Ayuntamiento de Amacuzac
+3	MOR - Ayuntamiento de Atlatlahucan
+4	MOR - Ayuntamiento de Axochiapan
+5	MOR - Ayuntamiento de Ayala
+6	MOR - Ayuntamiento de Coatlán del Río
+7	MOR - Ayuntamiento de Cuautla
+8	MOR - Ayuntamiento de Cuernavaca
+9	MOR - Ayuntamiento de Emiliano Zapata
+10	MOR - Ayuntamiento de Huitzilac
+11	MOR - Ayuntamiento de Jantetelco
+12	MOR - Ayuntamiento de Jiutepec
+13	MOR - Ayuntamiento de Jojutla
+14	MOR - Ayuntamiento de Jonacatepec de Leandro Valle
+15	MOR - Ayuntamiento de Mazatepec
+16	MOR - Ayuntamiento de Miacatlán
+17	MOR - Ayuntamiento de Ocuituco
+18	MOR - Ayuntamiento de Puente de Ixtla
+19	MOR - Ayuntamiento de Temixco
+20	MOR - Ayuntamiento de Temoac
+21	MOR - Ayuntamiento de Tepalcingo
+22	MOR - Ayuntamiento de Tepoztlán
+23	MOR - Ayuntamiento de Tetecala
+24	MOR - Ayuntamiento de Tetela del Volcán
+25	MOR - Ayuntamiento de Tlalnepantla
+26	MOR - Ayuntamiento de Tlaltizapán de Zapata
+27	MOR - Ayuntamiento de Tlaquiltenango
+28	MOR - Ayuntamiento de Tlayacapan
+29	MOR - Ayuntamiento de Totolapan
+30	MOR - Ayuntamiento de Xochitepec
+31	MOR - Ayuntamiento de Yautepec
+32	MOR - Ayuntamiento de Yecapixtla
+33	MOR - Ayuntamiento de Zacatepec de Hidalgo
+34	MOR - Ayuntamiento de Zacualpan de Amilpas
+35	MOR - Centro de Conciliación Laboral del Estado de Morelos
+36	MOR - Centro Morelense de las Artes
+37	MOR - Colegio de Bachilleres del Estado de Morelos
+38	MOR - Colegio de Educación Profesional Técnica del Estado de Morelos
+39	MOR - Colegio de Estudios Científicos y Tecnológicos del Estado de Morelos
+40	MOR - Comisión de Derechos Humanos del Estado de Morelos
+41	MOR - Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos
+42	MOR - Comisión Estatal de Arbitraje Médico
+43	MOR - Comisión Estatal del Agua
+44	MOR - Comisión Estatal de Mejora Regulatoria
+45	MOR - Comisión Estatal de Reservas Territoriales
+46	MOR - Congreso del Estado de Morelos
+47	MOR - Consejo de Ciencia y Tecnología del Estado de Morelos
+48	MOR - Coordinación Estatal de Protección Civil Morelos
+49	MOR - Coordinación General de Movilidad y Transporte
+50	MOR - El Colegio de Morelos
+51	MOR - Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos
+52	MOR - Fideicomiso Centro Cultural Teopanzolco
+53	MOR - Fideicomiso Centro de Congresos y Convenciones Morelos
+54	MOR - Fideicomiso de Fomento Agropecuario del Estado de Morelos (HISTÓRICO) (BAJA [PERTENECEN Y SON ADMINISTRADOS POR LA SECRETARÍA DE DESA...
+55	MOR - Fideicomiso del Balneario Agua Hedionda
+56	MOR - Fideicomiso de Turismo
+57	MOR - Fideicomiso Ejecutivo del Fondo de Competitividad y Promoción del Empleo del Estado de Morelos
+58	MOR - Fideicomiso Fondo Desarrollo Empresarial y Promoción de la Inversión
+59	MOR - Fideicomiso Impulso Financiero al Campo Morelense (HISTÓRICO) (BAJA [PERTENECEN Y SON ADMINISTRADOS POR LA SECRETARÍA DE DESARROLLO A...
+60	MOR - Fideicomiso Lago de Tequesquitengo
+61	MOR - Fideicomiso Museo Morelense de Arte Contemporáneo "Juan Soriano"
+62	MOR - Fideicomiso Parque Científico y Tecnológico Morelos
+63	MOR - Fiscalía Especializada en Combate a la Corrupción del Estado de Morelos
+64	MOR - Fiscalía General del Estado de Morelos
+65	MOR - Hospital del Niño Morelense
+66	MOR - Instituto de Capacitación para el Trabajo del Estado de Morelos
+67	MOR - Instituto de Crédito para los Trabajadores al Servicio del Gobierno del Estado de Morelos
+68	MOR - Instituto de Desarrollo y Fortalecimiento Municipal del Estado de Morelos
+69	MOR - Instituto de la Defensoría Pública del Estado de Morelos
+70	MOR - Instituto de la Educación Básica del Estado de Morelos
+71	MOR - Instituto de la Mujer para el Estado de Morelos
+72	MOR - Instituto del Deporte y Cultura Física del Estado de Morelos
+73	MOR - Instituto de Servicios Registrales y Catastrales del Estado de Morelos
+74	MOR - Instituto Estatal de Educación para Adultos
+75	MOR - Instituto Estatal de Infraestructura Educativa de Morelos
+76	MOR - Instituto Morelense de Información Pública y Estadística
+77	MOR - Instituto Morelense de Procesos Electorales y Participación Ciudadana
+78	MOR - Instituto Morelense de Radio y Televisión
+79	MOR - Instituto Morelense para el Financiamiento del Sector Productivo "Fondo Morelos"
+80	MOR - La Consejería Jurídica
+81	MOR - La Jefatura de la Oficina de la Gubernatura del Estado
+82	MOR - La Secretaría de Administración
+83	MOR - La Secretaría de Bienestar (MODIFICACIÓN) [ANTES: SECRETARÍA DE DESARROLLO SOCIAL]
+84	MOR - La Secretaría de Cultura (MODIFICACIÓN) [ANTES: SECRETARÍA DE TURISMO Y CULTURA]
+85	MOR - La Secretaría de Desarrollo Agropecuario
+86	MOR - La Secretaría de Desarrollo Económico y del Trabajo
+87	MOR - La Secretaría de Desarrollo Sustentable
+88	MOR - La Secretaría de Educación
+89	MOR - La Secretaría de Gobierno
+90	MOR - La Secretaría de Hacienda
+91	MOR - La Secretaría de Infraestructura (MODIFICACIÓN) [ANTES: SECRETARÍA DE OBRAS PÚBLICAS]
+92	MOR - La Secretaría de la Contraloría
+93	MOR - La Secretaría de las Mujeres
+94	MOR - La Secretaría de Salud
+95	MOR - La Secretaría de Seguridad y Protección Ciudadana (MODIFICACIÓN) [ANTES: COMISIÓN ESTATAL DE SEGURIDAD PÚBLICA]
+96	MOR - La Secretaría de Turismo (MODIFICACIÓN) [ANTES: SECRETARÍA DE TURISMO Y CULTURA]
+97	MOR - Morena
+98	MOR - Movimiento Alternativa Social
+99	MOR - Movimiento Ciudadano Morelos
+100	MOR - Municipio de Coatetelco
+101	MOR - Municipio de Hueyapan
+102	MOR - Municipio de Xoxocotla
+103	MOR - Museo Morelense de Arte Popular
+104	MOR - Nueva Alianza
+105	MOR - Operador de Carreteras de Cuota de Morelos
+106	MOR - Partido Acción Nacional
+107	MOR - Partido de la Revolución Democrática (HISTÓRICO) (BAJA POR EL ACUERDO IMPEPAC/CEE/013/2022))
+108	MOR - Partido del Trabajo
+109	MOR - Partido Encuentro Solidario Morelos
+110	MOR - Partido Morelos Progresa
+111	MOR - Partido Revolucionario Institucional
+112	MOR - Partido Verde Ecologista de México
+113	MOR - Pruebas IMIPE 01
+114	MOR - Redes Sociales Progresistas
+115	MOR - Secretaría de Movilidad y Transporte (HISTORÍCO) (BAJA DE ACUERDO AL DECRETO NÚMERO SEIS POR EL QUE SE CREA EL ORGANISMO PÚBLICO DESC...
+116	MOR - Secretaría de Turismo y Cultura (DIVISIÓN A SECRETARÍAS INDEPENDIENTES DESDE EL 01/10/24)
+117	MOR - Secretaria Ejecutiva del Sistema Anticorrupción del Estado de Morelos
+118	MOR - Servicios de Salud de Morelos
+119	MOR - Sindicato "Tierra y Libertad" de Trabajadores al Servicio del H. Ayuntamiento y Organismos Descentralizados de Ayala, Morelos
+120	MOR - Sindicato Auténtico de los Trabajadores al Servicio del Municipio de Jiutepec, Morelos
+121	MOR - Sindicato Auténtico de Trabajadores al Servicio del H. Ayuntamiento de Cuernavaca, Morelos
+122	MOR - Sindicato Auténtico de Trabajadores Unidos del H. Ayuntamiento y Organismos Descentralizados del Municipio de Temixco
+123	MOR - Sindicato de Empleados Municipales al Servicio del H. Ayuntamiento de Cuautla Morelos (HISTÓRICO)(BAJA)
+124	MOR - Sindicato de Empleados y Trabajadores del Balneario Agua Hedionda
+125	MOR - Sindicato Democrático de Trabajadores y Empleados al Servicio del H. Ayuntamiento y Organismos Descentralizados de Jiutepec, Morelos
+126	MOR - Sindicato Democrático de Trabajadores y Empleados al Servicio del H. Ayuntamiento y Organismos Descentralizados del Municipio de Cuer...
+127	MOR - Sindicato de Servidores Públicos Municipales y Organismos Descentralizados del H. Ayuntamiento de Cuernavaca, Morelos
+128	MOR - Sindicato de Trabajadores Académicos de los CONALEP del Estado de Morelos (STACEM)
+129	MOR - Sindicato de Trabajadores Administrativos de la Universidad Autónoma del Estado de Morelos
+130	MOR - Sindicato de Trabajadores al Servicio del H. Ayuntamiento de Emiliano Zapata
+131	MOR - Sindicato de Trabajadores al Servicio del H. Ayuntamiento de Tepalcingo, Morelos (HISTÓRICO)(BAJA)
+132	MOR - Sindicato de Trabajadores al Servicio del H. Ayuntamiento de Yautepec, Morelos
+133	MOR - Sindicato de Trabajadores al Servicio del H. Ayuntamiento Municipal de Yecapixtla, Morelos
+134	MOR - Sindicato de Trabajadores al Servicio del H. Ayuntamiento y Organismos Descentralizados del Municipio de Jojutla de Juárez, Morelos
+135	MOR - Sindicato de Trabajadores al Servicio del H. Ayuntamiento y Organismos Descentralizados del Municipio de Temixco, Morelos
+136	MOR - Sindicato de Trabajadores al Servicio del Sistema de Agua Potable de Emiliano Zapata
+137	MOR - Sindicato de Trabajadores al Servicio del Sistema Operador de Agua Potable y Saneamiento de Cuautla, Morelos Florencio Rendon (HISTÓR...
+138	MOR - Sindicato de Trabajadores de Amacuzac, Morelos (HISTÓRICO)(BAJA)
+139	MOR - Sindicato de Trabajadores de los Centros de Abastecimiento, Mercados y Empleados del H. Ayuntamiento de Cuernavaca Morelos
+140	MOR - Sindicato de trabajadores del Sistema de Agua Potable de Cuernavaca Morelos (HISTÓRICO)(BAJA)
+141	MOR - Sindicato de Trabajadores del Sistema de Agua Potable de Jiutepec, Morelos
+142	MOR - Sindicato de Trabajadores del Sistema de Agua Potable y Saneamiento de Yautepec, Morelos "Solidaridad"
+143	MOR - Sindicato de Trabajadores de Organismos Descentralizados Estatal y Municipal del Estado de Morelos (STODEM)
+144	MOR - Sindicato de Trabajadores Municipales del H. Ayuntamiento de Cuautla, Morelos (HISTÓRICO)(BAJA)
+145	MOR - Sindicato de Trabajadores y Empleados al Servicio del Ayuntamiento de Cuernavaca, Morelos
+146	MOR - Sindicato Emiliano Zapata de Trabajadores al Servicio del H. Ayuntamiento de Ayala, Morelos
+147	MOR - Sindicato Independiente de Trabajadores Académico de la Universidad Autónoma del Estado de Morelos
+148	MOR - Sindicato Independiente de Trabajadores al Servicio del Sistema Operador de Agua Potable y Saneamiento de Cuautla Morelos (HISTÓRICO)...
+149	MOR - Sindicato Independiente de Trabajadores de Educación Media Superior a Distancia del Colegio de Bachilleres
+150	MOR - Sindicato Independiente de Trabajadores que Prestan sus Servicios al H. Ayuntamiento de Tlaltizapan, Morelos (HISTÓRICO)(BAJA)
+151	MOR - Sindicato Nueva Fuerza Sindical Unificada al Servicio del H. Ayuntamiento de Emiliano Zapata, Morelos
+152	MOR - Sindicato Único de Trabajadores al Servicio del H. Ayuntamiento de Jiutepec, Morelos y Organismos Públicos Municipales
+153	MOR - Sindicato Único de Trabajadores al Servicio del H. Ayuntamiento de Puente de Ixtla, Morelos (HISTÓRICO)(BAJA)
+154	MOR - Sindicato Único de Trabajadores al Servicio del H. Ayuntamiento de Tlaquiltenango, Morelos
+155	MOR - Sindicato Único de Trabajadores al Servicio del H. Ayuntamiento de Zacatepec, Morelos
+156	MOR - Sindicato Único de Trabajadores al Servicio del Poder Judicial del Estado de Morelos
+157	MOR - Sindicato Único de Trabajadores al Servicio del Poder Legislativo del Estado de Morelos
+158	MOR - Sindicato Único de Trabajadores del Colegio de Bachilleres del Estado de Morelos
+159	MOR - Sindicato Único de Trabajadores del Poder Ejecutivo, Entidades Paraestatales y Órganos Constitucionales Autónomos (Fiscalía General d...
+160	MOR - Sindicato Único Independiente de Trabajadores del Colegio de Estudios Científicos y Tecnológicos del Estado de Morelos
+161	MOR - Sindicato Unido de Trabajadores y Empleados al Servicio del Sistema de Agua Potable y Alcantarillado del Municipio de Cuernavaca (HIS...
+162	MOR - Sistema de Agua Potable del Municipio de Xochitepec
+163	MOR - Sistema de Agua Potable y Alcantarillado de Cuernavaca
+164	MOR - Sistema de Agua Potable y Saneamiento de Jojutla
+165	MOR - Sistema de Agua Potable y Saneamiento de Yautepec
+166	MOR - Sistema de Conservación, Agua Potable y Saneamiento de Agua de Temixco, Morelos
+167	MOR - Sistema de Conservación, Agua Potable y Saneamiento de Puente de Ixtla
+168	MOR - Sistema de Conservación, Agua Potable y Saneamiento de Zacatepec
+169	MOR - Sistema de Conservación Agua Potable y Saneamiento de Emiliano Zapata
+170	MOR - Sistema de Conservación de Agua Potable y Saneamiento de Agua de Jiutepec, Morelos
+171	MOR - Sistema Municipal para el Desarrollo de la Familia de Ayala
+172	MOR - Sistema Municipal para el Desarrollo de la Familia de Mazatepec
+173	MOR - Sistema Municipal para el Desarrollo Integral de la Familia de Atlatlahucan
+174	MOR - Sistema Municipal para el Desarrollo Integral de la Familia de Coatlán del Río
+175	MOR - Sistema Municipal para el Desarrollo Integral de la Familia de Cuernavaca
+176	MOR - Sistema Municipal para el Desarrollo Integral de la Familia de Emiliano Zapata
+177	MOR - Sistema Municipal para el Desarrollo Integral de la Familia de Jiutepec, Morelos
+178	MOR - Sistema Municipal para el Desarrollo Integral de la Familia de Temixco
+179	MOR - Sistema Municipal para el Desarrollo Integral de la Familia de Tetecala
+180	MOR - Sistema Municipal para el Desarrollo Integral de la Familia de Xochitepec
+181	MOR - Sistema Municipal para el Desarrollo Integral de la Familia de Zacatepec de Hidalgo, Morelos
+182	MOR - Sistema Operador de Agua Potable y Saneamiento del Municipio de Ayala, Morelos
+183	MOR - Sistema Operador de Agua Potable y Saneamiento del Municipio de Cuautla, Morelos
+184	MOR - Sistema para el Desarrollo Integral de la Familia de Jojutla
+185	MOR - Sistema para el Desarrollo Integral de la Familia del Estado de Morelos (DIF Morelos)
+186	MOR - Tribunal de Justicia Administrativa del Estado de Morelos
+187	MOR - Tribunal Electoral del Estado de Morelos
+188	MOR - Tribunal Superior de Justicia
+189	MOR - Tribunal Unitario de Justicia para Adolescentes del Estado de Morelos
+190	MOR - Universidad Autónoma del Estado de Morelos
+191	MOR - Universidad Politécnica del Estado de Morelos
+192	MOR - Universidad Tecnológica "Emiliano Zapata" del Estado de Morelos
+193	MOR - Universidad Tecnológica del Sur del Estado de Morelos

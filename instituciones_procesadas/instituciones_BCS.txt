@@ -1,0 +1,124 @@
+1	BCS - Academia Estatal de Seguridad Pública
+2	BCS - Administración de la Beneficencia Pública
+3	BCS - Administración Portuaria Integral de Baja California Sur, S.A. de C.V.
+4	BCS - Auditoria Superior del Estado de Baja California Sur
+5	BCS - Benemérita Escuela Normal Urbana Profr. Domingo Carballo Félix
+6	BCS - Centro de Conciliación Laboral del Estado de Baja California Sur
+7	BCS - Centro de Rehabilitación e Inclusión Infantil Teletón Baja California Sur
+8	BCS - Centro Estatal de Control y Confianza
+9	BCS - Centro Estatal de Prevención del Delito con Participación Ciudadana
+10	BCS - Colegio de Bachilleres de Baja California Sur
+11	BCS - Colegio de Estudios Científicos y Tecnológicos del Estado de Baja California Sur (CECYTEBCS)
+12	BCS - Colegio Nacional de Educación Profesional Técnica
+13	BCS - Comisión de Mediación, Conciliación y Arbitraje Médico para el Estado de Baja California Sur
+14	BCS - Comisión Estatal de Derechos Humanos de Baja California Sur
+15	BCS - Comisión Estatal del Agua
+16	BCS - Comisión Estatal para la Protección Contra Riesgos Sanitarios (COEPRIS-BCS)
+17	BCS - Consejo Sudcaliforniano de Ciencia y Tecnología
+18	BCS - Contraloria General del Estado
+19	BCS - Dirección de Ejecución y Seguimiento de Medidas para Adolescentes
+20	BCS - Dirección de Servicios Previos a Juicio y Supervisión de Libertad Condicionada
+21	BCS - Dirección General del Instituto de la Mujer La Paz
+22	BCS - Dirección General del Instituto Municipal de Cultura La Paz
+23	BCS - Dirección General del Instituto Municipal de la Juventud La Paz
+24	BCS - Dirección General del Instituto Municipal del Deporte La Paz
+25	BCS - Dirección General del Instituto Municipal de Planeación La Paz
+26	BCS - Dirección General del Organismo Descentralizado Denominado Jardines del Recuerdo
+27	BCS - Escuela Normal Superior de Estado de B.C.S "Prof. Enrique Estrada Lucero"
+28	BCS - Escuela Preparatoria “José Maria Morelos y Pavón”
+29	BCS - Fideicomiso 228 para la Implementación del Nuevo Sistema de Justicia Penal en el Estado
+30	BCS - Fideicomiso de Administración, inversión y fuente de pago para Obras de Infraestructura Social del Municipio de Comondú(FOIS COMONDÚ)
+31	BCS - Fideicomiso de Fomento Agropecuario (FOFAE)
+32	BCS - Fideicomiso de Infraestructura Social del Municipio de Mulegé (FOIS MULEGÉ)
+33	BCS - Fideicomiso de Obras de Infraestructura Social de La Paz (FOIS LA PAZ)
+34	BCS - Fideicomiso de Obras de Infraestructura Social del Municipio de Loreto (FOIS LORETO)
+35	BCS - Fideicomiso de Obras de Infraestructura Social de Los Cabos (FOIS LOS CABOS)
+36	BCS - Fideicomiso de Turismo de Comondú-Mulege (FITUCOMUL)
+37	BCS - Fideicomiso de Turismo de Loreto (FITULORETO)
+38	BCS - Fideicomiso de Turismo de Los Cabos (FITURCA)
+39	BCS - Fideicomiso de Turismo Estatal (FITUES)
+40	BCS - Fideicomiso de Turismo La Paz (FITUPAZ)
+41	BCS - Fondo Auxiliar para la Procuración de Justicia
+42	BCS - Fondo para la Protección de los Recursos Marinos (FONMAR)
+43	BCS - Fondo Social para el Desarrollo de Baja California Sur
+44	BCS - H. Ayuntamiento de Comondú
+45	BCS - H. Ayuntamiento de La Paz
+46	BCS - H. Ayuntamiento de Loreto
+47	BCS - H. Ayuntamiento de Los Cabos
+48	BCS - H. Ayuntamiento de Mulegé
+49	BCS - H. Congreso del Estado de Baja California Sur
+50	BCS - H. Tribunal Superior de Justicia del Estado de Baja California Sur
+51	BCS - Instituto de Capacitación para los Trabajadores del Estado de BCS (ICATEBCS)
+52	BCS - Instituto de la Juventud del Municipio de Los Cabos, BCS.
+53	BCS - Instituto de las Mujeres del Municipio de Los Cabos
+54	BCS - Instituto del Deporte del Municipio de Los Cabos
+55	BCS - Instituto de Salud Municipal de Los Cabos
+56	BCS - Instituto de Servicios de Salud
+57	BCS - Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California Sur
+58	BCS - Instituto de Vivienda de Baja California Sur
+59	BCS - Instituto Estatal de Educación para los Adultos
+60	BCS - Instituto Estatal de Radio y Televisión
+61	BCS - Instituto Estatal Electoral de Baja California Sur
+62	BCS - Instituto Interdisciplinario de Ciencias Penales
+63	BCS - Instituto Municipal de Planeacion de Los Cabos
+64	BCS - Instituto Municipal para el Desarrollo e Inclusión de Personas con Discapacidad de los Cabos
+65	BCS - Instituto Sudcaliforniano de Cultura
+66	BCS - Instituto Sudcaliforniano de la Infraestructura Física Educativa
+67	BCS - Instituto Sudcaliforniano de la Juventud
+68	BCS - Instituto Sudcaliforniano de las Mujeres
+69	BCS - Instituto Sudcaliforniano del Deporte
+70	BCS - Instituto Sudcaliforniano para la Inclusión de las Personas con Discapacidad
+71	BCS - Instituto Tecnológico de La Paz
+72	BCS - Instituto Tecnológico Superior de Ciudad Constitución
+73	BCS - Instituto Tecnológico Superior de los Cabos
+74	BCS - Instituto Tecnológico Superior de Mulegé
+75	BCS - Jefatura de la Oficina del Ejecutivo
+76	BCS - Junta Estatal de Caminos
+77	BCS - Junta Local de Conciliación y Arbitraje
+78	BCS - Organismo Operador del Sistema de Agua Potable, Alcantarillado y Saneamiento Para El Municipio de Comondu
+79	BCS - Organismo Operador Municipal del Sistema de Agua Potable, Alcantarillado y Saneamiento de la Paz
+80	BCS - Organismo Operador Municipal del Sistema de Agua Potable, Alcantarillado y Saneamiento de Loreto
+81	BCS - Organismo Operador Municipal del Sistema de Agua Potable, Alcantarillado y Saneamiento de Los Cabos
+82	BCS - Organismo Operador Municipal del Sistema de Agua Potable, Alcantarillado y Saneamiento de Mulegé
+83	BCS - Partido Acción Nacional
+84	BCS - Partido BCS Coherente
+85	BCS - Partido de la Revolución Democrática
+86	BCS - Partido del Trabajo
+87	BCS - Partido de Renovación Sudcaliforniana
+88	BCS - Partido Encuentro Solidario
+89	BCS - Partido Fuerza por México
+90	BCS - Partido Humanista de BCS
+91	BCS - Partido Movimiento Ciudadano
+92	BCS - Partido Movimiento de Regeneración Nacional
+93	BCS - Partido Nueva Alianza
+94	BCS - Partido Revolucionario Institucional
+95	BCS - Partido Verde Ecologista de México
+96	BCS - Patronato del Estudiante Sudcaliforniano
+97	BCS - Policía Estatal Preventiva
+98	BCS - Procuraduría de la Defensa Del Trabajo
+99	BCS - Procuraduría General de Justicia
+100	BCS - Secretaria de Educación Pública
+101	BCS - Secretaria de Finanzas y Administración
+102	BCS - Secretaría del Trabajo, Bienestar y Desarrollo Social
+103	BCS - Secretaria de Pesca, Acuacultura y Desarrollo Agropecuario
+104	BCS - Secretaria de Salud
+105	BCS - Secretaria de Seguridad Pública
+106	BCS - Secretaría de Turismo y Economía
+107	BCS - Secretaria Ejecutiva de la Comisión de Consolidación, Evaluación y Seguimiento del Sistema de Justicia Penal
+108	BCS - Secretaria Ejecutiva del Sistema Estatal Anticorrupción del Estado De Baja California Sur
+109	BCS - Secretaria General de Gobierno
+110	BCS - Secretaria Planeación Urbana, Infraestructura, Movilidad, Medio Ambiente y Recursos Naturales
+111	BCS - Sindicato del Personal Académico de la Universidad Autónoma De Baja California Sur
+112	BCS - Sindicato Nacional de Trabajadores de la Educación (SNTE)
+113	BCS - Sindicato Única de Personal Docente y Administrativo del Instituto Tecnológico de Estudios Superiores de los Cabos (SUPDAITES)
+114	BCS - Sindicato Único de Trabajadores Administrativos de la Universidad Autónoma de BCS
+115	BCS - Sindicato Único de Trabajadores al Servicio de los Poderes del Estado, Municipios E Instituciones Descentralizadas de Baja California...
+116	BCS - Sindicato Único de Trabajadores del Colegio de Bachilleres
+117	BCS - Sindicato Único de Trabajadores del Colegio de Estudios Científicos y Tecnológicos del Estado de Baja California Sur
+118	BCS - Sistema Estatal para el Desarrollo Integral de la Familia (SEDIF)
+119	BCS - Sistema para el Desarrollo Integral de la Familia del Municipio de La Paz, Baja California Sur
+120	BCS - Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio de los Poderes Del Estado y Municipios
+121	BCS - Tribunal de Justicia Administrativa del Estado de Baja California Sur
+122	BCS - Tribunal Estatal Electoral de Baja California Sur
+123	BCS - Universidad Autónoma de Baja California Sur
+124	BCS - Universidad Tecnológica de La Paz

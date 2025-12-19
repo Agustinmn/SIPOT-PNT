@@ -1,0 +1,690 @@
+1	FED - Administración del SIstema Portuario Nacional Acapulco, S.A de C.V.
+2	FED - Administración del Sistema Portuario Nacional Altamira, S.A. de C.V. (ASIPONA ALTAMIRA)
+3	FED - Administración del Sistema Portuario Nacional Cabo San Lucas, S.A de C.V
+4	FED - Administración del Sistema Portuario Nacional Coatzacoalcos, S.A. de C.V. (ASIPONA COATZACOALCOS)
+5	FED - Administración del Sistema Portuario Nacional Dos Bocas, S.A. de C.V. (ASIPONA DOS BOCAS)
+6	FED - Administración del Sistema Portuario Nacional Ensenada, S.A. de C.V. (ASIPONA ENSENADA)
+7	FED - Administración del Sistema Portuario Nacional Guaymas, S.A. de C.V. (ASIPONA GUAYMAS)
+8	FED - Administración del Sistema Portuario Nacional Lázaro Cárdenas, S.A. de C.V. (ASIPONA LÁZARO CÁRDENAS
+9	FED - Administración del Sistema Portuario Nacional Manzanillo, S.A. de C.V. (ASIPONA MANZANILLO)
+10	FED - Administración del Sistema Portuario Nacional Mazatlán, S.A. de C.V. (ASIPONA MAZATLÁN)
+11	FED - Administración del Sistema Portuario Nacional Progreso, S.A. de C.V. (ASIPONA PROGRESO)
+12	FED - Administración del Sistema Portuario Nacional Puerto Chiapas, S.A. de C.V. (ASIPONA CHIAPAS)
+13	FED - Administración del Sistema Portuario Nacional Puerto Vallarta, S.A. de C.V. (ASIPONA VALLARTA)
+14	FED - Administración del Sistema Portuario Nacional Salina Cruz, S.A. de C.V. (ASIPONA SALINA CRUZ)
+15	FED - Administración del Sistema Portuario Nacional Tampico, S.A. de C.V. (ASIPONA TAMPICO)
+16	FED - Administración del Sistema Portuario Nacional Topolobampo, S.A. de C.V. (ASIPONA TOPOLOBAMPO)
+17	FED - Administración del Sistema Portuario Nacional Tuxpan, S.A. de C.V. (ASIPONA TUXPAN)
+18	FED - Administración del Sistema Portuario Nacional Veracruz, S.A. de C.V. (ASIPONA VERACRUZ)
+19	FED - Aeropuerto Internacional de la Ciudad de México, S.A. de C.V. (AICM)
+20	FED - Aeropuerto Internacional Felipe Ángeles, S.A. de C.V. (AIFA)
+21	FED - Aeropuertos y Servicios Auxiliares (ASA)
+22	FED - Agencia de Transformación Digital y Telecomunicaciones (ATDT)
+23	FED - Agencia Espacial Mexicana (AEM)
+24	FED - Agencia Nacional de Aduanas de México (ANAM)
+25	FED - Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos (ASEA)
+26	FED - Agroasemex, S.A. (AGROASEMEX)
+27	FED - Alianza de Tranviarios de México
+28	FED - Alimentación para el Bienestar, S.A. de C.V.
+29	FED - AMEXCID - Fondo México
+30	FED - ANAM-Fideicomiso para administrar la contraprestación del artículo 16 de la Ley Aduanera (FACLA)
+31	FED - Archivo General de la Nación (AGN)
+32	FED - ASEA-Fideicomiso Público de Administración y Pago
+33	FED - Asociación Autónoma del Personal Académico de la Universidad Nacional Autónoma de México (AAPAUNAM)
+34	FED - Asociación Sindical de Oficiales de Máquinas de la Marina Mercante Nacional (ASOMMMN)
+35	FED - Asociación Sindical de Trabajadores del Instituto de Vivienda del Distrito Federal
+36	FED - Asociación Sindical de Trabajadores del Metro
+37	FED - ATDT-Fideicomiso E-México
+38	FED - Auditoría Superior de la Federación (ASF)
+39	FED - Autoridad Educativa Federal en la Ciudad de México (AEFCM)
+40	FED - BABIEN-Fideicomiso de administración para el otorgamiento y primas de antigüedad
+41	FED - BABIEN-Fideicomiso irrevocable de inversión y administración para el pago de pensiones y jubilaciones (F/10045)
+42	FED - BABIEN-Fondo de protección de sociedades financieras populares y de protección a sus ahorradores (F/10216)
+43	FED - BABIEN-Fondo de supervisión auxiliar de sociedades cooperativas de ahorro y Préstamo y de Protección a sus Ahorradores (F/10217) (FOC...
+44	FED - Banco del Bienestar (BABIEN)
+45	FED - Banco de México (BANXICO)
+46	FED - BANCOMEXT-Fideicomiso de apoyo a las exportaciones (FIDAPEX)
+47	FED - BANCOMEXT-Fideicomiso para el impulso al financiamiento de las empresas
+48	FED - BANCOMEXT - Fideicomiso para el pago de gastos de servicios de asistencia y defensa legal BANCOMEXT
+49	FED - BANCOMEXT-Fideicomiso PEA y préstamos jubilados
+50	FED - BANCOMEXT-Fondo de pensiones BANCOMEXT
+51	FED - BANCOMEXT-Fondo de pensiones de contribución definida de BANCOMEXT
+52	FED - Banco Nacional de Comercio Exterior, S.N.C. (BANCOMEXT)
+53	FED - Banco Nacional del Ejército, Fuerza Aérea y Armada, S.N.C. (BANJERCITO)
+54	FED - Banco Nacional de Obras y Servicios Públicos, S.N.C. (BANOBRAS)
+55	FED - BANJERCITO-Fideicomiso irrevocable de administración e inversión del fondo de pensiones o jubilaciones o primas de antigüedad de los ...
+56	FED - BANOBRAS-Fideicomiso 1936 Fondo Nacional de Infraestructura (FONADIN)
+57	FED - BANOBRAS-Fideicomiso 2065 Plan de pensiones de los jubilados de BANOBRAS
+58	FED - BANOBRAS-Fideicomiso 2160 Fondo de pensiones de contribución definida
+59	FED - BANOBRAS-Fideicomiso 285.-Promotora de desarrollo urbano.- Fraccionamiento Bosques del Valle Coacalco
+60	FED - BANOBRAS-Fideicomiso 351.- Unidad Morazán
+61	FED - BANOBRAS-M. 133.- Fraccionamiento Agua Hedionda
+62	FED - BANXICO-Fondo de Pensiones para el Bienestar
+63	FED - BANXICO-Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo (FMP)
+64	FED - BIENESTAR-Fideicomiso para el Bienestar
+65	FED - Cámara de Diputados (CD)
+66	FED - Caminos y Puentes Federales de Ingresos y Servicios Conexos (CAPUFE)
+67	FED - CAPUFE-F/11025590 (Antes 4483-0) "Durango-Yerbanis"
+68	FED - CAPUFE-F/1516 ATM (Antes 639-00-5) Tijuana-Tecate
+69	FED - CAPUFE-F/21935-2 "Kantunil-Cancún"
+70	FED - CAPUFE-F/31293-4 Libramiento Oriente de San Luis Potosí
+71	FED - CAPUFE-F/689 San Martín Texmelucan-Tlaxcala-El Molinito
+72	FED - CAPUFE-Fideicomiso 11029386 (antes SM940243) Gómez Palacio-Cuencamé-Yerbanis
+73	FED - Casa de Moneda de México (CMM)
+74	FED - CEAV-Fondo de ayuda, asistencia y reparación integral
+75	FED - CENACE - Fondo de Capital de Trabajo del Mercado Eléctrico Mayorista
+76	FED - CENAGAS - Fideicomiso de Administración y Pago CENAGAS-BANCOMEXT número 10637
+77	FED - Centro de Capacitación Cinematográfica, A.C. (CCC)
+78	FED - Centro de Enseñanza Técnica Industrial (CETI)
+79	FED - Centro de Ingeniería y Desarrollo Industrial (CIDESI)
+80	FED - Centro de Investigación Científica de Yucatán, A.C. (CICY)
+81	FED - Centro de Investigación Científica y de Educación Superior de Ensenada, Baja California (CICESE)
+82	FED - Centro de Investigación en Alimentación y Desarrollo, A.C. (CIAD)
+83	FED - Centro de Investigación en Ciencias de Información Geoespacial (CENTROGEO)
+84	FED - Centro de Investigación en Matemáticas, A.C. (CIMAT)
+85	FED - Centro de Investigación en Materiales Avanzados, S.C. (CIMAV)
+86	FED - Centro de Investigación en Química Aplicada (CIQA)
+87	FED - Centro de Investigaciones Biológicas del Noroeste, S.C. (CIBNOR)
+88	FED - Centro de Investigaciones en Óptica, A.C. (CIO)
+89	FED - Centro de Investigaciones y Estudios Superiores en Antropología Social (CIESAS)
+90	FED - Centro de Investigación y Asistencia en Tecnología y Diseño del Estado de Jalisco, A.C. (CIATEJ)
+91	FED - Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional (CINVESTAV)
+92	FED - Centro de Investigación y Desarrollo Tecnológico en Electroquímica, S.C. (CIDETEQ)
+93	FED - Centro de Investigación y Docencia Económicas, A.C. (CIDE)
+94	FED - Centro Federal de Conciliación y Registro Laboral (CFCRL)
+95	FED - Centro Nacional de Control de Energía (CENACE)
+96	FED - Centro Nacional de Control del Gas Natural (CENAGAS)
+97	FED - Centro Nacional de Inteligencia
+98	FED - Centro Nacional de Metrología (CENAM)
+99	FED - Centro Nacional de Prevención de Desastres (CENAPRED)
+100	FED - Centro Regional de Alta Especialidad de Chiapas (CRAE)
+101	FED - Centros de Integración Juvenil, A.C. (CIJ)
+102	FED - CFE-Fideicomiso de administración de gastos previos
+103	FED - CFE-Fideicomiso de administración y traslativo de dominio (Obras de Infraestructura para el Sistema Eléctrico Federal)
+104	FED - CFE-Fideicomiso para el ahorro de energía eléctrica (FIDE)
+105	FED - CFE-Fideicomiso para la constitución de un fondo revolvente de financiamiento para el programa de aislamiento térmico de la vivienda ...
+106	FED - CIATEC, A.C. "Centro de Innovación Aplicada en Tecnologías Competitivas" (CIATEC)
+107	FED - CIATEC-Fideicomiso para pasivos laborales y primas de antigüedad para el personal del CIATEC
+108	FED - CIATEQ, A.C. Centro de Tecnología Avanzada (CIATEQ)
+109	FED - CIATEQ-Fondo de retiro voluntario y liquidaciones del personal de CIATEQ, A.C.
+110	FED - CIDE-Fideicomiso 1725-1-Para integrar diversos fondos (Patrimonial)
+111	FED - CIIT-Fideicomiso para el Desarrollo del Istmo de Tehuantepec
+112	FED - CIMAT-Fideicomiso de obligaciones laborales del CIMAT
+113	FED - CIO-Fideicomiso para el pago de las obligaciones laborales de los trabajadores del Centro de Investigaciones en Óptica, A.C.
+114	FED - CIQA-Fideicomiso para pago de primas de antigüedad y jubilación CIQA
+115	FED - CJF-Fideicomiso de apoyos médicos complementarios y de apoyo económico extraordinario para los servidores públicos del Poder Judicial...
+116	FED - CNBV-Fideicomiso fondo de apoyo a los trabajadores de confianza de la Comisión Nacional Bancaria y de Valores
+117	FED - CNBV-Fideicomiso para el pago de gratificación por antigüedad a los trabajadores de base de la CNBV que se retiren después de 15 años...
+118	FED - CNBV-Fondo para la asistencia y defensa legal de los miembros de la Junta de Gobierno de la Comisión Nacional Bancaria y de Valores q...
+119	FED - CNE - Fideicomiso de la Comisión Nacional de Energía
+120	FED - COFECE-Fondo de Administración de la Infraestructura y Equipamiento de la Comisión Federal de Competencia Económica
+121	FED - COFECE-Fondo para solventar las contingencias derivadas de juicios laborales de la Comisión Federal de Competencia Económica
+122	FED - Colegio de Bachilleres (COLBACH)
+123	FED - Colegio de Postgraduados (COLPOS)
+124	FED - Colegio Nacional de Educación Profesional Técnica (CONALEP)
+125	FED - Colegio Superior Agropecuario del Estado de Guerrero (CSAEGRO)
+126	FED - COLPOS-Fideicomiso de apoyo a la investigación científica y desarrollo tecnológico del Colegio de Postgraduados
+127	FED - Comisión de Operación y Fomento de Actividades Académicas del Instituto Politécnico Nacional (COFAA)
+128	FED - Comisión de Selección del Comité de Participación Ciudadana del Sistema Nacional Anticorrupción
+129	FED - Comisión Ejecutiva de Atención a Víctimas (CEAV)
+130	FED - Comisión Federal de Competencia Económica (COFECE)
+131	FED - Comisión Federal de Electricidad (CFE)
+132	FED - Comisión Federal para la Protección contra Riesgos Sanitarios (COFEPRIS)
+133	FED - Comisión Nacional Bancaria y de Valores (CNBV)
+134	FED - Comisión Nacional de Acuacultura y Pesca (CONAPESCA)
+135	FED - Comisión Nacional de Arbitraje Médico (CONAMED)
+136	FED - Comisión Nacional de Áreas Naturales Protegidas (CONANP)
+137	FED - Comisión Nacional de Cultura Física y Deporte (CONADE)
+138	FED - Comisión Nacional de Energía
+139	FED - Comisión Nacional del Agua (CONAGUA)
+140	FED - Comisión Nacional de las Zonas Áridas (CONAZA)
+141	FED - Comisión Nacional de Libros de Texto Gratuitos (CONALITEG)
+142	FED - Comisión Nacional de los Derechos Humanos (CNDH)
+143	FED - Comisión Nacional de los Salarios Mínimos (CONASAMI)
+144	FED - Comisión Nacional del Sistema de Ahorro para el Retiro (CONSAR)
+145	FED - Comisión Nacional de Mejora Regulatoria
+146	FED - Comisión Nacional de Salud Mental y Adicciones
+147	FED - Comisión Nacional de Seguridad Nuclear y Salvaguardias (CNSNS)
+148	FED - Comisión Nacional de Seguros y Fianzas (CNSF)
+149	FED - Comisión Nacional de Vivienda (CONAVI)
+150	FED - Comisión Nacional Forestal (CONAFOR)
+151	FED - Comisión Nacional para el Uso Eficiente de la Energía (CONUEE)
+152	FED - Comisión Nacional para la Mejora Continua de la Educación (MEJOREDU)
+153	FED - Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros (CONDUSEF)
+154	FED - Comité de Participación Ciudadana del Sistema Nacional de Anticorrupción CPC-SNA
+155	FED - Comité Nacional para el Desarrollo Sustentable de la Caña de Azúcar (CONADESUCA)
+156	FED - Compañía Mexicana de Exploraciones, S.A. de C.V. (COMESA)
+157	FED - Compañía Operadora del Centro Cultural y Turístico de Tijuana, S.A. de C.V. (CECUT)
+158	FED - CONAGUA-Fideicomiso irrevocable de administración y fuente de pago, No. 1928.- para apoyar el proyecto de saneamiento del Valle de Mé...
+159	FED - CONANP-Fideicomiso de administración, inversión y pago número 013 ANP Valle de Bravo
+160	FED - Consejería Jurídica del Ejecutivo Federal (CJEF)
+161	FED - Consejo de la Judicatura Federal (CJF)
+162	FED - Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL)
+163	FED - Consejo Nacional de Fomento Educativo (CONAFE)
+164	FED - Consejo Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad (CONADIS)
+165	FED - Consejo Nacional para Prevenir la Discriminación (CONAPRED)
+166	FED - Coordinación General de la Comisión Mexicana de Ayuda a Refugiados (COMAR)
+167	FED - Coordinación Nacional de Becas para el Bienestar Benito Juárez
+168	FED - CORETT-Fondo de ahorro para los trabajadores de CORETT
+169	FED - Corredor Interoceánico del Istmo de Tehuantepec
+170	FED - CRE-Fideicomiso de la Comisión Reguladora de Energía
+171	FED - CULTURA-Fideicomiso Museo de Arte Popular Mexicano (MAP)
+172	FED - CULTURA-Fideicomiso para apoyar la construcción del Centro Nacional de las Artes
+173	FED - CULTURA-Fideicomiso para la adaptación de los museos Diego Rivera y Frida Kahlo
+174	FED - CULTURA-Fideicomiso para la conservación de la Casa del Risco y Pinacoteca Isidro Fabela
+175	FED - CULTURA-Instituto Nacional del Derecho de Autor (INDAUTOR*)
+176	FED - CULTURA-Mandato Antiguo Colegio de San Idelfonso
+177	FED - CULTURA-Mandato del fondo nacional para la cultura y las artes (FONCA)
+178	FED - CULTURA-Radio Educación (RE*)
+179	FED - DEFENSA-Aerolínea del Estado Mexicano, S.A. de C.V.
+180	FED - DEFENSA-Fideicomiso a favor de los hijos del personal adscrito al Estado Mayor Presidencial
+181	FED - DEFENSA-Fideicomiso de Administración y Pago 108697
+182	FED - DEFENSA-Fideicomiso de apoyo a deudos de militares fallecidos o a militares que hayan adquirido una inutilidad en primera categoría e...
+183	FED - DEFENSA-Fideicomiso público de administración y pago de equipo militar
+184	FED - DEFENSA-Fideicomiso Público de Administración y Pago para la Contratación de Servicios y Obra Pública
+185	FED - DIF-Fideicomiso DIF-Bosques de las Lomas
+186	FED - Educal, S.A. de C.V. (EDUCAL)
+187	FED - EDUCAL-Fondo para los trabajadores por prima de antigüedad de EDUCAL
+188	FED - El Colegio de la Frontera Norte, A.C. (COLEF)
+189	FED - El Colegio de la Frontera Sur (ECOSUR)
+190	FED - El Colegio de México, A.C. (COLMEX)
+191	FED - El Colegio de Michoacán, A.C. (COLMICH)
+192	FED - El Colegio de San Luis, A.C. (COLSAN)
+193	FED - ESSA-Fideicomiso plan de pensiones y jubilaciones ESSA
+194	FED - Estudios Churubusco Azteca, S.A.
+195	FED - Exportadora de Sal, S.A. de C.V. (ESSA)
+196	FED-FB-Fideicomiso de la Financiera para el Bienestar
+197	FED - FCE-Fideicomiso de administración e Inversión para el manejo del fondo de ahorro de los trabajadores del Fondo de Cultura Económica
+198	FED - Ferrocarril del Istmo de Tehuantepec, S.A. de C.V.
+199	FED - FGR-Fondo de auxilio económico a familiares de las víctimas de homicidio de mujeres en el Municipio de Juárez, Chihuahua
+200	FED - FGR-Fondo para el Mejoramiento de la Procuración de Justicia
+201	FED - Fideicomiso de Fomento Minero (FIFOMI)
+202	FED - Fideicomiso de la Comisión Nacional de Hidrocarburos
+203	FED - Fideicomiso de los Sistemas Normalizado de Competencia Laboral y de Certificación de Competencia Laboral
+204	FED - Fideicomiso de Riesgo Compartido (FIRCO)
+205	FED - Fideicomiso Fondo Nacional de Fomento Ejidal (FIFONAFE)
+206	FED - Fideicomiso para la Cineteca Nacional
+207	FED - Fideicomiso Universidad Marítima y Portuaria de México (FUMPM)
+208	FED - FIFOMI-Plan de pensiones de contribución definida para el personal de mando del FIFOMI
+209	FED - FIFOMI-Plan de pensiones personal operativo
+210	FED - FIFOMI-Prima de antigüedad
+211	FED - FIFONAFE-Fideicomiso traslativo de dominio Puerto los Cabos
+212	FED - Financiera para el Bienestar (FB) (Antes TELECOM)
+213	FED - Fiscalía General de la República
+214	FED - FOCIR-Fondo de inversión de capital en Agronegocios (FICA Sureste 2)
+215	FED - FOCIR-Fondo de inversión de capital en Agronegocios 3 (FICA 3)
+216	FED - FOCIR-Fondo de Inversión de Capital en Agronegocios 4 (FICA 4)
+217	FED - FOCIR-Fondo de inversión de capital en Agronegocios Activa (FICA Activa)
+218	FED - FOCIR-Fondo de Inversión de Capital en Agronegocios Infraestructura
+219	FED - FONATUR Constructora, S.A. de C.V.
+220	FED - FONATUR-Fideicomiso Barrancas del Cobre
+221	FED - FONATUR-Fideicomiso de reserva para el pago de pensiones o jubilaciones y primas de antigüedad
+222	FED - FONATUR-Fideicomiso para los trabajadores del Hotel Exconvento Santa Catarina
+223	FED - FONATUR Infraestructura, S.A. de C.V.
+224	FED - FONATUR Solar, S.A. de C.V.
+225	FED - FONATUR Tren Maya, S.A. de C.V.
+226	FED - Fondo de Capitalización e Inversión del Sector Rural (FOCIR)
+227	FED - Fondo de Cultura Económica (FCE)
+228	FED - Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura (FONDO)
+229	FED - FONDO-Fideicomiso de pensiones, del Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura
+230	FED - FONDO-Fondo de Garantía y Fomento para las Actividades Pesqueras (FOPESCA)
+231	FED - FONDO-Fondo Especial de Asistencia Técnica y Garantía para Créditos Agropecuarios
+232	FED - FONDO-Fondo Especial para Financiamientos Agropecuarios
+233	FED - Fondo Nacional de Fomento al Turismo (FONATUR)
+234	FED - Fondo Nacional para el Fomento de las Artesanías (FONART)
+235	FED - Fondo para el Desarrollo de Recursos Humanos (FIDERH)
+236	FED - Grupo Aeroportuario, Ferroviario, de Servicios Auxiliares y Conexos Olmeca-Maya-Mexica, S.A. de C.V.
+237	FED - Grupo Aeroportuario de la Ciudad de México, S.A. de C.V. (GACM)
+238	FED - Grupo Aeroportuario Turístico Mexicano, S.A. de C.V.
+239	FED - Hospital General "Dr. Manuel Gea González" (HOSPITAL GEA)
+240	FED - Hospital General de México "Dr. Eduardo Liceaga" (HGM)
+241	FED - Hospital Infantil de México Federico Gómez (HIMFG)
+242	FED - Hospital Juárez de México (HJM)
+243	FED - Hospital Regional de Alta Especialidad de Ciudad Victoria "Bicentenario 2010" (HRAEV)
+244	FED - Hospital Regional de Alta Especialidad de Ixtapaluca (HRAEI)
+245	FED - Hospital Regional de Alta Especialidad de la Península de Yucatán (HRAEPY)
+246	FED - Hospital Regional de Alta Especialidad del Bajío (HRAEB)
+247	FED - Hospital Regional de Alta Especialidad de Oaxaca (HRAEO)
+248	FED - IMCINE-Fideicomiso fondo de inversión y estímulos al cine (FIDECINE)
+249	FED - IMCINE-Fideicomiso fondo para la producción cinematográfica de calidad (FOPROCINE)
+250	FED - IMP-Fideicomiso Fondo de ahorro
+251	FED - IMP-Fideicomiso para apoyo a la investigación científica y desarrollo tecnológico
+252	FED - IMP-Fideicomiso para el plan de pensiones para el personal activo del IMP
+253	FED - IMP-Fideicomiso para pensionados del IMP
+254	FED - Impresora y Encuadernadora Progreso, S.A. de C.V. (IEPSA)
+255	FED - IMSS- BIENESTAR-Fondo de Salud para el Bienestar
+256	FED - IMSS-Fideicomiso de administración de teatros y salas de espectáculos IMSS
+257	FED - IMSS-Fideicomiso de beneficios sociales (FIBESO)
+258	FED - IMSS-Fideicomiso para el desarrollo del deporte No. 4611-1 (FIDEIMSS)
+259	FED - IMSS-Fondo de fomento a la educación (FOFOE)
+260	FED - IMSS-Fondo para ayudas extraordinarias con motivo del incendio de la Guardería ABC
+261	FED - INAH-Fideicomiso para el fomento y la conservación del Patrimonio Cultural, Antropológico, Arqueológico e Histórico de México
+262	FED - INAPESCA-Fideicomiso de investigación para el desarrollo del programa de aprovechamiento del atún y protección de delfines y otros en...
+263	FED - INDEP-Almacenadora Sur, S.A. (ALSUR)
+264	FED - INDEP-Extinta Luz y Fuerza del Centro (LYF)
+265	FED - INDEP-Ferrocarriles Nacionales de México (FNM)
+266	FED - INDEP-Fideicomiso de pensiones del sistema BANRURAL
+267	FED - INDEP-Fideicomiso Irrevocable de Inversión y Garantía Ingenio Mante Pensionados número 46645
+268	FED - INDEP-Fideicomiso para administrar el fondo de pensiones de FOPPAZ
+269	FED - INDEP-Fideicomiso para administrar el fondo de pensiones y gastos médicos de BANPESCA
+270	FED - INDEP-Fideicomiso para administrar el fondo de pensiones y gastos médicos de BNCI
+271	FED - INDEP-Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero (FND)
+272	FED - INDEP-FNM-Fideicomiso 5012-6 FERRONALESJUB (para el pago de pensiones jubilatorias a los trabajadores de Ferrocarriles Nacionales de ...
+273	FED - INDEP-Fondo de pensiones de instituciones liquidadas
+274	FED - INDEP-Fondo de pensiones fideicomiso liquidador de Instituciones y Organizaciones Auxiliares de Crédito
+275	FED - INDEP-Fondo de pensiones Financiera Nacional Azucarera
+276	FED - INDEP-Fondo de pensiones Servicios de Almacenamiento del Norte S.A.
+277	FED - INDEP-Notimex, Agencia de Noticias del Estado Mexicano (NOTIMEX)
+278	FED - INE-Contrato de fideicomiso con número 108601 con el Banco Nacional del Ejército, Fuerza Aérea y Armada, S.N.C. (BANJERCITO), para la...
+279	FED - INE-Fondo para el Cumplimiento del Programa de Infraestructura Inmobiliaria y para la Atención Ciudadana y Mejoramiento de Módulos de...
+280	FED - INFONACOT-Fideicomiso de administración e inversión para pensiones de los trabajadores
+281	FED - INFONACOT-Fideicomiso de inversión y administración de primas de antigüedad de los trabajadores
+282	FED - INFOTEC Centro de Investigación e Innovación en Tecnologías de la Información y Comunicación (INFOTEC)
+283	FED - InnovaBienestar de México, S.A.P.I. de C.V.
+284	FED - Instituto de Administración y Avalúos de Bienes Nacionales (INDAABIN)
+285	FED - Instituto de Ecología, A.C. (INECOL)
+286	FED - Instituto de Investigaciones "Dr. José María Luis Mora"
+287	FED - Instituto del Fondo Nacional de la Vivienda para los Trabajadores (INFONAVIT)
+288	FED - Instituto del Fondo Nacional para el Consumo de los Trabajadores (FONACOT)
+289	FED - Instituto de Salud para el Bienestar
+290	FED - Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas (ISSFAM)
+291	FED - Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE)
+292	FED - Instituto Federal de Telecomunicaciones (IFT)
+293	FED - Instituto Mexicano de Cinematografía (IMCINE)
+294	FED - Instituto Mexicano de Investigación en Pesca y Acuacultura Sustentables (IMIPAS, antes INAPESCA)
+295	FED - Instituto Mexicano de la Juventud (IMJUVE)
+296	FED - Instituto Mexicano de la Propiedad Industrial (IMPI)
+297	FED - Instituto Mexicano de la Radio (IMER)
+298	FED - Instituto Mexicano del Petróleo (IMP)
+299	FED - Instituto Mexicano del Seguro Social (IMSS)
+300	FED - Instituto Mexicano de Tecnología del Agua (IMTA)
+301	FED - Instituto Nacional de Antropología e Historia (INAH)
+302	FED - Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)
+303	FED - Instituto Nacional de Bellas Artes y Literatura (INBA)
+304	FED - Instituto Nacional de Cancerología (INCAN)
+305	FED - Instituto Nacional de Cardiología Ignacio Chávez (INCAR)
+306	FED - Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán (INNSZ)
+307	FED - Instituto Nacional de Ciencias Penales (INACIPE)
+308	FED - Instituto Nacional de Ecología y Cambio Climático (INECC)
+309	FED - Instituto Nacional de Electricidad y Energías Limpias (INEEL)
+310	FED - Instituto Nacional de Enfermedades Respiratorias Ismael Cosío Villegas (INER)
+311	FED - Instituto Nacional de Estadística y Geografía (INEGI)
+312	FED - Instituto Nacional de Estudios Históricos de las Revoluciones de México (INEHRM)
+313	FED - Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias (INIFAP)
+314	FED - Instituto Nacional de Investigaciones Nucleares (ININ)
+315	FED - Instituto Nacional de la Economía Social (INAES)
+316	FED - Instituto Nacional de la Infraestructura Física Educativa (INIFED)
+317	FED - Instituto Nacional de las Personas Adultas Mayores (INAPAM)
+318	FED - Instituto Nacional de Lenguas Indígenas (INALI)
+319	FED - Instituto Nacional de los Pueblos Indígenas (INPI)
+320	FED - Instituto Nacional del Suelo Sustentable (INSUS)
+321	FED - Instituto Nacional de Medicina Genómica (INMEGEN)
+322	FED - Instituto Nacional de Migración (INM)
+323	FED - Instituto Nacional de Neurología y Neurocirugía Manuel Velasco Suárez (INNN)
+324	FED - Instituto Nacional de Pediatría (INP)
+325	FED - Instituto Nacional de Perinatología Isidro Espinosa de los Reyes (INPER)
+326	FED - Instituto Nacional de Psiquiatría Ramón de la Fuente Muñiz (INPRFM)
+327	FED - Instituto Nacional de Rehabilitación Luis Guillermo Ibarra Ibarra (INR)
+328	FED - Instituto Nacional de Salud Pública (INSP)
+329	FED - Instituto Nacional Electoral (INE)
+330	FED - Instituto Nacional para el Desarrollo de Capacidades del Sector Rural, A.C. (INCA)
+331	FED - Instituto Nacional para la Educación de los Adultos (INEA)
+332	FED - Instituto para Devolver al Pueblo lo Robado (INDEP)
+333	FED - Instituto para el Desarrollo Técnico de las Haciendas Públicas (INDETEC)
+334	FED - Instituto para la Protección al Ahorro Bancario (IPAB)
+335	FED - Instituto Politécnico Nacional (IPN)
+336	FED - Instituto Potosino de Investigación Científica y Tecnológica, A.C. (IPICYT)
+337	FED - ISSFAM-Contrato de mandato para el pago de haberes de retiro, pensiones y compensaciones
+338	FED - Junta Federal de Conciliación y Arbitraje (JFCA)
+339	FED - Laboratorios de Biológicos y Reactivos de México, S.A. de C.V. (BIRMEX)
+340	FED - Leche para el Bienestar S.A. de C.V.
+341	FED - Litio para México
+342	FED - Lotería Nacional (LN) (Antes Pronósticos para la Asistencia Pública)
+343	FED - Morena (MORENA)
+344	FED - Movimiento Ciudadano (MC)
+345	FED - Nacional Financiera, S.N.C. (NAFIN)
+346	FED - NAFIN-Complemento del Préstamo Especial para el Ahorro (PEA) y préstamos de corto y mediano plazo para jubilados bajo el plan de bene...
+347	FED - NAFIN-Fideicomiso de capital emprendedor
+348	FED - NAFIN-Fideicomiso de contragarantía para el financiamiento empresarial
+349	FED - NAFIN-Fideicomiso de Defensa y Asistencia Legal
+350	FED - NAFIN-Fideicomiso programa de venta de títulos en directo al público
+351	FED - NAFIN-Fondo de pensiones de contribución definida de Nacional Financiera
+352	FED - NAFIN-Fondo de pensiones y primas de Antigüedad de NAFIN
+353	FED - NAFIN-Fondo para la participación de riesgos 11480
+354	FED - NAFIN-Fondo para la participación de riesgos en fianzas
+355	FED - NAFIN-Fondo sostenible Nafin
+356	FED - NAFIN-Mario Renato Menéndez Rodríguez 7997
+357	FED - Oficina de la Presidencia de la República
+358	FED - OPR-Centro de Producción de Programas Informativos y Especiales
+359	FED - Orden Mexicana de Profesionales Marítimos y Portuarios, Similares y Conexos
+360	FED - Organismo Coordinador de las Universidades para el Bienestar Benito Juárez García
+361	FED - Organismo Promotor de Inversiones en Telecomunicaciones (PROMTEL)
+362	FED - Partido Acción Nacional (PAN)
+363	FED - Partido del Trabajo (PT)
+364	FED - Partido Revolucionario Institucional (PRI)
+365	FED - Partido Verde Ecologista de México (PVEM)
+366	FED - Patronato de Obras e Instalaciones del Instituto Politécnico Nacional (POI IPN)
+367	FED - PEMEX-Fideicomiso 294.- Colonia Petrolera José Escandón
+368	FED - PEMEX-Fondo laboral PEMEX
+369	FED - PEP-Fideicomiso de Abandono Ek Balam
+370	FED - Petróleos Mexicanos (PEMEX)
+371	FED - Prevención y Reinserción Social
+372	FED - Procuraduría Agraria (PA)
+373	FED - Procuraduría de la Defensa del Contribuyente (PRODECON)
+374	FED - Procuraduría Federal de la Defensa del Trabajo (PROFEDET)
+375	FED - Procuraduría Federal del Consumidor (PROFECO)
+376	FED - Procuraduría Federal de Protección al Ambiente (PROFEPA)
+377	FED - Productora Nacional de Biológicos Veterinarios (PRONABIVE)
+378	FED - Registro Agrario Nacional (RAN)
+379	FED - SAT-Fideicomiso de Administración y pago número 80775
+380	FED - Secretaría Anticorrupción y Buen Gobierno (buen gobierno)
+381	FED - Secretaría de Agricultura y Desarrollo Rural
+382	FED - Secretaría de Bienestar
+383	FED - Secretaría de Ciencia, Humanidades, Tecnología e Innovación
+384	FED - Secretaría de Cultura
+385	FED - Secretaría de Desarrollo Agrario, Territorial y Urbano (SEDATU)
+386	FED - Secretaría de Economía (SE)
+387	FED - Secretaría de Educación Pública (SEP)
+388	FED - Secretaría de Energía (SENER)
+389	FED - Secretaría de Gobernación (SEGOB)
+390	FED - Secretaría de Hacienda y Crédito Público (SHCP)
+391	FED - Secretaría de Infraestructura, Comunicaciones y Transportes (SICT)
+392	FED - Secretaría de la Defensa Nacional (DEFENSA)
+393	FED – Secretaría de las Mujeres
+394	FED - Secretaría del Trabajo y Previsión Social (STPS)
+395	FED - Secretaría de Marina (SEMAR)
+396	FED - Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT)
+397	FED - Secretaría de Relaciones Exteriores (SRE)
+398	FED - Secretaría de Salud (SSA)
+399	FED - Secretaría de Seguridad y Protección Ciudadana
+400	FED - Secretaría de Turismo (SECTUR)
+401	FED - Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública (SNSP)
+402	FED - Secretaría Ejecutiva del Sistema Nacional Anticorrupción (SESNA)
+403	FED - Secretaría General del Consejo Nacional de Población (CONAPO)
+404	FED - SECTUR-Fondo Mixto Ciudades Coloniales
+405	FED - SECTUR-Fondo Mixto de Mazatlán
+406	FED - SECTUR-Fondo Mixto Mundo Maya
+407	FED - SEDATU-Fideicomiso de administración y garantía complementaria Fondo 95
+408	FED - SEDATU-Fideicomiso de apoyo a los propietarios rurales en Chiapas (FIAPAR)
+409	FED - SEDATU-Fideicomiso para el desarrollo de la región Sur-Sureste (FIDESUR)
+410	FED - SEDATU-Fideicomiso para el desarrollo regional Noreste (FIDENOR-ESTE)
+411	FED - SEDATU- Fondo de mejoramiento urbano
+412	FED - SEDATU-Fondo para el ordenamiento de la propiedad rural (FONORDE)
+413	FED - SE-Fideicomiso del Programa Nacional Financiero al Microempresario (PRONAFIM)
+414	FED - SE-Fideicomiso para Promover el Acceso al Financiamiento de MIPYMES y Emprendedores
+415	FED - SEGOB-Comisión Nacional de Búsqueda de Personas
+416	FED - SEGOB-Coordinación para la Atención Integral de la Migración en la Frontera Sur (*)
+417	FED - SEGOB-Fideicomiso para el cumplimiento de obligaciones en materia de los derechos humanos
+418	FED - SEGOB-Fideicomiso para la plataforma de infraestructura, mantenimiento y equipamiento de seguridad pública y de aeronaves
+419	FED - SEGOB-Fondo de apoyo social para ex trabajadores migratorios mexicanos
+420	FED - SEGOB-Instituto Nacional para el Federalismo y el Desarrollo Municipal (INAFED*)
+421	FED - SEGOB-Secretaría Ejecutiva del Sistema Nacional para la Protección Integral de Niñas, Niños y Adolescentes (SIPINNA*)
+422	FED - SEGURIDAD ALIMENTARIA MEXICANA (SEGALMEX)
+423	FED - SEMAR-Fideicomiso de Administración y pago SEMAR
+424	FED - SEMAR-Fideicomiso para el Fortalecimiento del Sistema Aeroportuario SEMAR
+425	FED - SEMARNAT-Fideicomiso para apoyar los programas, proyectos y acciones ambientales de la megalópolis
+426	FED - SEMARNAT-Fondo para la biodiversidad
+427	FED - Senado de la República
+428	FED - SENER-Fondo de servicio universal eléctrico (FSUE)
+429	FED - SENER-Fondo para la transición energética y el aprovechamiento sustentable de la energía
+430	FED - SEP-Bachillerato general en sus modalidades no escolarizada y mixta
+431	FED - SEP-Comisión de Apelación y Arbitraje del Deporte (CAAD*)
+432	FED - SEP-Fideicomiso 14780-8 Fondo Nacional para Escuelas de Calidad
+433	FED - SEP-Fideicomiso del Programa de escuelas de excelencia para abatir el rezago educativo
+434	FED - SEP-Fideicomiso para el Programa especial de financiamiento a la vivienda para el magisterio
+435	FED - SEP-Fideicomiso para la Comisión México-Estados Unidos F 22927-8
+436	FED - SEP-Fondo de la amistad México-Japón (FFAMJ)
+437	FED - SEP-Fondo de retiro de los trabajadores de la SEP (FORTE)
+438	FED - SEP-Mandato para el Fondo de apoyo al proyecto en el Distrito Federal
+439	FED - SEP-Tecnológico Nacional de México (TECNM*)
+440	FED - SEP-Unidad del Sistema para la Carrera de las Maestras y los Maestros (USICAMM)
+441	FED - SEP-Universidad Abierta y a Distancia de México (UNADM*)
+442	FED - SEP-XE-IPN Canal 11 (ONCE*)
+443	FED - Servicio de Administración Tributaria (SAT)
+444	FED - Servicio de Protección Federal (SPF)
+445	FED - Servicio Geológico Mexicano (SGM)
+446	FED - Servicio Nacional de Inspección y Certificación de Semillas (SNICS)
+447	FED - Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria (SENASICA)
+448	FED - Servicio Postal Mexicano (SEPOMEX)
+449	FED - Servicios Aeroportuarios de la Ciudad de México, S.A. de C.V. (AICM)
+450	FED - Servicios a la Navegación en el Espacio Aéreo Mexicano (SENEAM)
+451	FED - Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR)
+452	FED - SHCP-9/11 de la recaudación por concepto de las cuotas establecidas en el artículo 2°A. Fracción II de la Ley del Impuesto Especial s...
+453	FED - SHCP-El 0.136 por ciento de la Recaudación Federal Participable
+454	FED - SHCP-Fideicomiso 1327.- Gobierno Federal, Programa de vivienda para magistrados y jueces del Poder Judicial Federal
+455	FED - SHCP-Fideicomiso 2003 "Fondo de Desastres Naturales" (FONDEN)
+456	FED - SHCP-Fideicomiso fondo de estabilización de los ingresos presupuestarios (FFEIP)
+457	FED - SHCP-Fideicomiso para la Evaluación de los Fondos de Aportaciones Federales (FIDEFAF)
+458	FED - SHCP-Fideicomiso para la implementación del Sistema de Justicia Penal en las entidades federativas (FISJPEFED)
+459	FED - SHCP-Fideicomiso para la Infraestructura en los Estados (FIES)
+460	FED - SHCP-Fondo Aportaciones para Servicio de Salud (FASSA)
+461	FED - SHCP-Fondo de Ahorro Capitalizable de los Trabajadores Al Servicio del Estado (FONAC)
+462	FED - SHCP-Fondo de Aportaciones Múltiples (FAM)
+463	FED - SHCP-Fondo de Aportaciones para Educación Tecnológica y de Adultos (FAETA)
+464	FED - SHCP-Fondo de Aportaciones para el Fortalecimiento de las Entidades Federativas (FAFEF)
+465	FED - SHCP-Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal (FORTA...
+466	FED - SHCP-Fondo de Aportaciones para la Infraestructura Social (FAIS)
+467	FED - SHCP-Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal (FASP)
+468	FED - SHCP-Fondo de Aportaciones para Nómina Educativa y Gasto Operativo (FONE)
+469	FED - SHCP-Fondo de apoyo para infraestructura y seguridad (FAIyS)
+470	FED - SHCP-Fondo de compensación (FOCOMP)
+471	FED - SHCP-Fondo de compensación al régimen de pequeños contribuyentes y del régimen de los intermedios (FOCOMPPCI)
+472	FED - SHCP-Fondo de compensación de automóviles nuevos (FOCOMAUTO)
+473	FED - SHCP-Fondo de desincorporación de entidades (FONDE)
+474	FED - SHCP-Fondo de Estabilización de los Ingresos de las Entidades Federativas (FEIEF)
+475	FED - SHCP-Fondo de extracción de hidrocarburos (FONEXHIDRO)
+476	FED - SHCP-Fondo de fiscalización y recaudación
+477	FED - SHCP-Fondo de fomento municipal (FFOMUN)
+478	FED - SHCP-Fondo de reconstrucción de Entidades Federativas (FONREC)
+479	FED - SHCP-Fondo general de participaciones (FGP)
+480	FED - SHCP-Impuesto Especial sobre Producción y Servicios (IEPS)
+481	FED - SHCP-Impuesto sobre la renta participable (ISR)
+482	FED - SHCP-Mandato extinta Comisión Monetaria
+483	FED - SHCP-Mandato fiduciario de inversión y admón. apoyo financiero a favor del Fideicomiso Sindicatura de Promotora del Valle de Morelia ...
+484	FED - SHCP - Mandato Pago
+485	FED - SHCP-Mandato SHCP Mex. Tex Development Corp (MANDMEXTEX)
+486	FED - SHCP-Museo Dolores Olmedo Patiño (FMDOP)
+487	FED - SHF-Fondo de Operación y Financiamiento Bancario a la Vivienda (FOVI)
+488	FED - SHF-Seguros de Crédito a la Vivienda SHF, S.A. de C.V.
+489	FED - SICT- Agencia Federal de Aviación Civil
+490	FED - SICT-Agencia Reguladora del Transporte Ferroviario (*ARTF)
+491	FED - SICT-Fideicomiso 122.- Benjamín Hill Trabajadores F.F.C.C. Sonora-Baja California
+492	FED - SICT-Fideicomiso programa habitacional de FERRONALES en la República Mexicana
+493	FED - SICT-Instituto Mexicano del Transporte (*IMT)
+494	FED - Sindicato Auténtico de los Trabajadores del Centro de Investigación en Alimentación y Desarrollo (SIATCIAD)
+495	FED - Sindicato de Empleados Públicos del Sistema Intermunicipal de los Servicios de Agua Potable y Alcantarillado en la Zona Metropolitana...
+496	FED - Sindicato de Industrial de Trabajadores Salineros, Marineros, Maquinistas, Cargadores, Similares y Conexos de la Baja California (CRO...
+497	FED - Sindicato de Investigadores del INIFAP al Servicio del Agro Mexicano
+498	FED - Sindicato de Investigadores y Profesores de El Colegio de la Frontera Norte (SIPCOLEF)
+499	FED - Sindicato de la Unión de Trabajadores del Instituto de Educación Media Superior del Distrito Federal
+500	FED - Sindicato de los Trabajadores de la Construcción, Mantenimiento y Conservación de Infraestructura Turística, Campos de Golf y Plantas...
+501	FED - Sindicato de los Trabajadores y Empleados de la Universidad Autónoma de Querétaro (S.T.E.U.A.Q.)
+502	FED - Sindicato del Personal Académico de la Universidad Autónoma Metropolitana
+503	FED - Sindicato Democrático de Trabajadores de Pesca y Acuacultura de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Al...
+504	FED - SINDICATO DEMOCRÁTICO NACIONAL AUTÓNOMO DE TRABAJADORES DE LA SECRETARIA DE BIENESTAR
+505	FED - Sindicato de Trabajadores Académicos de la Universidad Autónoma de Chapingo (STAUACH)
+506	FED - Sindicato de Trabajadores Académicos de la Universidad de Guadalajara
+507	FED - Sindicato de Trabajadores de Baja Mantenimiento y Operación del Puerto de Loreto (STBMO LORETO)
+508	FED - Sindicato de Trabajadores de la Cámara de Diputados del H. Congreso de la Unión (SINDICATOHCD)
+509	FED - Sindicato de Trabajadores de la Cámara de Diputados del Poder Legislativo Federal (STCDPLF)
+510	FED - Sindicato de Trabajadores de la Cámara de Senadores (STCS)
+511	FED - Sindicato de Trabajadores de la Construcción, Materialistas, Similares y Conexos del Estado de Guerrero (STCMSC)
+512	FED - Sindicato de Trabajadores de la H. Cámara de Senadores
+513	FED - Sindicato de Trabajadores de la Industria de la Radiodifusión, Televisión, Telecomunicaciones Similares y Conexos de la República Mex...
+514	FED - Sindicato de Trabajadores de la Universidad Autónoma de Chapingo (STUACH)
+515	FED - Sindicato de Trabajadores de la Universidad Nacional Autónoma de México (STUNAM)
+516	FED - Sindicato de Trabajadores de la Universidad Tecnológica de Jalisco
+517	FED - Sindicato de Trabajadores del Centro de Investigaciones en Óptica, A.C.
+518	FED - Sindicato de Trabajadores del Centro de Investigación y Docencia Económicas, A. C. (SITCIDE)
+519	FED - Sindicato de Trabajadores del Instituto Mexicano de la Juventud (STIMJUVE)
+520	FED - Sindicato de Trabajadores del Instituto Mexicano de Tecnología del Agua (SITIMTA)
+521	FED - Sindicato de Trabajadores del Instituto Nacional de Ciencias Penales (STINACIPE)
+522	FED - Sindicato de Trabajadores del Instituto Nacional para el Desarrollo de Capacidades del Sector Rural (STINCA)
+523	FED - Sindicato de Trabajadores del Instituto Politécnico Nacional
+524	FED - Sindicato de Trabajadores del Patronato de Obras e Instalaciones del Instituto Politécnico Nacional (STPOIIPN)
+525	FED - Sindicato de Trabajadores del Poder Judicial de la Federación (STPJF)
+526	FED - Sindicato de Trabajadores del Tribunal Federal de Conciliación y Arbitraje (STTFCA)
+527	FED - Sindicato de Trabajadores Democráticos de la Secretaría de Comunicaciones y Transportes. (STDSCT)
+528	FED - Sindicato de Trabajadores de Talleres Gráficos de México (STTGM)
+529	FED - Sindicato de Trabajadores de Transporte de Pasajeros del Distrito Federal
+530	FED - Sindicato de Trabajadores en Establecimientos Comerciales, Condo-Hoteles, Restaurantes y Similares de la Costa Grande de Guerrero C.T...
+531	FED - Sindicato de Trabajadores Ferrocarrileros de la República Mexicana (STFRM)
+532	FED - Sindicato de Trabajadores Petroleros de la República Mexicana (STPRM)
+533	FED - Sindicato de Vanguardia Nacional de los Trabajadores de la Secretaría de Comunicaciones y Transportes (SVTSCT)
+534	FED - Sindicato Gremial de Profesores Investigadores del Colegio de México (SIPRIN COLMEX)
+535	FED - Sindicato Independiente de Académicos del Colegio de Postgraduados. (SIACOLPOS)
+536	FED - Sindicato Independiente de Investigadores del Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias (SIIINIFAP)
+537	FED - Sindicato Independiente de Trabajadores Académicos de Oaxaca, (SITAC-OAX)
+538	FED - Sindicato Independiente de Trabajadores de El Colegio de Postgraduados (SINTCOP)
+539	FED - Sindicato Independiente de Trabajadores de la Cámara de Senadores (SICS)
+540	FED - Sindicato Independiente de Trabajadores de la Secretaría de Cultura
+541	FED - Sindicato Independiente de Trabajadores de la Secretaría de Infraestructura, Comunicaciones y Transportes
+542	FED - Sindicato Independiente de Trabajadores de la Universidad Autónoma Metropolitana (SITUAM)
+543	FED - Sindicato Independiente de Trabajadores del Instituto de Educación Media Superior del Distrito Federal
+544	FED - Sindicato Independiente Nacional de Trabajadores del Colegio de Bachilleres (SINTCB)
+545	FED - Sindicato Mexicano de Trabajadores en Servicios Especializados, Emergentes, Asistenciales y Administrativos (SMTSEEAA)
+546	FED - Sindicato Nacional Auténtico y Democrático de los Trabajadores del ISSSTE
+547	FED - Sindicato Nacional de Arquitectos Conservadores del Patrimonio Cultural de la Secretaría de Cultura-Instituto Nacional de Antropologí...
+548	FED - Sindicato Nacional de Controladores de Tránsito Aéreo (SINACTA)
+549	FED - Sindicato Nacional de Cultura (SINAC)
+550	FED - Sindicato Nacional de Grupos Artísticos del Instituto Nacional de Bellas Artes y Literatura (SNGA INBA)
+551	FED - Sindicato Nacional de la Alternancia Democrática de los Trabajadores del ISSSTE
+552	FED - Sindicato Nacional de la Secretaría de Ciencia, Humanidades, Tecnología e Innovación
+553	FED - SINDICATO NACIONAL DEMOCRÁTICO DE TRABAJADORES DE LA SECRETARÍA DE CULTURA
+554	FED - Sindicato Nacional Democrático de Trabajadores de la Secretaría de Desarrollo Agrario, Territorial y Urbano (SINDETSEDATU)
+555	FED - Sindicato Nacional Democrático de Trabajadores de los Tribunales Agrarios (SINADETTA)
+556	FED - Sindicato Nacional de Profesores de Investigación Científica y Docencia del INAH
+557	FED - Sindicato Nacional de Trabajadores, Académicos e Investigadores del Instituto Nacional de Bellas Artes y Literatura (SNTAI INBAL)
+558	FED - Sindicato Nacional de Trabajadores de DICONSA (SNTDICONSA)
+559	FED - Sindicato Nacional de Trabajadores de la Casa de Moneda de México (SNTCMM)
+560	FED - Sindicato Nacional de Trabajadores de la Comisión de Operación y Fomento de Actividades Académicas del Instituto Politécnico Nacional
+561	FED - Sindicato Nacional de Trabajadores de la Comisión Nacional Bancaria y de Valores (SNTCNBV)
+562	FED - Sindicato Nacional de Trabajadores de la Comisión Nacional de Cultura Física y Deporte
+563	FED - Sindicato Nacional de Trabajadores de la Comisión Nacional de los Salarios Mínimos (SNTCONASAMI)
+564	FED - Sindicato Nacional de Trabajadores de la Comisión Nacional de Seguros y Fianzas (SNTCNSF)
+565	FED - Sindicato Nacional de Trabajadores De la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros (SI...
+566	FED - Sindicato Nacional de Trabajadores de la Construcción, Terraceros, Conexos y Similares de México (SNTCTCS)
+567	FED - Sindicato Nacional de Trabajadores de la Educación (SNTE)
+568	FED - Sindicato Nacional de Trabajadores de la Educación para Adultos (SNTEA)
+569	FED - Sindicato Nacional de Trabajadores de la Fiscalía General de la República (SNTFGR)
+570	FED - Sindicato Nacional de Trabajadores de la Industria Aeroportuaria y de Servicios, Similares y Conexos de la República Mexicana (SNTIAS...
+571	FED - Sindicato Nacional de Trabajadores de la Industria de Fideicomisos, Casas de Cambio, Casas de Bolsa, Aseguradoras, Uniones de Crédito...
+572	FED - Sindicato Nacional de Trabajadores de la Industria Láctea, Alimenticia, Similares y Conexos de la República Mexicana (SINDILAC)
+573	FED - Sindicato Nacional de Trabajadores de la Lotería Nacional (SNTLOTENAL)
+574	FED - Sindicato Nacional de Trabajadores de la Procuraduría Agraria "Felipe Carrillo Puerto" (SNTPA)
+575	FED - Sindicato Nacional de Trabajadores de la Procuraduría Federal del Consumidor (SNTPROFECO)
+576	FED - Sindicato Nacional de Trabajadores del Archivo General de la Nación (SNTAGN)
+577	FED - Sindicato Nacional de Trabajadores de la Secretaría de Agricultura y Desarrollo Rural
+578	FED - Sindicato Nacional de Trabajadores de la Secretaría de Bienestar
+579	FED - Sindicato Nacional de Trabajadores de la Secretaría de Desarrollo Agrario, Territorial y Urbano (SNTSEDATU)
+580	FED - Sindicato Nacional de Trabajadores de la Secretaría de Economía (SNTSE)
+581	FED - Sindicato Nacional de Trabajadores de la Secretaría de Energía (SNTSENER)
+582	FED - Sindicato Nacional de Trabajadores de la Secretaría de Gobernación (SNTSG)
+583	FED - Sindicato Nacional de Trabajadores de la Secretaría del Trabajo y Previsión Social (SNTSTPS)
+584	FED - Sindicato Nacional de Trabajadores de la Secretaría de Marina
+585	FED - Sindicato Nacional de Trabajadores de la Secretaría de Medio Ambiente y Recursos Naturales (SNTSEMARNAT)
+586	FED - Sindicato Nacional de Trabajadores de la Secretaría de Relaciones Exteriores (SNTSRE)
+587	FED - Sindicato Nacional de Trabajadores de la Secretaría de Salud (SNTSA)
+588	FED - Sindicato Nacional de Trabajadores de la Secretaría de Turismo (SNTSECTUR)
+589	FED - Sindicato Nacional de Trabajadores del Centro Nacional de Control del Gas Natural (SNTCENAGAS)
+590	FED - Sindicato Nacional de Trabajadores del Fideicomiso Fondo Nacional de Fomento Ejidal (SNTIFIFONAFE)
+591	FED - Sindicato Nacional de Trabajadores del Fondo Nacional de Fomento al Turismo (SNTFONATUR)
+592	FED - Sindicato Nacional de Trabajadores del Instituto del Fondo Nacional del Fondo de Vivienda para los Trabajadores
+593	FED - Sindicato Nacional de Trabajadores del Instituto Mexicano de la Radio (SNTIMER)
+594	FED - Sindicato Nacional de Trabajadores del Instituto Mexicano del Petróleo (SNTIMP)
+595	FED - Sindicato Nacional de Trabajadores del Instituto Nacional de Bellas Artes y Literatura (SNTINBAL)
+596	FED - Sindicato Nacional de Trabajadores del Instituto Nacional de Estadística y Geografía (SNTINEGI)
+597	FED - Sindicato Nacional de Trabajadores del Instituto Nacional de la Infraestructura Física Educativa (SNTINIFED)
+598	FED - Sindicato Nacional de Trabajadores del Instituto Nacional de las Personas Adultas Mayores (SNTINAPAM)
+599	FED - Sindicato Nacional de Trabajadores del Instituto Nacional del Suelo Sustentable (SNTINSUS)
+600	FED - Sindicato Nacional de Trabajadores de los Tribunales Agrarios (SNTTA)
+601	FED - Sindicato Nacional de Trabajadores del Seguro Social (SNTSS)
+602	FED - Sindicato Nacional de Trabajadores del Servicio Postal Mexicano "Correos de México" (SNTSEPOMEX)
+603	FED - Sindicato Nacional de Trabajadores del Sistema Nacional para el Desarrollo Integral de la Familia (SNTDIF)
+604	FED - Sindicato Nacional de Trabajadores del Tribunal Federal de Justicia Administrativa (SNTTFJA)
+605	FED - Sindicato Nacional de Trabajadores Revolucionarios de la Secretaría de Desarrollo Agrario, Territorial y Urbano (SNTRSEDATU)
+606	FED - Sindicato Nacional de Trabajadores y Empleados de Servicios en General, Financieros, Similares y Conexos de la República Mexicana (SN...
+607	FED - Sindicato Nacional Independiente de los Trabajadores de la Secretaría de Economía (SNITSE)
+608	FED - Sindicato Nacional Independiente de Trabajadores de la Fiscalía General de la República (SNITFGR)
+609	FED - Sindicato Nacional Independiente de Trabajadores de la Secretaría de Desarrollo Agrario, Territorial y Urbano (SNITSEDATU)
+610	FED - Sindicato Nacional Independiente de Trabajadores de la Secretaría de Desarrollo Social (SNITSEDESOL)
+611	FED - Sindicato Nacional Independiente de Trabajadores del Instituto Nacional de Bellas Artes y Literatura (SNITINBAL)
+612	FED - Sindicato Nacional Progresista de los Trabajadores del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado
+613	FED - Sindicato Nacional Único y Democrático de los Trabajadores del Banco Nacional de Comercio Exterior (SNUTBANCOMEXT)
+614	FED - Sindicato Patrimonio de Trabajadores y Empleados de la Industria
+615	FED - Sindicato Revolucionario de Trabajadores de la Auditoría Superior de la Federación de la H. Cámara de Diputados (SRTASF)
+616	FED - Sindicato Único del Personal Académico de la Universidad Autónoma de Querétaro (S.U.P.A.U.A.Q.)
+617	FED - Sindicato Único de Personal Técnico y Administrativo del Centro de Investigaciones Biológicas del Noroeste (SUPTACIBNOR)
+618	FED - Sindicato Único de Trabajadores Académicos de la Universidad Autónoma Agraria Antonio Narro (SUTAUAAAN)
+619	FED - Sindicato Único de Trabajadores de AGROASEMEX (SUTAGROSEMEX)
+620	FED - Sindicato Único de Trabajadores de Biológicos y Reactivos (SUTBIRMEX)
+621	FED - Sindicato Único de Trabajadores de El Colegio de la Frontera Sur (SUTECOSUR)
+622	FED - Sindicato Único de Trabajadores de El Colegio de México (SUT COLMEX)
+623	FED - Sindicato Único de Trabajadores de la Comisión Estatal del Agua de Jalisco
+624	FED - Sindicato Único de Trabajadores de la Industria Nuclear (SUTIN)
+625	FED - Sindicato Único de Trabajadores de la Productora Nacional de Biológicos Veterinarios (SUTPRONABIVE)
+626	FED - Sindicato Único de Trabajadores de la Sociedad Hipotecaria Federal
+627	FED - Sindicato Único de Trabajadores de la Universidad Autónoma Agraria "Antonio Narro" (SUTUAAAN)
+628	FED - Sindicato Único de Trabajadores de la Universidad Autónoma de la Ciudad de México
+629	FED - Sindicato Único de Trabajadores de la Universidad de Colima
+630	FED - Sindicato Único de Trabajadores de la Universidad de Guadalajara
+631	FED - Sindicato Único de Trabajadores del Banco de México (SUTBM)
+632	FED - Sindicato Único de Trabajadores del Centro de Enseñanza Técnica Industrial (SUTCETI)
+633	FED - Sindicato Único de Trabajadores del Centro de Investigaciones y Estudios Superiores en Antropología Social (SUTCIESAS)
+634	FED - Sindicato Único de Trabajadores del Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional (SUTINVESTAV)
+635	FED - Sindicato Único de Trabajadores del Colegio Nacional de Educación Profesional Técnica (SUTCONALEP)
+636	FED - Sindicato Único de Trabajadores del Fondo de Cultura Económica (SUTFCE)
+637	FED - Sindicato Único de Trabajadores del Hogar Cabañas
+638	FED - Sindicato Único de Trabajadores del Hospital General "Dr. Manuel Gea González" (SUTHGMGG)
+639	FED - Sindicato Único de Trabajadores del Instituto de Formación para el Trabajo y Universidades Tecnológicas del Estado de Jalisco (extint...
+640	FED - Sindicato Único de Trabajadores del Instituto Mexicano de Cinematografía (SUTIMCINE)
+641	FED - Sindicato Único de Trabajadores del Instituto Mexicano de la Propiedad Industrial (SUT IMPI)
+642	FED - Sindicato Único de Trabajadores del Instituto Nacional de Bellas Artes y Literatura (SUTINBAL)
+643	FED - Sindicato Único de Trabajadores del Instituto Nacional de Ciencias Médicas y Nutrición "Salvador Zubirán" (SUTINCMNSZ)
+644	FED - Sindicato Único de Trabajadores del Instituto Nacional de Pediatría (SUTINP)
+645	FED - Sindicato Único de Trabajadores del Instituto Nacional de Perinatología (SUTINPER)
+646	FED - Sindicato Único de Trabajadores del lSSSTE
+647	FED - Sindicato Único de Trabajadores Democráticos de la Secretaría de del Medio Ambiente y Recursos Naturales (SUTD SEMARNAT)
+648	FED - Sindicato Único de Trabajadores Democráticos del Sistema de Transporte Colectivo
+649	FED - Sindicato Único de Trabajadores de Notimex (SUTNOTIMEX)
+650	FED - Sindicato Único de Trabajadores Docentes CONALEP (SUTDCONALEP)
+651	FED - Sindicato Único de Trabajadores Docentes del Colegio Nacional de Educación Profesional Técnica en el estado de Oaxaca, (SUTDCEO)
+652	FED - Sindicato Único de Trabajadores Electricistas de la República Mexicana (SUTERM)
+653	FED - Sindicato Único Nacional de los Trabajadores de la Secretaría de Comunicaciones y Transportes (SUNTSCT)
+654	FED - Sindicato Único Nacional de Trabajadores del Banco Nacional de Obras y Servicios Públicos (SUNTBANOBRAS)
+655	FED - Sindicato Único Nacional de Trabajadores del Instituto Nacional de Estadística y Geografía (SUNTINEGI)
+656	FED - Sindicato Único Nacional de Trabajadores de Nacional Financiera (SUNTNAFIN)
+657	FED - Sindicato Unificado de Trabajadores del Centro de Investigación Científica y de Educación Superior de Ensenada (SUTCICESE)
+658	FED - Sindicato Unificado de Trabajadores del Instituto Nacional de Pediatría
+659	FED - Sindicato Unitario de Trabajadores del Instituto Nacional de Astrofísica, Óptica y Electrónica (SUTINAOE)
+660	FED - Sistema Nacional para el Desarrollo Integral de la Familia (DIF)
+661	FED - Sistema Público de Radiodifusión del Estado Mexicano (SPR)
+662	FED - Sociedad Hipotecaria Federal, S.N.C. (SHF)
+663	FED - SRE-Agencia Mexicana de Cooperación Internacional para el Desarrollo (AMEXCID*)
+664	FED - SRE-AMEXCID-Fondo mixto de cooperación técnica y científica México-España
+665	FED - SRE-Instituto de las Mexicanas y Mexicanos en el Exterior
+666	FED - SRE-Instituto Matías Romero (IMR*)
+667	FED - SSA-Administración del Patrimonio de la Beneficencia Pública (APBP*)
+668	FED - SSA-Centro Nacional de Equidad de Género, Salud Sexual y Reproductiva
+669	FED - SSA-Centro Nacional de la Transfusión Sanguínea (CNTS*)
+670	FED - SSA-Centro Nacional de Prevención y Control de Enfermedades (CENAPRECE*)
+671	FED - SSA-Centro Nacional de Trasplantes (CENATRA*)
+672	FED - SSA-Centro Nacional para la Prevención y Control del VIH/SIDA y Hepatitis
+673	FED - SSA-Centro Nacional para la Salud de la Infancia y la Adolescencia (CENSIA*)
+674	FED - SSA-Comisión Nacional de Bioética (CONBIOÉTICA*)
+675	FED - SSA-Instituto Nacional de Geriatría (*)
+676	FED - SSPC-Coordinación Nacional Antisecuestro y Delitos de Alto Impacto
+677	FED - SSPC-Guardia Nacional
+678	FED - Talleres Gráficos de México (TGM)
+679	FED - Televisión Metropolitana, S.A. de C.V. (CANAL22)
+680	FED - Transparencia para el Pueblo
+681	FED - Tren Maya, S.A. de C.V.
+682	FED - Tribunal Federal de Conciliación y Arbitraje
+683	FED - Tribunal Federal de Justicia Administrativa (TFJA)
+684	FED - Tribunal Superior Agrario
+685	FED - Turística Integral Islas Marías, S.A de C.V.
+686	FED - Universidad Autónoma Chapingo (UACH)
+687	FED - Universidad Autónoma Metropolitana (UAM)
+688	FED - Universidad Nacional Autónoma de México (UNAM)
+689	FED - Universidad Nacional Rosario Castellanos
+690	FED - Universidad Pedagógica Nacional (UPN)

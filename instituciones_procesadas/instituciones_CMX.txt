@@ -1,0 +1,188 @@
+1	CMX - Agencia de Atención Animal
+2	CMX - Agencia de Gestión Urbana de la Ciudad de México
+3	CMX - Agencia de Protección Sanitaria del Gobierno de la Ciudad de México
+4	CMX - Agencia Digital de Innovación Pública de la Ciudad de México
+5	CMX - Alcaldía Álvaro Obregón
+6	CMX - Alcaldía Azcapotzalco
+7	CMX - Alcaldía Benito Juárez
+8	CMX - Alcaldía Coyoacán
+9	CMX - Alcaldía Cuajimalpa de Morelos
+10	CMX - Alcaldía Cuauhtémoc
+11	CMX - Alcaldía Gustavo A. Madero
+12	CMX - Alcaldía Iztacalco
+13	CMX - Alcaldía Iztapalapa
+14	CMX - Alcaldía La Magdalena Contreras
+15	CMX - Alcaldía Miguel Hidalgo
+16	CMX - Alcaldía Milpa Alta
+17	CMX - Alcaldía Tláhuac
+18	CMX - Alcaldía Tlalpan
+19	CMX - Alcaldía Venustiano Carranza
+20	CMX - Alcaldía Xochimilco
+21	CMX - Asamblea Constituyente de la Ciudad de México
+22	CMX - Asamblea Legislativa del Distrito Federal
+23	CMX - Auditoría Superior de la Ciudad de México
+24	CMX - Autoridad de la Zona Patrimonio Mundial Natural y Cultural de la Humanidad en Xochimilco, Tláhuac y Milpa Alta
+25	CMX - Autoridad del Centro Histórico
+26	CMX - Autoridad del Espacio Público del Distrito Federal
+27	CMX - Caja de Previsión de la Policía Auxiliar de la Ciudad de México
+28	CMX - Caja de Previsión de la Policía Preventiva de la Ciudad de México
+29	CMX - Caja de Previsión para Trabajadores a Lista de Raya de la Ciudad de México
+30	CMX - Centro de Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano de la Ciudad de México
+31	CMX - Centro de Conciliación Laboral de la Ciudad de México
+32	CMX - Comisión de Búsqueda de Personas de la Ciudad de México
+33	CMX - Comisión de Derechos Humanos de la Ciudad de México
+34	CMX - Comisión de Filmaciones de la Ciudad de México
+35	CMX - Comisión de Selección del Comité de Participación Ciudadana del Sistema Anticorrupción de la Ciudad de México
+36	CMX - Comisión Ejecutiva de Atención a Víctimas de la Ciudad de México
+37	CMX - Comisión para la Reconstrucción de la Ciudad de México
+38	CMX - Comité de Participación Ciudadana del Sistema Anticorrupción de la Ciudad de México
+39	CMX - Congreso de la Ciudad de México
+40	CMX - Consejería Jurídica y de Servicios Legales
+41	CMX - Consejo de Evaluación de la Ciudad de México
+42	CMX - Consejo de Evaluación del Desarrollo Social de la Ciudad de México
+43	CMX - Consejo de la Judicatura de la Ciudad de México
+44	CMX - Consejo Económico, Social y Ambiental de la Ciudad de México
+45	CMX - Consejo para Prevenir y Eliminar la Discriminación de la Ciudad de México
+46	CMX - Coordinación de los Centros de Transferencia Modal del Distrito Federal
+47	CMX - Corporación Mexicana de Impresión, S.A. de C.V.
+48	CMX - Delegación Álvaro Obregón
+49	CMX - Delegación Azcapotzalco
+50	CMX - Delegación Benito Juárez
+51	CMX - Delegación Coyoacán
+52	CMX - Delegación Cuajimalpa de Morelos
+53	CMX - Delegación Cuauhtémoc
+54	CMX - Delegación Gustavo A. Madero
+55	CMX - Delegación Iztacalco
+56	CMX - Delegación Iztapalapa
+57	CMX - Delegación La Magdalena Contreras
+58	CMX - Delegación Miguel Hidalgo
+59	CMX - Delegación Milpa Alta
+60	CMX - Delegación Tláhuac
+61	CMX - Delegación Tlalpan
+62	CMX - Delegación Venustiano Carranza
+63	CMX - Delegación Xochimilco
+64	CMX - Encuentro Social
+65	CMX - Escuela de Administración Pública de la Ciudad de México
+66	CMX - Fideicomiso Bienestar Educativo de la Ciudad de México
+67	CMX - Fideicomiso Centro Histórico de la Ciudad de México
+68	CMX - Fideicomiso de Recuperación Crediticia de la Ciudad de México
+69	CMX - Fideicomiso Fondo para el Desarrollo Económico y Social de la Ciudad de México
+70	CMX - Fideicomiso Museo de Arte Popular Mexicano
+71	CMX - Fideicomiso Museo del Estanquillo
+72	CMX - Fideicomiso para el Fondo de Promoción para el Financiamiento del Transporte Público
+73	CMX - Fideicomiso para la Promoción y Desarrollo del Cine Mexicano en la Ciudad de México
+74	CMX - Fideicomiso para la Reconstrucción Integral de la Ciudad de México
+75	CMX - Fideicomiso Público Complejo Ambiental Xochimilco
+76	CMX - Fideicomiso Público de la Zona de Santa Fe
+77	CMX - Fideicomiso Público del Fondo de Apoyo a la Procuración de Justicia de la Ciudad de México
+78	CMX - Fiscalía General de Justicia de la CDMX
+79	CMX - Fondo Ambiental Público de la Ciudad de México
+80	CMX - Fondo de Desarrollo Económico del Distrito Federal
+81	CMX - Fondo de Víctimas de la Ciudad de México
+82	CMX - Fondo Mixto de Promoción Turística de la Ciudad de México
+83	CMX - Fondo para el Desarrollo Social de la Ciudad de México
+84	CMX - Fondo para la Atención y Apoyo a las Víctimas del Delito
+85	CMX - Fondo Público de Atención al Ciclista y al Peatón
+86	CMX - Fuerza Social por México
+87	CMX - Heroico Cuerpo de Bomberos de la Ciudad de México
+88	CMX - Instancia Ejecutora del Sistema Integral de Derechos Humanos de la Ciudad de México
+89	CMX - Instituto de Capacitación para el Trabajo de la Ciudad de México
+90	CMX - Instituto de Educación Media Superior de la Ciudad de México
+91	CMX - Instituto de Estudios Superiores de la Ciudad de México “Rosario Castellanos”
+92	CMX - Instituto de Formación Profesional y Estudios Superiores
+93	CMX - Instituto de la Juventud de la Ciudad de México
+94	CMX - Instituto de las Mujeres del Distrito Federal
+95	CMX - Instituto de las Personas con Discapacidad de la Ciudad de México
+96	CMX - Instituto del Deporte de la Ciudad de México
+97	CMX - Instituto de Planeación Democrática y Prospectiva
+98	CMX - Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de Mé...
+99	CMX - Instituto de Verificación Administrativa de la Ciudad de México
+100	CMX - Instituto de Vivienda de la Ciudad de México
+101	CMX - Instituto Electoral de la Ciudad de México
+102	CMX - Instituto Local de la Infraestructura Física Educativa de la Ciudad de México
+103	CMX - Instituto para la Atención y Prevención de las Adicciones en la Ciudad de México
+104	CMX - Instituto para la Seguridad de las Construcciones en la Ciudad de México
+105	CMX - Jefatura de Gobierno de la Ciudad de México
+106	CMX - Junta de Asistencia Privada del Distrito Federal
+107	CMX - Junta Local de Conciliación y Arbitraje de la Ciudad de México
+108	CMX - Mecanismo de Protección Integral de Personas Defensoras de Derechos Humanos y Periodistas de la Ciudad de México
+109	CMX - Metrobús
+110	CMX - MORENA
+111	CMX - Movimiento Ciudadano
+112	CMX - Nueva Alianza
+113	CMX - Oficialía Mayor
+114	CMX - Organismo Regulador del Transporte
+115	CMX - Órgano Regulador de Transporte
+116	CMX - Partido Acción Nacional
+117	CMX - Partido de la Revolución Democrática
+118	CMX - Partido del Trabajo
+119	CMX - Partido Encuentro Solidario
+120	CMX - Partido Equidad, Libertad y Género
+121	CMX - Partido Humanista
+122	CMX - Partido Revolucionario Institucional
+123	CMX - Partido Verde Ecologista de México
+124	CMX - Planta Productora de Mezclas Asfálticas
+125	CMX - Policía Auxiliar
+126	CMX - Policía Bancaria e Industrial
+127	CMX - PROCDMX, S.A. DE C.V.
+128	CMX - Procuraduría Ambiental y del Ordenamiento Territorial de la Ciudad de México
+129	CMX - Procuraduría General de Justicia de la Ciudad de México
+130	CMX - Procuraduría Social de la Ciudad de México
+131	CMX - Proyecto Metro del Distrito Federal
+132	CMX - Red de Transporte Público de Pasajeros de la Ciudad de México
+133	CMX - Redes Sociales Progresistas
+134	CMX - Régimen de Protección Social en Salud de la Ciudad de México
+135	CMX - Secretaría de Administración y Finanzas
+136	CMX - Secretaría de Atención y Participación Ciudadana
+137	CMX - Secretaría de Bienestar e Igualdad Social
+138	CMX - Secretaría de Ciencia, Tecnología e Innovación
+139	CMX - Secretaría de Cultura
+140	CMX - Secretaría de Desarrollo Económico
+141	CMX - Secretaría de Desarrollo Urbano y Vivienda
+142	CMX - Secretaría de Educación, Ciencia, Tecnología e Innovación
+143	CMX - Secretaría de Gestión Integral del Agua
+144	CMX - Secretaría de Gestión Integral de Riesgos y Protección Civil
+145	CMX - Secretaría de Gobierno
+146	CMX - Secretaría de la Contraloría General
+147	CMX - Secretaría de las Mujeres
+148	CMX - Secretaría del Medio Ambiente
+149	CMX - Secretaría de Movilidad
+150	CMX - Secretaría de Obras y Servicios
+151	CMX - Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana
+152	CMX - Secretaría de Pueblos y Barrios Originarios y Comunidades Indígenas Residentes
+153	CMX - Secretaría de Salud
+154	CMX - Secretaría de Seguridad Ciudadana
+155	CMX - Secretaría de Trabajo y Fomento al Empleo
+156	CMX - Secretaría de Turismo
+157	CMX - Secretaría de Vivienda
+158	CMX - Secretaría Ejecutiva del Mecanismo de Seguimiento y Evaluación del Programa de Derechos Humanos de la Ciudad de México
+159	CMX - Secretaría Ejecutiva del Sistema Anticorrupción de la Ciudad de México
+160	CMX - Servicio de Medios Públicos de la Ciudad de México
+161	CMX - Servicio de Transportes Eléctricos de la Ciudad de México
+162	CMX - Servicios de Salud Pública de la Ciudad de México
+163	CMX - Servicios Metropolitanos, S.A. de C.V.
+164	CMX - Sindicato Auténtico de Trabajadores del Congreso de la Ciudad de México
+165	CMX - Sindicato de Empleados del Servicio de Anales de Jurisprudencia
+166	CMX - Sindicato del Heroico Cuerpo de Bomberos del Distrito Federal
+167	CMX - Sindicato Democrático de los Trabajadores de la Procuraduría Social del Distrito Federal
+168	CMX - Sindicato Democrático Independiente de Trabajadores del Sistema de Transporte Colectivo
+169	CMX - Sindicato de Trabajadores de la Auditoría Superior de la Ciudad de México
+170	CMX - Sindicato de Trabajadores del Congreso de la Ciudad de México
+171	CMX - Sindicato de Trabajadores del Tribunal de Justicia Administrativa de la Ciudad de México
+172	CMX - Sindicato de Trabajadores del Tribunal Superior de Justicia del Distrito Federal
+173	CMX - Sindicato Independiente de Trabajadores Unidos del Congreso de la Ciudad de México
+174	CMX - Sindicato Nacional de Trabajadores del Sistema de Transporte Colectivo
+175	CMX - Sindicato Único de Trabajadores del Gobierno de la Ciudad de México
+176	CMX - Sindicato Único de Trabajadores del Poder Judicial de la Ciudad de México
+177	CMX - Sistema de Aguas de la Ciudad de México
+178	CMX - Sistema de Transporte Colectivo
+179	CMX - Sistema para el Desarrollo Integral de la Familia de la Ciudad de México
+180	CMX - Sistema Público de Radiodifusión de la Ciudad de México
+181	CMX - Subsistema de Educación Comunitaria PILARES
+182	CMX - Tribunal de Justicia Administrativa de la Ciudad de México
+183	CMX - Tribunal Electoral de la Ciudad de México
+184	CMX - Tribunal Superior de Justicia de la Ciudad de México
+185	CMX - Universidad Autónoma de la Ciudad de México
+186	CMX - Universidad de la Policía de la Ciudad de México
+187	CMX - Universidad de la Salud
+188	CMX - Universidad Rosario Castellanos

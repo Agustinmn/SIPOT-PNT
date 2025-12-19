@@ -1,0 +1,73 @@
+1	GUA - Abasolo
+2	GUA - Acámbaro
+3	GUA - Apaseo el Alto
+4	GUA - Apaseo el Grande
+5	GUA - Archivo General del Estado
+6	GUA - Asociación Sindical del Personal Académico y Administrativo de la Universidad de Guanajuato
+7	GUA - Asociación Sindical de Trabajadores Administrativos de la Universidad de Guanajuato
+8	GUA - Atarjea
+9	GUA - Celaya
+10	GUA - Centro de Rehabilitación e Inclusión Infantil
+11	GUA - Comité Municipal de Agua Potable y Alcantarillado de Salamanca
+12	GUA - Comonfort
+13	GUA - Coroneo
+14	GUA - Cortazar
+15	GUA - Cuerámaro
+16	GUA - Doctor Mora
+17	GUA - Dolores Hidalgo
+18	GUA - Fiscalía General del Estado de Guanajuato
+19	GUA - Guanajuato capital
+20	GUA - Huanímaro
+21	GUA - Instituto de Acceso a la Información Pública
+22	GUA - Instituto Electoral del Estado de Guanajuato
+23	GUA - Irapuato
+24	GUA - Jaral del Progreso
+25	GUA - Jerécuaro
+26	GUA - León
+27	GUA - Manuel Doblado
+28	GUA - Moroleón
+29	GUA - Ocampo
+30	GUA - Partido Acción Nacional
+31	GUA - Partido de la Revolución Democrática
+32	GUA - Partido del Trabajo
+33	GUA - Partido Morena
+34	GUA - Partido Movimiento Ciudadano
+35	GUA - Partido Revolucionario Institucional
+36	GUA - Partido Verde Ecologista de México
+37	GUA - Pénjamo
+38	GUA - Poder Ejecutivo
+39	GUA - Poder Judicial
+40	GUA - Poder Legislativo
+41	GUA - Procuraduría de los Derechos Humanos
+42	GUA - Pueblo Nuevo
+43	GUA - Purísima del Rincón
+44	GUA - Romita
+45	GUA - Salamanca
+46	GUA - Salvatierra
+47	GUA - San Diego de la Unión
+48	GUA - San Felipe
+49	GUA - San Francisco del Rincón
+50	GUA - San José Iturbide
+51	GUA - San Luis de la Paz
+52	GUA - San Miguel de Allende
+53	GUA - Santa Catarina
+54	GUA - Santa Cruz de Juventino Rosas
+55	GUA - Santiago Maravatío
+56	GUA - Secretaría Ejecutiva del Sistema Estatal anticorrupción de Guanajuato
+57	GUA - Silao
+58	GUA - Sindicato Constituyente Dr. Francisco Díaz Barriga
+59	GUA - Sindicato de Trabajadores del Servicio de Aguas e Industrias Conexas de León Guanajuato
+60	GUA - Sistema de Agua Potable y Alcantarillado de León
+61	GUA - Sistema Municipal de Agua Potable y Alcantarillado de Guanajuato
+62	GUA - Tarandacuao
+63	GUA - Tarimoro
+64	GUA - Tierra Blanca
+65	GUA - Tribunal de Justicia Administrativa
+66	GUA - Tribunal Electoral del Estado de Guanajuato
+67	GUA - Universidad de Guanajuato
+68	GUA - Uriangato
+69	GUA - Valle de Santiago
+70	GUA - Victoria
+71	GUA - Villagrán
+72	GUA - Xichú
+73	GUA - Yuriria

@@ -1,0 +1,177 @@
+1	NAY - Archivo General del Estado de Nayarit
+2	NAY - Auditoría Superior del Estado de Nayarit
+3	NAY - Ayuntamiento de Acaponeta
+4	NAY - Ayuntamiento de Ahuacatlán
+5	NAY - Ayuntamiento de Amatlán de Cañas
+6	NAY - Ayuntamiento de Bahía de Banderas
+7	NAY - Ayuntamiento de Compostela
+8	NAY - Ayuntamiento de Huajicori
+9	NAY - Ayuntamiento de Ixtlán del Río
+10	NAY - Ayuntamiento de Jala
+11	NAY - Ayuntamiento de La Yesca
+12	NAY - Ayuntamiento del Nayar
+13	NAY - Ayuntamiento de Rosamorada
+14	NAY - Ayuntamiento de Ruiz
+15	NAY - Ayuntamiento de San Blas
+16	NAY - Ayuntamiento de San Pedro Lagunillas
+17	NAY - Ayuntamiento de Santa María del Oro
+18	NAY - Ayuntamiento de Santiago Ixcuintla
+19	NAY - Ayuntamiento de Tecuala
+20	NAY - Ayuntamiento de Tepic
+21	NAY - Ayuntamiento de Tuxpan
+22	NAY - Ayuntamiento de Xalisco
+23	NAY - Beneficencia Pública del Estado de Nayarit
+24	NAY - Centro de Conciliación Laboral del Estado de Nayarit
+25	NAY - Centro de Desarrollo Económico Educativo de la Mesa Del Nayar
+26	NAY - Centro de Desarrollo Tecnológico e Innovación en Tilapia A.C. (Deja de ser S.O.)
+27	NAY - Centro de Justicia Familiar
+28	NAY - Centro Nayarita de Innovación y Tranferencias de Tecnología (Deja de ser S.O.)
+29	NAY - Colegio de Bachilleres del Estado de Nayarit
+30	NAY - Colegio de Educación Profesional Técnica del Estado de Nayarit
+31	NAY - Colegio de Estudios Científicos y Tecnológicos del Estado de Nayrit
+32	NAY - Comisión de Defensa de los Derechos Humanos para el Estado de Nayarit
+33	NAY - Comisión Estatal de Agua Potable del Estado
+34	NAY - Comisión Estatal de Atención Integral a Victimas del Estado de Nayarit
+35	NAY - Comisión Estatal de Conciliación y Arbitraje Médico
+36	NAY - Comisión Forestal de Nayarit
+37	NAY - Comisíon Municipal de Derechos Humanos Bahía de Banderas, Nayarit
+38	NAY - Comisión Municipal de Derechos Humanos de Tepic
+39	NAY - Comité Administrador de la Feria Nacional de Tepic
+40	NAY - Consejo de Ciencia y Tecnología del Estado de Nayarit
+41	NAY - Consejo Estatal Contra las Adiccione
+42	NAY - Consejo Estatal para la Cultura y las Artes de Nayarit
+43	NAY - Coordinación de Asuntos Indígenes (no concreta su registro)
+44	NAY - Despacho del Ejecutivo
+45	NAY - Fideicomiso de Bahía de Banderas
+46	NAY - Fideicomiso de Promoción Turística del Estado de Nayarit
+47	NAY - Fideicomiso Irrevocable de Inversión y Administración para el Programa Especial de Financiamiento a la Vivienda para el Magisterio de...
+48	NAY - Fiscalía General del Estado de Nayarit
+49	NAY - Fondo de Fomento Industrial del Estado de Nayarit
+50	NAY - H. Congreso del Estado de Nayarit
+51	NAY - Instituto Contra las Adicciones "Marakame"
+52	NAY - Instituto de Adquisiciones, Arrendamientos y Prestación de Servicios del Estado de Nayarit
+53	NAY - Instituto de Capacitación para el Trabajo en el Estado de Nayarit
+54	NAY - Instituto de Investigación y Desarrollo Educativo de Nayarit A.C. (Deja de ser S.O.)
+55	NAY - Instituto de Justicia Laboral Burocrática del Estado de Nayarit
+56	NAY - Instituto de Planeación del Estado de Nayarit
+57	NAY - Instituto de Planeación del Estado de Nayarit (No Valid)
+58	NAY - Instituto de Transparencia y Acceso a la Información Pública del Estado
+59	NAY - Instituto Electoral del Estado de Nayarit
+60	NAY - Instituto Municipal de Planeación
+61	NAY - Instituto Municipal de Planeación de Acaponeta
+62	NAY - Instituto Municipal de Planeación de Amatlán de Cañas
+63	NAY - Instituto Municipal de Planeación de Bahía de Banderas
+64	NAY - Instituto Municipal de Planeación de Huajicori
+65	NAY - Instituto Municipal de Planeación de Ixtlán del Río
+66	NAY - Instituto Municipal de Planeación de Jala
+67	NAY - Instituto Municipal de Planeación de la Yesca
+68	NAY - Instituto Municipal de Planeación del Nayar
+69	NAY - Instituto Municipal de Planeación de Rosamorada
+70	NAY - Instituto Municipal de Planeación de Ruiz
+71	NAY - Instituto Municipal de Planeación de San Blas
+72	NAY - Instituto Municipal de Planeación de San Pedro Lagunillas
+73	NAY - Instituto Municipal de Planeación de Santa María del Oro
+74	NAY - Instituto Municipal de Planeación de Tecuala
+75	NAY - Instituto Municipal de Planeación de Tepic
+76	NAY - Instituto Municipal de Planeación de Tuxpan
+77	NAY - Instituto Municipal de Planeación de Xalisco
+78	NAY - Instituto Nayarita de Cultura Física y Deporte
+79	NAY - Instituto Nayarita de Educación para Adultos
+80	NAY - Instituto Nayarita de Infraestructura Física Educativa
+81	NAY - Instituto Nayarita de la Juventud
+82	NAY - Instituto para la Mujer Nayarita
+83	NAY - Instituto Promotor de la Vivienda de Nayarit
+84	NAY - Organismo Operador de Agua Potable,Alcantarillado y Sanamiento Del Nayar
+85	NAY - Organismo Operador de Agua Potable, Alcantarillado y Saneamiento de Tuxpan
+86	NAY - Organismo Operador de Agua Potable, Alcantarillado y Saneamiento de Xalisco
+87	NAY - Organismo Operador de Agua Potable y Alcantarillado de Ahuacatlán
+88	NAY - Organismo Operador de Agua Potable y Alcantarillado y Saneamiento de Santiago Ixcuintla
+89	NAY - Organismo Operador Municipal de Agua Potable,Alcantarillado y Saneamiento de Acaponeta
+90	NAY - Organismo Operador Municipal de Agua Potable, Alcantarillado y Saneamiento de Bahía de Banderas
+91	NAY - Organismo Operador Municipal de Agua Potable, Alcantarillado y Saneamiento de Compostela
+92	NAY - Organismo Operador Municipal de Agua Potable,Alcantarillado y Saneamiento de Ixtlán del Río
+93	NAY - Organismo Operador Municipal de Agua Potable,Alcantarillado y Saneamiento de La Yesca
+94	NAY - Organismo Operador Municipal de Agua Potable,Alcantarillado y Saneamiento de Rosamorada
+95	NAY - Organismo Operador Municipal de Agua Potable, Alcantarillado y Saneamiento de Ruiz
+96	NAY - Organismo Operador Municipal de Agua Potable, Alcantarillado y Saneamiento de San Blas
+97	NAY - Organismo Operador Municipal de Agua Potable, Alcantarillado y Saneamiento de San Pedro Lagunillas
+98	NAY - Organismo Operador Municipal de Agua Potable,Alcantarillado y Saneamiento de Santa María del Oro
+99	NAY - Organismo Operador Municipal de Agua Potable, Alcantarillado y Saneamiento de Tecuala
+100	NAY - Organismo Operador Municipal de Agua Potable Alcantarillado y Saneamiento de Huajicori
+101	NAY - Organismo Operador Municipal de Agua Potable y Alcantarillado de Amatlán de Cañas
+102	NAY - Partido Acción Nacional
+103	NAY - Partido de la Revolución Democrática
+104	NAY - Partido de la Revolución Socialista
+105	NAY - Partido del Trabajo
+106	NAY - Partido de Movimiento de Regeneracion Nacional
+107	NAY - Partido Encuentro Social
+108	NAY - Partido Local Visión y Valores en Acción
+109	NAY - Partido Movimiento Ciudadano
+110	NAY - Partido Movimiento Levántate para Nayarit
+111	NAY - Partido Nueva Alianza
+112	NAY - Partido Revolucionario Institucional
+113	NAY - Partido Verde Ecologista de Mexico
+114	NAY - Patronato de la UAN
+115	NAY - Patronato del Teatro del Pueblo
+116	NAY - Poder Judicial del Estado de Nayarit
+117	NAY - Procuradurìa Estatal de Protecciòn al Ambiente
+118	NAY - Redes Sociales Progresistas
+119	NAY - Régimen Estatal de Protección Social en Salud
+120	NAY - Secretaría de Administración y Finanzas
+121	NAY - Secretaría de Bienestar e Igualdad Sustantiva
+122	NAY - Secretaría de Desarrollo Rural
+123	NAY - Secretaría de Desarrollo Sustentable
+124	NAY - Secretaría de Economía del Gobierno del Estado de Nayarit
+125	NAY - Secretaría de Educación
+126	NAY - Secretaría de Infraestructura
+127	NAY - Secretaría del Trabajo y Justicia Laboral
+128	NAY - Secretaria de Movilidad del Estado de Nayarit
+129	NAY - Secretaría de Seguridad y Protección Ciudadana
+130	NAY - Secretaría de Turismo
+131	NAY - Secretaria Ejecutiva del Sistema Local Anticorrupción de Nayarit
+132	NAY - Secretaría General de Gobierno
+133	NAY - Secretaría para la Honestidad y Buena Gobernanza
+134	NAY - Servicios de Educación Pública del Estado de Nayarit
+135	NAY - Servicios de Salud de Nayarit
+136	NAY - Sindicato de Empleados y Trabajadores de la Universidad Autónoma de Nayarit (SETUAN)
+137	NAY - Sindicato de Prsonal Académico de la Universidad Autónoma de Nayarit (SPAUAN)
+138	NAY - Sindicato de Trabajadores del Colegio de Estudios Científicos y Tecnológicos del Estado de Nayarit (SETCECYTEN)
+139	NAY - Sindicato de Trabajadores del Teatro del Pueblo (SITTEP)
+140	NAY - Sindicato de Trabajadores de Servicios Academicos y Docentes del Colegio de Educacion Profesional Tecnica del Edo. de Nayarit (SITRA ...
+141	NAY - Sindicato Estatal de Trabajadores del Sistema para el Desarrollo Integral de la Familia (SETDIF)
+142	NAY - Sindicato único de Trabajadores al Servicio del Estado, Municipios e Instituciones Descentralizadas de Carácter Estatal (SUTSEM...
+143	NAY - Sindicato Unitario de Trabajadores de la Universidad Autónoma de Nayarit (SUNTUAN)
+144	NAY - Sistema de Agua Potable y Alcantarillado de Jala
+145	NAY - Sistema de Agua Potable y Alcantarillado de Tepic
+146	NAY - Sistema de Radio y Televisión de Nayarit
+147	NAY - Sistema Estatal de Seguridad Pública
+148	NAY - Sistema Municipal para el Desarrollo Integral de la Familia de Acaponeta
+149	NAY - Sistema Municipal para el Desarrollo Integral de la Familia de Ahuacatlán
+150	NAY - Sistema Municipal para el Desarrollo Integral de la Familia de Amatlán de Cañas
+151	NAY - Sistema Municipal para el Desarrollo Integral de la Familia de Bahía de Banderas
+152	NAY - Sistema Municipal para el Desarrollo Integral de la Familia de Compostela
+153	NAY - Sistema Municipal para el Desarrollo Integral de la Familia de Huajicori
+154	NAY - Sistema Municipal para el Desarrollo Integral de la Familia de Ixtlán del Río
+155	NAY - Sistema Municipal para el Desarrollo Integral de la Familia de Jala
+156	NAY - Sistema Municipal para el Desarrollo Integral de la Familia de La Yesca
+157	NAY - Sistema Municipal para el Desarrollo Integral de la Familia Del Nayar.
+158	NAY - Sistema Municipal para el Desarrollo Integral de la Familia de Rosamorada
+159	NAY - Sistema Municipal para el Desarrollo Integral de la Familia de Ruiz
+160	NAY - Sistema Municipal para el Desarrollo Integral de la Familia de San Blas
+161	NAY - Sistema Municipal para el Desarrollo Integral de la Familia de San Pedro Lagunillas
+162	NAY - Sistema Municipal para el Desarrollo Integral de la Familia de Santa María del Oro
+163	NAY - Sistema Municipal para el Desarrollo Integral de la Familia de Santiago Ixcuintla
+164	NAY - Sistema Municipal para el Desarrollo Integral de la Familia de Tecuala
+165	NAY - Sistema Municipal para el Desarrollo Integral de la Familia de Tepic
+166	NAY - Sistema Municipal para el Desarrollo Integral de la Familia de Tuxpan
+167	NAY - Sistema Municipal para el Desarrollo Integral de la Familia de Xalisco
+168	NAY - Sistema para el Desarrollo Integral de la Familia del Estado de Nayarit
+169	NAY - Tribunal de Justicia Administrativa de Nayarit
+170	NAY - Tribunal Estatal Electoral de Nayarit
+171	NAY - Universidad Autónoma de Nayarit
+172	NAY - Universidad Politecnica del Estado de Nayarit
+173	NAY - Universidad Tecnológica de Bahía de Banderas
+174	NAY - Universidad Tecnológica de la Costa
+175	NAY - Universidad Tecnológica de la Sierra (UTS)
+176	NAY - Universidad Tecnológica de Mazatán
+177	NAY - Universidad Tecnológica de Nayarit

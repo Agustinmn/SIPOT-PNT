@@ -1,0 +1,394 @@
+1	CHP - (Histórico) Ayuntamiento de Belisario Domínguez
+2	CHP - (Histórico) Fideicomiso Programa de Becas Nacionales para la Educación Superior (Manutención)
+3	CHP - Agencia Digital Tecnológica del Estado (Anteriormente Instituto de Ciencia, Tecnología e Innovación del Estado de Chiapas)
+4	CHP - Alberto Gonzáles Santíz
+5	CHP - Archivo General del Estado
+6	CHP - Auditoría Superior del Estado (ASE)
+7	CHP - Ayuntamiento de Acacoyagua
+8	CHP - Ayuntamiento de Acala
+9	CHP - Ayuntamiento de Acapetahua
+10	CHP - Ayuntamiento de Aldama
+11	CHP - Ayuntamiento de Altamirano
+12	CHP - Ayuntamiento de Amatán
+13	CHP - Ayuntamiento de Amatenango de la Frontera
+14	CHP - Ayuntamiento de Amatenango del Valle
+15	CHP - Ayuntamiento de Ángel Albino Corzo
+16	CHP - Ayuntamiento de Arriaga
+17	CHP - Ayuntamiento de Arriaga - SAPAM
+18	CHP - Ayuntamiento de Bejucal de Ocampo
+19	CHP - Ayuntamiento de Bella Vista
+20	CHP - Ayuntamiento de Benemérito de las Américas
+21	CHP - Ayuntamiento de Berriozábal
+22	CHP - Ayuntamiento de Berriozábal - SAPAM
+23	CHP - Ayuntamiento de Bochil
+24	CHP - Ayuntamiento de Cacahoatán
+25	CHP - Ayuntamiento de Capitán Luis Ángel Vidal
+26	CHP - Ayuntamiento de Catazajá
+27	CHP - Ayuntamiento de Chalchihuitán
+28	CHP - Ayuntamiento de Chamula
+29	CHP - Ayuntamiento de Chanal
+30	CHP - Ayuntamiento de Chapultenango
+31	CHP - Ayuntamiento de Chenalhó
+32	CHP - Ayuntamiento de Chiapa de Corzo
+33	CHP - Ayuntamiento de Chiapa de Corzo-SAPAM
+34	CHP - Ayuntamiento de Chiapilla
+35	CHP - Ayuntamiento de Chicoasén
+36	CHP - Ayuntamiento de Chicomuselo
+37	CHP - Ayuntamiento de Chilón
+38	CHP - Ayuntamiento de Cintalapa de Figueroa
+39	CHP - Ayuntamiento de Cintalapa de Figueroa - SAPAM
+40	CHP - Ayuntamiento de Cintalapa de Figueroa -Sistema DIF Municipal
+41	CHP - Ayuntamiento de Coapilla
+42	CHP - Ayuntamiento de Comitán de Domínguez
+43	CHP - Ayuntamiento de Comitán de Domínguez - COAPAM
+44	CHP - Ayuntamiento de Comitán de Domínguez - IMPLAN
+45	CHP - Ayuntamiento de Comitán de Domínguez - Sistema DIF municipal
+46	CHP - Ayuntamiento de Copainalá
+47	CHP - Ayuntamiento de El Bosque
+48	CHP - Ayuntamiento de El Parral
+49	CHP - Ayuntamiento de El Porvenir
+50	CHP - Ayuntamiento de EL Porvenir -DIF (Baja) Histórico
+51	CHP - Ayuntamiento de Emiliano Zapata
+52	CHP - Ayuntamiento de Escuintla
+53	CHP - Ayuntamiento de Francisco León
+54	CHP - Ayuntamiento de Frontera Comalapa
+55	CHP - Ayuntamiento de Frontera Hidalgo
+56	CHP - Ayuntamiento de Honduras de la Sierra
+57	CHP - Ayuntamiento de Huehuetán
+58	CHP - Ayuntamiento de Huitiupán
+59	CHP - Ayuntamiento de Huixtán
+60	CHP - Ayuntamiento de Huixtla
+61	CHP - Ayuntamiento de Huixtla - SAPAM
+62	CHP - Ayuntamiento de Ixhuatán
+63	CHP - Ayuntamiento de Ixtacomitán
+64	CHP - Ayuntamiento de Ixtapa
+65	CHP - Ayuntamiento de Ixtapangajoya
+66	CHP - Ayuntamiento de Jiquipilas
+67	CHP - Ayuntamiento de Jitotol
+68	CHP - Ayuntamiento de Juárez
+69	CHP - Ayuntamiento de La Concordia
+70	CHP - Ayuntamiento de La Grandeza
+71	CHP - Ayuntamiento de La Independencia
+72	CHP - Ayuntamiento de La Libertad
+73	CHP - Ayuntamiento de Larráinzar
+74	CHP - Ayuntamiento de Las Margaritas
+75	CHP - Ayuntamiento de Las Margaritas-SAPAM
+76	CHP - Ayuntamiento de Las Rosas
+77	CHP - Ayuntamiento de La Trinitaria
+78	CHP - Ayuntamiento de Mapastepec
+79	CHP - Ayuntamiento de Maravilla Tenejapa
+80	CHP - Ayuntamiento de Marqués de Comillas
+81	CHP - Ayuntamiento de Mazapa de Madero
+82	CHP - Ayuntamiento de Mazatán
+83	CHP - Ayuntamiento de Metapa
+84	CHP - Ayuntamiento de Mezcalapa
+85	CHP - Ayuntamiento de Mitontic
+86	CHP - Ayuntamiento de Montecristo de Guerrero
+87	CHP - Ayuntamiento de Motozintla
+88	CHP - Ayuntamiento de Nicolás Ruíz
+89	CHP - Ayuntamiento de Ocosingo
+90	CHP - Ayuntamiento de Ocosingo - DIF
+91	CHP - Ayuntamiento de Ocosingo - SAPAM
+92	CHP - Ayuntamiento de Ocotepec
+93	CHP - Ayuntamiento de Ocozocoautla de Espinosa
+94	CHP - Ayuntamiento de Ostuacán
+95	CHP - Ayuntamiento de Osumacinta
+96	CHP - Ayuntamiento de Oxchuc
+97	CHP - Ayuntamiento de Palenque
+98	CHP - Ayuntamiento de Palenque-DIF
+99	CHP - Ayuntamiento de Palenque-SAPAM
+100	CHP - Ayuntamiento de Pantelhó
+101	CHP - Ayuntamiento de Pantepec
+102	CHP - Ayuntamiento de Pichucalco
+103	CHP - Ayuntamiento de Pichucalco - SAPAM
+104	CHP - Ayuntamiento de Pijijiapan
+105	CHP - Ayuntamiento de Pueblo Nuevo Solistahuacán
+106	CHP - Ayuntamiento de Rayón
+107	CHP - Ayuntamiento de Reforma
+108	CHP - Ayuntamiento de Rincón Chamula San Pedro
+109	CHP - Ayuntamiento de Sabanilla
+110	CHP - Ayuntamiento de Salto de Agua
+111	CHP - Ayuntamiento de San Andres Duraznal
+112	CHP - Ayuntamiento de San Cristóbal de las Casas
+113	CHP - Ayuntamiento de San Cristóbal de las Casas-DIF
+114	CHP - Ayuntamiento de San Cristóbal de las Casas-SAPAM
+115	CHP - Ayuntamiento de San Fernando
+116	CHP - Ayuntamiento de San Juan Cancuc
+117	CHP - Ayuntamiento de San Lucas
+118	CHP - Ayuntamiento de Santiago el Pinar
+119	CHP - Ayuntamiento de Siltepec
+120	CHP - Ayuntamiento de Simojovel
+121	CHP - Ayuntamiento de Sitalá
+122	CHP - Ayuntamiento de Socoltenango
+123	CHP - Ayuntamiento de Solosuchiapa
+124	CHP - Ayuntamiento de Soyaló
+125	CHP - Ayuntamiento de Suchiapa
+126	CHP - Ayuntamiento de Suchiate
+127	CHP - Ayuntamiento de Suchiate -DIF
+128	CHP - Ayuntamiento de Suchiate - SAPAM
+129	CHP - Ayuntamiento de Sunuapa
+130	CHP - Ayuntamiento de Tapachula
+131	CHP - Ayuntamiento de Tapachula - COAPATAP
+132	CHP - Ayuntamiento de Tapachula - DIF
+133	CHP - Ayuntamiento de Tapalapa
+134	CHP - Ayuntamiento de Tapilula
+135	CHP - Ayuntamiento de Tecpatán
+136	CHP - Ayuntamiento de Tenejapa
+137	CHP - Ayuntamiento de Teopisca
+138	CHP - Ayuntamiento de Tila
+139	CHP - Ayuntamiento de Tila - DIF
+140	CHP - Ayuntamiento de Tonalá
+141	CHP - Ayuntamiento de Tonalá - SAPAM
+142	CHP - Ayuntamiento de Totolapa
+143	CHP - Ayuntamiento de Totolapa - DIF (Baja) Histórico
+144	CHP - Ayuntamiento de Tumbalá
+145	CHP - Ayuntamiento de Tuxtla Chico
+146	CHP - Ayuntamiento de Tuxtla Gutiérrez
+147	CHP - Ayuntamiento de Tuxtla Gutiérrez -DIF
+148	CHP - Ayuntamiento de Tuxtla Gutiérrez - ICIPLAM
+149	CHP - Ayuntamiento de Tuxtla Gutiérrez - SMAPA
+150	CHP - Ayuntamiento de Tuzantán
+151	CHP - Ayuntamiento de Tzimol
+152	CHP - Ayuntamiento de Unión Juárez
+153	CHP - Ayuntamiento de Venustiano Carranza
+154	CHP - Ayuntamiento de Villa Comaltitlán
+155	CHP - Ayuntamiento de Villacomaltitlán - SAPAM
+156	CHP - Ayuntamiento de Villacorzo
+157	CHP - Ayuntamiento de Villaflores
+158	CHP - Ayuntamiento de Villaflores - SAPAM
+159	CHP - Ayuntamiento de Yajalón
+160	CHP - Ayuntamiento de Zinacantán
+161	CHP - Candidato Independiente C. Ángel Albíno Corzo Velasco (Histórico)
+162	CHP - Candidato Independiente C. Antonio Aguilón López (Histórico)
+163	CHP - Candidato Independiente C. Arturo Alonso Escobar Rosas (Histórico)
+164	CHP - Candidato Independiente C. Corazón Gómez Consuegra (Histórico)
+165	CHP - Candidato Independiente C. Daniel Pérez Pérez (histórico)
+166	CHP - Candidato Independiente C. Darinel Vera Ruiz (Histórico)
+167	CHP - Candidato Independiente C. Ervin Marroquín López (Histórico)
+168	CHP - Candidato Independiente C. Eugenio de Jesús Jiménez López (Histórico)
+169	CHP - Candidato Independiente C. Evelio cruz rasgado (Historico)
+170	CHP - Candidato Independiente C. Francisco Javier Avendaño Pérez (Histórico)
+171	CHP - Candidato Independiente C. Grisel Aquino Ruiz (Histórico)
+172	CHP - Candidato Independiente C. Héctor Escandón Ochoa (Histórico)
+173	CHP - Candidato Independiente C. Isaías Ovilla Coyazo (Histórico)
+174	CHP - Candidato Independiente C. José Carlos Rasgado Vicente (Histórico)
+175	CHP - Candidato Independiente C. Juan Moctezuma García gordillo (Histórico)
+176	CHP - Candidato Independiente C. Karen Dianne Limón Padilla (Histórico)
+177	CHP - Candidato Independiente C. Manuel de Jesús Cruz Espinosa (Histórico)
+178	CHP - Candidato Independiente C. Marcos Antonio Aguilar García (Histórico)
+179	CHP - Candidato Independiente C. Mario Alegría Flores (Histórico)
+180	CHP - Candidato Independiente C. Merced Suriano Hernández (Histórico)
+181	CHP - Candidato Independiente C. Narbel Aguilar de la Cruz (Histórico)
+182	CHP - Candidato Independiente C. Oscar Alberto Sánchez Gúmeta (Histórico)
+183	CHP - Candidato Independiente C. Raymundo de Jesús Zenteno Mijangos (Histórico)
+184	CHP - Candidato Independiente C. Samuel Ortiz López (Histórico)
+185	CHP - Candidato Independiente C. Samuel Roque Guillen (Histórico)
+186	CHP - Candidato Independiente C. Texan Molina Acero (Histórico)
+187	CHP - Candidato Independiente C. Víctor Hugo Guzmán Guzmán (Histórico)
+188	CHP - Candidato Independiente CP. Jorge Luis Martínez Salazar (Histórico)
+189	CHP - Candidato Independiente CP. Mario Sánchez Gómez (Histórico)
+190	CHP - Candidato Independiente Ing. Belisario Ibarra Argueta (Histórico)
+191	CHP - Candidato Independiente Ing. Jesús Abundio Narcia Coello (Histórico)
+192	CHP - Candidato Independiente Prof. Salvador Osvaldo Velazco García (Histórico)
+193	CHP - Centro de Conciliación Laboral del Estado de Chiapas
+194	CHP - Centro de Rehabilitación e Inclusión Infantil - CRIT Chiapas(Baja) Histórico
+195	CHP - Centro Estatal de Control de Confianza Certificado del Estado de Chiapas
+196	CHP - Centro Estatal de Control de Confianza Certificado del Estado de Chiapas (Información 2015-2018) Histórico
+197	CHP - Centro Estatal de Prevención Social de la Violencia y Participación Ciudadana
+198	CHP - Centro Estatal de Trasplantes del Estado de Chiapas
+199	CHP - Centro Regional de Formación Docente e Investigación Educativa (Histórico)
+200	CHP - Colegio de Bachilleres de Chiapas
+201	CHP - Colegio de Educación Profesional Técnica del Estado de Chiapas
+202	CHP - Colegio de Estudios Científicos y Tecnológicos del Estado de Chiapas
+203	CHP - Comisión de Caminos e Infraestructura Hidraulica
+204	CHP - Comisión de Caminos e Infraestructura Hidraulica (Información 2015-2018) Histórico
+205	CHP - Comisión Ejecutiva Estatal de Atención a Víctimas
+206	CHP - Comisión Estatal De Búsqueda De Personas.
+207	CHP - Comisión Estatal de Conciliación y Arbitraje Médico del Estado de Chiapas
+208	CHP - Comisión Estatal de los Derechos Humanos
+209	CHP - Comisión Estatal de Mejora Regulatoria
+210	CHP - Comité de Fomento y Protección Pecuaria del Estado de Chiapas, A.C
+211	CHP - Comité Estatal de Sanidad Acuícola de Chiapas
+212	CHP - Comité Estatal de Sanidad Vegetal de Chiapas (CESAVECH)
+213	CHP - Confía Chiapas (Baja) Histórico
+214	CHP - Congreso del Estado de Chiapas
+215	CHP - Consejeria Juridica del Gobernador
+216	CHP - Consejo de Ciencia y Tecnología del Estado de Chiapas (Información 2015-2018) Histórico
+217	CHP - Consejo Estatal para las Culturas y las Artes de Chiapas
+218	CHP - Coordinación de Fomento Agroalimentario Sustentable (Baja) Histórico
+219	CHP - Coordinación Ejecutiva del Fondo de Fomento Agropecuario del Estado de Chiapas "FOFAE" (Baja) Histórico
+220	CHP - Coordinación Ejecutiva del Fondo de Fomento Económico Chiapas Solidario (Baja) Histórico
+221	CHP - Coordinación Estatal para el Mejoramiento del Zoológico "Miguel Álvarez del Toro"
+222	CHP - Esteban Guadalupe Morales Moreno - Candidato Independiente a la Presidencia Municipal de San Cristóbal de las Casas, Chiapas -(Histór...
+223	CHP - Fideicomiso "Una mano... una Esperanza"
+224	CHP - Fideicomiso de Apoyo a las Necesidades de los Cafeticultores del Estado de Chiapas
+225	CHP - Fideicomiso de Apoyo para la Atención de Personas Mayores de 64 años (Histórico)
+226	CHP - Fideicomiso de Estrategias Financieras Multisectoriales (Histórico)
+227	CHP - Fideicomiso de la Zona Metropolitana del Estado de Chiapas(Baja) Histórico
+228	CHP - Fideicomiso de Prestaciones Seguridad Social para los Trabajadores del Sector Policial Operativo al Servicio del Poder Ejecutivo del ...
+229	CHP - Fideicomiso Fondo de Apoyo para la Ejecución del Programa Complemento Alimentario en el Estado de Chiapas - Secretaría de Bienestar (...
+230	CHP - Fideicomiso Fondo de Participación Social Chiapas (FOPASCH) Histórico
+231	CHP - Fideicomiso Fondo de Protección para Vehículos Propiedad del Poder Ejecutivo Estatal (FOPROVEP) - Oficialía Mayor del Estado de Chiap...
+232	CHP - Fideicomiso Fondo Estatal de Fomento Industrial (FEFICH) - Secretaría de Economía y del Trabajo
+233	CHP - Fideicomiso Irrevocable de Administracion e Inversion Fondo Contra la Delincuencia Organizada (FOCODO)
+234	CHP - Fideicomiso Irrevocable de Inversión y Administración para el Programa Especial de Financiamiento a la Vivienda para el Magisterio de...
+235	CHP - Fideicomiso para el Desarrollo Estratégico del Aeropuerto Internacional "Ángel Albino Corzo" - Secretaría de Obras Públicas (históric...
+236	CHP - Fideicomiso para el Desarrollo Social Integrado y Sostenible Chiapas, México (Baja) Histórico
+237	CHP - Fideicomiso para el Establecimiento de Parques Agroindustriales en el Estado de Chiapas (FIDEPAR) - Secretaría de Economía y del Trab...
+238	CHP - Fideicomiso para la Habilitación y Administración del Recinto Fiscalizado Estratégico Puerto Chiapas (Baja) Histórico
+239	CHP - Fideicomiso para la Implementación del Sistema de Justicia Penal en el Estado de Chiapas (Baja) Histórico
+240	CHP - Fideicomiso para la Modernización del Transporte Público del Estado
+241	CHP - Fideicomiso para la Promoción Difusión y Comercialización de los Atractivos Turísticos del Estado de Chiapas
+242	CHP - Fideicomiso Programa de Fortalecimiento a la Excelencia Educativa (PROFEXCE) UNACH
+243	CHP - Fideicomiso Programa Escuelas de Calidad "PEC" Histórico
+244	CHP - Fideicomiso Programa para el Desarrollo Profesional Docente de la Universidad Autónoma de Ciencias y Artes de Chiapas (PRODEPUNICACH)
+245	CHP - Fideicomiso Público de Administración e Inversión Fondo Estatal Ambiental (FESA)
+246	CHP - Fideicomiso Público de Inversión, Administración y Fuente de Pago, Fondo para la Gestión Integral de Riesgos de Desastres (FOGIRD)
+247	CHP - Fideicomiso Público de Inversión y Administración de Apoyo de Tecnologías de la Información para el personal al Servicio de la Educac...
+248	CHP - Fideicomiso Público Estatal Fondo para la Educación de Chiapas (FECH) - Sistema para el Desarrollo Integral de la Familia del Estado ...
+249	CHP - Fideicomiso Público Liquidador de Activos Financieros y de Financiamiento a Sectores Estratégicos (FLAFFISE) Histórico
+250	CHP - Fideicomiso UNACH PRODEP
+251	CHP - Fideicomiso UNICACH PFCE (Histórico)
+252	CHP - Fiscalía General del Estado
+253	CHP - Fondo de Apoyo a la Economía de las Mujeres (FAEM)
+254	CHP - Fondo de Apoyo a Periodistas (FAP) - Secretaría de Bienestar (Histórico)
+255	CHP - Fondo de Financiamiento para las Empresas de Solidaridad del Sector Artesanal de Chiapas
+256	CHP - Fondo de Fomento Agropecuario del Estado de Chiapas
+257	CHP - Fondo de Fomento Económico Chiapas Solidario (FOFOE)
+258	CHP - Fondo de Seguridad Pública del Estado de Chiapas - FOSEG
+259	CHP - Fondo Estatal de Desarrollo Comercial Agropecuario y Agroindustrial (FEDCAA)
+260	CHP - Fondo para el Desarrollo Forestal Sustentable del Estado de Chiapas (Baja) Histórico
+261	CHP - Gubernatura
+262	CHP - Guillermina Fernández Solís - Candidata Independiente a la Presidencia Municipal de Villa Comaltitlán , Chiapas - (Histórico)
+263	CHP - Hugo Antonio Espinosa Guillén - Candidato Independiente a la Presidencia Municipal de Tuxtla Gutiérrez, Chiapas -(Histórico)
+264	CHP - Instituto Amanecer (Información 2015-2018) Histórico
+265	CHP - Instituto Casa de las Artesanías de Chiapas
+266	CHP - Instituto Chiapaneco de Educación para Jóvenes y Adultos
+267	CHP - Instituto de Administración Pública del Estado de Chiapas, A. C. ( Histórico)
+268	CHP - Instituto de Bienestar Social (Información 2015-2018) Histórico
+269	CHP - Instituto de Bomberos del Estado de Chiapas.
+270	CHP - Instituto de Capacitación y Vinculación Tecnológica del Estado de Chiapas
+271	CHP - Instituto de Comunicación Social del Estado de Chiapas (Información 2015-2018) Histórico
+272	CHP - Instituto de Comunicación Social y Relaciones Publicas del Estado de Chiapas
+273	CHP - Instituto de Desarrollo de Energías del Estado de Chiapas (Baja) Histórico
+274	CHP - Instituto de Elecciones y Participación Ciudadana
+275	CHP - Instituto de Estudios de Posgrado (Histórico)
+276	CHP - Instituto de Evaluación, Profesionalización y Promoción Docente de Chiapas (IEPPDCH)
+277	CHP - Instituto de Formación Policial
+278	CHP - Instituto de la Consejería Jurídica y de Asistencia Legal (Informaciión 2015-2018) Histórico
+279	CHP - Instituto de la Infraestructura Física Educativa del Estado de Chiapas
+280	CHP - Instituto de la Juventud del Estado de Chiapas
+281	CHP - Instituto del Café de Chiapas
+282	CHP - Instituto del Deporte del Estado de Chiapas
+283	CHP - Instituto de Patrimonio del Estado
+284	CHP - Instituto de Protección Social y Beneficencia Pública del Estado de Chiapas
+285	CHP - Instituto de Seguridad Social de los Trabajadores del Estado de Chiapas
+286	CHP - Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Chiapas
+287	CHP - Instituto Estatal de Evaluación e Innovación Educativa (Histórico)
+288	CHP - Instituto Estatal del Agua
+289	CHP - Instituto Tecnológico Superior de Cintalapa
+290	CHP - Julio César Nañez Gutiérrez - Candidato Independiente a la Presidencia Municipal de Francisco León, Chiapas -(Histórico)
+291	CHP - Junta Local de Conciliación y Arbitraje
+292	CHP - Leobardo López Morales - Candidato Independiente a la Presidencia Municipal de Metapa
+293	CHP - Marco Antonio Gómez Morales - Candidato Independiente a la Presidencia Municipal de Soyaló, Chiapas - Histórico
+294	CHP - Oficialía Mayor del Estado de Chiapas.
+295	CHP - Oficina de Convenciones y Visitantes (Información 2015-2018) Histórico
+296	CHP - Oficina de Convenciones y Visitantes del Estado de Chiapas
+297	CHP - Oficina del Gobernador (Información 2015-2018) Histórico
+298	CHP - Parque Agroindustrial para el Desarrollo Regional del Sureste Chiapas (Histórico)
+299	CHP - Partido Acción Nacional
+300	CHP - Partido Chiapas Unido
+301	CHP - Partido de la Revolución Democrática
+302	CHP - Partido del Trabajo
+303	CHP - Partido Encuentro Social (Baja) Histórico
+304	CHP - Partido Encuentro Solidario Chiapas
+305	CHP - Partido Fuerza por Mexico
+306	CHP - Partido Movimiento Ciudadano
+307	CHP - Partido Movimiento Regeneración Nacional
+308	CHP - Partido Nueva Alianza (Historico)
+309	CHP - Partido Podemos Mover a Chiapas
+310	CHP - Partido Popular Chiapaneco
+311	CHP - Partido Redes Sociales Progresistas Chiapas
+312	CHP - Partido Revolucionario Institucional
+313	CHP - Partido Verde Ecologista de México
+314	CHP - Porfirio Correa López - Candidato Independiente a la Presidencia Municipal de La Libertad, Chiapas
+315	CHP - Procuraduria Ambiental del Estado de Chiapas
+316	CHP - Procuraduría Ambiental en el Estado de Chiapas (Información 2015-2018) Histórico
+317	CHP - Promotora de Vivienda Chiapas
+318	CHP - Prueba
+319	CHP - Régimen Estatal de Protección Social en Salud (Histórico)
+320	CHP - Ricardo de Jesús González Santizo - Candidato Independiente a la Presidencia Municipal de Tuxtla Gutiérrez, Chiapas - (Histórico)
+321	CHP - Samuel Ortiz López - Candidato Independiente a la Presidencia Municipal de Soyaló, Chiapas - (Histórico)
+322	CHP - Secretaría de Agricultura, Ganaderia y Pesca - SAGyP
+323	CHP - Secretaria de Anticorrupción y Buen Gobierno (Anteriormente Secretaría de la Honestidad y Función Pública)
+324	CHP - Secretaría de Desarrollo Social (Información 2015-2018) Histórico
+325	CHP - Secretaría de Economía (Información 2015-2018) Histórico
+326	CHP - Secretaría de Economia y del Trabajo
+327	CHP - Secretaría de Educación
+328	CHP - Secretaría de Finanzas (Anteriormente Secretaría de Hacienda)
+329	CHP - Secretaría de Infraestructura (Anteriormente Secretaría de Obras Publicas- SOP)
+330	CHP - Secretaría de la Juventud, Recreación y Deporte (Información 2015-2018) Histórico
+331	CHP - Secretaría de la Mujer e Igualdad de Género (Anteriormente Secretaría de Igualdad de Genero-SEIGEN)
+332	CHP - Secretaría del Campo (Información 2015-2018) Histórico
+333	CHP - Secretaría del Humanismo (Anteriormente Secretaría de Bienestar)
+334	CHP - Secretaría del Trabajo (Información 2015-2018) Histórico
+335	CHP - Secretaría de Medio Ambiente e Historia Natural - SEMAHN
+336	CHP - Secretaría de Movilidad y Transporte
+337	CHP - Secretaría de Obra Pública y Comunicaciones (Información 2015-2018) Histórico
+338	CHP - Secretaría de Pesca y Acuacultura (Baja) Histórico
+339	CHP - Secretaría de Protección Civil / Instituto para la Gestión Integral de Riesgos de Desastres del Estado de Chiapas
+340	CHP - Secretaría de Seguridad del Pueblo (Anteriormente Secretaría de Seguridad y Protección Ciudadana)
+341	CHP - Secretaría de Transportes (Información 2015-2018) Histórico
+342	CHP - Secretaría de Turismo-SECTUR
+343	CHP - Secretariado Ejecutivo del Sistema Estatal de Seguridad Publica
+344	CHP - Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Chiapas (SESAECH)
+345	CHP - Secretaría General de Gobierno y Mediación (Anteriormente Secretaría General de Gobierno)
+346	CHP - Secretaría-Instituto de Salud
+347	CHP - Secretaría para el Desarrollo de la Frontera Sur y Enlace para la Cooperación Internacional (Baja) Histórico
+348	CHP - Secretaría para el Desarrollo Sustentable de los Pueblos Indígenas - SEDESPI
+349	CHP - Secretaría para el Desarrollo y Empoderamiento de las Mujeres (Información 2015-2018) Histórico
+350	CHP - Sindicato de Empleados Administrativos de la Universidad de Ciencias y Artes de Chiapas (SEAUNICACH)
+351	CHP - Sindicato del Comite de Agua Potable y Alcantarillado en Defensa de los Trabajadores (Histórico)
+352	CHP - Sindicato de los Trabajadores del Sistema para el Desarrollo Integral de la Familia del Municipio de Tuxtla Gutiérrez, Chiapas
+353	CHP - Sindicato del Personal Académico de la Universidad Autónoma de Chiapas (SPAUNACH)
+354	CHP - Sindicato del Personal Académico de la Universidad de Ciencias y Artes de Chiapas (SPAUNICACH)
+355	CHP - Sindicato de Trabajadores Académicos de la Universidad de Ciencias y Artes de Chiapas (SITAUNICACH)
+356	CHP - Sindicato de Trabajadores Administrativos de la Universidad Autónoma de Chiapas (STAUNACH)
+357	CHP - Sindicato de Trabajadores al Servicio del Gobierno del Estado de Chiapas
+358	CHP - Sindicato de Trabajadores al Servicio del Sistema de Agua Potable y Alcantarillado Municipal - SITRASSAPAM
+359	CHP - Sindicato de Trabajadores Chiapanecos al Servicio del Ayuntamiento de Tuxtla Gutiérrez, Chiapas (SITRACHISA)
+360	CHP - Sindicato de Trabajadores del Sistema de Agua Potable y Alcantarillado de Tuxtla Gutiérrez, Chiapas (STSMAPA)
+361	CHP - Sindicato Independiente de Trabajadores al Servicio del Municipio de San Cristobal de las Casas (SUTRAM)
+362	CHP - Sindicato Único de Trabajadores al Servicio del Honorable Ayuntamiento de Ocosingo, Chiapas
+363	CHP - Sindicato Único de Trabajadores al Servicio del Instituto de Seguridad Social de los Trabajadores del Estado de Chiapas (SUTSISSTECH)
+364	CHP - Sindicato Unico de Trabajadores al Servicio del Municipio de Tapachula
+365	CHP - Sindicato Único de Trabajadores al Servicio del Municipio de Villaflores Chiapas (SUTSMV)
+366	CHP - Sindicato Único de Trabajadores al Servicio del Poder Legislativo del Congreso del Estado de Chiapas (STSPL)
+367	CHP - Sindicato Único de Trabajadores de la Universidad Intercultural de Chiapas (SUTUNICH)
+368	CHP - Sindicato Único de Trabajadores del Sistema de Agua Potable y Alcantarillado de Tuxtla Gutiérrez, Chiapas (SUTSAPA)
+369	CHP - Sindicato Unico de Trabajadores del Sistema para el Desarrollo Integral de la Familia del Municipio de Tuxtla Gutiérrez, Chiapas (SUT...
+370	CHP - Sindicato Unico de Trabajadores Municipales de San Cristobal de las Casas, Chiapas (Histórico)
+371	CHP - Sindicato Único de Trabajadores y Empleados al Servicio del Honorable Ayuntamiento de Tuxtla Gutiérrez, Chiapas (SUTESA)
+372	CHP - Sindicato Único Independiente del Colegio de Bachilleres de Chiapas (SUICOBACH)
+373	CHP - Sindicato Unido de Trabajadores del Ayuntamiento de Tuxtla Gutiérrez, Chiapas (SUTRA)
+374	CHP - Sistema Chiapaneco de Radio, Televisión y Cinematografía
+375	CHP - Sistema para el Desarrollo Integral de la Familia del Estado de Chiapas
+376	CHP - Sociedad Operadora del Aeropuerto Internacional Ángel Albino Corzo
+377	CHP - Sociedad Operadora de la Torre Chiapas S.A. de C.V.
+378	CHP - Talleres Gráficos de Chiapas
+379	CHP - Transparencia para el Pueblo de Chiapas (TPCH)
+380	CHP - Tribunal Administrativo del Poder Judicial del Estado de Chiapas (Histórico)
+381	CHP - Tribunal Constitucional (Histórico)
+382	CHP - Tribunal de justicia Administrativa (información 2019) Histórico
+383	CHP - Tribunal de Justicia Administrativa del Estado de Chiapas (TJAECH)
+384	CHP - Tribunal del Trabajo Burocrático (Histórico)
+385	CHP - Tribunal Electoral del Estado de Chiapas (TEECH)
+386	CHP - Tribunal Superior de Justicia - Consejo de la Judicatura.
+387	CHP - Ulises Pérez Cruz
+388	CHP - Unión Sindical de Empleados y Trabajadores del Honorable Ayuntamiento Municipal de Suchiate, Chiapas (USETHAS)
+389	CHP - Universidad Autónoma de Chiapas
+390	CHP - Universidad Autónoma de Ciencias y Artes de Chiapas (UNICACH)
+391	CHP - Universidad Intercultural de Chiapas
+392	CHP - Universidad Politécnica de Chiapas
+393	CHP - Universidad Politécnica de Tapachula
+394	CHP - Universidad Tecnológica de la Selva

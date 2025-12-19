@@ -1,0 +1,365 @@
+1	PUE - Agencia de Energía del Estado de Puebla
+2	PUE - Auditoría Superior del Estado de Puebla
+3	PUE - Benemérita Universidad Autónoma de Puebla
+4	PUE - Capital de la Tecnología y Sostenibilidad
+5	PUE - Carreteras de Cuota Puebla
+6	PUE - Centro de Capacitación Esperanza Azteca, la Constancia Mexicana
+7	PUE - Centro de Conciliación Laboral del Estado de Puebla
+8	PUE - Centro Empresarial de Puebla, S.P. (Extinto)
+9	PUE - Colegio de Bachilleres del Estado de Puebla
+10	PUE - Colegio de Educación Profesional Técnica del Estado de Puebla
+11	PUE - Colegio de Estudios Científicos y Tecnológicos del Estado de Puebla
+12	PUE - Comisión de Derechos Humanos del Estado de Puebla
+13	PUE - Comisión Ejecutiva Estatal de Atención a Víctimas
+14	PUE - Comisión Estatal de Agua y Saneamiento del Estado de Puebla
+15	PUE - Comité Administrador Poblano para la Construcción de Espacios Educativos
+16	PUE - Comité Estatal de Participación Ciudadana del Sistema Anticorrupción del Estado de Puebla
+17	PUE - Consejo de Ciencia y Tecnología del Estado de Puebla (Baja del Padrón SO 12.03.25)
+18	PUE - Consejo Estatal de Coordinación del Sistema Nacional de Seguridad Pública
+19	PUE - Convenciones y Parques
+20	PUE - Coordinación Estatal de Transparencia y Gobierno Abierto (extinto)
+21	PUE - Coordinación General de Comunicación y Agenda Digital
+22	PUE - Corporación Auxiliar de Policía de Protección Ciudadana
+23	PUE - CRIT Puebla (Fundación Teletón)
+24	PUE - Ejecutivo del Estado
+25	PUE - Fideicomiso BRT Puebla Cuenca Norte-Sur(extinto)
+26	PUE - Fideicomiso Casa de Jóvenes en Progreso
+27	PUE - Fideicomiso con el Banco del Bajío S.A. de C.V.15898-06-267
+28	PUE - Fideicomiso de Garantía Para el cumplimiento de las Obligaciones y Empréstitos Contraídos en Forma Directa y Contingente por el Edo y...
+29	PUE - Fideicomiso del Centro de Especialización de Recursos Humanos de Alto Nivel en el Sector Automotriz (Baja del Padrón SO 12.02.25)
+30	PUE - Fideicomiso del Estado de Puebla para la Implementación del Sistema de Justicia Penal (Baja del Padrón SO 17.07.24->Secretaría de Gob...
+31	PUE - Fideicomiso del Programa de Becas Nacionales para la Educación Superior Manutención Puebla (Baja de Padrón SO 01.11.23)
+32	PUE - Fideicomiso denominado Programa de Fortalecimiento de la Calidad en Instituciones Educativas (PROFOCIE)(extinto)
+33	PUE - Fideicomiso de Pensiones y Jubilaciones
+34	PUE - Fideicomiso Fondo para el cumplimiento de la Recomendación 2VG / 2014, emitida por la C.N.D.H.(extinto)
+35	PUE - Fideicomiso Fondo para el cumplimiento de la recomendación 78/2017, emitida por la Comisión Nacional de los Derechos Humanos
+36	PUE - Fideicomiso Irrevocable de Administración y Fuente de Pago F/0144
+37	PUE - Fideicomiso Irrevocable de Administración y Pago (FAIS)
+38	PUE - Fideicomiso Irrevocable de Inversión y Administración denominado "Insumos a Tiempo" (Extinto)
+39	PUE - Fideicomiso Irrevocable F/0023 (Deuda Pública)
+40	PUE - Fideicomiso para el Desarrollo Energético Sustentable del Estado de Puebla
+41	PUE - Fideicomiso para el Desarrollo Regional del Sur Sureste FIDESUR (extinto)
+42	PUE - Fideicomiso para la Conservación de Parques a Cargo del Gobierno del Estado de Puebla
+43	PUE - Fideicomiso Programa de Fortalecimiento a la Excelencia Educativa (PROFEXCE)(extinto)
+44	PUE - Fideicomiso Público de Administración y Garantía denominado Fondo para el Fortalecimiento de la Microempresa
+45	PUE - Fideicomiso Público Denominado "Comisión Estatal de Vivienda de Puebla"
+46	PUE - Fideicomiso Público Denominado Banco Estatal de Tierra
+47	PUE - Fideicomiso Público Programa Escuelas de Calidad del Estado de Puebla (Baja del Padron SO 29.01.25)
+48	PUE - Fideicomiso SAR de los trabajadores de ISSSTEP
+49	PUE - Fideicomiso Todos a la Escuela
+50	PUE - Fiscalía General del Estado
+51	PUE - Fondo de Aportaciones para la Infraestructura Social Municipal (Baja del Padrón SO)
+52	PUE - Fondo de Apoyo al programa Estatal de Tecnologías Educativas y de la Información para el Magisterio de Educación Básica del Estado de...
+53	PUE - Fondo de Infraestructura Deportiva(extinto)
+54	PUE - Fondo de Pavimentación y Desarrollo Municipal (extinto)
+55	PUE - Fondo de Seguridad Pública del Estado de Puebla (extinto)
+56	PUE - Fondo Fomento Agropecuario del Estado de Puebla
+57	PUE - Fondo Metropolitano de Tehuacán (Baja de Padrón SO 01.11.23)
+58	PUE - Fondo Metropolitano Puebla (Baja del Padrón SO 25.09.24)
+59	PUE - Fondo Puebla
+60	PUE - H. Ayuntamiento de Acajete
+61	PUE - H. Ayuntamiento de Acateno
+62	PUE - H. Ayuntamiento de Acatlán
+63	PUE - H. Ayuntamiento de Acatzingo
+64	PUE - H. Ayuntamiento de Acteopan
+65	PUE - H. Ayuntamiento de Ahuacatlán
+66	PUE - H. Ayuntamiento de Ahuatlán
+67	PUE - H. Ayuntamiento de Ahuazotepec
+68	PUE - H. Ayuntamiento de Ahuehuetitla
+69	PUE - H. Ayuntamiento de Ajalpan
+70	PUE - H. Ayuntamiento de Albino Zertuche
+71	PUE - H. Ayuntamiento de Aljojuca
+72	PUE - H. Ayuntamiento de Altepexi
+73	PUE - H. Ayuntamiento de Amixtlán
+74	PUE - H. Ayuntamiento de Amozoc
+75	PUE - H. Ayuntamiento de Aquixtla
+76	PUE - H. Ayuntamiento de Atempan
+77	PUE - H. Ayuntamiento de Atexcal
+78	PUE - H. Ayuntamiento de Atlequizayan
+79	PUE - H. Ayuntamiento de Atlixco
+80	PUE - H. Ayuntamiento de Atoyatempan
+81	PUE - H. Ayuntamiento de Atzala
+82	PUE - H. Ayuntamiento de Atzitzihuacán
+83	PUE - H. Ayuntamiento de Atzitzintla
+84	PUE - H. Ayuntamiento de Axutla
+85	PUE - H. Ayuntamiento de Ayotoxco de Guerrero
+86	PUE - H. Ayuntamiento de Calpan
+87	PUE - H. Ayuntamiento de Caltepec
+88	PUE - H. Ayuntamiento de Camocuautla
+89	PUE - H. Ayuntamiento de Cañada Morelos
+90	PUE - H. Ayuntamiento de Caxhuacan
+91	PUE - H. Ayuntamiento de Chalchicomula de Sesma
+92	PUE - H. Ayuntamiento de Chapulco
+93	PUE - H. Ayuntamiento de Chiautla
+94	PUE - H. Ayuntamiento de Chiautzingo
+95	PUE - H. Ayuntamiento de Chichiquila
+96	PUE - H. Ayuntamiento de Chiconcuautla
+97	PUE - H. Ayuntamiento de Chietla
+98	PUE - H. Ayuntamiento de Chigmecatitlán
+99	PUE - H. Ayuntamiento de Chignahuapan
+100	PUE - H. Ayuntamiento de Chignautla
+101	PUE - H. Ayuntamiento de Chila
+102	PUE - H. Ayuntamiento de Chila de la Sal
+103	PUE - H. Ayuntamiento de Chilchotla
+104	PUE - H. Ayuntamiento de Chinantla
+105	PUE - H. Ayuntamiento de Coatepec
+106	PUE - H. Ayuntamiento de Coatzingo
+107	PUE - H. Ayuntamiento de Cohetzala
+108	PUE - H. Ayuntamiento de Cohuecan
+109	PUE - H. Ayuntamiento de Coronango
+110	PUE - H. Ayuntamiento de Coxcatlán
+111	PUE - H. Ayuntamiento de Coyomeapan
+112	PUE - H. Ayuntamiento de Coyotepec
+113	PUE - H. Ayuntamiento de Cuapiaxtla de Madero
+114	PUE - H. Ayuntamiento de Cuautempan
+115	PUE - H. Ayuntamiento de Cuautinchan
+116	PUE - H. Ayuntamiento de Cuautlancingo
+117	PUE - H. Ayuntamiento de Cuayuca de Andrade
+118	PUE - H. Ayuntamiento de Cuetzalan del Progreso
+119	PUE - H. Ayuntamiento de Cuyoaco
+120	PUE - H. Ayuntamiento de Domingo Arenas
+121	PUE - H. Ayuntamiento de Eloxochitlán
+122	PUE - H. Ayuntamiento de Epatlán
+123	PUE - H. Ayuntamiento de Esperanza
+124	PUE - H. Ayuntamiento de Francisco Z. Mena
+125	PUE - H. Ayuntamiento de General Felipe Ángeles
+126	PUE - H. Ayuntamiento de Guadalupe
+127	PUE - H. Ayuntamiento de Guadalupe Victoria
+128	PUE - H. Ayuntamiento de Hermenegildo Galeana
+129	PUE - H. Ayuntamiento de Honey
+130	PUE - H. Ayuntamiento de Huaquechula
+131	PUE - H. Ayuntamiento de Huatlatlauca
+132	PUE - H. Ayuntamiento de Huauchinango
+133	PUE - H. Ayuntamiento de Huehuetla
+134	PUE - H. Ayuntamiento de Huehuetlán el Chico
+135	PUE - H. Ayuntamiento de Huehuetlán el Grande
+136	PUE - H. Ayuntamiento de Huejotzingo
+137	PUE - H. Ayuntamiento de Hueyapan
+138	PUE - H. Ayuntamiento de Hueytamalco
+139	PUE - H. Ayuntamiento de Hueytlalpan
+140	PUE - H. Ayuntamiento de Huitzilan de Serdán
+141	PUE - H. Ayuntamiento de Huitziltepec
+142	PUE - H. Ayuntamiento de Ixcamilpa de Guerrero
+143	PUE - H. Ayuntamiento de Ixcaquixtla
+144	PUE - H. Ayuntamiento de Ixtacamaxtitlán
+145	PUE - H. Ayuntamiento de Ixtepec
+146	PUE - H. Ayuntamiento de Izúcar de Matamoros
+147	PUE - H. Ayuntamiento de Jalpan
+148	PUE - H. Ayuntamiento de Jolalpan
+149	PUE - H. Ayuntamiento de Jonotla
+150	PUE - H. Ayuntamiento de Jopala
+151	PUE - H. Ayuntamiento de Juan C. Bonilla
+152	PUE - H. Ayuntamiento de Juan Galindo
+153	PUE - H. Ayuntamiento de Juan N. Méndez
+154	PUE - H. Ayuntamiento de Lafragua
+155	PUE - H. Ayuntamiento de La Magdalena Tlatlauquitepec
+156	PUE - H. Ayuntamiento de Libres
+157	PUE - H. Ayuntamiento de Los Reyes de Juárez
+158	PUE - H. Ayuntamiento de Mazapiltepec de Juárez
+159	PUE - H. Ayuntamiento de Mixtla
+160	PUE - H. Ayuntamiento de Molcaxac
+161	PUE - H. Ayuntamiento de Naupan
+162	PUE - H. Ayuntamiento de Nauzontla
+163	PUE - H. Ayuntamiento de Nealtican
+164	PUE - H. Ayuntamiento de Nicolás Bravo
+165	PUE - H. Ayuntamiento de Nopalucan
+166	PUE - H. Ayuntamiento de Ocotepec
+167	PUE - H. Ayuntamiento de Ocoyucan
+168	PUE - H. Ayuntamiento de Olintla
+169	PUE - H. Ayuntamiento de Oriental
+170	PUE - H. Ayuntamiento de Pahuatlán
+171	PUE - H. Ayuntamiento de Palmar de Bravo
+172	PUE - H. Ayuntamiento de Pantepec
+173	PUE - H. Ayuntamiento de Petlalcingo
+174	PUE - H. Ayuntamiento de Piaxtla
+175	PUE - H. Ayuntamiento de Puebla
+176	PUE - H. Ayuntamiento de Quecholac
+177	PUE - H. Ayuntamiento de Quimixtlán
+178	PUE - H. Ayuntamiento de Rafael Lara Grajales
+179	PUE - H. Ayuntamiento de San Andrés Cholula
+180	PUE - H. Ayuntamiento de San Antonio Cañada
+181	PUE - H. Ayuntamiento de San Diego La Mesa Tochimiltzingo
+182	PUE - H. Ayuntamiento de San Felipe Teotlalcingo
+183	PUE - H. Ayuntamiento de San Felipe Tepatlán
+184	PUE - H. Ayuntamiento de San Gabriel Chilac
+185	PUE - H. Ayuntamiento de San Gregorio Atzompa
+186	PUE - H. Ayuntamiento de San Jerónimo Tecuanipan
+187	PUE - H. Ayuntamiento de San Jerónimo Xayacatlán
+188	PUE - H. Ayuntamiento de San José Chiapa
+189	PUE - H. Ayuntamiento de San José Miahuatlán
+190	PUE - H. Ayuntamiento de San Juan Atenco
+191	PUE - H. Ayuntamiento de San Juan Atzompa
+192	PUE - H. Ayuntamiento de San Martín Texmelucan
+193	PUE - H. Ayuntamiento de San Martín Totoltepec
+194	PUE - H. Ayuntamiento de San Matías Tlalancaleca
+195	PUE - H. Ayuntamiento de San Miguel Ixitlán
+196	PUE - H. Ayuntamiento de San Miguel Xoxtla
+197	PUE - H. Ayuntamiento de San Nicolás Buenos Aires
+198	PUE - H. Ayuntamiento de San Nicolás de los Ranchos
+199	PUE - H. Ayuntamiento de San Pablo Anicano
+200	PUE - H. Ayuntamiento de San Pedro Cholula
+201	PUE - H. Ayuntamiento de San Pedro Yeloixtlahuaca
+202	PUE - H. Ayuntamiento de San Salvador El Seco
+203	PUE - H. Ayuntamiento de San Salvador El Verde
+204	PUE - H. Ayuntamiento de San Salvador Huixcolotla
+205	PUE - H. Ayuntamiento de San Sebastián Tlacotepec
+206	PUE - H. Ayuntamiento de Santa Catarina Tlaltempan
+207	PUE - H. Ayuntamiento de Santa Inés Ahuatempan
+208	PUE - H. Ayuntamiento de Santa Isabel Cholula
+209	PUE - H. Ayuntamiento de Santiago Miahuatlán
+210	PUE - H. Ayuntamiento de Santo Tomás Hueyotlipan
+211	PUE - H. Ayuntamiento de Soltepec
+212	PUE - H. Ayuntamiento de Tecali de Herrera
+213	PUE - H. Ayuntamiento de Tecamachalco
+214	PUE - H. Ayuntamiento de Tecomatlán
+215	PUE - H. Ayuntamiento de Tehuacán
+216	PUE - H. Ayuntamiento de Tehuitzingo
+217	PUE - H. Ayuntamiento de Tenampulco
+218	PUE - H. Ayuntamiento de Teopantlán
+219	PUE - H. Ayuntamiento de Teotlalco
+220	PUE - H. Ayuntamiento de Tepanco de López
+221	PUE - H. Ayuntamiento de Tepango de Rodríguez
+222	PUE - H. Ayuntamiento de Tepatlaxco de Hidalgo
+223	PUE - H. Ayuntamiento de Tepeaca
+224	PUE - H. Ayuntamiento de Tepemaxalco
+225	PUE - H. Ayuntamiento de Tepeojuma
+226	PUE - H. Ayuntamiento de Tepetzintla
+227	PUE - H. Ayuntamiento de Tepexco
+228	PUE - H. Ayuntamiento de Tepexi de Rodríguez
+229	PUE - H. Ayuntamiento de Tepeyahualco
+230	PUE - H. Ayuntamiento de Tepeyahualco de Cuauhtémoc
+231	PUE - H. Ayuntamiento de Tetela de Ocampo
+232	PUE - H. Ayuntamiento de Teteles de Ávila Castillo
+233	PUE - H. Ayuntamiento de Teziutlán
+234	PUE - H. Ayuntamiento de Tianguismanalco
+235	PUE - H. Ayuntamiento de Tilapa
+236	PUE - H. Ayuntamiento de Tlachichuca
+237	PUE - H. Ayuntamiento de Tlacotepec de Benito Juárez
+238	PUE - H. Ayuntamiento de Tlacuilotepec
+239	PUE - H. Ayuntamiento de Tlahuapan
+240	PUE - H. Ayuntamiento de Tlaltenango
+241	PUE - H. Ayuntamiento de Tlanepantla
+242	PUE - H. Ayuntamiento de Tlaola
+243	PUE - H. Ayuntamiento de Tlapacoya
+244	PUE - H. Ayuntamiento de Tlapanalá
+245	PUE - H. Ayuntamiento de Tlatlauquitepec
+246	PUE - H. Ayuntamiento de Tlaxco
+247	PUE - H. Ayuntamiento de Tochimilco
+248	PUE - H. Ayuntamiento de Tochtepec
+249	PUE - H. Ayuntamiento de Totoltepec de Guerrero
+250	PUE - H. Ayuntamiento de Tulcingo
+251	PUE - H. Ayuntamiento de Tuzamapan de Galeana
+252	PUE - H. Ayuntamiento de Tzicatlacoyan
+253	PUE - H. Ayuntamiento de Venustiano Carranza
+254	PUE - H. Ayuntamiento de Vicente Guerrero
+255	PUE - H. Ayuntamiento de Xayacatlán de Bravo
+256	PUE - H. Ayuntamiento de Xicotepec
+257	PUE - H. Ayuntamiento de Xicotlán
+258	PUE - H. Ayuntamiento de Xiutetelco
+259	PUE - H. Ayuntamiento de Xochiapulco
+260	PUE - H. Ayuntamiento de Xochiltepec
+261	PUE - H. Ayuntamiento de Xochitlán de Vicente Suárez
+262	PUE - H. Ayuntamiento de Xochitlán Todos Santos
+263	PUE - H. Ayuntamiento de Yaonáhuac
+264	PUE - H. Ayuntamiento de Yehualtepec
+265	PUE - H. Ayuntamiento de Zacapala
+266	PUE - H. Ayuntamiento de Zacapoaxtla
+267	PUE - H. Ayuntamiento de Zacatlán
+268	PUE - H. Ayuntamiento de Zapotitlán
+269	PUE - H. Ayuntamiento de Zapotitlán de Méndez
+270	PUE - H. Ayuntamiento de Zaragoza
+271	PUE - H. Ayuntamiento de Zautla
+272	PUE - H. Ayuntamiento de Zihuateutla
+273	PUE - H. Ayuntamiento de Zinacatepec
+274	PUE - H. Ayuntamiento de Zongozotla
+275	PUE - H. Ayuntamiento de Zoquiapan
+276	PUE - H. Ayuntamiento de Zoquitlán
+277	PUE - H. Congreso del Estado de Puebla
+278	PUE - Instituto de Capacitación para el Trabajo
+279	PUE - Instituto de Discapacidad del Estado de Puebla (Baja del Padrón SO 09.10.24)
+280	PUE - Instituto de Educación Digital del Estado de Puebla
+281	PUE - Instituto de Profesionalización del Magisterio Poblano
+282	PUE - Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio de los Poderes del Estado de Puebla
+283	PUE - Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Puebla (extinto SO 01.08....
+284	PUE - Instituto Electoral del Estado de Puebla
+285	PUE - Instituto Estatal de Educación para Adultos
+286	PUE - Instituto Metropolitano de Planeación del Estado de Puebla(Baja del Padrón SO)
+287	PUE - Instituto Poblano de Asistencia al Migrante
+288	PUE - Instituto Poblano de la Juventud (Baja del Padrón SO 26.03.25)
+289	PUE - Instituto Poblano de las Mujeres (Baja del Padrón SO)
+290	PUE - Instituto Poblano del Deporte (Baja del Padrón SO 30.04.25)
+291	PUE - Instituto Poblano de los Pueblos Indígenas
+292	PUE - Instituto Tecnológico Superior de Acatlán de Osorio
+293	PUE - Instituto Tecnológico Superior de Atlixco
+294	PUE - Instituto Tecnológico Superior de Ciudad Serdán
+295	PUE - Instituto Tecnológico Superior de Huauchinango
+296	PUE - Instituto Tecnológico Superior de la Sierra Negra de Ajalpan
+297	PUE - Instituto Tecnológico Superior de la Sierra Norte de Puebla
+298	PUE - Instituto Tecnológico Superior de Libres
+299	PUE - Instituto Tecnológico Superior de San Martín Texmelucan
+300	PUE - Instituto Tecnológico Superior de Tepeaca
+301	PUE - Instituto Tecnológico Superior de Tepexi de Rodríguez
+302	PUE - Instituto Tecnológico Superior de Teziutlán
+303	PUE - Instituto Tecnológico Superior de Tlatlauquitepec
+304	PUE - Instituto Tecnológico Superior de Venustiano Carranza
+305	PUE - Instituto Tecnológico Superior de Zacapoaxtla
+306	PUE - Junta Local de Conciliación y Arbitraje
+307	PUE - Museos Puebla
+308	PUE - Organismo Operador de los Servicios de Agua Potable y Alcantarillado del Municipio de Tehuacán
+309	PUE - Partido Acción Nacional (PAN)
+310	PUE - Partido Compromiso por Puebla (Baja del Padron SO)
+311	PUE - Partido de la Revolución Democrática. (PRD)
+312	PUE - Partido del Trabajo
+313	PUE - Partido Encuentro Social (Extinto)
+314	PUE - Partido Morena
+315	PUE - Partido Movimiento Ciudadano
+316	PUE - Partido Nueva Alianza Puebla
+317	PUE - Partido Pacto Social de Integración
+318	PUE - Partido Revolucionario Institucional (PRI)
+319	PUE - Partido Verde Ecologista de México (PVEM)
+320	PUE - Poder Judicial del Estado de Puebla
+321	PUE - Régimen Estatal de Protección Social en Salud (extinto)
+322	PUE - Reserva Territorial Atlixcáyotl-Quetzalcóatl
+323	PUE - Secretaría Anticorrupción y Buen Gobierno
+324	PUE - Secretaría de Administración (Baja del Padrón SO 12.02.25)
+325	PUE - Secretaría de Agricultura y Desarrollo Rural
+326	PUE - Secretaría de Arte y Cultura
+327	PUE - Secretaría de Bienestar
+328	PUE - Secretaría de Ciencia, Humanidades, Tecnología e Innovación
+329	PUE - Secretaría de Deporte y Juventud
+330	PUE - Secretaría de Desarrollo Económico y Trabajo
+331	PUE - Secretaría de Desarrollo Turístico
+332	PUE - Secretaría de Educación
+333	PUE - Secretaría de Gobernación
+334	PUE - Secretaría de Infraestructura
+335	PUE - Secretaría de las Mujeres
+336	PUE - Secretaría de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial
+337	PUE - Secretaría de Movilidad y Transporte
+338	PUE - Secretaría de Planeación, Finanzas y Administración
+339	PUE - Secretaría de Salud
+340	PUE - Secretaría de Seguridad Pública
+341	PUE - Secretaría de Trabajo (Baja del Padrón SO 30.04.25)
+342	PUE - Secretaría Ejecutiva del Sistema Estatal Anticorrupción
+343	PUE - Sindicato de Trabajadores al Servicio de los Poderes del Estado de Puebla y Organismos Descentralizados (Baja del Padrón SO)
+344	PUE - Sistema de Información y Comunicación del Estado de Puebla
+345	PUE - Sistema Operador de los Servicios de Agua Potable y Alcantarillado del Municipio de Atlixco (SOAPAMA)
+346	PUE - Sistema Operador de los Servicios de Agua Potable y Alcantarillado del Municipio de Puebla
+347	PUE - Sistema Operador de los Servicios de Agua Potable y Alcantarillado del Municipio de San Pedro Cholula
+348	PUE - Sistema para el Desarrollo Integral de la Familia del Estado de Puebla
+349	PUE - Tribunal de Justicia Administrativa del Estado de Puebla (Baja del Padrón SO 27.01.23 -> Poder Judicial)
+350	PUE - Tribunal Electoral del Estado de Puebla
+351	PUE - Universidad de la Salud del Estado de Puebla
+352	PUE - Universidad Intercultural del Estado de Puebla
+353	PUE - Universidad Interserrana del Estado de Puebla Ahuacatlán
+354	PUE - Universidad Interserrana del Estado de Puebla Chilchotla
+355	PUE - Universidad Politécnica de Amozoc
+356	PUE - Universidad Politécnica de Puebla
+357	PUE - Universidad Politécnica Metropolitana de Puebla
+358	PUE - Universidad Tecnológica Bilingüe Internacional y Sustentable de Puebla
+359	PUE - Universidad Tecnológica de Huejotzingo
+360	PUE - Universidad Tecnológica de Izúcar de Matamoros
+361	PUE - Universidad Tecnológica de Oriental
+362	PUE - Universidad Tecnológica de Puebla
+363	PUE - Universidad Tecnológica de Tecamachalco
+364	PUE - Universidad Tecnológica de Tehuacán
+365	PUE - Universidad Tecnológica de Xicotepec de Juárez

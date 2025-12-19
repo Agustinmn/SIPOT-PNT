@@ -1,0 +1,188 @@
+1	BCN - Administradora de la Vía Corta de Tijuana-Tecate
+2	BCN - Alianza Empresarial para Seguridad Publica
+3	BCN - Auditoría Superior del Estado de Baja California
+4	BCN - Ayuntamiento de Ensenada
+5	BCN - Ayuntamiento de Mexicali
+6	BCN - Ayuntamiento de Playas de Rosarito
+7	BCN - Ayuntamiento de San Felipe
+8	BCN - Ayuntamiento de San Quintín
+9	BCN - Ayuntamiento de Tecate
+10	BCN - Ayuntamiento de Tijuana
+11	BCN - Bienestar Social Municipal
+12	BCN - Centro de Atención Integral a Jóvenes en Riesgo "Misión San Carlos" (Extinto en fecha 07/02/2023)
+13	BCN - Centro de Conciliación Laboral del Estado de Baja California
+14	BCN - Centro de Justicia para las Mujeres del Estado de Baja California
+15	BCN - Centro Metropolitano de Convenciones Tijuana-Playas de Rosarito-Tecate
+16	BCN - Centro Social, Cívico y Cultural Riviera de Ensenada
+17	BCN - Colegio de Bachilleres del Estado de Baja California
+18	BCN - Colegio de Educación Profesional Técnica del Estado de Baja California
+19	BCN - Colegio de Estudios Científicos y Tecnológicos del Estado de Baja California
+20	BCN - Comisión de Arbitraje Médico del Estado de Baja California
+21	BCN - Comisión de Desarrollo Industrial de Mexicali
+22	BCN - Comisión Estatal de Energía de Baja California
+23	BCN - Comisión Estatal del Agua de Baja California
+24	BCN - Comisión Estatal de los Derechos Humanos de Baja California
+25	BCN - Comisión Estatal del Sistema Penitenciario de Baja California
+26	BCN - Comisión Estatal de Protección Contra Riesgos Sanitarios del Estado de Baja California (Extinto en fecha 26/04/2022)
+27	BCN - Comisión Estatal de Servicios Públicos de Ensenada
+28	BCN - Comisión Estatal de Servicios Públicos de Mexicali
+29	BCN - Comisión Estatal de Servicios Públicos de Tecate
+30	BCN - Comisión Estatal de Servicios Públicos de Tijuana
+31	BCN - Comisión para el Desarrollo Agropecuario de Mexicali (Extinto en fecha 22/03/2019)
+32	BCN - Comité de Festejos de Ensenada (Extinto en fecha 02/09/2021)
+33	BCN - Comité de Planeación para el Desarrollo del Estado de Baja California
+34	BCN - Comité de Planeación para el Desarrollo del Municipio de Ensenada
+35	BCN - Comité de Planeación para el Desarrollo del Municipio de Playas de Rosarito
+36	BCN - Comité de Planeación para el Desarrollo Municipal de Mexicali
+37	BCN - Comité de Turismo y Convenciones del Municipio de Mexicali
+38	BCN - Comité de Turismo y Convenciones del Municipio de Tijuana
+39	BCN - Comité de Turismo y Convenciones de Playas de Rosarito
+40	BCN - Congreso del Estado de Baja California
+41	BCN - Consejería Jurídica del Estado
+42	BCN - Consejo de Urbanización Municipal de Ensenada
+43	BCN - Consejo de Urbanización Municipal de Mexicali
+44	BCN - Coordinación de Gabinete
+45	BCN - Desarrollo Integral de la Familia de Mexicali
+46	BCN - Desarrollo Social Municipal de Tijuana
+47	BCN - Dirección de Comunicación Social
+48	BCN - Dirección del Registro Público de la Propiedad y del Comercio
+49	BCN - Direccion de Registro Publico de la Propiedad y del Comercio (Extinto en fecha 26/11/2019)
+50	BCN - Encuentro Social de Baja California (Extinto en fecha 25/05/2021)
+51	BCN - Fideicomiso Fondo de Garantías Complementarias y Créditos Puente
+52	BCN - Fideicomiso Municipal para el Desarrollo Urbano de Ensenada
+53	BCN - Fideicomiso para el Desarrollo Económico de Baja California (Indirecto)
+54	BCN - Fideicomiso para el Desarrollo Urbano de Mexicali
+55	BCN - Fideicomiso para la Construcción, Administración y Proyecto La Bufadora
+56	BCN - Fideicomiso Promotora Municipal de Tijuana
+57	BCN - Fideicomiso Publico de Administración de Fondos e Inversión del Tramo Carretero Centinela-Rumorosa
+58	BCN - Fideicomiso Público para la Promoción Turística del Estado de Baja California
+59	BCN - Fiscalía Especializada para la Atención de Delitos Electorales de Baja California (Extinto en fecha 25/05/2021)
+60	BCN - Fiscalía General del Estado de Baja California
+61	BCN - Fuerza por México Baja California (Extinto en fecha 01/04/2025)
+62	BCN - Instituto Contra las Adicciones del Estado de Baja California (Extinto en fecha 08/09/2022)
+63	BCN - Instituto de Administracion de Bienes Asegurados para el Bienestar Social (Extinto en fecha 07/02/2023)
+64	BCN - Instituto de Capacitación en Alta Tecnología del Estado de Baja California
+65	BCN - Instituto de Cultura de Baja California (Extinto en fecha 13/06/2024)
+66	BCN - Instituto de Identidad Vehicular y Combate a la Contaminación de Baja California (Extinto en fecha 28/03/2023)
+67	BCN - Instituto de la Infraestructura Física Educativa de Baja California
+68	BCN - Instituto de la Juventud del Estado de Baja California
+69	BCN - Instituto de la Mujer para el Estado de Baja California
+70	BCN - Instituto de la Mujer para el Municipio de Mexicali
+71	BCN - Instituto del Deporte y la Cultura Física de Baja California.
+72	BCN - Instituto de Movilidad Sustentable del Estado de Baja California
+73	BCN - Instituto de Planeación del Desarrollo Municipal de Tecate
+74	BCN - Instituto de Promoción del Desarrollo Urbano de Tecate
+75	BCN - Instituto de Psiquiatría del Estado de Baja California
+76	BCN - Instituto de Seguridad y Servicios Sociales de los Trabajadores de Gobierno y Municipios del Estado de Baja California
+77	BCN - Instituto de Servicios Culturales de Baja California
+78	BCN - Instituto de Servicios de Salud Pública del Estado de Baja California
+79	BCN - Instituto de Servicios Educativos y Pedagógicos de Baja California
+80	BCN - Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California
+81	BCN - Instituto Estatal Electoral de Baja California
+82	BCN - Instituto Metropolitano de Investigación y Planeación de Ensenada
+83	BCN - Instituto Metropolitano de Planeación de Tijuana
+84	BCN - Instituto Municipal Contra las Adicciones del Municipio de Tijuana
+85	BCN - Instituto Municipal de Arte y Cultura de Mexicali
+86	BCN - Instituto Municipal de Arte y Cultura de playas de Rosarito
+87	BCN - Instituto Municipal de Arte y Cultura de Tecate
+88	BCN - Instituto Municipal de Arte y Cultura de Tijuana
+89	BCN - Instituto Municipal de Bienestar Animal de Tecate
+90	BCN - Instituto Municipal de Capacitación y Certificación por Competencias de Playas de Rosarito (Extinto en fecha 09/02/2021)
+91	BCN - Instituto Municipal de Investigación y Planeación Urbana de Mexicali
+92	BCN - Instituto Municipal de la Cultura y Desarrollo Humano de Ensenada
+93	BCN - Instituto Municipal de la Juventud de Ensenada
+94	BCN - Instituto Municipal de la Juventud de Mexicali
+95	BCN - Instituto Municipal de la Juventud de Playas de Rosarito
+96	BCN - Instituto Municipal de la Juventud de Tecate
+97	BCN - Instituto Municipal de la Mujer de Ensenada
+98	BCN - Instituto Municipal de la Mujer del Municipio de Playas de Rosarito
+99	BCN - Instituto Municipal de la Mujer de Tecate
+100	BCN - Instituto Municipal de la Mujer de Tijuana
+101	BCN - Instituto Municipal del Deporte de Playas de Rosarito
+102	BCN - Instituto Municipal del Deporte de Tecate
+103	BCN - Instituto Municipal del Deporte de Tijuana
+104	BCN - Instituto Municipal del Deporte y la Cultura Física de Mexicali
+105	BCN - Instituto Municipal del Deporte y Recreación de Ensenada
+106	BCN - Instituto Municipal de Participación Ciudadana de Tijuana
+107	BCN - Instituto Municipal de Planeación para el Municipio de Playas de Rosarito
+108	BCN - Instituto Municipal para la Juventud de Tijuana
+109	BCN - Instituto para el Desarrollo Inmobiliario y de la Vivienda para el Estado de Baja California
+110	BCN - Junta de Urbanización del Estado de Baja California
+111	BCN - MORENA
+112	BCN - Movimiento Ciudadano
+113	BCN - Oficialía Mayor de Gobierno
+114	BCN - Organismo Municipal para la Operación del Sistema de Transporte Masivo Urbano de Pasajeros de Tijuana
+115	BCN - Partido Acción Nacional
+116	BCN - Partido de Baja California (Extinto en fecha 02/12/2021)
+117	BCN - Partido de la Revolución Democrática
+118	BCN - Partido del Trabajo
+119	BCN - Partido Encuentro Solidario (Extinto en fecha 07/12/2021)
+120	BCN - Partido Encuentro Solidario Baja California
+121	BCN - Partido Nueva Alianza (Extinto en fecha 22/03/2019)
+122	BCN - Partido Revolucionario Institucional
+123	BCN - Partido Verde Ecologista de México
+124	BCN - Patronato D.A.R.E. Mexicali
+125	BCN - Patronato de las Fiestas del Sol de la Ciudad de Mexicali
+126	BCN - Patronato del Bosque y Zoológico de la Ciudad de Mexicali
+127	BCN - Patronato del Centro de Desarrollo Humano Integral Centenario
+128	BCN - Patronato del Centro Recreativo Juventud 2000 del Municipio de Mexicali
+129	BCN - Patronato del Parque Vicente Guerrero de la Ciudad de Mexicali
+130	BCN - Patronato Escuadrón Juvenil Deportivo de Seguridad Pública de Mexicali
+131	BCN - Poder Judicial del Estado de Baja California
+132	BCN - Procuraduria de Proteccion al Ambiente para el Estado de Baja California
+133	BCN - Promotora del Desarrollo Urbano de Playas de Rosarito
+134	BCN - Proturismo de Ensenada
+135	BCN - Régimen de Protección Social en Salud de Baja California (Extinto en fecha 09/02/2021)
+136	BCN - Secretaría de Agricultura y Desarrollo Rural
+137	BCN - Secretaría de Bienestar
+138	BCN - Secretaría de Cultura
+139	BCN - Secretaría de Economía e Innovación
+140	BCN - Secretaría de Educación
+141	BCN - Secretaría de Hacienda
+142	BCN - Secretaría de Inclusión e Igualdad de Género (Extinto en fecha 14/09/2021))
+143	BCN - Secretaría de Inclusión Social e Igualdad de Género
+144	BCN - Secretaría de Infraestructura, Desarrollo Urbano y Reordenación Territorial
+145	BCN - Secretaría de la Honestidad y la Función Pública
+146	BCN - Secretaría del Trabajo y Previsión Social
+147	BCN - Secretaría de Medio Ambiente y Desarrollo Sustentable
+148	BCN - Secretaría de Pesca y Acuacultura
+149	BCN - Secretaría de Pesca y Acuacultura del Estado de Baja California (Extinto en fecha 26/11/2019)
+150	BCN - Secretaría de Protección al Ambiente del Estado de Baja California (Extinto en fecha 26/11/2019)
+151	BCN - Secretaría de Salud
+152	BCN - Secretaría de Seguridad Ciudadana
+153	BCN - Secretaría de Seguridad Pública del Estado de Baja California (Extinto en fecha 26/11/2019)
+154	BCN - Secretaría de Turismo
+155	BCN - Secretaría de Turismo del Estado de Baja California (Extinto en fecha 26/11/2019)
+156	BCN - Secretaría Ejecutiva del Sistema Estatal Anticorrupción del Estado de Baja California
+157	BCN - Secretaría General de Gobierno
+158	BCN - Secretaría para el Manejo, Saneamiento y Protección del Agua
+159	BCN - Servicios Integrales de Residuos de Tecate
+160	BCN - Sindicato de Profesores del Colegio de Bachilleres de Baja California
+161	BCN - Sindicato de Profesores Superación Universitaria
+162	BCN - Sindicato Estatal de Trabajadores de la Educación de Baja California
+163	BCN - Sindicato Estatal de Trabajadores Universitarios
+164	BCN - Sindicato Único de Trabajadores al Servicio de los Poderes del Estado, Municipios e Instituciones Descentralizadas de Baja California...
+165	BCN - Sindicato Único de Trabajadores al Servicio de los Poderes del Estado, Municipios e Instituciones Descentralizadas de Baja California...
+166	BCN - Sindicato Único de Trabajadores al servicio de los Poderes del estado, Municipios e instituciones Descentralizadas de Baja California...
+167	BCN - Sindicato Único de Trabajadores al servicio de los Poderes del estado, Municipios e Instituciones Descentralizadas de Baja California...
+168	BCN - Sindicato Único de Trabajadores al Servicio de los Poderes del Estado, Municipios e Instituciones Descentralizadas de Baja California...
+169	BCN - Sindicato Único de Trabajadores del Colegio de Bachilleres de Baja California
+170	BCN - Sindicato unico de Trabajadores del Regimen de Proteccion Social de Salud de Baja California
+171	BCN - Sindicato Unión de Trabajadores Industriales del Estado de Baja California CROC
+172	BCN - Sindicatura Municipal del Ayuntamiento de Mexicali (Extinto en fecha 09/02/2021)
+173	BCN - Sistema de Transporte Municipal de Tecate (Extinto en fecha 25/05/2021)
+174	BCN - Sistema Municipal del Transporte de Mexicali (Extinto en fecha 26/01/2023)
+175	BCN - Sistema Municipal de Parques Temáticos de Tijuana
+176	BCN - Sistema para el Desarrollo Integral de la Familia de Baja California
+177	BCN - Sistema para el Desarrollo Integral de la Familia de Ensenada
+178	BCN - Sistema para el Desarrollo Integral de la Familia del Municipio de Playas de Rosarito
+179	BCN - Sistema para el Desarrollo Integral de la Familia de Tecate
+180	BCN - Sistema para el Desarrollo Integral de la Familia de Tijuana
+181	BCN - Transformemos (Extinto en fecha 25/08/2020)
+182	BCN - Tribunal de Justicia Electoral del Estado de Baja California
+183	BCN - Tribunal Estatal de Justicia Administrativa del Estado de Baja California
+184	BCN - Unidad de Especialidades Médicas de Baja California(Extinto en fecha 21/01/2025)
+185	BCN - Universidad Autónoma del Estado de Baja California
+186	BCN - Universidad Intercultural de Baja California
+187	BCN - Universidad Politécnica de Baja California
+188	BCN - Universidad Tecnológica de Tijuana

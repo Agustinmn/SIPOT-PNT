@@ -1,0 +1,175 @@
+1	COA - Abasolo
+2	COA - Acuña
+3	COA - Administración Fiscal General
+4	COA - Aguas de Saltillo S.A. de C.V.
+5	COA - Allende
+6	COA - Arteaga
+7	COA - Auditoría Superior del Estado de Coahuila
+8	COA - Candela
+9	COA - Castaños
+10	COA - Centro Cultural "Vito Alessio Robles"
+11	COA - Centro Cultural Arocena Laguna A.C.
+12	COA - Centro de Conciliación Laboral del Estado de Coahuila de Zaragoza
+13	COA - Centro de Justicia y Empoderamiento de la Mujer
+14	COA - Centro de Rehabilitación Infantil Teletón Coahuila (CRIT)
+15	COA - Cluster De Energía Coahuila A.C.
+16	COA - Colegio de Bachilleres de Coahuila
+17	COA - Colegio de Educación Profesional Técnica del Estado de Coahuila (CONALEP)
+18	COA - Colegio de Estudios Científicos y Tecnológicos (CECYTEC)
+19	COA - Comisaría de Seguridad y Protección Ciudadana
+20	COA - Comisión Coahuilense de Conciliación y Arbitraje Médico
+21	COA - Comisión de Búsqueda del Estado de Coahuila
+22	COA - Comisión de Derechos Humanos del Estado de Coahuila
+23	COA - Comisión Ejecutiva Estatal de Atención a Víctimas
+24	COA - Comisión Estatal de Aguas y Saneamiento de Coahuila (CEAS)
+25	COA - Comisión Estatal de la Vivienda
+26	COA - Comisión Estatal para la Regularización de la Tenencia de la Tierra Urbana y Rústica de Coahuila
+27	COA - Compañía de Aguas de Ramos Arizpe
+28	COA - Congreso del Estado de Coahuila de Zaragoza
+29	COA - Consejo Editorial del Estado
+30	COA - Consejo Estatal de Ciencia y Tecnología (COECYT)
+31	COA - Consejo Promotor para el Desarrollo de las Reservas Territoriales de Torreón
+32	COA - Coordinación General de Comunicación e Imagen Institucional
+33	COA - Cuatrociénegas
+34	COA - Despacho del Titular del Gobernador
+35	COA - Dif Saltillo
+36	COA - Dif Torreon
+37	COA - Dirección de Pensiones de Saltillo
+38	COA - Direccion de Pensiones y Otros Beneficios Sociales para los Trabajadores de la Educación del Estado de Coahuila
+39	COA - Escobedo
+40	COA - Fiscalía General del Estado
+41	COA - Francisco I. Madero
+42	COA - Frontera
+43	COA - General Cepeda
+44	COA - Guerrero
+45	COA - Hidalgo
+46	COA - Insituto Municipal de Cultura y Educación de Torreón
+47	COA - Instituto Coahuilense de Acceso a la Información(ICAI)
+48	COA - Instituto Coahuilense de la Infraestructura Física Educativa (ICIFED)
+49	COA - Instituto Coahuilense de La Juventud
+50	COA - Instituto Coahuilense de las Personas Adultas Mayores
+51	COA - Instituto de Becas para Educación Básica en el Estado de Coahuila de Zaragoza
+52	COA - Instituto de Capacitación para el Trabajo del estado de Coahuila (ICATEC)
+53	COA - Instituto de Estatal Desarrollo Docente, Investigación y Evaluación Educativa
+54	COA - Instituto de Pensiones para los Trabajadores al Servicio del Estado
+55	COA - Instituto Electoral de Coahuila (IEC)
+56	COA - Instituto Estatal de Educación para Adultos (IEEA)
+57	COA - Instituto Estatal del Deporte (INEDEC)
+58	COA - Instituto Municipal de Cultura de Saltillo
+59	COA - Instituto Municipal de La Mujer De Torreon
+60	COA - Instituto Municipal del Deporte de Torreón
+61	COA - Instituto Municipal del Transporte Saltillo
+62	COA - Instituto Municipal de Pensiones Monclova
+63	COA - Instituto Municipal de Pensiones Torreón
+64	COA - Instituto Municipal de Planeacion de Piedras Negras
+65	COA - Instituto Municipal de Planeación Saltillo
+66	COA - Instituto Municipal de Planeación y Competitividad Torreón
+67	COA - Instituto Registral y Catastral del Estado de Coahuila de Zaragoza
+68	COA - Instituto Tecnológico de Estudios Superiores de Ciudad Acuña
+69	COA - Instituto Tecnológico de Estudios Superiores de la Región Carbonifera
+70	COA - Instituto Tecnológico Superior de Melchor Muzquiz
+71	COA - Instituto Tecnológico Superior de Monclova
+72	COA - Instituto Tecnológico Superior de San Pedro de las Colonias
+73	COA - Jefatura De La Oficina Del Ejecutivo
+74	COA - Jiménez
+75	COA - Juárez
+76	COA - Junta Local de Conciliación y Arbitraje
+77	COA - Lamadrid
+78	COA - Matamoros
+79	COA - Mejora Coahuila
+80	COA - Monclova
+81	COA - Morelos
+82	COA - Muzquiz
+83	COA - Nadadores
+84	COA - Nava
+85	COA - Ocampo
+86	COA - Parras
+87	COA - Partido Acción Nacional
+88	COA - Partido Morena
+89	COA - Partido Revolucionario Institucional
+90	COA - Partido Unidad Democrática de Coahuila
+91	COA - Partido Verde Ecologista
+92	COA - Periódico Oficial
+93	COA - Piedras Negras
+94	COA - Poder Judicial del Estado
+95	COA - Procuraduría de Niños, Niñas y la Familia (PRONNIF)
+96	COA - Progreso
+97	COA - Promotora para el Desarrollo Minero
+98	COA - Promotora para el Desarrollo Rural
+99	COA - Ramos Arizpe
+100	COA - Registro Civil
+101	COA - Sabinas
+102	COA - Sacramento
+103	COA - Saltillo
+104	COA - San Buenaventura
+105	COA - San Juan de Sabinas
+106	COA - San Pedro
+107	COA - Secretaría de Cultura
+108	COA - Secretaría de Desarrollo Rural
+109	COA - Secretaría de Economía
+110	COA - Secretaría de Educación
+111	COA - Secretaría de Finanzas
+112	COA - Secretaría de Fiscalización y Rendición de Cuentas
+113	COA - Secretaría de Gobierno
+114	COA - Secretaría de Inclusión y Desarrollo Social
+115	COA - Secretaría de Infraestructura, Desarrollo Urbano y Movilidad
+116	COA - Secretaría de las Mujeres
+117	COA - Secretaria De La Vivienda y Ordenamiento Territorial
+118	COA - Secretaría del Trabajo
+119	COA - Secretaría de Medio Ambiente
+120	COA - Secretaría de Salud
+121	COA - Secretaría De Seguridad Publica
+122	COA - Secretaria de Turismo y Desarrollo de Pueblos Magicos
+123	COA - Secretaría de Vinculación Ciudadana, Proyectos de Innovación Social e Inversión Pública Productiva
+124	COA - Secretaria Ejecutiva del Sistema Estatal Anticorrupción
+125	COA - Servicio Médico de los Trabajadores de la Educación
+126	COA - Servicios de Salud
+127	COA - Servicios Estatales Aeroportuarios
+128	COA - Sierra Mojada
+129	COA - SIMAS Acuña
+130	COA - SIMAS Allende
+131	COA - SIMAS Arteaga
+132	COA - SIMAS Cuatrociénegas
+133	COA - SIMAS Francisco I. Madero
+134	COA - SIMAS General Cepeda
+135	COA - SIMAS Matamoros
+136	COA - SIMAS Monclova-Frontera
+137	COA - SIMAS Morelos
+138	COA - SIMAS Múzquiz, San Juan de Sabinas, Sabinas y Progreso
+139	COA - SIMAS Parras De La Fuente
+140	COA - SIMAS Piedras Negras
+141	COA - SIMAS Sabinas
+142	COA - SIMAS San Buenaventura
+143	COA - SIMAS San Pedro
+144	COA - SIMAS Torreón
+145	COA - SIMAS Torreón-Matamoros-Viesca
+146	COA - Sindicato Nacional de Trabajadores de la Educación Sección 35 (SNTE 35)
+147	COA - Sindicato Nacional de Trabajadores de la Educación Sección 38 (SNTE 38)
+148	COA - Sindicato Único de Empleados y Trabajadores al Servicio del Republicano Ayuntamiento de Torreón
+149	COA - Sindicato Unico de Trabajadores al Servicio del Municipio de San Pedro
+150	COA - Sindicato Único de Trabajadores del Gobierno del Estado (SUTGE)
+151	COA - Sindicato Único Estatal de los Trabajadores al Servicio del Sistema para el Desarrollo Integral de la Familia (DIF)
+152	COA - Sistema Integral de Mantenimiento Vial de Torreón
+153	COA - Sistema para el Desarrollo Integral de la Familia (DIF)
+154	COA - Teatro Nazas
+155	COA - Torreón
+156	COA - Tribunal de Conciliación y Arbitraje del Poder Judicial del Estado de Coahuila
+157	COA - Tribunal de Justicia Administrativa
+158	COA - Tribunal Electoral de Coahuila
+159	COA - Unidad del Patrimonio de la Beneficencia Pública en Coahuila
+160	COA - Universidad Autónoma de Coahuila
+161	COA - Universidad Politécnica de la Región Laguna
+162	COA - Universidad Politécnica de Monclova
+163	COA - Universidad Politécnica de Piedras Negras
+164	COA - Universidad Politécnica de Ramos Arizpe
+165	COA - Universidad Tecnologica De Ciudad Acuña
+166	COA - Universidad Tecnológica de Coahuila
+167	COA - Universidad Tecnológica de la Región Carbonifera
+168	COA - Universidad Tecnológica de la Región Centro de Coahuila
+169	COA - Universidad Tecnológica del Norte de Coahuila
+170	COA - Universidad Tecnológica de Parras
+171	COA - Universidad Tecnológica de Saltillo
+172	COA - Universidad Tecnológica de Torreón
+173	COA - Viesca
+174	COA - Villa Unión
+175	COA - Zaragoza

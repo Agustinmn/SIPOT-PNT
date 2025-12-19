@@ -1,0 +1,158 @@
+1	TLA - Acuamanala de Miguel Hidalgo
+2	TLA - Amaxac de Guerrero
+3	TLA - Apetatitlán de Antonio Carvajal
+4	TLA - Apizaco
+5	TLA - Archivo General e Historico del Estado de Tlaxcala
+6	TLA - Atlangatepec
+7	TLA - Atltzayanca
+8	TLA - Benito Juárez
+9	TLA - Calpulalpan
+10	TLA - Casa de las Artesanías de Tlaxcala
+11	TLA - Centro de Conciliación Laboral del Estado de Tlaxcala
+12	TLA - Centro de Educación Continua y a Distancia del Instituto Politécnico Nacional Unidad Tlaxcala (En proceso de Extinción)
+13	TLA - Centro de Estudios Superiores de Comunicación Educativa del Estado de Tlaxcala
+14	TLA - Centro de Servicios Integrales para el Tratamiento de Aguas Residuales del Estado de Tlaxcala (En proceso de Extinción)
+15	TLA - Chiautempan
+16	TLA - Colegio de Bachilleres del Estado de Tlaxcala
+17	TLA - Colegio de Educación Profesional Técnica del Estado de Tlaxcala
+18	TLA - Colegios de Estudios Científicos y Tecnológicos del Estado de Tlaxcala
+19	TLA - Comisión de Agua Potable y Alcantarillado del Municipio de Apizaco
+20	TLA - Comisión de Agua Potable y Alcantarillado del Municipio de Chiautempan
+21	TLA - Comisión de Agua Potable y Alcantarillado del Municipio de Huamantla
+22	TLA - Comisión de Agua Potable y Alcantarillado del Municipio de Tlaxcala
+23	TLA - Comisión Ejecutiva de Atención a Víctimas y Ofendidos
+24	TLA - Comisión Estatal de Agua de Tlaxcala (En proceso de Extinción)
+25	TLA - Comisión Estatal de Arbitraje Médico
+26	TLA - Comisión Estatal de Derechos Humanos
+27	TLA - Comisión Estatal del Agua y Saneamiento
+28	TLA - Comisión Estatal para la Protección contra los Riesgos Sanitarios de Tlaxcala
+29	TLA - Congreso del Estado
+30	TLA - Consejería Jurídica del Ejecutivo del Estado
+31	TLA - Consejo Estatal de Población
+32	TLA - Contla de Juan Cuamatzi
+33	TLA - Coordinación de Comunicación
+34	TLA - Coordinación del Sistema Estatal de Promoción del Empleo y Desarrollo Comunitario (En proceso de extinción)
+35	TLA - Coordinación de Planeación e Inversión
+36	TLA - Coordinación de Radio, Cine y Televisión de Tlaxcala
+37	TLA - Coordinación Estatal de Protección Civil
+38	TLA - Cuapiaxtla
+39	TLA - Cuaxomulco
+40	TLA - Despacho de la Gobernadora
+41	TLA - El Carmen Tequexquitla
+42	TLA - El Colegio de Tlaxcala, A.C.
+43	TLA - Emiliano Zapata
+44	TLA - Españita
+45	TLA - Fideicomiso de la Ciudad Industrial de Xicoténcatl
+46	TLA - Fondo Macro para el Desarrollo Integral de Tlaxcala
+47	TLA - Huamantla
+48	TLA - Hueyotlipan
+49	TLA - Instituto de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Tlaxcala
+50	TLA - Instituto de Capacitación para el Trabajo del Estado de Tlaxcala
+51	TLA - Instituto de Catastro
+52	TLA - Instituto del Deporte de Tlaxcala
+53	TLA - Instituto Tecnológico Superior de Tlaxco
+54	TLA - Instituto Tlaxcalteca de Asistencia Especializada a la Salud
+55	TLA - Instituto Tlaxcalteca de Desarrollo Taurino
+56	TLA - Instituto Tlaxcalteca de Elecciones
+57	TLA - Instituto Tlaxcalteca de la Infraestructura Física Educativa
+58	TLA - Instituto Tlaxcalteca de la Juventud
+59	TLA - Instituto Tlaxcalteca para Devolver al Pueblo lo Robado
+60	TLA - Instituto Tlaxcalteca para la Educación de los Adultos
+61	TLA - Instituto Tlaxcalteca para Personas con Discapacidad (Extinto en 2022)
+62	TLA - Intituto de Fauna Silvestre para el Estado de Tlaxcala
+63	TLA - Ixtacuixtla de Mariano Matamoros
+64	TLA - Ixtenco
+65	TLA - La Libertad Centro Cultural Apizaco (Extinto en 2022)
+66	TLA - La Magdalena Tlaltelulco
+67	TLA - Lázaro Cárdenas
+68	TLA - Mazatecochco de José María Morelos
+69	TLA - Muñoz de Domingo Arenas
+70	TLA - Nanacamilpa de Mariano Arista
+71	TLA - Natívitas
+72	TLA - Oficialía Mayor de Gobierno
+73	TLA - Órgano de Fiscalización Superior
+74	TLA - Panotla
+75	TLA - Papalotla de Xicohténcatl
+76	TLA - Partido Acción Nacional
+77	TLA - Partido Alianza Ciudadana
+78	TLA - Partido de la Revolución Democrática
+79	TLA - Partido del Trabajo
+80	TLA - Partido Encuentro Social Tlaxcala (Extinto en 2022)
+81	TLA - Partido Fuerza por México Tlaxcala
+82	TLA - Partido Movimiento Ciudadano
+83	TLA - Partido Movimiento Regeneración Nacional
+84	TLA - Partido Nueva Alianza Tlaxcala
+85	TLA - Partido Redes Sociales Progresistas Tlaxcala
+86	TLA - Partido Revolucionario Institucional
+87	TLA - Partido Socialista (Extinto en 2022)
+88	TLA - Partido Verde Ecologista de México
+89	TLA - Patronato Centro de Rehabilitación Integral y Escuela en Terapia Física y Rehabilitación
+90	TLA - Patronato para las Exposiciones y Ferias de la Ciudad de Tlaxcala
+91	TLA - Pensiones Civiles del Estado de Tlaxcala
+92	TLA - Procuraduría de Protección al Ambiente del Estado de Tlaxcala
+93	TLA - Procuraduría General de Justicia
+94	TLA - Régimen Estatal de Protección Social en Salud en Tlaxcala
+95	TLA - Sanctórum de Lázaro Cárdenas
+96	TLA - San Damián Texoloc
+97	TLA - San Francisco Tetlanohcan
+98	TLA - San Jerónimo Zacualpan
+99	TLA - San José Teacalco
+100	TLA - San Juan Huactzinco
+101	TLA - San Lorenzo Axocomanitla
+102	TLA - San Lucas Tecopilco
+103	TLA - San Pablo del Monte
+104	TLA - Santa Ana Nopalucan
+105	TLA - Santa Apolonia Teacalco
+106	TLA - Santa Catarina Ayometla
+107	TLA - Santa Cruz Quilehtla
+108	TLA - Santa Cruz Tlaxcala
+109	TLA - Santa Isabel Xiloxoxtla
+110	TLA - Secretaría de Bienestar
+111	TLA - Secretaría de Cultura
+112	TLA - Secretaría de Desarrollo Económico
+113	TLA - Secretaría de Educación Pública del Estado - Unidad de Servicios Educativos del Estado de Tlaxcala
+114	TLA - Secretaría de Finanzas
+115	TLA - Secretaría de Gobierno
+116	TLA - Secretaría de Impulso Agropecuario
+117	TLA - Secretaría de Infraestructura
+118	TLA - Secretaría de la Función Pública
+119	TLA - Secretaría de las Mujeres
+120	TLA - Secretaría de Medio Ambiente
+121	TLA - Secretaría de Movilidad y Transporte
+122	TLA - Secretaría de Ordenamiento Territorial y Vivienda
+123	TLA - Secretaría de Salud y O. P. D. Salud de Tlaxcala
+124	TLA - Secretaría de Seguridad Ciudadana
+125	TLA - Secretaría de Trabajo y Competitividad
+126	TLA - Secretaría de Turismo
+127	TLA - Secretaría de Turismo y Desarrollo Económico
+128	TLA - Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública
+129	TLA - Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Tlaxcala
+130	TLA - Sindicato de Trabajadores al Servicio de los Poderes y Municipios y Organismos Descentralizados del Estado de Tlaxcala "7 De Mayo"
+131	TLA - Sistema Estatal para el Desarrollo Integral de la Familia Tlaxcala
+132	TLA - Tenancingo
+133	TLA - Teolocholco
+134	TLA - Tepetitla de Lardizábal
+135	TLA - Tepeyanco
+136	TLA - Terrenate
+137	TLA - Tetla de la Solidaridad
+138	TLA - Tetlatlahuca
+139	TLA - Tlaxcala
+140	TLA - Tlaxco
+141	TLA - Tocatlán
+142	TLA - Totolac
+143	TLA - Tribunal de Conciliación y Arbitraje del Estado de Tlaxcala
+144	TLA - Tribunal de Justicia Administrativa del Estado de Tlaxcala
+145	TLA - Tribunal Electoral de Tlaxcala
+146	TLA - Tribunal Superior de Justicia del Estado / Consejo de la Judicatura
+147	TLA - Tzompantepec
+148	TLA - Universidad Autónoma de Tlaxcala
+149	TLA - Universidad Intercultural de Tlaxcala
+150	TLA - Universidad Politécnica de Tlaxcala
+151	TLA - Universidad Politécnica de Tlaxcala Región Poniente
+152	TLA - Universidad Tecnológica de Tlaxcala
+153	TLA - Xaloztoc
+154	TLA - Xaltocan
+155	TLA - Xicohtzinco
+156	TLA - Yauhquemehcan
+157	TLA - Zacatelco
+158	TLA - Zitlaltepec de Trinidad Sánchez Santos

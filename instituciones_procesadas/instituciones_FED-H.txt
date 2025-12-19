@@ -1,0 +1,336 @@
+1	FED-H - Agencia de Servicios a la Comercialización y Desarrollo de Mercados Agropecuarios (ASERCA)
+2	FED-H - ASA-Mandato para el pago de compromisos del Pabellón Aeroespacial CFE-SCT-ASA
+3	FED-H - BANCOMEXT-Fideicomiso Patronato del Centro de Diseño México
+4	FED-H - BANCOMEXT-Fondo editorial de la Plástica Mexicana
+5	FED-H - BANCOMEXT-Fondo Mexicano de Carbono, Capítulo Uno (FOMECAR)
+6	FED-H - BANOBRAS-Fid. 66.- Gobierno Federal para créditos especiales
+7	FED-H - BANOBRAS-Fideicomiso Fondo de Apoyo a Municipios
+8	FED-H - BANOBRAS-Para apoyar la construcción y equipamiento del nuevo recinto de la Cámara de Senadores
+9	FED-H - BANSEFI-Fideicomiso irrevocable de administración No. 10055 (L@Red de la Gente)
+10	FED-H - Candidata_Indepenceinte_Guadalupe Araceli Mendoza Arias (Revolucionando a Uruapan A.C.)
+11	FED-H - Candidato_Independiente_Diputado_Alberto Valencia Bañuelos
+12	FED-H - Candidato_Independiente_Diputado_Alejandro Eric Cruz Juárez
+13	FED-H - Candidato_Independiente_Diputado_Ángel Alberto Barroso Correa
+14	FED-H - Candidato_Independiente_Diputado_Aníbal Gómez Marquina
+15	FED-H - Candidato_Independiente_Diputado_Carlos Alberto Manzo Rodríguez
+16	FED-H - Candidato_Independiente_Diputado_Carlos Alejandro Bautista Tafolla
+17	FED-H - Candidato_Independiente_Diputado_Carlos Arturo Córdova Cobos
+18	FED-H - Candidato_Independiente_Diputado_Christian Arturo Rodríguez Hernandez
+19	FED-H - Candidato_Independiente_Diputado_Daniela González Rodríguez
+20	FED-H - Candidato_Independiente_Diputado_Daniel Altafi Valladares
+21	FED-H - Candidato_Independiente_Diputado_Daniel Nieto Martínez
+22	FED-H - Candidato_Independiente_Diputado_David Eugenio Elizondo Cantú
+23	FED-H - Candidato_Independiente_Diputado_Delfino Suarez Piedras
+24	FED-H - Candidato_Independiente_Diputado_Enrique Alonso Plascencia
+25	FED-H - Candidato_Independiente_Diputado_Gregorio Farías Mateos
+26	FED-H - Candidato_Independiente_Diputado_Iris Paola Gómez de la Cruz
+27	FED-H - Candidato_Independiente_Diputado_Iván Antonio Pérez Ruiz
+28	FED-H - Candidato_Independiente_Diputado_Jesús Humberto Alfaro Bedoya
+29	FED-H - Candidato_Independiente_Diputado_Jesús Siller Rojas
+30	FED-H - Candidato_Independiente_Diputado_José Terencio Valenzuela Gallegos
+31	FED-H - Candidato_Independiente_Diputado_Juan Jesús Antonio Manzur Oudie
+32	FED-H - Candidato_Independiente_Diputado_Julio Cesar Osorio Pérez
+33	FED-H - Candidato_Independiente_Diputado_Julio Hugo Sánchez Quiroz
+34	FED-H - Candidato_Independiente_Diputado_Jurgen Ganser Carbajal
+35	FED-H - Candidato_Independiente_Diputado_Luisa María Guadalupe Calderón Hinojosa
+36	FED-H - Candidato_Independiente_Diputado_Luis Ángel Benavides Garza
+37	FED-H - Candidato_Independiente_Diputado_Maria Antonieta Peréz Reyes
+38	FED-H - Candidato_Independiente_Diputado_María Graciela Parra López
+39	FED-H - Candidato_Independiente_Diputado_Mario Hernández Herrera
+40	FED-H - Candidato_Independiente_Diputado_Martha Beatriz Córdova Bernal
+41	FED-H - Candidato_Independiente_Diputado_Nora Vanessa Estrada Calles
+42	FED-H - Candidato_Independiente_Diputado_Obilfrido Gómez Álvarez
+43	FED-H - Candidato_Independiente_Diputado_Olga Valentina Treviño Hinojosa
+44	FED-H - Candidato_Independiente_Diputado_Pablo Ricardo Montaño Beckmann
+45	FED-H - Candidato_Independiente_Diputado_Paul Alfonso López de Santa Anna Baeza
+46	FED-H - Candidato_Independiente_Diputado_Pedro Gustavo Barragán Nuño
+47	FED-H - Candidato_Independiente_Diputado_Raúl Guajardo Cantú
+48	FED-H - Candidato_Independiente_Diputado_Rodrigo Cerda Cornejo
+49	FED-H - Candidato_Independiente_Diputado_Rolando Iván Valdez Hernández
+50	FED-H - Candidato_Independiente_Diputado_Víctor Joel Echeverría Valenzuela
+51	FED-H - Candidato_Independiente_Diputado_Yamilett Orduña Saide
+52	FED-H - Candidato_Independiente_Jorge_Amín_Siman_Estefan (Amigo de Jorge Amín Siman Estefan)
+53	FED-H - Candidato_Independiente_Presidente_Jaime Heliodoro Rodríguez Calderón
+54	FED-H - Candidato_Independiente_Presidente_Margarita Ester Zavala Gomez Del Campo
+55	FED-H - Candidato_Independiente_Senador_José Pedro Kumamoto Aguilar
+56	FED-H - Candidato_Independiente_Senador_Lorenzo Ricardo García De León Coria
+57	FED-H - Candidato_Independiente_Senador_Manuel Jesús Clouthier Carrillo
+58	FED-H - Candidato_Independiente_Senador_Obed Javier Cruz Perez
+59	FED-H - Candidato_Independiente_Senador_Pablo Abner Salazar Mendiguchía
+60	FED-H - Candidato_Independiente_Senador_Raúl González Rodriguez
+61	FED-H - Candidato_Independiente_Senador_Soledad Romero Espinal
+62	FED-H - CAPUFE-Fideicomiso 148687 "Fondo para préstamos a corto plazo para apoyar a los trabajadores de CAPUFE en casos de contingencia"
+63	FED-H - CAPUFE-Fideicomiso 2165-8 "Fondo para liquidación de trabajadores de la red FONADIN" (Antes FARAC)
+64	FED-H - CAPUFE-Fideicomiso irrevocable de administración y fuente de pago número CIB/2064
+65	FED-H - CAPUFE-Fideicomiso No. F/745293 (antes 2103) Cuauhtémoc-Osiris
+66	FED-H - CAPUFE-Fideicomiso para la construcción, explotación y conservación del tramo carretero Atlacomulco-Maravatio
+67	FED-H - CFE-Telecomunicaciones e Internet para Todos
+68	FED-H - CIAD-Fideicomiso Centro de Investigación en Alimentación y Desarrollo, A.C. (CIAD)
+69	FED-H - CIAD-Fideicomiso para el Fondo de los Trabajadores del CIAD
+70	FED-H - CIATEC-Fideicomiso CIATEC
+71	FED-H - CIATEJ-Fideicomiso de investigación científica y de desarrollo tecnológico
+72	FED-H - CIATEQ-Fideicomiso N° 030051-4
+73	FED-H - CIBNOR-Fideicomiso Centro de Investigaciones Biológicas del Noroeste, S.C.
+74	FED-H - CICESE-Fideicomiso de proyectos de investigación del Centro de Investigación Científica y de Educación Superior de Ensenada, B.C.
+75	FED-H - CICY-Fondo de investigación científica y desarrollo tecnológico del Centro de Investigación Científica de Yucatán, A.C.
+76	FED-H - CIDE-Fideicomiso 1738-3-Ciencia y Tecnología
+77	FED-H - CIDETEQ-Fideicomiso de investigación científica y desarrollo tecnológico del Centro Publico de Investigación y Desarrollo Tecnológi...
+78	FED-H - CIESAS-Fondo de investigación científica y desarrollo tecnológico
+79	FED-H - CIGGET-Fondo de investigación científica y desarrollo tecnológico del Centro de Investigación en Geografía y Geomática, Ing. Jorge ...
+80	FED-H - CIMAT-Fideicomiso Centro de Investigación en Matemáticas No. 040024-1
+81	FED-H - CIMAV-Fideicomiso Centro de Investigación en Materiales Avanzados, S.C. (CIMAV)
+82	FED-H - CINVESTAV-Fideicomiso de apoyo a las actividades del CINVESTAV
+83	FED-H - CINVESTAV - Fondo de Investigación Científica y Tecnológico del CINVESTAV
+84	FED-H - CIO-Fideicomiso Centro de Investigaciones en Óptica, A.C. No. 040026-8
+85	FED-H - CIQA-Fideicomiso inversión y administración
+86	FED-H - CJF-Fideicomiso para el desarrollo de infraestructura que implementa la reforma constitucional en materia penal
+87	FED-H - CJF-Fideicomiso para el mantenimiento de casas habitación de Magistrados y Jueces
+88	FED-H - CJF-Fideicomiso pensiones complementarias de Magistrados y Jueces jubilados
+89	FED-H - CJF-Fondo de apoyo a la administración de justicia
+90	FED-H - CJF-Fondo para la administración de los recursos provenientes de sentencias que deriven de las Acciones Colectivas Difusas, a que s...
+91	FED-H - CNSF-Fideicomiso para la asistencia legal de los miembros de la Junta de Gobierno y servidores públicos de la Comisión Nacional de ...
+92	FED-H - COLEF-Fideicomiso de investigación el Colegio de la Frontera Norte
+93	FED-H - COLMICH-Fideicomiso de ciencia y tecnología del Colegio de Michoacán, A. C.
+94	FED-H - COLSAN-Fideicomiso fondo de ahorro del personal de mandos medios y superiores del Colegio de San Luis A.C. N° 030057-3
+95	FED-H - COLSAN-Fondo de investigación científica y desarrollo tecnológico de El Colegio de San Luis, A.C.
+96	FED-H - COMIMSA-Fondo de investigación científica y desarrollo tecnológico de COMIMSA
+97	FED-H - Comisión Nacional de Hidrocarburos (CNH)
+98	FED-H - Comisión Reguladora de Energía (CRE)
+99	FED-H - Comité Nacional Mixto de Protección al Salario (CONAMPROS)
+100	FED-H - CONACYT-Fondo de cooperación internacional en ciencia y tecnología (FONCICYT)
+101	FED-H - CONACYT-Fondo de desarrollo científico y tecnológico para el fomento de la producción y financiamiento de vivienda y el crecimiento...
+102	FED-H - CONACYT-Fondo de innovación tecnológica Secretaría de Economía ¿ CONACYT
+103	FED-H - CONACYT-Fondo de investigación y desarrollo para la modernización tecnológica (FIDETEC)
+104	FED-H - CONACYT-Fondo institucional de fomento regional para el desarrollo científico, tecnológico, y de innovación
+105	FED-H - CONACYT-Fondo institucional del CONACYT (FOINS)
+106	FED-H - CONACYT-Fondo mixto CONACYT-Gobierno del Estado Aguascalientes
+107	FED-H - CONACYT-Fondo mixto CONACYT-Gobierno del Estado de Campeche
+108	FED-H - CONACYT-Fondo mixto CONACYT-Gobierno del Estado de Coahuila de Zaragoza
+109	FED-H - CONACYT-Fondo mixto CONACYT-Gobierno del Estado de Colima
+110	FED-H - CONACYT-Fondo mixto CONACYT-Gobierno del Estado de Durango
+111	FED-H - CONACYT-Fondo mixto CONACYT-Gobierno del Estado de Guerrero
+112	FED-H - CONACYT-Fondo mixto CONACYT-Gobierno del Estado de Michoacán
+113	FED-H - CONACYT-Fondo mixto CONACYT - Gobierno del Estado de Oaxaca
+114	FED-H - CONACYT-Fondo mixto CONACYT-Gobierno del Estado de Sinaloa
+115	FED-H - CONACYT-Fondo mixto CONACYT-Gobierno del Estado de Sonora
+116	FED-H - CONACYT-Fondo mixto CONACYT-Gobierno del Estado de Tamaulipas
+117	FED-H - CONACYT-Fondo mixto CONACYT-Gobierno del Estado de Yucatán
+118	FED-H - CONACYT-Fondo mixto de fomento a la investigación científica y tecnológica CONACYT-Gobierno del Estado de Baja California Sur
+119	FED-H - CONACYT-Fondo mixto de fomento a la investigación científica y tecnológica CONACYT-Gobierno del Estado de Guanajuato
+120	FED-H - CONACYT-Fondo mixto de fomento a la investigación científica y tecnológica CONACYT-Gobierno del Estado de Morelos
+121	FED-H - CONACYT-Fondo mixto de fomento a la investigación científica y tecnológica CONACYT-Gobierno del Estado de Nuevo León
+122	FED-H - CONACYT-Fondo mixto de fomento a la investigación científica y tecnológica CONACYT-Gobierno del Estado de Puebla
+123	FED-H - CONACYT-Fondo mixto de fomento a la investigación científica y tecnológica CONACYT-Gobierno del Estado de San Luis Potosí
+124	FED-H - CONACYT-Fondo mixto de fomento a la investigación científica y tecnológica CONACYT-Gobierno del Estado de Zacatecas
+125	FED-H - CONACYT-Fondo para el fomento y apoyo a la investigación científica y tecnológica en bioseguridad y biotecnología (CIBIOGEM)
+126	FED-H - CONACYT-Fondo sectorial CONACYT ¿ INEGI
+127	FED-H - CONACYT-Fondo sectorial CONACYT - Secretaría de Energía - Hidrocarburos
+128	FED-H - CONACYT-Fondo sectorial CONACYT - SEGOB - CNS para la seguridad pública
+129	FED-H - CONACYT-Fondo sectorial de investigación, desarrollo tecnológico e innovación del Ejército y Fuerza Aérea Mexicanos, CONACYT ¿ SEDE...
+130	FED-H - CONACYT-Fondo sectorial de investigación, desarrollo tecnológico e innovación en actividades espaciales, CONACYT ¿ AEM
+131	FED-H - CONACYT-Fondo sectorial de investigación ambiental
+132	FED-H - CONACYT-Fondo sectorial de investigación en materias agrícola, pecuaria, acuacultura, agrobiotecnología y recursos fitogenéticos
+133	FED-H - CONACYT-Fondo sectorial de investigación en salud y seguridad social
+134	FED-H - CONACYT-Fondo sectorial de investigación INIFED - CONACYT
+135	FED-H - CONACYT-Fondo sectorial de investigación para el desarrollo aeroportuario y la navegación aérea
+136	FED-H - CONACYT-Fondo sectorial de investigación para el desarrollo social
+137	FED-H - CONACYT-Fondo sectorial de investigación para la educación
+138	FED-H - CONACYT-Fondo sectorial de investigación Secretaría de Relaciones Exteriores
+139	FED-H - CONACYT - Fondo Sectorial de Investigación sobre Pobreza, Monitoreo y Evaluación CONACYT-CONEVAL
+140	FED-H - CONACYT-Fondo sectorial de investigación y desarrollo en ciencias navales
+141	FED-H - CONACYT-Fondo sectorial de investigación y desarrollo INMUJERES-CONACYT
+142	FED-H - CONACYT-Fondo sectorial de investigación y desarrollo sobre el agua
+143	FED-H - CONACYT-Fondo sectorial para investigación y desarrollo tecnológico en energía
+144	FED-H - CONACYT-Fondo sectorial para la investigación, el desarrollo y la innovación tecnológica en turismo
+145	FED-H - CONACYT-Fondo sectorial para la investigación, el desarrollo y la innovación tecnológica forestal
+146	FED-H - CONADE-Fideicomiso de administración e inversión para el desarrollo y fomento del deporte en el Estado de Puebla
+147	FED-H - CONADE-Fideicomiso de inversión y administración (FINDEPO)
+148	FED-H - CONADE-Fideicomiso de inversión y administración denominado "World Cup in Shotgun Acapulco 2010"
+149	FED-H - CONADE-Fideicomiso para becas y apoyos deportivos "Chelito Zamora"
+150	FED-H - CONADE-Fideicomiso para el desarrollo de infraestructura y equipamiento deportivo para los Juegos Panamericanos, Guadalajara 2011
+151	FED-H - CONADE-Fideicomiso para la infraestructura deportiva
+152	FED-H - CONADE-Fideicomiso para la infraestructura deportiva (FINDEPO) [201011L6I01528]
+153	FED-H - CONADE-Fideicomiso para la infraestructura deportiva (FINDEPO) [201011L6I01539]
+154	FED-H - CONADE-Fideicomiso público de administración e inversión para el desarrollo de la infraestructura y equipamiento deportivo en el Es...
+155	FED-H - CONADE-Fondo para el deporte de alto rendimiento
+156	FED-H - CONAHCYT-Fondo mixto CONAHCYT - Gobierno del Distrito Federal
+157	FED-H - CONAHCYT-Fondo mixto CONAHCYT-Gobierno del Estado de Chiapas
+158	FED-H - CONAHCYT-Fondo mixto CONAHCYT - Gobierno del Estado de Chihuahua.
+159	FED-H - CONAHCYT-Fondo mixto CONAHCYT-Gobierno del Estado de Hidalgo
+160	FED-H - CONAHCYT-Fondo mixto CONAHCYT-Gobierno del Estado de Quintana Roo
+161	FED-H - CONAHCYT-Fondo mixto CONAHCYT - Gobierno del Estado de Veracruz de Ignacio de la Llave
+162	FED-H - CONAHCYT-Fondo mixto CONAHCYT-Gobierno Municipal de Ciudad Juárez Chihuahua
+163	FED-H - CONAHCYT-Fondo mixto CONAHCYT - Gobierno Municipal de la Paz, Baja California Sur
+164	FED-H - CONAHCYT-Fondo mixto CONAHCYT - Gobierno Municipal de Puebla, Puebla
+165	FED-H - CONAHCYT-Fondo mixto CONHACYT-Gobierno del Estado de Tabasco
+166	FED-H - CONAHCYT-Fondo mixto de fomento a la investigación científica y tecnológica CONAHCYT-Gobierno del Estado Baja California
+167	FED-H - CONAHCYT-Fondo mixto de fomento a la investigación científica y tecnológica CONAHCYT-Gobierno del Estado de Jalisco
+168	FED-H - CONAHCYT-Fondo mixto de fomento a la investigación científica y tecnológica CONAHCYT-Gobierno del Estado de Nayarit
+169	FED-H - CONAHCYT-Fondo mixto de fomento a la investigación científica y tecnológica CONAHCYT-Gobierno del Estado de Querétaro
+170	FED-H - CONAHCYT-Fondo mixto de fomento a la investigación científica y tecnológica CONAHCYT-Gobierno del Estado de Tlaxcala
+171	FED-H - CONAHCYT-Fondo sectorial CONAHCYT - Secretaría de Energía - Sustentabilidad energética
+172	FED-H - CONAHCYT-Fondo sectorial de innovación Secretaría de Economía - CONAHCYT (FINNOVA)
+173	FED-H - CONAHCYT - Fondo Sectorial de Investigación para la Evaluación de la Educación CONAHCYT-INEE
+174	FED-H - Confederación Patronal de la República Mexicana (COPARMEX)
+175	FED-H - CONSAR-Fideicomiso para la asistencia legal de los miembros de la Junta de Gobierno, del Comité Consultivo y de Vigilancia y servid...
+176	FED-H - Consejo Nacional de Humanidades, Ciencias y Tecnologías (CONAHCYT, antes CONACYT)
+177	FED-H - CULTURA-Fideicomiso para la cultura de la comisión México-Estados Unidos para el intercambio educativo y cultural F/22514 (FONCA)
+178	FED-H - ECOSUR-Fondo de investigación científica y desarrollo tecnológico de El Colegio de la Frontera Sur Fid. 784
+179	FED-H - ESSA-Fideicomiso fondo de ahorro obreros de ESSA
+180	FED-H - FCE-Fideicomiso para cubrir indemnizaciones legales por despido, en favor del personal de planta y los beneficiarios que estos desi...
+181	FED-H - FCE-Fideicomiso para el otorgamiento y pago de primas de antigüedad de su personal y los beneficiarios que estos designen en su cas...
+182	FED-H - FCE-Fideicomiso SEP/DGETI/FCE
+183	FED-H - FGR-Mandato de administración para recompensas de la Procuraduría General de la Republica
+184	FED-H - FGR-Mandato de administración y pago para programas de procuración de justicia de la Procuraduría General de la Republica
+185	FED-H - FIDEICOMISO DE ADMINISTRACIÓN Y PAGO CENEGAS-BANCOMEXT NÚMERO 10637
+186	FED-H - Fideicomiso Fondo Nacional de Habitaciones Populares (FONHAPO)
+187	FED-H - Fideicomiso para el Fondo Regional (FIFONREGION)
+188	FED-H - Fideicomiso para la Administración de Recursos para el Pago de Primas de Seguros y la Administración de los Fondos que Conforman el...
+189	FED-H - Fideicomiso Programa de Becas SEP-UNAM-Fundación UNAM
+190	FED-H - FND-Fondo de la Financiera Rural
+191	FED-H - FOCIR-Fondo de inversión de capital en Agronegocios (FICA)
+192	FED-H - FOCIR-Fondo de inversión de capital en Agronegocios 2 (FICA)
+193	FED-H - FOCIR-Fondo de inversión de capital en Agronegocios Sureste (FICA Sureste)
+194	FED-H - FONATUR-Fideicomiso para trabajadores de Nacional Hotelera Baja California, S. A.
+195	FED-H - Fuerza por México
+196	FED-H - GACM-Fideicomiso para el desarrollo del nuevo Aeropuerto Internacional de la Ciudad del México
+197	FED-H - IFT-Fondo de infraestructura y equipamiento del Instituto Federal de Telecomunicaciones
+198	FED-H - IMSS-Fideicomiso de investigación en salud
+199	FED-H - IMTA-Fondo de investigación científica y desarrollo tecnológico del Instituto Mexicano de Tecnología del Agua
+200	FED-H - INACIPE-Fondo de ahorro capitalizable para los trabajadores operativos del INACIPE
+201	FED-H - INADEM-Fideicomiso de Fomento Industrial (LANFI)
+202	FED-H - INAH-Fideicomiso archivos Plutarco Elías Calles y Fernando Torreblanca.
+203	FED-H - INAH-Fideicomiso irrevocable de administración "Centro Cultural Santo Domingo", Oaxaca
+204	FED-H - INAH-Fideicomiso irrevocable de administración Museo Regional de Guadalupe, Zacatecas
+205	FED-H - INAH-Fideicomiso irrevocable de administración para los grandes exconventos de La Mixteca Alta, Oaxaca
+206	FED-H - INAH-Fideicomiso privado irrevocable de administración Santo Domingo de Guzmán, Chiapas
+207	FED-H - INAOE-Fideicomiso de investigación científica y desarrollo tecnológico No. 1750-2
+208	FED-H - INAOE-Gran Telescopio Canarias en el Observatorio del Roque de los Muchachos (GTC)
+209	FED-H - INDEP-Consejo de Promoción Turística de México, S.A. de C.V. (CPTM)
+210	FED-H - INDEP-Ferrocarril Chihuahua al Pacífico, S.A. de C.V.
+211	FED-H - INDEP-Fondo de Restitución (FORE)
+212	FED-H - INDEP-Productos Forestales Mexicanos
+213	FED-H - INDEP-ProMéxico (PROMÉXICO)
+214	FED-H - INDEP-PROMÉXICO-Fideicomiso para la competitividad e innovación México-Unión Europea y/o Fideicomiso PROCEI
+215	FED-H - INDEP-PROMÉXICO-Mandato para la administración de los recursos del programa de apoyo a la industria cinematográfica y audiovisual, ...
+216	FED-H - INDEP-Servicios de Almacenamientos del Norte, S.A.
+217	FED-H - INECOL-Fondo de investigación científica y desarrollo tecnológico
+218	FED-H - INEEL-Fideicomiso para el apoyo a la investigación científica y desarrollo tecnológico del Instituto de Investigaciones Eléctricas
+219	FED-H - INEEL-Fondo de primas de antigüedad, beneficios al retiro y jubilaciones del Instituto de Investigaciones Eléctricas
+220	FED-H - INFOTEC-Fondo de investigación científica y desarrollo tecnológico del Fondo de Información y Documentación para la Industria INFOT...
+221	FED-H - INIFAP-Fideicomiso de administración e inversión para el establecimiento y operación de los fondos de apoyo a la investigación cien...
+222	FED-H - INR-Fideprotesis
+223	FED-H - Instituto Nacional de Desarrollo Social (INDESOL)
+224	FED-H - Instituto Nacional de las Mujeres (INMUJERES)
+225	FED-H - Instituto Nacional del Emprendedor (INADEM)
+226	FED-H - Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales (INAI)
+227	FED-H - IPICYT-Fondo de investigación científica y desarrollo tecnológico del Instituto Potosino de Investigación Científica y Tecnológica ...
+228	FED-H - IPN-Fideicomiso fondo de investigación científica y desarrollo tecnológico del IPN
+229	FED-H - ISSFAM-Fideicomiso de administración y operación del ISSFAM
+230	FED-H - LOTENAL-Fideicomiso Público de Lotería Nacional para la Asistencia Pública
+231	FED-H - Lotería Nacional para la Asistencia Pública (LOTENAL) (En proceso de desincorporación por fusión)
+232	FED-H - Mandato para la Estrategia de Fortalecimiento para la Atención a Mexicanos en Estados Unidos
+233	FED-H - MORA-Fondos de investigación científica y desarrollo tecnológico 1759-6
+234	FED-H - NAFIN-Eurocentro NAFIN-México 11081
+235	FED-H - NAFIN-Fideicomiso fondo de asistencia técnica en programas de financiamiento
+236	FED-H - NAFIN-Fondo de apoyo al mercado intermedio de valores 9173
+237	FED-H - NAFIN-Mandatos fusión y liquidación (FONEP, FIDEIN, PAI)
+238	FED-H - Nueva Alianza (PANAL)
+239	FED-H - Partido de la Revolución Democrática (PRD)
+240	FED-H - Partido Encuentro Social (PES)
+241	FED-H - Partido Encuentro Solidario (PES)
+242	FED-H - PEMEX Cogeneración y Servicios
+243	FED-H - Pemex Etileno
+244	FED-H - Pemex Exploración y Producción (PEP)
+245	FED-H - Pemex Fertilizantes
+246	FED-H - PEMEX-Fideicomiso de cobertura laboral y de vivienda
+247	FED-H - PEMEX L-Contrato especifico abierto para la construcción y suministro de remolcadores, chalanes y embarcaciones multipropósito para...
+248	FED-H - Pemex Logística (PEMEX L)
+249	FED-H - Pemex Perforación y Servicios
+250	FED-H - PEMEX TI-Terrenos para Industrias, S.A.
+251	FED-H - Pemex Transformación Industrial (TRI)
+252	FED-H - PGR-Agencia de Investigación Criminal (*)
+253	FED-H - PGR-Centro de Evaluación y Control de Confianza (*)
+254	FED-H - PGR-Centro Federal de Protección a Personas (*)
+255	FED-H - PGR-Centro Nacional de Planeación, Análisis e Información para el Combate a la Delincuencia (*)
+256	FED-H - PGR-Instituto de Formación Ministerial, Policial y Pericial (*)
+257	FED-H - PGR-Órgano Administrativo Desconcentrado Especializado en Mecanismos Alternativos de Solución de Controversias en Materia Penal
+258	FED-H - Policía Federal (PF)
+259	FED-H - PRUEBA DE MONITOREO PNT 2016
+260	FED-H - REDES SOCIALES PROGRESISTAS
+261	FED-H - SADER-Fondo de Empresas Expropiadas del Sector Azucarero (*)
+262	FED-H - SCJN-Administración de los recursos producto de la venta de publicaciones de la Suprema Corte para el financiamiento de nuevas publ...
+263	FED-H - SCJN-Fondo Nacional para el Fortalecimiento y Modernización de la Impartición de Justicia (FONDO JURICA)
+264	FED-H - SCJN-Pensiones complementarias para mandos medios y personal operativo de la Suprema Corte de Justicia de la Nación
+265	FED-H - SCJN-Pensiones complementarias para servidores públicos de mando superior de la Suprema Corte de Justicia de la Nación
+266	FED-H - SCJN-Plan de prestaciones médicas
+267	FED-H - SCJN-Remanentes presupuestarios del año 1998 y anteriores
+268	FED-H - Secretaría Técnica del Consejo de Coordinación para la Implementación del Sistema de Justicia Penal
+269	FED-H - SECTUR-Corporación de Servicios al Turista Ángeles Verdes (*)
+270	FED-H - SECTUR-Fideicomiso Ángeles Verdes
+271	FED-H - SECTUR-Fideicomiso para la restauración, recuperación, sostenimiento y mantenimiento de la Zona Federal Marítimo Terrestre del Esta...
+272	FED-H - SECTUR-Fondo Mixto de Acapulco
+273	FED-H - SECTUR-Fondo Mixto de Cozumel, Quintana Roo
+274	FED-H - SECTUR-Fondo Mixto del Estado de Morelos
+275	FED-H - SECTUR-Instituto de Competitividad Turística (ICTUR*)
+276	FED-H - SEDATU-Fideicomiso para el desarrollo de la región Centro-Occidente (FIDERCO)
+277	FED-H - SEDATU-Fideicomiso para el desarrollo de la región Centro-País (FIDCENTRO)
+278	FED-H - SE-Fondo de desarrollo regional sustentable de Estados y Municipios
+279	FED-H - SE–Fondo para el Desarrollo de Zonas de Producción Minera
+280	FED-H - SEGOB-Comisión Nacional para Prevenir y Erradicar la Violencia Contra las Mujeres (CONAVIM*)
+281	FED-H - SEGOB-Fondo para la protección de personas defensoras de derechos humanos y periodistas
+282	FED-H - SEGOB-Secretaría Técnica de la Comisión Calificadora de Publicaciones y Revistas Ilustradas (STCCPRI*)
+283	FED-H - SEMARNAT-Fondo Mexicano para la conservación de la naturaleza (FMCN)
+284	FED-H - SEMARNAT-Fondo para el cambio climático
+285	FED-H - Servicio de Información Agroalimentaria y Pesquera (SIAP)
+286	FED-H - SHCP-Autoridad Federal para el Desarrollo de las Zonas Económicas Especiales (AFDZEE*)
+287	FED-H - SHCP-Centro de Estudios para la Preparación y Evaluación Socioeconómica de Proyectos (CEPEP)
+288	FED-H - SHCP-Fideicomiso de Transición 2018
+289	FED-H - SHCP-Fideicomiso que administrara el fondo para el fortalecimiento de sociedades y cooperativas de ahorro y préstamo y de apoyo a s...
+290	FED-H - SHCP-Fondo de apoyo en infraestructura y productividad (FAIP)
+291	FED-H - SHCP- Fondo metropolitano
+292	FED-H - SHCP-La transferencia del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo (TFMP)
+293	FED-H - SHCP-Mand. 1312.- Juicio promovido por ICA vs INECEL de la República de Ecuador (MAND1312)
+294	FED-H - SHCP-Mandato para la administración de los recursos del Programa de Cooperación Energética para Países de Centroamérica y el Caribe...
+295	FED-H - SHF-Convenio de adhesión al Fideicomiso "C" F/1532 AHM/Sociedad Hipotecaria Federal
+296	FED-H - SICT-Fideicomiso de inversión y administración del tramo carretero Nizuc-Tulum No. 160265-7
+297	FED-H - SICT-Fideicomiso del fondo de cobertura social de telecomunicaciones
+298	FED-H - SICT-Fideicomiso Fondo para el Fortalecimiento a la Infraestructura Portuaria
+299	FED-H - SICT-Fondo Nacional de Seguridad para Cruces Viales Ferroviarios
+300	FED-H - Sindicato Democrático Nacional Autónomo de Trabajadores de la Secretaría de Desarrollo Social
+301	FED-H - Sindicato de Trabajadores del Servicio de Administración Tributaria y de Hacienda (STSATH)
+302	FED-H - Sindicato de Trabajadores Técnicos y Manuales de la Producción Cinematográfica
+303	FED-H - Sindicato de Unidad Nacional de los Trabajadores de Acuacultura y Pesca de la Secretaría de Agricultura y Desarrollo Rural
+304	FED-H - Sindicato Independiente de Integración Nacional de Trabajadores de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca...
+305	FED-H - Sindicato Nacional de Empleados del Instituto del Fondo Nacional para el Consumo de los Trabajadores
+306	FED-H - Sindicato Nacional de los Trabajadores de la Secretaría de Cultura (SNTSC)
+307	FED-H - Sindicato Nacional de los Trabajadores del Consejo Nacional de Fomento Educativo (SNTCONAFE)
+308	FED-H - Sindicato Nacional Democrático de los Trabajadores de la Secretaría de Cultura/Sector INBAL (SNDTSC INBAL)
+309	FED-H - Sindicato Nacional Democrático de Trabajadores de SENEAM (SNDTI SENEAM)
+310	FED-H - Sindicato Nacional de Trabajadores de Hacienda y del Servicio de Administración Tributaria (SNTHSAT)
+311	FED-H - Sindicato Nacional de Trabajadores de Instituciones Financieras, Bancarias, Organizaciones y Actividades Auxiliares de Crédito, Emp...
+312	FED-H - Sindicato Nacional de Trabajadores de la Secretaría de Comunicaciones y Transportes (SNTSCT)
+313	FED-H - Sindicato Nacional de Trabajadores del Banco del Ahorro Nacional y Servicios Financieros (SNTBANSEFI)
+314	FED-H - Sindicato Nacional de Trabajadores del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (SNTISSSTE)
+315	FED-H - Sindicato Nacional de Trabajadores del Instituto Nacional de Bellas Artes y Literatura 227
+316	FED-H - Sindicato Nacional de Trabajadores de Pronósticos para la Asistencia Pública (SNTPAP)
+317	FED-H - Sindicato Nacional de Unidad de los Trabajadores de la Secretaría de Comunicaciones y Transportes (SNUTSCT)
+318	FED-H - Sindicato Nacional Independiente de Trabajadores de la Secretaría de Medio Ambiente y Recursos Naturales (SNITSEMARNAT)
+319	FED-H - Sindicato Revolucionario Nacional de Trabajadores de la Secretaría de Comunicaciones y Transportes
+320	FED-H - Sindicato Unión de Trabajadores del Partido de la Revolución Democrática
+321	FED-H - SRE-Fideicomiso para cubrir gastos por demandas en el extranjero
+322	FED-H - SRE-Fondo nacional de cooperación internacional para el desarrollo
+323	FED-H - SRE-Mandato para el establecimiento del Fondo de Contingencia de las RME´S
+324	FED-H - SRE-Secciones Mexicanas de las Comisiones Internacionales de Límites y Aguas entre México y Guatemala, y entre México y Belice (CIL...
+325	FED-H - SRE-Sección Mexicana de la Comisión Internacional de Límites y Aguas entre México y Estados Unidos (CILA MEX-EUA*)
+326	FED-H - SSA-Centro Nacional de Excelencia Tecnológica en Salud (CENETEC*)
+327	FED-H - SSA-Comisión Nacional contra las Adicciones (CONADIC*)
+328	FED-H - SSA-Servicios de Atención Psiquiátrica (SAP*)
+329	FED-H - SSPC-Fideicomiso preventivo
+330	FED-H - SSPC-Fondo para la prevención de desastres naturales
+331	FED-H - Suprema Corte de Justicia de la Nación (SCJN)
+332	FED-H - Tribunal Electoral del Poder Judicial de la Federación (TEPJF)
+333	FED-H - UNAM-Fideicomiso SEP-UNAM
+334	FED-H - Unión Nacional de Trabajadores de la Industria Alimenticia, Refresquera, Turística, Hotelera, Gastronómica, Similares y Conexos (CR...
+335	FED-H - Universidad Autónoma Agraria Antonio Narro (UAAAN)
+336	FED-H - UPN-Fondo de fomento para la investigación científica y el desarrollo tecnológico de la Universidad Pedagógica Nacional
