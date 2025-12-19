@@ -8,7 +8,6 @@ import time
 # -----------------------------------------------------------------------------
 # CONFIGURACIÓN
 # -----------------------------------------------------------------------------
-# Puedes cambiar esto manualmente o usar input()
 ESTADO_ID = input("Introduce el ID del Estado (ej. 31 para Yucatán): ").strip()
 institucion_id = input("Introduce el id de la institución a seleccionar: ").strip()
 year = input("Introduce el año a seleccionar (ej. 2023): ").strip()
@@ -30,27 +29,41 @@ wait = WebDriverWait(browser, 20)
 wait.until(EC.presence_of_element_located((By.ID, "formEntidadFederativa")))
 print("--> Sitio cargado.")
 
+
+
+def esperar_estabilidad(driver):
+        """Espera a que el sitio termine de cargar y muestre el botón 'Arriba'"""
+        print("--> [RELOJ] Esperando estabilización del sitio (Btn 'js_up')...")
+        
+        # 1. Espera técnica
+        WebDriverWait(driver, 40).until(lambda d: d.execute_script('return document.readyState') == 'complete')
+        
+        # 2. Espera visual (Tu hallazgo clave)
+        # Esperamos a que el botón de ir arriba sea visible.
+        wait.until(EC.visibility_of_element_located((By.ID, "js_up")))
+        
+        # 3. Pequeña pausa de seguridad
+        time.sleep(1.5)
+        print("--> [RELOJ] Sitio estable.")
+
+
 #Función seleccionar estado
 def seleccionar_estado(estado_id):      
     print(f"--> Seleccionando estado...")
-    # Este es el ID real del <select> oculto por Bootstrap
     id_select_estado = "formEntidadFederativa:selectEntidad"
     
-    # Localizamos el elemento (aunque esté oculto)
     selector_estado = browser.find_element(By.ID, id_select_estado)
-    
-            # PASO A: Hacerlo visible para que Selenium pueda interactuar
     browser.execute_script("arguments[0].style.display = 'block'; arguments[0].style.visibility = 'visible';", selector_estado)
     
     # PASO B: Seleccionar el valor usando la librería estándar
     select = Select(selector_estado)
     select.select_by_value(ESTADO_ID)
     
-    # PASO C (EL CRÍTICO): Disparar el evento 'change' manualmente
-    # Sin esto, el sitio no sabe que seleccionaste nada y no cargará las instituciones.
     browser.execute_script("arguments[0].dispatchEvent(new Event('change'));", selector_estado)
     
     print(f"--> ¡HECHO! Estado {ESTADO_ID} seleccionado y evento disparado.")
+    
+    
 
 
 def seleccionar_institucion(institucion_id):  
@@ -95,10 +108,8 @@ def guardar_instituciones():
         # 1. Localizar el elemento
         elem_inst = browser.find_element(By.ID, id_select_instituciones)
         
-        # 2. EXTRACCIÓN RELÁMPAGO (JAVASCRIPT)
-        # En lugar de usar un bucle de Python lento, le pedimos al navegador
-        # que nos devuelva una matriz pura de texto [[valor, nombre], [valor, nombre]...]
-        # Esto evita el error StaleElementReferenceException porque no guardamos referencias, solo texto.
+       
+    
         print("--> Extrayendo datos masivos vía JavaScript (esto es instantáneo)...")
         
         datos_crudos = browser.execute_script("""
@@ -141,10 +152,61 @@ def seleccionar_year(year):
     browser.execute_script("arguments[0].dispatchEvent(new Event('change'));", selector_year)
     
     print(f"--> ¡HECHO! Año {year} seleccionado y evento disparado.")
+    
+def esperar_carga_inicial(driver):
+    print("--> Sincronizando: Esperando carga total del sistema...")
+    wait = WebDriverWait(driver, 40) 
 
+    # 1. Esperar a que el navegador diga "Ya descargué el HTML"
+    wait.until(lambda d: d.execute_script('return document.readyState') == 'complete')
+
+    # 2. ANCLAJE VISUAL (Tu hallazgo): Esperamos al botón "Arriba"
+    # En tu imagen se ve claramente que el ID es "js_up"
+    print("--> Esperando señal de estabilidad (Botón 'Ir Arriba')...")
+    
+    # Esperamos a que sea visible (no solo presente en el código, sino visible al ojo)
+    wait.until(EC.visibility_of_element_located((By.ID, "js_up")))
+    
+    # 3. TIEMPO DE ASENTAMIENTO (BUFFER)
+    # Aunque el botón ya salió, a veces los menús tardan medio segundo más en desbloquearse.
+    # Una pequeña pausa aquí es higiénica y segura.
+    time.sleep(2)
+
+    print("--> Sistema ESTABILIZADO. Procediendo al ataque.")
+
+    print("--> Sistema LISTO y OPERATIVO.")
+    
+    
+esperar_estabilidad(browser)    
+
+try:
+        seleccionar_estado(ESTADO_ID)
+except:
+        pass 
+
+    # 3. Esperamos a que el sitio se calme otra vez
+esperar_estabilidad(browser)
+
+    # 4. SEGUNDA SELECCIÓN DE ESTADO (La Definitiva)
+    # Ahora que el sitio ya cargó todo lo suyo, imponemos nuestra voluntad.
 seleccionar_estado(ESTADO_ID)
-seleccionar_institucion(institucion_id)
-esperar_carga_instituciones()
-seleccionar_year(year)
+    
+    # 5. Esperamos a que lleguen los datos de las instituciones
+esperar_llenado_instituciones()
+
+    # 6. Seleccionamos Institución
+seleccionar_institucion(INSTITUCION_ID)
+
+    # 7. Esperamos un momento (El año suele recargarse al cambiar de institución)
+time.sleep(2)
+    
+    # 8. Seleccionamos Año
+seleccionar_year(YEAR)
+
+print("\n--> ¡CONFIGURACIÓN COMPLETA! Esperando panel de obligaciones...")
+    # Aquí podrías esperar a que aparezcan los botones de obligaciones
+    
+input("\n[PAUSA] Presiona ENTER para cerrar...")
+    
 input("\n[PAUSA] El navegador está abierto. Presiona ENTER en esta terminal cuando estés listo para cerrar...")
 

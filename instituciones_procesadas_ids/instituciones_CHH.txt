@@ -1,0 +1,348 @@
+20517	CHH - Administradora de Servicios Aeroportuarios de Chihuahua
+29968	CHH - Agencia Estatal de Desarrollo Energético
+1446	CHH - Ahumada
+1447	CHH - Aldama
+1448	CHH - Allende
+1449	CHH - Aquiles Serdán
+31388	CHH - Archivo General del Estado de Chihuahua
+13891	CHH - Arte en el Parque A.C.
+1450	CHH - Ascensión
+1443	CHH - Auditoría Superior del Estado de Chihuahua
+1451	CHH - Bachíniva
+1452	CHH - Balleza
+1453	CHH - Batopilas
+1454	CHH - Bocoyna
+1455	CHH - Buenaventura
+1456	CHH - Camargo
+1457	CHH - Carichí
+13892	CHH - Cáritas de Chihuahua I.B.P
+1602	CHH - Casa Chihuahua
+13893	CHH - Casas de Cuidado Diario Infantiles, A.C.
+13894	CHH - Casas de Cuidado Diario Infantiles, I.B.P
+1459	CHH - Casas Grandes
+13895	CHH - Centro de Atención a la Mujer Trabajadora A.C.
+1460	CHH - Centro de Atención y Prevención Psicológicas del Municipio de Chihuahua "Extinto"
+27625	CHH - Centro de Conciliación Laboral del Estado de Chihuahua
+13896	CHH - Centro de Consejería Familiar A. C.
+30248	CHH - Centro Empresarial de Chihuahua
+25077	CHH - Centro Estatal de Trasplantes
+1461	CHH - Chihuahua
+29746	CHH - Chihuahua Buró de Convenciones, A.C.
+1462	CHH - Chínipas
+1383	CHH - Colegio de Bachilleres del Estado de Chihuahua
+1384	CHH - Colegio de Educación Profesional Técnica del Estado de Chihuahua
+1385	CHH - Colegio de Estudios Científicos y Tecnológicos
+21917	CHH - Comisión de Conciliación y Arbitraje Médico para el Estado de Chihuahua
+26078	CHH - Comisión Estatal de Atención a las Adicciones
+1591	CHH - Comisión Estatal de los Derechos Humanos
+29367	CHH - Comisión Estatal de Mejora Regulatoria
+1386	CHH - Comisión Estatal de Vivienda, Suelo e Infraestructura del Estado de Chihuahua
+1387	CHH - Comisión Estatal para la Protección contra Riesgos Sanitarios
+31128	CHH - Consejería Jurídica del Ejecutivo del Estado
+1388	CHH - Consejería Jurídica del Estado "Extinto"
+26917	CHH - Consejo Ciudadano de Seguridad y Justicia de Chihuahua, A.C.
+1463	CHH - Consejo de Urbanización Municipal de Chihuahua
+1464	CHH - Consejo de Urbanización Municipal de Cuauhtémoc, Chihuahua
+1389	CHH - Consejo Estatal de Población y Atención a Migrantes
+1465	CHH - Consejo Municipal de Estacionómetros de Camargo, Chihuahua
+15964	CHH - Consejo Municipal de Estacionómetros de Cd. Delicias
+1466	CHH - Consejo Municipal de Estacionómetros de Cuauhtémoc, Chih.
+1467	CHH - Consejo Municipal de Estacionómetros de Hidalgo del Parral, Chih.
+16611	CHH - Consejo Municipal de Estacionómetros de Meoqui, Chihuahua
+18098	CHH - Consejo Municipal de Estacionómetros de Saucillo, Chihuahua
+16073	CHH - Coordinación de Asesores y Proyectos Especiales "Extinto"
+1390	CHH - Coordinación de Comunicación
+15860	CHH - Coordinación de Gobierno Abierto "Extinto"
+31009	CHH - Coordinación de Política Digital
+15373	CHH - Coordinación de Política Digital "Extinto"
+15010	CHH - Coordinación de Relaciones Públicas
+14093	CHH - Coordinación Ejecutiva de Gabinete "Extinto"
+1469	CHH - Coronado
+1470	CHH - Coyame
+1471	CHH - Cuauhtémoc
+1472	CHH - Cusihuiriachí
+1473	CHH - Delicias
+1393	CHH - Desarrollo Integral de la Familia del Estado de Chihuahua
+1474	CHH - DIF Ahumada
+1475	CHH - DIF Aldama
+1476	CHH - DIF Allende
+1477	CHH - DIF Aquiles Serdán
+1478	CHH - DIF Ascensión
+1479	CHH - DIF Bachíniva
+1480	CHH - DIF Balleza
+1481	CHH - DIF Batopilas
+1482	CHH - DIF Bocoyna
+1483	CHH - DIF Buenaventura
+1484	CHH - DIF Camargo
+1485	CHH - DIF Carichí
+1486	CHH - DIF Casas Grandes
+1487	CHH - DIF Chihuahua
+1488	CHH - DIF Chínipas
+1489	CHH - DIF Coronado
+1490	CHH - DIF Coyame
+1491	CHH - DIF Cuauhtémoc
+1492	CHH - DIF Delicias
+1493	CHH - DIF Dr. Belisario Domínguez
+23837	CHH - DIF El Tule
+1495	CHH - DIF Galeana
+1496	CHH - DIF Gómez Farías
+1497	CHH - DIF Gran Morelos
+1498	CHH - DIF Guachochi
+1499	CHH - DIF Guadalupe
+1500	CHH - DIF Guazapares
+1501	CHH - DIF Guerrero
+1502	CHH - DIF Hidalgo del Parral
+1503	CHH - DIF Huejotitán
+1504	CHH - DIF Ignacio Zaragoza
+1505	CHH - DIF Janos
+1506	CHH - DIF Jiménez
+1507	CHH - DIF Juárez
+1508	CHH - DIF Julimes
+1509	CHH - DIF López
+1510	CHH - DIF Madera
+1511	CHH - DIF Maguarichi
+1512	CHH - DIF Manuel Benavides
+1513	CHH - DIF Matachí
+1514	CHH - DIF Matamoros
+1515	CHH - DIF Meoqui
+1516	CHH - DIF Morelos
+1517	CHH - DIF Moris
+1518	CHH - DIF Namiquipa
+1519	CHH - DIF Nonoava
+1520	CHH - DIF Nuevo Casas Grandes
+1521	CHH - DIF Ocampo
+1522	CHH - DIF Ojinaga
+1523	CHH - DIF Riva Palacio
+1524	CHH - DIF Rosales
+1525	CHH - DIF San Francisco de Borja
+1526	CHH - DIF San Francisco de Conchos
+1527	CHH - DIF San Francisco del Oro
+1528	CHH - DIF Santa Bárbara
+1529	CHH - DIF Santa Isabel
+1530	CHH - DIF Satevó
+1531	CHH - DIF Saucillo
+16157	CHH - DIF Temósachi
+1533	CHH - DIF Urique
+1534	CHH - DIF Uruachi
+1535	CHH - DIF Valle de Zaragoza
+1536	CHH - Dr. Belisario Domínguez
+1395	CHH - El Colegio de Chihuahua
+1537	CHH - El Tule
+1396	CHH - Escuela Normal Superior Profesor José E. Medrano
+1603	CHH - Expo Chihuahua
+13897	CHH - Fátima I.B.P
+27077	CHH - Fideicomiso Centro Urbano e Histórico de la Ciudad de Chihuahua
+15852	CHH - Fideicomiso de Administración para la Promoción y Fomento de las Actividades Turísticas en el Estado
+27018	CHH - Fideicomiso de Inversión y Administración Irrevocable para el Fondo de los Agentes de Seguridad Pública del Municipio de Chihuahua
+1605	CHH - Fideicomiso del Fondo de Seguridad Pública del Estado de Chihuahua
+25037	CHH - Fideicomiso del Parque Metropolitano Tres Presas
+1604	CHH - Fideicomiso de Obra Participativa Municipal (FIDOP) "Extinto"
+17962	CHH - Fideicomiso de Puentes Fronterizos de Chihuahua
+1606	CHH - Fideicomiso Estatal para el Fomento de las Actividades Productivas en el Estado de Chihuahua
+1607	CHH - Fideicomiso F/47611-9 Fondo Social del Empresariado Chihuahuense
+30509	CHH - Fideicomiso para el Cuidado del Agua en el Municipio de Chihuahua
+1608	CHH - Fideicomiso para la Competitividad y Seguridad Ciudadana
+26257	CHH - Fiscalía Anticorrupción del Estado de Chihuahua
+1397	CHH - Fiscalía General del Estado de Chihuahua
+1458	CHH - Fomento y Desarrollo Artesanal del Estado de Chihuahua
+25677	CHH - Fondo de Atención a Niñas y Niños Hijos de Policías Caídos en Cumplimiento de su Deber
+1609	CHH - Fondo de Atención a Niños y Niñas Hijos de las Víctimas de la Lucha Contra el Crimen
+1611	CHH - Fondo Mixto CONACYT-Gobierno del Estado
+1610	CHH - Fondo Mixto CONACYT-Gobierno Municipal de Juárez
+13898	CHH - Fundación del Empresariado Chihuahuense A.C.
+23877	CHH - Fundación Teletón de México A.C.
+1538	CHH - Galeana
+1539	CHH - Gómez Farías
+1540	CHH - Gran Morelos
+1541	CHH - Guachochi
+1542	CHH - Guadalupe
+1543	CHH - Guadalupe y Calvo
+1544	CHH - Guazapares
+1545	CHH - Guerrero
+1444	CHH - H. Congreso del Estado
+1546	CHH - Hidalgo del Parral
+1547	CHH - Huejotitán
+1548	CHH - Ignacio Zaragoza
+1398	CHH - Instituto Camarguense de la Mujer
+1399	CHH - Instituto Chihuahuense de Educación para los Adultos
+1400	CHH - Instituto Chihuahuense de Infraestructura Física Educativa
+1402	CHH - Instituto Chihuahuense de la Juventud
+1403	CHH - Instituto Chihuahuense de las Mujeres
+1405	CHH - Instituto Chihuahuense del Deporte y Cultura Física
+1404	CHH - Instituto Chihuahuense de Salud
+26079	CHH - Instituto Chihuahuense de Salud Mental
+1592	CHH - Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública
+1406	CHH - Instituto de Apoyo al Desarrollo Tecnológico
+1407	CHH - Instituto de Capacitación para el Trabajo del Estado de Chihuahua
+1408	CHH - Instituto de Cultura del Municipio de Chihuahua
+25637	CHH - Instituto de Cultura del Municipio de Cuauhtémoc
+28485	CHH - Instituto de Desarrollo Económico y Agropecuario del Municipio de Delicias, Chihuahua
+1409	CHH - Instituto de Innovación y Competitividad
+16931	CHH - Instituto de las Mujeres del Municipio de Delicias, Chihuahua
+1555	CHH - Instituto de Planeación Integral del Municipio de Chihuahua
+1593	CHH - Instituto Estatal Electoral
+13900	CHH - Instituto José David
+30331	CHH - Instituto Municipal de Cultura Física y Deporte del Municipio de Cuauhtémoc, Chihuahua
+29726	CHH - Instituto Municipal de Cultura Física y Deporte de Saucillo
+1549	CHH - Instituto Municipal de Investigación y Planeación de Juárez
+1550	CHH - Instituto Municipal de la Cultura Física y el Deporte
+1551	CHH - Instituto Municipal de la Juventud de Hidalgo del Parral
+14712	CHH - Instituto Municipal de la Juventud de Juárez
+1552	CHH - Instituto Municipal de las Mujeres
+13751	CHH - Instituto Municipal de las Mujeres (Cd. Juárez)
+1553	CHH - Instituto Municipal de las Mujeres de Nuevo Casas Grandes
+1556	CHH - Instituto Municipal del Deporte y Cultura Física del Municipio de Juárez, Estado de Chihuahua
+15965	CHH - Instituto Municipal del Deporte y la Juventud de Delicias
+1554	CHH - Instituto Municipal de Pensiones de Chihuahua
+30070	CHH - Instituto Municipal de Planeación de Delicias, Chihuahua
+27623	CHH - Instituto Municipal de Prevención y Atención a la Salud
+14735	CHH - Instituto para la Cultura del Municipio de Juárez
+1410	CHH - Instituto Tecnológico Superior de Nuevo Casas Grandes
+1557	CHH - Janos
+1558	CHH - Jiménez
+1559	CHH - Juárez
+1560	CHH - Julimes
+1411	CHH - Junta Central de Agua y Saneamiento
+1412	CHH - Junta de Asistencia Social Privada del Estado de Chihuahua
+28826	CHH - Junta Municipal de Agua y Saneamiento de Ahumada, Chihuahua
+16054	CHH - Junta Municipal de Agua y Saneamiento de Aldama
+27384	CHH - Junta Municipal de Agua y Saneamiento de Allende
+27466	CHH - Junta Municipal de Agua y Saneamiento de Aquiles Serdán
+15854	CHH - Junta Municipal de Agua y Saneamiento de Camargo
+15966	CHH - Junta Municipal de Agua y Saneamiento de Casas Grandes
+14752	CHH - Junta Municipal de Agua y Saneamiento de Chihuahua
+15853	CHH - Junta Municipal de Agua y Saneamiento de Cuauhtémoc
+15915	CHH - Junta Municipal de Agua y Saneamiento de Delicias
+27503	CHH - Junta Municipal de Agua y Saneamiento de Gran Morelos, Chihuahua
+27497	CHH - Junta Municipal de Agua y Saneamiento de Guachochi, Chihuahua
+27624	CHH - Junta Municipal de Agua y Saneamiento de Guerrero
+15855	CHH - Junta Municipal de Agua y Saneamiento de Hidalgo del Parral
+15856	CHH - Junta Municipal de Agua y Saneamiento de Jiménez
+15967	CHH - Junta Municipal de Agua y Saneamiento de Juárez
+27467	CHH - Junta Municipal de Agua y Saneamiento de Madera
+15857	CHH - Junta Municipal de Agua y Saneamiento de Meoqui
+15858	CHH - Junta Municipal de Agua y Saneamiento de Nuevo Casas Grandes
+15859	CHH - Junta Municipal de Agua y Saneamiento de Ojinaga
+31709	CHH - Junta Municipal de Agua y Saneamiento de Rosales
+27385	CHH - Junta Municipal de Agua y Saneamiento de San Francisco del Oro
+32229	CHH - Junta Municipal de Agua y Saneamiento de Santa Bárbara, Chihuahua
+27504	CHH - Junta Municipal de Agua y Saneamiento de Santa Isabel, Chihuahua
+27683	CHH - Junta Municipal de Agua y Saneamiento de Saucillo, Chihuahua
+27563	CHH - Junta Rural de Agua y Saneamiento de Adolfo López Mateos, Chihuahua
+27763	CHH - Junta Rural de Agua y Saneamiento de Creel, Chihuahua
+27444	CHH - Junta Rural de Agua y Saneamiento de San Juanito
+1561	CHH - La Cruz
+1562	CHH - López
+1563	CHH - Madera
+1564	CHH - Maguarichi
+1565	CHH - Manuel Benavides
+1566	CHH - Matachí
+1567	CHH - Matamoros
+1568	CHH - Meoqui
+1569	CHH - Morelos
+1570	CHH - Moris
+1595	CHH - Movimiento Ciudadano
+13901	CHH - Mujeres por México en Chihuahua A.C.
+1571	CHH - Namiquipa
+1572	CHH - Nonoava
+1573	CHH - Nuevo Casas Grandes
+13902	CHH - Observatorio Ciudadano de Prevención, Seguridad y Justicia de Chihuahua, A.C.
+13903	CHH - Observatorio Ciudadano de Seguridad para Nuevo Casas Grandes, A. C.
+1574	CHH - Ocampo
+13904	CHH - Oficina de Convenciones y Visitantes del Estado de Chihuahua A.C
+30890	CHH - Oficina de la Gubernatura del Estado
+1575	CHH - Ojinaga
+16160	CHH - Operadora de Transporte Vivebus Chihuahua
+1413	CHH - Operadora Municipal de Estacionamientos de Juárez
+30431	CHH - Parque Central de Ciudad Juárez
+1596	CHH - Partido Acción Nacional
+1597	CHH - Partido de la Revolución Democrática
+1598	CHH - Partido del Trabajo
+15976	CHH - Partido Encuentro Social "Extinto"
+26088	CHH - Partido Encuentro Solidario
+15962	CHH - Partido Morena
+1599	CHH - Partido Nueva Alianza "Extinto"
+30648	CHH - Partido Político Pueblo
+1600	CHH - Partido Revolucionario Institucional
+1601	CHH - Partido Verde Ecologista de México
+13905	CHH - Patronato Pro Educación de Jóvenes y Adultos del Estado de Chihuahua A.C.
+13906	CHH - Pedro de Jesús Maldonado, A. C.
+1414	CHH - Pensiones Civiles del Estado
+13907	CHH - Plan Estratégico de Juárez A.C.
+1612	CHH - Policía Amigo
+1576	CHH - Praxedis G. Guerrero
+13908	CHH - Programa Educación en Valores A. C.
+1614	CHH - Programa Nacional de Becas para la Educación Superior "Extinto"
+1415	CHH - Promotora para el Desarrollo Económico de Chihuahua
+1416	CHH - Rastro TIF de Cuauhtémoc
+1417	CHH - Régimen Estatal de Protección Social en Salud "Extinto"
+29307	CHH - Representación del Gobierno del Estado de Chihuahua en la Ciudad de México
+1577	CHH - Riva Palacio
+1578	CHH - Rosales
+1580	CHH - San Francisco de Borja
+1581	CHH - San Francisco de Conchos
+1582	CHH - San Francisco del Oro
+1583	CHH - Santa Bárbara
+1584	CHH - Santa Isabel
+1585	CHH - Satevó
+1586	CHH - Saucillo
+1418	CHH - Secretaría de Comunicaciones y Obras Públicas
+27286	CHH - Secretaría de Coordinación de Gabinete
+14010	CHH - Secretaría de Cultura
+1420	CHH - Secretaría de Desarrollo Humano y Bien Común
+13952	CHH - Secretaría de Desarrollo Municipal "Extinto"
+1419	CHH - Secretaría de Desarrollo Rural
+1421	CHH - Secretaría de Desarrollo Urbano y Ecología
+1423	CHH - Secretaría de Educación y Deporte
+1424	CHH - Secretaría de Hacienda
+15310	CHH - Secretaría de Innovación y Desarrollo Económico
+15232	CHH - Secretaría de la Función Pública
+1427	CHH - Secretaría del Trabajo y Previsión Social
+13953	CHH - Secretaría de Pueblos y Comunidades Indígenas
+1426	CHH - Secretaría de Salud
+24677	CHH - Secretaría de Seguridad Pública del Estado
+29386	CHH - Secretaría de Turismo
+25137	CHH - Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública
+21497	CHH - Secretaría Ejecutiva del Sistema Estatal Anticorrupción
+1428	CHH - Secretaría General de Gobierno
+1394	CHH - Secretaría Particular del Gobernador
+13909	CHH - Seguridad y Justicia de Ciudad Juárez, A.C.
+1429	CHH - Servicios de Salud de Chihuahua
+1430	CHH - Servicios Educativos del Estado de Chihuahua
+20817	CHH - Sindicato de Empleados y Trabajadores al Servicio de Aguas y Saneamiento de Cd. Juárez C.T.M.
+22358	CHH - Sindicato de Empleados y Trabajadores al Servicio de Agua y Saneamiento de Chihuahua "Benito Juárez"
+24517	CHH - Sindicato del Personal Académico de la Universidad Autónoma de Chihuahua
+26899	CHH - Sindicato de Trabajadores al Servicio de la Junta Municipal de Aguas y Saneamiento de Cd. Delicias, Chih., C.T.M.
+20137	CHH - Sindicato de Trabajadores al Servicio de la Junta Municipal de Agua y Saneamiento de Camargo, Chih. "María Floriza Aguilar Lara" "Ex...
+24477	CHH - Sindicato de Trabajadores al Servicio de la Universidad Autónoma de Chihuahua Lic. Oscar Soto Maynez
+23777	CHH - Sindicato de Trabajadores al Servicio del Gobierno del Estado
+24518	CHH - Sindicato de Trabajadores al Servicio del Municipio de Chihuahua
+30549	CHH - Sindicato de Trabajadores al Servicio del Municipio de Meoqui, Chihuahua
+31052	CHH - Sindicato de Trabajadores de la Universidad Tecnológica de Chihuahua, STUTCH
+26678	CHH - Sindicato único de trabajadores de la industria de la carne similares y conexos del municipio de Delicias C.T.M. al servicio del rast...
+1431	CHH - Sistema de Urbanización Municipal Adicional de Juárez
+1432	CHH - Subsistema de Preparatoria Abierta y Telebachillerato del Estado de Chihuahua
+1587	CHH - Temósachi
+1615	CHH - Tránsito Amigo
+23237	CHH - Tribunal Estatal de Justicia Administrativa
+1594	CHH - Tribunal Estatal Electoral
+1445	CHH - Tribunal Superior de Justicia del Estado de Chihuahua
+1433	CHH - Universidad Autónoma de Chihuahua
+1434	CHH - Universidad Autónoma de Ciudad Juárez
+1435	CHH - Universidad Pedagógica Nacional del Estado de Chihuahua
+1436	CHH - Universidad Politécnica de Chihuahua
+13959	CHH - Universidad Tecnológica de Camargo
+1437	CHH - Universidad Tecnológica de Chihuahua
+1438	CHH - Universidad Tecnológica de Chihuahua Sur
+1439	CHH - Universidad Tecnológica de Ciudad Juárez
+1440	CHH - Universidad Tecnológica de la Babícora
+16491	CHH - Universidad Tecnológica de la Tarahumara
+1441	CHH - Universidad Tecnológica de Paquimé
+15975	CHH - Universidad Tecnológica de Parral
+1442	CHH - Universidad Tecnológica Paso del Norte
+1588	CHH - Urique
+1589	CHH - Uruachi
+16214	CHH - USMC Strategic Alliance, A.C.
+1579	CHH - Valle del Rosario
+1590	CHH - Valle de Zaragoza
+13910	CHH - Valores Chihuahua 2020 A.C.

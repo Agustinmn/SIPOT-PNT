@@ -1,0 +1,73 @@
+1950	GUA - Abasolo
+1951	GUA - Acámbaro
+1953	GUA - Apaseo el Alto
+1954	GUA - Apaseo el Grande
+31543	GUA - Archivo General del Estado
+17538	GUA - Asociación Sindical del Personal Académico y Administrativo de la Universidad de Guanajuato
+17539	GUA - Asociación Sindical de Trabajadores Administrativos de la Universidad de Guanajuato
+1955	GUA - Atarjea
+1956	GUA - Celaya
+17517	GUA - Centro de Rehabilitación e Inclusión Infantil
+12310	GUA - Comité Municipal de Agua Potable y Alcantarillado de Salamanca
+1957	GUA - Comonfort
+1958	GUA - Coroneo
+1959	GUA - Cortazar
+1960	GUA - Cuerámaro
+1961	GUA - Doctor Mora
+1962	GUA - Dolores Hidalgo
+20939	GUA - Fiscalía General del Estado de Guanajuato
+1963	GUA - Guanajuato capital
+1964	GUA - Huanímaro
+1998	GUA - Instituto de Acceso a la Información Pública
+1999	GUA - Instituto Electoral del Estado de Guanajuato
+1965	GUA - Irapuato
+1966	GUA - Jaral del Progreso
+1967	GUA - Jerécuaro
+1968	GUA - León
+1969	GUA - Manuel Doblado
+1970	GUA - Moroleón
+1971	GUA - Ocampo
+2004	GUA - Partido Acción Nacional
+2005	GUA - Partido de la Revolución Democrática
+21037	GUA - Partido del Trabajo
+2007	GUA - Partido Morena
+2008	GUA - Partido Movimiento Ciudadano
+2010	GUA - Partido Revolucionario Institucional
+2011	GUA - Partido Verde Ecologista de México
+1972	GUA - Pénjamo
+11005	GUA - Poder Ejecutivo
+1949	GUA - Poder Judicial
+1944	GUA - Poder Legislativo
+2000	GUA - Procuraduría de los Derechos Humanos
+1973	GUA - Pueblo Nuevo
+1974	GUA - Purísima del Rincón
+1975	GUA - Romita
+1976	GUA - Salamanca
+1977	GUA - Salvatierra
+1978	GUA - San Diego de la Unión
+1979	GUA - San Felipe
+1980	GUA - San Francisco del Rincón
+1981	GUA - San José Iturbide
+1982	GUA - San Luis de la Paz
+1952	GUA - San Miguel de Allende
+1983	GUA - Santa Catarina
+1984	GUA - Santa Cruz de Juventino Rosas
+1985	GUA - Santiago Maravatío
+20917	GUA - Secretaría Ejecutiva del Sistema Estatal anticorrupción de Guanajuato
+1986	GUA - Silao
+17540	GUA - Sindicato Constituyente Dr. Francisco Díaz Barriga
+17537	GUA - Sindicato de Trabajadores del Servicio de Aguas e Industrias Conexas de León Guanajuato
+1987	GUA - Sistema de Agua Potable y Alcantarillado de León
+1988	GUA - Sistema Municipal de Agua Potable y Alcantarillado de Guanajuato
+1989	GUA - Tarandacuao
+1990	GUA - Tarimoro
+1991	GUA - Tierra Blanca
+2001	GUA - Tribunal de Justicia Administrativa
+2002	GUA - Tribunal Electoral del Estado de Guanajuato
+2003	GUA - Universidad de Guanajuato
+1992	GUA - Uriangato
+1993	GUA - Valle de Santiago
+1994	GUA - Victoria
+1995	GUA - Villagrán
+1996	GUA - Xichú
+1997	GUA - Yuriria

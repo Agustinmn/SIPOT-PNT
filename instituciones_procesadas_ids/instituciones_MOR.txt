@@ -1,0 +1,193 @@
+3548	MOR - Aeropuerto de Cuernavaca, S.A. de C.V.
+3579	MOR - Ayuntamiento de Amacuzac
+3580	MOR - Ayuntamiento de Atlatlahucan
+3581	MOR - Ayuntamiento de Axochiapan
+3582	MOR - Ayuntamiento de Ayala
+3583	MOR - Ayuntamiento de Coatlán del Río
+3584	MOR - Ayuntamiento de Cuautla
+3585	MOR - Ayuntamiento de Cuernavaca
+3586	MOR - Ayuntamiento de Emiliano Zapata
+3587	MOR - Ayuntamiento de Huitzilac
+3588	MOR - Ayuntamiento de Jantetelco
+3589	MOR - Ayuntamiento de Jiutepec
+3590	MOR - Ayuntamiento de Jojutla
+3591	MOR - Ayuntamiento de Jonacatepec de Leandro Valle
+3592	MOR - Ayuntamiento de Mazatepec
+3593	MOR - Ayuntamiento de Miacatlán
+3594	MOR - Ayuntamiento de Ocuituco
+3595	MOR - Ayuntamiento de Puente de Ixtla
+3596	MOR - Ayuntamiento de Temixco
+3597	MOR - Ayuntamiento de Temoac
+3598	MOR - Ayuntamiento de Tepalcingo
+3599	MOR - Ayuntamiento de Tepoztlán
+3600	MOR - Ayuntamiento de Tetecala
+3601	MOR - Ayuntamiento de Tetela del Volcán
+3602	MOR - Ayuntamiento de Tlalnepantla
+3603	MOR - Ayuntamiento de Tlaltizapán de Zapata
+3604	MOR - Ayuntamiento de Tlaquiltenango
+3605	MOR - Ayuntamiento de Tlayacapan
+3606	MOR - Ayuntamiento de Totolapan
+3607	MOR - Ayuntamiento de Xochitepec
+3608	MOR - Ayuntamiento de Yautepec
+3609	MOR - Ayuntamiento de Yecapixtla
+3610	MOR - Ayuntamiento de Zacatepec de Hidalgo
+3611	MOR - Ayuntamiento de Zacualpan de Amilpas
+28446	MOR - Centro de Conciliación Laboral del Estado de Morelos
+3537	MOR - Centro Morelense de las Artes
+3538	MOR - Colegio de Bachilleres del Estado de Morelos
+3539	MOR - Colegio de Educación Profesional Técnica del Estado de Morelos
+3540	MOR - Colegio de Estudios Científicos y Tecnológicos del Estado de Morelos
+3626	MOR - Comisión de Derechos Humanos del Estado de Morelos
+3541	MOR - Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos
+3542	MOR - Comisión Estatal de Arbitraje Médico
+3545	MOR - Comisión Estatal del Agua
+12350	MOR - Comisión Estatal de Mejora Regulatoria
+3544	MOR - Comisión Estatal de Reservas Territoriales
+12351	MOR - Congreso del Estado de Morelos
+3546	MOR - Consejo de Ciencia y Tecnología del Estado de Morelos
+25517	MOR - Coordinación Estatal de Protección Civil Morelos
+32151	MOR - Coordinación General de Movilidad y Transporte
+3536	MOR - El Colegio de Morelos
+3576	MOR - Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos
+19337	MOR - Fideicomiso Centro Cultural Teopanzolco
+3635	MOR - Fideicomiso Centro de Congresos y Convenciones Morelos
+3639	MOR - Fideicomiso de Fomento Agropecuario del Estado de Morelos (HISTÓRICO) (BAJA [PERTENECEN Y SON ADMINISTRADOS POR LA SECRETARÍA DE DESA...
+3637	MOR - Fideicomiso del Balneario Agua Hedionda
+3636	MOR - Fideicomiso de Turismo
+3638	MOR - Fideicomiso Ejecutivo del Fondo de Competitividad y Promoción del Empleo del Estado de Morelos
+3640	MOR - Fideicomiso Fondo Desarrollo Empresarial y Promoción de la Inversión
+3641	MOR - Fideicomiso Impulso Financiero al Campo Morelense (HISTÓRICO) (BAJA [PERTENECEN Y SON ADMINISTRADOS POR LA SECRETARÍA DE DESARROLLO A...
+3642	MOR - Fideicomiso Lago de Tequesquitengo
+20099	MOR - Fideicomiso Museo Morelense de Arte Contemporáneo "Juan Soriano"
+3643	MOR - Fideicomiso Parque Científico y Tecnológico Morelos
+15652	MOR - Fiscalía Especializada en Combate a la Corrupción del Estado de Morelos
+22377	MOR - Fiscalía General del Estado de Morelos
+3551	MOR - Hospital del Niño Morelense
+3552	MOR - Instituto de Capacitación para el Trabajo del Estado de Morelos
+3553	MOR - Instituto de Crédito para los Trabajadores al Servicio del Gobierno del Estado de Morelos
+3627	MOR - Instituto de Desarrollo y Fortalecimiento Municipal del Estado de Morelos
+3547	MOR - Instituto de la Defensoría Pública del Estado de Morelos
+3554	MOR - Instituto de la Educación Básica del Estado de Morelos
+22497	MOR - Instituto de la Mujer para el Estado de Morelos
+3557	MOR - Instituto del Deporte y Cultura Física del Estado de Morelos
+3556	MOR - Instituto de Servicios Registrales y Catastrales del Estado de Morelos
+3558	MOR - Instituto Estatal de Educación para Adultos
+3559	MOR - Instituto Estatal de Infraestructura Educativa de Morelos
+3628	MOR - Instituto Morelense de Información Pública y Estadística
+3629	MOR - Instituto Morelense de Procesos Electorales y Participación Ciudadana
+3560	MOR - Instituto Morelense de Radio y Televisión
+3561	MOR - Instituto Morelense para el Financiamiento del Sector Productivo "Fondo Morelos"
+12352	MOR - La Consejería Jurídica
+3550	MOR - La Jefatura de la Oficina de la Gubernatura del Estado
+3565	MOR - La Secretaría de Administración
+12362	MOR - La Secretaría de Bienestar (MODIFICACIÓN) [ANTES: SECRETARÍA DE DESARROLLO SOCIAL]
+31969	MOR - La Secretaría de Cultura (MODIFICACIÓN) [ANTES: SECRETARÍA DE TURISMO Y CULTURA]
+12361	MOR - La Secretaría de Desarrollo Agropecuario
+20797	MOR - La Secretaría de Desarrollo Económico y del Trabajo
+3566	MOR - La Secretaría de Desarrollo Sustentable
+3567	MOR - La Secretaría de Educación
+12364	MOR - La Secretaría de Gobierno
+3568	MOR - La Secretaría de Hacienda
+3570	MOR - La Secretaría de Infraestructura (MODIFICACIÓN) [ANTES: SECRETARÍA DE OBRAS PÚBLICAS]
+12366	MOR - La Secretaría de la Contraloría
+32150	MOR - La Secretaría de las Mujeres
+13410	MOR - La Secretaría de Salud
+20777	MOR - La Secretaría de Seguridad y Protección Ciudadana (MODIFICACIÓN) [ANTES: COMISIÓN ESTATAL DE SEGURIDAD PÚBLICA]
+32149	MOR - La Secretaría de Turismo (MODIFICACIÓN) [ANTES: SECRETARÍA DE TURISMO Y CULTURA]
+12356	MOR - Morena
+25817	MOR - Movimiento Alternativa Social
+3632	MOR - Movimiento Ciudadano Morelos
+22477	MOR - Municipio de Coatetelco
+22479	MOR - Municipio de Hueyapan
+22478	MOR - Municipio de Xoxocotla
+3562	MOR - Museo Morelense de Arte Popular
+12357	MOR - Nueva Alianza
+3563	MOR - Operador de Carreteras de Cuota de Morelos
+12353	MOR - Partido Acción Nacional
+12354	MOR - Partido de la Revolución Democrática (HISTÓRICO) (BAJA POR EL ACUERDO IMPEPAC/CEE/013/2022))
+12355	MOR - Partido del Trabajo
+12371	MOR - Partido Encuentro Solidario Morelos
+26377	MOR - Partido Morelos Progresa
+12358	MOR - Partido Revolucionario Institucional
+12359	MOR - Partido Verde Ecologista de México
+29526	MOR - Pruebas IMIPE 01
+25822	MOR - Redes Sociales Progresistas
+3569	MOR - Secretaría de Movilidad y Transporte (HISTORÍCO) (BAJA DE ACUERDO AL DECRETO NÚMERO SEIS POR EL QUE SE CREA EL ORGANISMO PÚBLICO DESC...
+20477	MOR - Secretaría de Turismo y Cultura (DIVISIÓN A SECRETARÍAS INDEPENDIENTES DESDE EL 01/10/24)
+27264	MOR - Secretaria Ejecutiva del Sistema Anticorrupción del Estado de Morelos
+3571	MOR - Servicios de Salud de Morelos
+3644	MOR - Sindicato "Tierra y Libertad" de Trabajadores al Servicio del H. Ayuntamiento y Organismos Descentralizados de Ayala, Morelos
+3645	MOR - Sindicato Auténtico de los Trabajadores al Servicio del Municipio de Jiutepec, Morelos
+3646	MOR - Sindicato Auténtico de Trabajadores al Servicio del H. Ayuntamiento de Cuernavaca, Morelos
+3647	MOR - Sindicato Auténtico de Trabajadores Unidos del H. Ayuntamiento y Organismos Descentralizados del Municipio de Temixco
+14970	MOR - Sindicato de Empleados Municipales al Servicio del H. Ayuntamiento de Cuautla Morelos (HISTÓRICO)(BAJA)
+16075	MOR - Sindicato de Empleados y Trabajadores del Balneario Agua Hedionda
+3667	MOR - Sindicato Democrático de Trabajadores y Empleados al Servicio del H. Ayuntamiento y Organismos Descentralizados de Jiutepec, Morelos
+3666	MOR - Sindicato Democrático de Trabajadores y Empleados al Servicio del H. Ayuntamiento y Organismos Descentralizados del Municipio de Cuer...
+3649	MOR - Sindicato de Servidores Públicos Municipales y Organismos Descentralizados del H. Ayuntamiento de Cuernavaca, Morelos
+17230	MOR - Sindicato de Trabajadores Académicos de los CONALEP del Estado de Morelos (STACEM)
+32156	MOR - Sindicato de Trabajadores Administrativos de la Universidad Autónoma del Estado de Morelos
+3650	MOR - Sindicato de Trabajadores al Servicio del H. Ayuntamiento de Emiliano Zapata
+3651	MOR - Sindicato de Trabajadores al Servicio del H. Ayuntamiento de Tepalcingo, Morelos (HISTÓRICO)(BAJA)
+15510	MOR - Sindicato de Trabajadores al Servicio del H. Ayuntamiento de Yautepec, Morelos
+3655	MOR - Sindicato de Trabajadores al Servicio del H. Ayuntamiento Municipal de Yecapixtla, Morelos
+3656	MOR - Sindicato de Trabajadores al Servicio del H. Ayuntamiento y Organismos Descentralizados del Municipio de Jojutla de Juárez, Morelos
+3657	MOR - Sindicato de Trabajadores al Servicio del H. Ayuntamiento y Organismos Descentralizados del Municipio de Temixco, Morelos
+16055	MOR - Sindicato de Trabajadores al Servicio del Sistema de Agua Potable de Emiliano Zapata
+3659	MOR - Sindicato de Trabajadores al Servicio del Sistema Operador de Agua Potable y Saneamiento de Cuautla, Morelos Florencio Rendon (HISTÓR...
+3661	MOR - Sindicato de Trabajadores de Amacuzac, Morelos (HISTÓRICO)(BAJA)
+3669	MOR - Sindicato de Trabajadores de los Centros de Abastecimiento, Mercados y Empleados del H. Ayuntamiento de Cuernavaca Morelos
+16056	MOR - Sindicato de trabajadores del Sistema de Agua Potable de Cuernavaca Morelos (HISTÓRICO)(BAJA)
+3663	MOR - Sindicato de Trabajadores del Sistema de Agua Potable de Jiutepec, Morelos
+16161	MOR - Sindicato de Trabajadores del Sistema de Agua Potable y Saneamiento de Yautepec, Morelos "Solidaridad"
+16293	MOR - Sindicato de Trabajadores de Organismos Descentralizados Estatal y Municipal del Estado de Morelos (STODEM)
+3664	MOR - Sindicato de Trabajadores Municipales del H. Ayuntamiento de Cuautla, Morelos (HISTÓRICO)(BAJA)
+3665	MOR - Sindicato de Trabajadores y Empleados al Servicio del Ayuntamiento de Cuernavaca, Morelos
+3668	MOR - Sindicato Emiliano Zapata de Trabajadores al Servicio del H. Ayuntamiento de Ayala, Morelos
+32155	MOR - Sindicato Independiente de Trabajadores Académico de la Universidad Autónoma del Estado de Morelos
+14971	MOR - Sindicato Independiente de Trabajadores al Servicio del Sistema Operador de Agua Potable y Saneamiento de Cuautla Morelos (HISTÓRICO)...
+16292	MOR - Sindicato Independiente de Trabajadores de Educación Media Superior a Distancia del Colegio de Bachilleres
+3671	MOR - Sindicato Independiente de Trabajadores que Prestan sus Servicios al H. Ayuntamiento de Tlaltizapan, Morelos (HISTÓRICO)(BAJA)
+3672	MOR - Sindicato Nueva Fuerza Sindical Unificada al Servicio del H. Ayuntamiento de Emiliano Zapata, Morelos
+3675	MOR - Sindicato Único de Trabajadores al Servicio del H. Ayuntamiento de Jiutepec, Morelos y Organismos Públicos Municipales
+3673	MOR - Sindicato Único de Trabajadores al Servicio del H. Ayuntamiento de Puente de Ixtla, Morelos (HISTÓRICO)(BAJA)
+3654	MOR - Sindicato Único de Trabajadores al Servicio del H. Ayuntamiento de Tlaquiltenango, Morelos
+3674	MOR - Sindicato Único de Trabajadores al Servicio del H. Ayuntamiento de Zacatepec, Morelos
+3658	MOR - Sindicato Único de Trabajadores al Servicio del Poder Judicial del Estado de Morelos
+3677	MOR - Sindicato Único de Trabajadores al Servicio del Poder Legislativo del Estado de Morelos
+16291	MOR - Sindicato Único de Trabajadores del Colegio de Bachilleres del Estado de Morelos
+3678	MOR - Sindicato Único de Trabajadores del Poder Ejecutivo, Entidades Paraestatales y Órganos Constitucionales Autónomos (Fiscalía General d...
+3679	MOR - Sindicato Único Independiente de Trabajadores del Colegio de Estudios Científicos y Tecnológicos del Estado de Morelos
+17897	MOR - Sindicato Unido de Trabajadores y Empleados al Servicio del Sistema de Agua Potable y Alcantarillado del Municipio de Cuernavaca (HIS...
+29046	MOR - Sistema de Agua Potable del Municipio de Xochitepec
+3612	MOR - Sistema de Agua Potable y Alcantarillado de Cuernavaca
+27685	MOR - Sistema de Agua Potable y Saneamiento de Jojutla
+3613	MOR - Sistema de Agua Potable y Saneamiento de Yautepec
+3616	MOR - Sistema de Conservación, Agua Potable y Saneamiento de Agua de Temixco, Morelos
+24277	MOR - Sistema de Conservación, Agua Potable y Saneamiento de Puente de Ixtla
+3617	MOR - Sistema de Conservación, Agua Potable y Saneamiento de Zacatepec
+3615	MOR - Sistema de Conservación Agua Potable y Saneamiento de Emiliano Zapata
+3614	MOR - Sistema de Conservación de Agua Potable y Saneamiento de Agua de Jiutepec, Morelos
+32110	MOR - Sistema Municipal para el Desarrollo de la Familia de Ayala
+32152	MOR - Sistema Municipal para el Desarrollo de la Familia de Mazatepec
+3619	MOR - Sistema Municipal para el Desarrollo Integral de la Familia de Atlatlahucan
+32153	MOR - Sistema Municipal para el Desarrollo Integral de la Familia de Coatlán del Río
+3618	MOR - Sistema Municipal para el Desarrollo Integral de la Familia de Cuernavaca
+3620	MOR - Sistema Municipal para el Desarrollo Integral de la Familia de Emiliano Zapata
+14718	MOR - Sistema Municipal para el Desarrollo Integral de la Familia de Jiutepec, Morelos
+3621	MOR - Sistema Municipal para el Desarrollo Integral de la Familia de Temixco
+3622	MOR - Sistema Municipal para el Desarrollo Integral de la Familia de Tetecala
+3623	MOR - Sistema Municipal para el Desarrollo Integral de la Familia de Xochitepec
+29446	MOR - Sistema Municipal para el Desarrollo Integral de la Familia de Zacatepec de Hidalgo, Morelos
+3624	MOR - Sistema Operador de Agua Potable y Saneamiento del Municipio de Ayala, Morelos
+3625	MOR - Sistema Operador de Agua Potable y Saneamiento del Municipio de Cuautla, Morelos
+32154	MOR - Sistema para el Desarrollo Integral de la Familia de Jojutla
+3572	MOR - Sistema para el Desarrollo Integral de la Familia del Estado de Morelos (DIF Morelos)
+3630	MOR - Tribunal de Justicia Administrativa del Estado de Morelos
+12369	MOR - Tribunal Electoral del Estado de Morelos
+12370	MOR - Tribunal Superior de Justicia
+3578	MOR - Tribunal Unitario de Justicia para Adolescentes del Estado de Morelos
+3631	MOR - Universidad Autónoma del Estado de Morelos
+3573	MOR - Universidad Politécnica del Estado de Morelos
+3575	MOR - Universidad Tecnológica "Emiliano Zapata" del Estado de Morelos
+3574	MOR - Universidad Tecnológica del Sur del Estado de Morelos

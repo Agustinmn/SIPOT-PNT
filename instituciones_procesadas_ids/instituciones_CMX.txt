@@ -1,0 +1,188 @@
+21198	CMX - Agencia de Atención Animal
+1675	CMX - Agencia de Gestión Urbana de la Ciudad de México
+1676	CMX - Agencia de Protección Sanitaria del Gobierno de la Ciudad de México
+20779	CMX - Agencia Digital de Innovación Pública de la Ciudad de México
+20738	CMX - Alcaldía Álvaro Obregón
+20739	CMX - Alcaldía Azcapotzalco
+20740	CMX - Alcaldía Benito Juárez
+20741	CMX - Alcaldía Coyoacán
+20742	CMX - Alcaldía Cuajimalpa de Morelos
+20743	CMX - Alcaldía Cuauhtémoc
+20744	CMX - Alcaldía Gustavo A. Madero
+20745	CMX - Alcaldía Iztacalco
+20746	CMX - Alcaldía Iztapalapa
+20747	CMX - Alcaldía La Magdalena Contreras
+20748	CMX - Alcaldía Miguel Hidalgo
+20749	CMX - Alcaldía Milpa Alta
+20750	CMX - Alcaldía Tláhuac
+20751	CMX - Alcaldía Tlalpan
+20752	CMX - Alcaldía Venustiano Carranza
+20753	CMX - Alcaldía Xochimilco
+14151	CMX - Asamblea Constituyente de la Ciudad de México
+1638	CMX - Asamblea Legislativa del Distrito Federal
+1639	CMX - Auditoría Superior de la Ciudad de México
+1677	CMX - Autoridad de la Zona Patrimonio Mundial Natural y Cultural de la Humanidad en Xochimilco, Tláhuac y Milpa Alta
+1678	CMX - Autoridad del Centro Histórico
+1679	CMX - Autoridad del Espacio Público del Distrito Federal
+1680	CMX - Caja de Previsión de la Policía Auxiliar de la Ciudad de México
+1681	CMX - Caja de Previsión de la Policía Preventiva de la Ciudad de México
+1682	CMX - Caja de Previsión para Trabajadores a Lista de Raya de la Ciudad de México
+1683	CMX - Centro de Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano de la Ciudad de México
+29146	CMX - Centro de Conciliación Laboral de la Ciudad de México
+24218	CMX - Comisión de Búsqueda de Personas de la Ciudad de México
+1658	CMX - Comisión de Derechos Humanos de la Ciudad de México
+1684	CMX - Comisión de Filmaciones de la Ciudad de México
+28147	CMX - Comisión de Selección del Comité de Participación Ciudadana del Sistema Anticorrupción de la Ciudad de México
+24219	CMX - Comisión Ejecutiva de Atención a Víctimas de la Ciudad de México
+18128	CMX - Comisión para la Reconstrucción de la Ciudad de México
+27330	CMX - Comité de Participación Ciudadana del Sistema Anticorrupción de la Ciudad de México
+20754	CMX - Congreso de la Ciudad de México
+1617	CMX - Consejería Jurídica y de Servicios Legales
+27764	CMX - Consejo de Evaluación de la Ciudad de México
+1685	CMX - Consejo de Evaluación del Desarrollo Social de la Ciudad de México
+1640	CMX - Consejo de la Judicatura de la Ciudad de México
+1686	CMX - Consejo Económico, Social y Ambiental de la Ciudad de México
+1687	CMX - Consejo para Prevenir y Eliminar la Discriminación de la Ciudad de México
+1688	CMX - Coordinación de los Centros de Transferencia Modal del Distrito Federal
+1689	CMX - Corporación Mexicana de Impresión, S.A. de C.V.
+1642	CMX - Delegación Álvaro Obregón
+1643	CMX - Delegación Azcapotzalco
+1644	CMX - Delegación Benito Juárez
+1645	CMX - Delegación Coyoacán
+1646	CMX - Delegación Cuajimalpa de Morelos
+1647	CMX - Delegación Cuauhtémoc
+1648	CMX - Delegación Gustavo A. Madero
+1649	CMX - Delegación Iztacalco
+1650	CMX - Delegación Iztapalapa
+1651	CMX - Delegación La Magdalena Contreras
+1652	CMX - Delegación Miguel Hidalgo
+1653	CMX - Delegación Milpa Alta
+1654	CMX - Delegación Tláhuac
+1655	CMX - Delegación Tlalpan
+1656	CMX - Delegación Venustiano Carranza
+1657	CMX - Delegación Xochimilco
+1665	CMX - Encuentro Social
+1690	CMX - Escuela de Administración Pública de la Ciudad de México
+1693	CMX - Fideicomiso Bienestar Educativo de la Ciudad de México
+1691	CMX - Fideicomiso Centro Histórico de la Ciudad de México
+1692	CMX - Fideicomiso de Recuperación Crediticia de la Ciudad de México
+1694	CMX - Fideicomiso Fondo para el Desarrollo Económico y Social de la Ciudad de México
+1695	CMX - Fideicomiso Museo de Arte Popular Mexicano
+1696	CMX - Fideicomiso Museo del Estanquillo
+1697	CMX - Fideicomiso para el Fondo de Promoción para el Financiamiento del Transporte Público
+1698	CMX - Fideicomiso para la Promoción y Desarrollo del Cine Mexicano en la Ciudad de México
+24217	CMX - Fideicomiso para la Reconstrucción Integral de la Ciudad de México
+1699	CMX - Fideicomiso Público Complejo Ambiental Xochimilco
+1700	CMX - Fideicomiso Público de la Zona de Santa Fe
+1701	CMX - Fideicomiso Público del Fondo de Apoyo a la Procuración de Justicia de la Ciudad de México
+24538	CMX - Fiscalía General de Justicia de la CDMX
+1702	CMX - Fondo Ambiental Público de la Ciudad de México
+1703	CMX - Fondo de Desarrollo Económico del Distrito Federal
+27329	CMX - Fondo de Víctimas de la Ciudad de México
+1704	CMX - Fondo Mixto de Promoción Turística de la Ciudad de México
+1705	CMX - Fondo para el Desarrollo Social de la Ciudad de México
+1706	CMX - Fondo para la Atención y Apoyo a las Víctimas del Delito
+21197	CMX - Fondo Público de Atención al Ciclista y al Peatón
+27097	CMX - Fuerza Social por México
+1707	CMX - Heroico Cuerpo de Bomberos de la Ciudad de México
+24537	CMX - Instancia Ejecutora del Sistema Integral de Derechos Humanos de la Ciudad de México
+1708	CMX - Instituto de Capacitación para el Trabajo de la Ciudad de México
+1709	CMX - Instituto de Educación Media Superior de la Ciudad de México
+24539	CMX - Instituto de Estudios Superiores de la Ciudad de México “Rosario Castellanos”
+1710	CMX - Instituto de Formación Profesional y Estudios Superiores
+1711	CMX - Instituto de la Juventud de la Ciudad de México
+1712	CMX - Instituto de las Mujeres del Distrito Federal
+1718	CMX - Instituto de las Personas con Discapacidad de la Ciudad de México
+1715	CMX - Instituto del Deporte de la Ciudad de México
+27367	CMX - Instituto de Planeación Democrática y Prospectiva
+1659	CMX - Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de Mé...
+1713	CMX - Instituto de Verificación Administrativa de la Ciudad de México
+1714	CMX - Instituto de Vivienda de la Ciudad de México
+1660	CMX - Instituto Electoral de la Ciudad de México
+1716	CMX - Instituto Local de la Infraestructura Física Educativa de la Ciudad de México
+1717	CMX - Instituto para la Atención y Prevención de las Adicciones en la Ciudad de México
+1719	CMX - Instituto para la Seguridad de las Construcciones en la Ciudad de México
+1616	CMX - Jefatura de Gobierno de la Ciudad de México
+1721	CMX - Junta de Asistencia Privada del Distrito Federal
+1661	CMX - Junta Local de Conciliación y Arbitraje de la Ciudad de México
+14821	CMX - Mecanismo de Protección Integral de Personas Defensoras de Derechos Humanos y Periodistas de la Ciudad de México
+1723	CMX - Metrobús
+1666	CMX - MORENA
+1667	CMX - Movimiento Ciudadano
+1668	CMX - Nueva Alianza
+1619	CMX - Oficialía Mayor
+28145	CMX - Organismo Regulador del Transporte
+20778	CMX - Órgano Regulador de Transporte
+1669	CMX - Partido Acción Nacional
+1670	CMX - Partido de la Revolución Democrática
+1671	CMX - Partido del Trabajo
+27099	CMX - Partido Encuentro Solidario
+27098	CMX - Partido Equidad, Libertad y Género
+14819	CMX - Partido Humanista
+1673	CMX - Partido Revolucionario Institucional
+1674	CMX - Partido Verde Ecologista de México
+1724	CMX - Planta Productora de Mezclas Asfálticas
+1725	CMX - Policía Auxiliar
+1726	CMX - Policía Bancaria e Industrial
+1727	CMX - PROCDMX, S.A. DE C.V.
+1728	CMX - Procuraduría Ambiental y del Ordenamiento Territorial de la Ciudad de México
+1620	CMX - Procuraduría General de Justicia de la Ciudad de México
+1729	CMX - Procuraduría Social de la Ciudad de México
+1730	CMX - Proyecto Metro del Distrito Federal
+1731	CMX - Red de Transporte Público de Pasajeros de la Ciudad de México
+27100	CMX - Redes Sociales Progresistas
+21137	CMX - Régimen de Protección Social en Salud de la Ciudad de México
+1628	CMX - Secretaría de Administración y Finanzas
+32091	CMX - Secretaría de Atención y Participación Ciudadana
+1625	CMX - Secretaría de Bienestar e Igualdad Social
+1621	CMX - Secretaría de Ciencia, Tecnología e Innovación
+1622	CMX - Secretaría de Cultura
+1623	CMX - Secretaría de Desarrollo Económico
+1626	CMX - Secretaría de Desarrollo Urbano y Vivienda
+1627	CMX - Secretaría de Educación, Ciencia, Tecnología e Innovación
+32190	CMX - Secretaría de Gestión Integral del Agua
+1632	CMX - Secretaría de Gestión Integral de Riesgos y Protección Civil
+1629	CMX - Secretaría de Gobierno
+1618	CMX - Secretaría de la Contraloría General
+20737	CMX - Secretaría de las Mujeres
+1637	CMX - Secretaría del Medio Ambiente
+1630	CMX - Secretaría de Movilidad
+1631	CMX - Secretaría de Obras y Servicios
+32092	CMX - Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana
+1624	CMX - Secretaría de Pueblos y Barrios Originarios y Comunidades Indígenas Residentes
+1633	CMX - Secretaría de Salud
+1634	CMX - Secretaría de Seguridad Ciudadana
+1635	CMX - Secretaría de Trabajo y Fomento al Empleo
+1636	CMX - Secretaría de Turismo
+32456	CMX - Secretaría de Vivienda
+1722	CMX - Secretaría Ejecutiva del Mecanismo de Seguimiento y Evaluación del Programa de Derechos Humanos de la Ciudad de México
+28146	CMX - Secretaría Ejecutiva del Sistema Anticorrupción de la Ciudad de México
+28805	CMX - Servicio de Medios Públicos de la Ciudad de México
+1732	CMX - Servicio de Transportes Eléctricos de la Ciudad de México
+1733	CMX - Servicios de Salud Pública de la Ciudad de México
+1734	CMX - Servicios Metropolitanos, S.A. de C.V.
+15939	CMX - Sindicato Auténtico de Trabajadores del Congreso de la Ciudad de México
+15940	CMX - Sindicato de Empleados del Servicio de Anales de Jurisprudencia
+15947	CMX - Sindicato del Heroico Cuerpo de Bomberos del Distrito Federal
+15948	CMX - Sindicato Democrático de los Trabajadores de la Procuraduría Social del Distrito Federal
+15949	CMX - Sindicato Democrático Independiente de Trabajadores del Sistema de Transporte Colectivo
+15943	CMX - Sindicato de Trabajadores de la Auditoría Superior de la Ciudad de México
+15942	CMX - Sindicato de Trabajadores del Congreso de la Ciudad de México
+15935	CMX - Sindicato de Trabajadores del Tribunal de Justicia Administrativa de la Ciudad de México
+15946	CMX - Sindicato de Trabajadores del Tribunal Superior de Justicia del Distrito Federal
+15951	CMX - Sindicato Independiente de Trabajadores Unidos del Congreso de la Ciudad de México
+15953	CMX - Sindicato Nacional de Trabajadores del Sistema de Transporte Colectivo
+15957	CMX - Sindicato Único de Trabajadores del Gobierno de la Ciudad de México
+15945	CMX - Sindicato Único de Trabajadores del Poder Judicial de la Ciudad de México
+1735	CMX - Sistema de Aguas de la Ciudad de México
+1737	CMX - Sistema de Transporte Colectivo
+1738	CMX - Sistema para el Desarrollo Integral de la Familia de la Ciudad de México
+1736	CMX - Sistema Público de Radiodifusión de la Ciudad de México
+31575	CMX - Subsistema de Educación Comunitaria PILARES
+1662	CMX - Tribunal de Justicia Administrativa de la Ciudad de México
+1663	CMX - Tribunal Electoral de la Ciudad de México
+1641	CMX - Tribunal Superior de Justicia de la Ciudad de México
+1664	CMX - Universidad Autónoma de la Ciudad de México
+1720	CMX - Universidad de la Policía de la Ciudad de México
+27283	CMX - Universidad de la Salud
+30772	CMX - Universidad Rosario Castellanos

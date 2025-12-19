@@ -1,0 +1,232 @@
+4953	SON - Aconchi
+18457	SON - Administración Portuaria Integral de Sonora, S.A. de C.V. (APISON) (EXTINTO)
+4954	SON - Agua Prieta
+4955	SON - Alamos
+4956	SON - Altar
+4957	SON - Arivechi
+4958	SON - Arizpe
+4959	SON - Atil
+4960	SON - Bacadéhuachi
+4961	SON - Bacanora
+4962	SON - Bacerac
+4963	SON - Bacoachi
+4964	SON - Bácum
+4965	SON - Banámichi
+4966	SON - Baviácora
+4967	SON - Bavispe
+4968	SON - Benito Juárez
+4969	SON - Benjamín Hill
+4869	SON - Biblioteca Pública Jesus Corral Ruiz (EXTINTO)
+4970	SON - Caborca
+4971	SON - Cajeme
+4972	SON - Cananea
+4973	SON - Carbó
+29006	SON - Centro de Conciliación Laboral del Estado de Sonora
+4870	SON - Centro de Evaluación y Control de Confianza
+4873	SON - Centro Estatal de Trasplantes
+16851	SON - Centro Regional de Formación Profesional Docente de Sonora
+4874	SON - Centro Regional del Formación Docente e Investigación del Estado de Sonora (EXTINTO)
+4875	SON - Colegio de Bachilleres del Estado de Sonora
+4876	SON - Colegio de Educación Profesional Técnica (CONALEP)
+4877	SON - Colegio de Estudios Científicos y Tecnológicos del Estado de Sonora (CECYTES)
+13730	SON - Colegio de Sonora
+4878	SON - Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora
+4879	SON - Comisión de Energía del Estado de Sonora (EXTINTO)
+4882	SON - Comisión del Deporte del Estado de Sonora
+4881	SON - Comisión de Vivienda del Estado de Sonora
+27304	SON - Comisión Ejecutiva Estatal de Atención a Víctimas del Estado de Sonora - CEEAV
+4883	SON - Comisión Estatal de Bienes y Concesiones
+5022	SON - Comisión Estatal de Derechos Humanos del Estado de Sonora
+11571	SON - Comisión Estatal del Agua
+4884	SON - Comisión Estatal de la Leche (EXTINTO)
+4885	SON - Comisión Estatal para el Desarrollo de los Pueblos y Comunidades Indígenas
+4886	SON - Comité de Campaña para la Erradicación Tuberculosis Bovina y Brucelosis en Sonora
+11570	SON - Congreso del Estado de Sonora
+18558	SON - Consejo Ciudadano del Transporte Público Sustentable del Estado de Sonora (EXTINTO)
+4887	SON - Consejo Estatal de Ciencia y Tecnología (COECYT)
+4888	SON - Consejo Estatal de Concertación para la Obra Pública
+30589	SON - Consejo para el Desarrollo Sostenible - CODESO *
+4889	SON - Consejo para la Promoción Económica de Sonora (COPRESON) (EXTINTO)
+4890	SON - Consejo Sonorense Regulador del Bacanora
+20077	SON - Coordinación Estatal de Protección Civil
+4974	SON - Cucurpe
+4975	SON - Cumpas
+4891	SON - DIF Sonora
+4976	SON - Divisaderos
+4977	SON - Empalme
+4978	SON - Etchojoa
+17091	SON - Federación de Sindicatos de trabajadores al Servicio de Ayuntamientos e Instituciones Descentralizados de Carácter Municipal de Sonor...
+4893	SON - Fideicomiso carretera Santa Ana-Altar (EXTINTO)
+4898	SON - Fideicomiso Fondo Revolvente Sonora
+4895	SON - Fideicomiso Maestro para el Financiamiento del Sector Agropecuario en Sonora (AGROSON)
+4896	SON - Fideicomiso Operadora de Proyectos Estratégicos del Estado de Sonora (IMPULSOR)
+4897	SON - Fideicomiso Puente Colorado
+13612	SON - Financiera para el Desarrollo Económico de Sonora (FIDESON)
+11562	SON - Fiscalía General del Estado de Sonora
+4900	SON - Fondo de Operación de Obras Sonora Si
+4901	SON - Fondo Estatal de Solidaridad
+4902	SON - Fondo Estatal para la Modernización del Transporte (EXTINTO)
+18977	SON - Fondo Estatal para la Prevención y Atención de Emergencias y Desastres del Estado de Sonora - FEPAEDES (EXTINTO)
+4904	SON - Fondo para la Procuración de Justicia (EXTINTO)
+4979	SON - Fronteras
+26217	SON - Fuerza por México
+4892	SON - Fundación Produce Sonora, A.C.
+4980	SON - General Plutarco Elías Calles
+4981	SON - Granados
+4982	SON - Guaymas
+11561	SON - Gubernatura
+4983	SON - Hermosillo
+4984	SON - Huachinera
+4985	SON - Huásabas
+4986	SON - Huatabampo
+4987	SON - Huépac
+4988	SON - Imuris
+4905	SON - Instituto Catastral y Registral del Estado de Sonora
+4906	SON - Instituto de Acuacultura del Estado de Sonora
+18518	SON - Instituto de Becas y Crédito Educativo del Estado de Sonora
+4907	SON - Instituto de Becas y Estímulos Educativos del Estado de Sonora (EXTINTO)
+4908	SON - Instituto de Capacitación para el Trabajo del Estado de Sonora (ICATSON)
+4909	SON - Instituto de Crédito Educativo del Estado de Sonora (EXTINTO)
+4910	SON - Instituto de Formación Docente del Estado de Sonora (EXTINTO)
+4911	SON - Instituto de Innovación y Evaluación Educativa del Estado de Sonora (EXTINTO)
+28725	SON - Instituto de Movilidad y Transporte para el Estado de Sonora
+4912	SON - Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora (ISSSTESON)
+5025	SON - Instituto Estatal Electoral y de Participación Ciudadana del Estado de Sonora
+20959	SON - Instituto Sonorense de Administración Pública A.C. (ISAP) (EXTINTO)
+4914	SON - Instituto Sonorense de Cultura
+4915	SON - Instituto Sonorense de Infraestructura Educativa
+4916	SON - Instituto Sonorense de la Juventud
+5024	SON - Instituto Sonorense de Transparencia Acceso a la Información y Protección de Datos Personales (EXTINTO)
+4918	SON - Instituto Sonorense para la Educación de los Adultos (ISEA)
+4951	SON - Instituto Superior de Auditoria y Fiscalización (ISAF)
+4919	SON - Instituto Superior de Seguridad Pública del Estado (ISSPE)
+4920	SON - Instituto Tecnológico de Sonora
+4921	SON - Instituto Tecnológico Superior de Cajeme
+4922	SON - Instituto Tecnológico Superior de Cananea
+4923	SON - Instituto Tecnológico Superior de Puerto Peñasco
+4924	SON - Junta de Caminos del Estado de Sonora
+4989	SON - La Colorada
+4990	SON - Magdalena
+14668	SON - Mazatán
+4991	SON - Moctezuma
+13794	SON - Movimiento Ciudadano (Sonora)
+15913	SON - Movimiento de Regeneración Nacional (MORENA)
+4925	SON - Museo de Centro Cultural (Musas) (EXTINTO)
+4926	SON - Museo Sonora en la Revolución (EXTINTO)
+4992	SON - Naco
+4993	SON - Nácori Chico
+4994	SON - Nacozari de García
+4995	SON - Navojoa
+4996	SON - Nogales
+29106	SON - Oficialía Mayor del Estado de Sonora
+4997	SON - Onavas
+4998	SON - Opodepe
+4999	SON - Oquitoa
+14658	SON - Partido Acción Nacional Sonora
+18057	SON - Partido de la Revolución Democrática
+13793	SON - Partido del Trabajo (Sonora)
+26218	SON - Partido Encuentro Solidario (PES)
+14691	SON - Partido Nueva Alianza Sonora
+13792	SON - Partido Revolucionario Institucional (Sonora)
+18877	SON - Partido verde ecologista de México
+19037	SON - Patronato Pro Obras del Centro Cívico y Comercial de Hermosillo A.C.
+5000	SON - Pitiquito
+4927	SON - Procuraduría ambiental del Estado de Sonora
+4928	SON - Progreso Fideicomiso Promotor Urbano de Sonora
+11574	SON - Promotora para el Desarrollo Regional de la Minería (EXTINTO)
+18899	SON - PROSONORA
+5001	SON - Puerto Peñasco
+5002	SON - Quiriego
+4929	SON - Radio Sonora
+12455	SON - Rayón
+16275	SON - Régimen de Protección Social en Salud del Estado de Sonora (Seguro Popular) (EXTINTO)
+14690	SON - Rosario
+5003	SON - Sahuaripa
+16770	SON - Sala Especializada en Materia de Anticorrupción y Responsabilidades Administrativas (Sala Anticorrupción) EXTINTO
+5004	SON - San Felipe de Jesús
+5005	SON - San Ignacio Río Muerto
+5006	SON - San Javier
+5007	SON - San Luis Río Colorado
+5008	SON - San Miguel de Horcasitas
+5009	SON - San Pedro de la Cueva
+5010	SON - Santa Ana
+5011	SON - Santa Cruz
+5012	SON - Sáric
+4934	SON - Secretaría Anticorrupción y Buen Gobierno (antes Contraloría)
+4930	SON - Secretaría de Agricultura, Ganadería, Recursos Hidráulicos, Pesca y Acuacultura
+11563	SON - Secretaría de Economía (EXTINTO)
+32093	SON - Secretaría de Economía y Turismo del Estado de Sonora
+4932	SON - Secretaría de Educación y Cultura
+11564	SON - Secretaría de Gobierno
+11565	SON - Secretaría de Hacienda
+4933	SON - Secretaría de Infraestructura y Desarrollo Urbano
+16043	SON - Secretaría de la Consejería Jurídica
+4917	SON - Secretaría de las Mujeres
+4931	SON - Secretaría del Bienestar
+11569	SON - Secretaría del Trabajo
+11567	SON - Secretaría de Salud Pública
+11568	SON - Secretaria de Seguridad Pública
+4880	SON - Secretaría de Turismo (EXTINTO)
+18557	SON - Secretaría Ejecutiva del Sistema Estatal Anticorrupción (SESEA)
+16044	SON - Secretaría Técnica y de Atención Ciudadana (EXTINTO)
+4935	SON - Servicios de Administración y Enajenación de Bienes de Entidades del Gobierno del Estado
+4936	SON - Servicios de Salud de Sonora
+4937	SON - Servicios Educativos del Estado de Sonora
+16034	SON - Sindicato de Personal Académico y Administrativo de las Universidades Tecnológicas del Estado de Sonora, SPAAUTES
+15959	SON - Sindicato de Trabajadores Académicos de la Universidad de Sonora
+16650	SON - Sindicato de Trabajadores de Agua de Hermosillo-CTM
+26558	SON - Sindicato de Trabajadores del Colegio de Estudios Científicos y Tecnológicos del Estado de Sonora (SITCECYTES)
+17377	SON - Sindicato de Trabajadores de OOMAPAS de Puerto Peñasco
+17376	SON - Sindicato de Trabajadores y Empleados de la Universidad de Sonora
+17274	SON - Sindicato Único de Empleados del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora
+17375	SON - Sindicato Único de los Trabajadores al Servicio del Municipio de Huatabampo Sonora
+16057	SON - Sindicato Único de los Trabajadores al Servicio de los Poderes del Estado e Instituciones Descentralizadas
+16632	SON - Sindicato Único de Trabajadoras y Trabajadores del Instituto Tecnológico de Sonora
+16610	SON - Sindicato Único de Trabajadores al Servicio del Ayuntamiento de Benito Juárez
+14645	SON - Sindicato Único de Trabajadores al Servicio del Ayuntamiento de Cajeme (SUTSAC)
+17838	SON - Sindicato Único de Trabajadores al Servicio del H. Ayuntamiento de Imuris Sonora
+21357	SON - Sindicato Único de Trabajadores al Servicio del H. Ayuntamiento de San Ignacio Río Muerto
+16035	SON - Sindicato Único de Trabajadores al Servicio del Municipio de Agua Prieta, Sonora
+17371	SON - Sindicato Único de Trabajadores al Servicio del Municipio de Caborca Sonora
+16036	SON - Sindicato Único de Trabajadores al Servicio del Municipio de Hermosillo
+17090	SON - Sindicato Único de Trabajadores al Servicio del Municipio de Magdalena, Sonora
+16930	SON - Sindicato Único de Trabajadores al Servicio del Municipio de Navojoa
+17130	SON - Sindicato Único de Trabajadores al Servicio del Municipio de Puerto Peñasco
+16852	SON - Sindicato Único de Trabajadores al Servicio del Municipio e Instituciones Descentralizadas de Nogales Sonora
+17210	SON - Sindicato Único de Trabajadores de Agua Potable y Alcantarillado del Municipio de Navojoa
+16045	SON - SINDICATO ÚNICO DE TRABAJADORES DE LA UNIVERSIDAD ESTATAL DE SONORA
+17350	SON - Sindicato Único de Trabajadores del Colegio de Bachilleres de Sonora
+17737	SON - Sindicato Único de Trabajadores del H. Ayuntamiento de Quiriego
+25857	SON - Sindicato Único de Trabajadores del Instituto Tecnológico Superior de Cajeme (SUTITESCA)
+17858	SON - Sindicato Único de Trabajadores del Municipio de Alamos
+17957	SON - Sindicato Único de Trabajadores del Organismo Operador Municipal de Agua Potable, Alcantarillado y Saneamiento de H. Caborca, Sonora,...
+13310	SON - Sindicato Unido de Trabajadoras y Trabajadores del Instituto Tecnológico de Sonora (SITTITSON)
+4938	SON - Sistema de Parques Industriales de Sonora (EXTINTO)
+32336	SON - Sistema Estatal de Comunicación Social
+27124	SON - Sistema Estatal de Televisión Sonorense (SETS)
+5013	SON - Soyopa
+5014	SON - Suaqui Grande
+12719	SON - Supremo Tribunal de Justicia del Estado de Sonora
+4939	SON - Telefonía Rural de Sonora
+4940	SON - Televisora de Hermosillo (TELEMAX)
+5015	SON - Tepache
+5026	SON - Tribunal de Justicia Administrativa en el Estado de Sonora
+13453	SON - Tribunal Estatal Electoral del Estado de Sonora
+5016	SON - Trincheras
+5017	SON - Tubutama
+30128	SON - Universidad de la Seguridad Pública
+4942	SON - Universidad de la Sierra
+31168	SON - Universidad del Pueblo Yaqui
+5027	SON - Universidad de Sonora
+4943	SON - Universidad Estatal de Sonora (UES)
+4944	SON - Universidad Tecnológica de Etchojoa
+4945	SON - Universidad Tecnológica de Guaymas
+4946	SON - Universidad Tecnológica de Hermosillo
+4950	SON - Universidad Tecnológica del Sur de Sonora
+4947	SON - Universidad Tecnológica de Nogales
+4948	SON - Universidad Tecnológica de Puerto Peñasco
+4949	SON - Universidad Tecnológica de San Luis Rio Colorado
+5018	SON - Ures
+5019	SON - Villa Hidalgo
+5020	SON - Villa Pesqueira
+5021	SON - Yécora

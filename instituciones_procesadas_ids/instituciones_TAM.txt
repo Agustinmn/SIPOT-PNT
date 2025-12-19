@@ -1,0 +1,199 @@
+11973	TAM - Abasolo
+16631	TAM - Administración Portuaria Integral de Tamaulipas, S.A. de C.V.
+11974	TAM - Aldama
+5240	TAM - Altamira
+5241	TAM - Antiguo Morelos
+5183	TAM - Auditoría Superior del Estado
+5242	TAM - Burgos
+5243	TAM - Bustamante
+11975	TAM - Camargo
+5244	TAM - Casas
+29586	TAM - Centro de Conciliación laboral del Estado de Tamaulipas
+5144	TAM - Centro Regional de Formación Docente e Investigación Educativa
+11976	TAM - Ciudad Madero
+5145	TAM - Colegio de Bachilleres del Estado de Tamaulipas
+5146	TAM - Colegio de Educación Profesional Técnica, Tamaulipas
+5147	TAM - Colegio de San Juan Siglo XXI
+31529	TAM - Comisión de Agua Potable y Saneamiento del Estado de Tamaulipas
+5151	TAM - Comisión de Caza y Pesca Deportiva de Tamaulipas
+5274	TAM - Comisión de Derechos Humanos del Estado de Tamaulipas (CODHET).
+17150	TAM - Comisión de Energía de Tamaulipas
+5182	TAM - Comisión de parques y Biodiversidad de Tamaulipas
+5149	TAM - Comisión Estatal de Conciliación y Arbitraje Médico
+5150	TAM - Comisión Estatal del Agua de Tamaulipas
+5245	TAM - Comisión Municipal de Agua Potable y Alcantarillado de Casas, Tamaulipas
+5188	TAM - Comisión Municipal de Agua Potable y Alcantarillado de Cruillas, Tamaulipas
+5189	TAM - Comisión Municipal de Agua Potable y Alcantarillado de Güémez, Tamaulipas
+5246	TAM - Comisión Municipal de Agua Potable y Alcantarillado de la Zona Conurbada de la desembocadura del Rio Pánuco en el Estado de Tamaulipa...
+5190	TAM - Comisión Municipal de Agua Potable y Alcantarillado de Llera, Tamaulipas
+5248	TAM - Comisión Municipal de Agua Potable y Alcantarillado del municipio de Abasolo
+5196	TAM - Comisión Municipal de Agua Potable y Alcantarillado del municipio de Aldama
+5197	TAM - Comisión Municipal de Agua Potable y Alcantarillado del municipio de Altamira
+5198	TAM - Comisión Municipal de Agua Potable y Alcantarillado del municipio de Antiguo Morelos
+5199	TAM - Comisión Municipal de Agua Potable y Alcantarillado del municipio de Camargo
+5200	TAM - Comisión Municipal de Agua Potable y Alcantarillado del municipio de Gómez Farias
+5201	TAM - Comisión Municipal de Agua Potable y Alcantarillado del municipio de González
+5202	TAM - Comisión Municipal de Agua Potable y Alcantarillado del municipio de Guerrero
+5203	TAM - Comisión Municipal de Agua Potable y Alcantarillado del municipio de Gustavo Díaz Ordaz
+5204	TAM - Comisión Municipal de Agua Potable y Alcantarillado del municipio de Hidalgo
+5205	TAM - Comisión Municipal de Agua Potable y Alcantarillado del municipio de Jaumave
+5206	TAM - Comisión Municipal de Agua Potable y Alcantarillado del municipio de Jiménez
+5207	TAM - Comisión Municipal de Agua Potable y Alcantarillado del municipio de Mante
+5208	TAM - Comisión Municipal de Agua Potable y Alcantarillado del municipio de Mier
+5209	TAM - Comisión Municipal de Agua Potable y Alcantarillado del municipio de Miguel Alemán
+5210	TAM - Comisión Municipal de Agua Potable y Alcantarillado del municipio de Nuevo Laredo
+5211	TAM - Comisión Municipal de Agua Potable y Alcantarillado del municipio de Nuevo Morelos
+5212	TAM - Comisión Municipal de Agua Potable y Alcantarillado del municipio de Ocampo
+5213	TAM - Comisión Municipal de Agua Potable y Alcantarillado del municipio de Palmillas
+5214	TAM - Comisión Municipal de Agua Potable y Alcantarillado del municipio de Reynosa.
+5215	TAM - Comisión Municipal de Agua Potable y Alcantarillado del municipio de San Fernando.
+5216	TAM - Comisión Municipal de Agua Potable y Alcantarillado del municipio de Soto La Marina.
+5217	TAM - Comisión Municipal de Agua Potable y Alcantarillado del municipio de Tula.
+5218	TAM - Comisión Municipal de Agua Potable y Alcantarillado del municipio de Valle Hermoso.
+5219	TAM - Comisión Municipal de Agua Potable y Alcantarillado del municipio de Victoria.
+5220	TAM - Comisión Municipal de Agua Potable y Alcantarillado del municipio de Villagrán.
+5221	TAM - Comisión Municipal de Agua Potable y Alcantarillado del municipio de Xicoténcatl.
+5191	TAM - Comisión Municipal de Agua Potable y Alcantarillado de Mainero, Tamaulipas
+5192	TAM - Comisión Municipal de Agua Potable y Alcantarillado de Méndez, Tamaulipas
+5193	TAM - Comisión Municipal de Agua Potable y Alcantarillado de Miquihuana, Tamaulipas
+5194	TAM - Comisión Municipal de Agua Potable y Alcantarillado de Padilla, Tamaulipas
+5247	TAM - Comisión Municipal de Agua Potable y Alcantarillado de Río Bravo
+5195	TAM - Comisión Municipal de Agua Potable y Alcantarillado de San Carlos, Tamaulipas
+5184	TAM - Congreso del Estado de Tamaulipas
+5152	TAM - Consejo Tamaulipeco de Ciencia y Tecnología
+5249	TAM - Cruillas
+17372	TAM - Desarrollo Turístico Playa Miramar S.A. de C.V.
+5148	TAM - El Colegio de Tamaulipas
+17331	TAM - Fideicomiso Fondo de Financiamiento para el Emprendedor Tamaulipeco
+17330	TAM - Fideicomiso Fondo de Garantía y Fomento a la Microindustria del Estado de Tamaulipas
+11970	TAM - Fiscalía General de Justicia del Estado de Tamaulipas
+26176	TAM - Fuerza Social por México
+11977	TAM - Gómez Farías
+5251	TAM - González
+5252	TAM - Güémez
+11978	TAM - Guerrero
+5250	TAM - Gustavo Díaz Ordaz
+11979	TAM - Hidalgo
+5154	TAM - Instituto de la Juventud de Tamaulipas
+5155	TAM - Instituto de las Mujeres en Tamaulipas
+5164	TAM - Instituto del Deporte de Tamaulipas
+13250	TAM - Instituto de Mediación
+5156	TAM - Instituto de Previsión y Seguridad Social del Estado de Tamaulipas
+5275	TAM - Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas (ITAIT).
+5276	TAM - Instituto Electoral de Tamaulipas (IETAM).
+5157	TAM - Instituto Metropolitano de Planeación del Sur de Tamaulipas
+15515	TAM - Instituto Municipal de Cultura Física y Deporte de Nuevo Laredo
+27120	TAM - Instituto Municipal de Cultura Física y Deporte de Río Bravo
+5222	TAM - Instituto Municipal de Investigación, planeación y desarrollo urbano del municipio de Nuevo Laredo, Tamaulipas.
+5223	TAM - Instituto Municipal de la Mujer de Nuevo Laredo, Tamaulipas.
+5224	TAM - Instituto Municipal de Planeación de Victoria.
+13873	TAM - Instituto Municipal de Prevención de Adicciones, Conductas y Tendencias Antisociales de Nuevo Laredo, Tamaulipas
+5225	TAM - Instituto Municipal de Vivienda y Suelo Urbano de Nuevo Laredo, Tamaulipas.
+13872	TAM - Instituto Municipal para el Desarrollo de la Juventud de Nuevo Laredo, Tamaulipas
+27057	TAM - Instituto Municipal para el Desarrollo de la Salud del Municipio de Nuevo Laredo, Tamaulipas
+5226	TAM - Instituto para el Desarrollo Cultural de Nuevo Laredo (INDECULT).
+5227	TAM - Instituto para la Competitividad y el Comercio Exterior del Municipio de Nuevo Laredo.
+5158	TAM - Instituto Registral y Catastral del Estado de Tamaulipas
+5228	TAM - Instituto Reynosense para la cultura y las artes.
+5159	TAM - Instituto Tamaulipeco de Becas, Estímulos y Créditos Educativos
+5160	TAM - Instituto Tamaulipeco de Capacitación para el Empleo
+5161	TAM - Instituto Tamaulipeco de Educación para Adultos
+5162	TAM - Instituto Tamaulipeco de Infraestructura Física Educativa
+5163	TAM - Instituto Tamaulipeco de Vivienda y Urbanismo
+5165	TAM - Instituto Tamaulipeco para la Cultura y las Artes
+5166	TAM - Instituto Tecnológico Superior de El Mante.
+5253	TAM - Jaumave
+11980	TAM - Jiménez
+5229	TAM - Juntas de Agua y Drenaje de la ciudad de Matamoros, Tamaulipas.
+5254	TAM - Llera
+5255	TAM - Mainero
+5256	TAM - Mante
+11981	TAM - Matamoros
+5257	TAM - Méndez
+5258	TAM - Mier
+5259	TAM - Miguel Alemán
+5260	TAM - Miquihuana
+11991	TAM - Movimiento Ciudadano
+11993	TAM - Movimiento Regeneración Nacional
+5261	TAM - Nuevo Laredo
+5262	TAM - Nuevo Morelos
+11982	TAM - Ocampo
+5167	TAM - Oficinas del Gobernador
+5263	TAM - Padilla
+5264	TAM - Palmillas
+11987	TAM - Partido Acción Nacional
+11988	TAM - Partido de la Revolución Democrática
+11989	TAM - Partido del Trabajo
+11995	TAM - Partido Encuentro Social
+26174	TAM - Partido Encuentro Solidario
+11992	TAM - Partido Nueva Alianza
+11986	TAM - Partido Revolucionario Institucional
+11990	TAM - Partido Verde Ecologista de México
+12311	TAM - Poder Judicial del Estado de Tamaulipas
+24398	TAM - Promotora para el Desarrollo de Tamaulipas
+17373	TAM - Puerto Aéreo de Soto la Marina S.A. de C.V.
+26175	TAM - Redes Sociales Progresistas
+11972	TAM - Régimen Estatal de Protección Social en Salud
+5265	TAM - Reynosa
+5266	TAM - Río Bravo
+5267	TAM - San Carlos
+11983	TAM - San Fernando
+5268	TAM - San Nicolás
+5153	TAM - Secretaría Anticorrupción y Buen Gobierno del Estado de Tamaulipas
+11965	TAM - Secretaría de Administración
+11969	TAM - Secretaría de Bienestar Social
+30630	TAM - Secretaría de Desarrollo Energético
+11966	TAM - Secretaría de Desarrollo Rural
+30629	TAM - Secretaría de Desarrollo Rural, Pesca y Acuacultura
+5169	TAM - Secretaría de Desarrollo Urbano y Medio Ambiente
+5168	TAM - Secretaría de Economía
+11968	TAM - Secretaría de Educación
+11964	TAM - Secretaría de Finanzas
+5171	TAM - Secretaría del Trabajo y Previsión Social
+11967	TAM - Secretaría de Obras Públicas
+14719	TAM - Secretaría de Pesca y Acuacultura
+30628	TAM - Secretaría de Recursos Hidráulicos para el Desarrollo Social
+5172	TAM - Secretaría de Salud y Servicios de Salud de Tamaulipas
+5170	TAM - Secretaría de Seguridad Pública
+14820	TAM - Secretaría de Turismo
+17979	TAM - Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Tamaulipas
+11963	TAM - Secretaría General de Gobierno
+5230	TAM - Servicio de limpia de la frontera ribereña tamaulipeca.
+17374	TAM - Servicios Aeroportuarios de Tamaulipas S.A. de C.V.
+11998	TAM - Sindicato Nacional de Trabajadores de la Educación en Tamaulipas
+11996	TAM - Sindicato Único de los Trabajadores de la Universidad Autónoma de Tamaulipas
+11997	TAM - Sindicato Unido de Trabajadores al Servicio de los Poderes del Estado de Tamaulipas y Organismo Públicos Descentralizados
+17978	TAM - Sistema Estatal de Radio y Televisión Tamaulipas
+30608	TAM - Sistema para el desarrollo integral de la familia del municipio de Altamira, Tamaulipas
+5231	TAM - Sistema para el Desarrollo Integral de la Familia del Municipio de Cd. Madero.
+5232	TAM - Sistema para el Desarrollo Integral de la Familia del Municipio de El Mante.
+5233	TAM - Sistema para el Desarrollo Integral de la Familia del Municipio de Matamoros.
+5234	TAM - Sistema para el Desarrollo Integral de la Familia del Municipio de Nuevo Laredo.
+5235	TAM - Sistema para el Desarrollo Integral de la Familia del Municipio de Reynosa.
+5236	TAM - Sistema para el Desarrollo Integral de la Familia del Municipio de Rio Bravo.
+5237	TAM - Sistema para el Desarrollo Integral de la Familia del Municipio de San Fernando.
+5238	TAM - Sistema para el Desarrollo Integral de la Familia del Municipio de Tampico.
+5239	TAM - Sistema para el Desarrollo Integral de la Familia del Municipio de Victoria.
+5173	TAM - Sistema para el Desarrollo Integral de la Familia de Tamaulipas
+5269	TAM - Soto la Marina
+18559	TAM - Tam Energía Alianza, S.A. de C.V.
+5270	TAM - Tampico
+16910	TAM - Tribunal de Justicia Administrativa del Estado de Tamaulipas
+13390	TAM - Tribunal de Justicia Administrativa Municipal de Victoria
+12430	TAM - Tribunal Electoral de Tamaulipas
+5187	TAM - Tribunal Fiscal del Estado.
+5271	TAM - Tula
+5277	TAM - Universidad Autónoma de Tamaulipas
+11971	TAM - Universidad de Seguridad y Justicia de Tamaulipas
+5174	TAM - Universidad Politécnica de Altamira
+5175	TAM - Universidad Politécnica de la Región Ribereña
+5176	TAM - Universidad Politécnica de Victoria
+5177	TAM - Universidad Tecnológica de Altamira
+5181	TAM - Universidad Tecnológica del Mar de Tamaulipas Bicentenario
+5178	TAM - Universidad Tecnológica de Matamoros
+5179	TAM - Universidad Tecnológica de Nuevo Laredo
+5180	TAM - Universidad Tecnológica de Tamaulipas Norte
+5272	TAM - Valle Hermoso
+11984	TAM - Victoria
+11985	TAM - Villagrán
+5273	TAM - Xicoténcatl

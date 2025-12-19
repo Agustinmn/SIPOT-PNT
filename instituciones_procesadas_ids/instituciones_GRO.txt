@@ -1,0 +1,218 @@
+14944	GRO - ACAbus del Estado de Guerrero
+15971	GRO - Administración del Patrimonio de la Beneficencia Pública del Estado de Guerrero
+2012	GRO - Agroindustrias del Sur
+2084	GRO - Auditoría Superior del Estado de Guerrero
+2087	GRO - Ayuntamiento de Acapulco de Juárez
+12968	GRO - Ayuntamiento de Acatepec
+11756	GRO - Ayuntamiento de Ahuacuotzingo
+13650	GRO - Ayuntamiento de Ajuchitlan del Progreso
+13470	GRO - Ayuntamiento de Alcozauca
+12969	GRO - Ayuntamiento de Alpoyeca
+2088	GRO - Ayuntamiento de Apaxtla de Castrejón
+12970	GRO - Ayuntamiento de Arcelia
+2089	GRO - Ayuntamiento de Atenango del Río
+12971	GRO - Ayuntamiento de Atlamajalcingo del Monte
+12972	GRO - Ayuntamiento de Atlixtac
+12973	GRO - Ayuntamiento de Atoyac de Álvarez
+11757	GRO - Ayuntamiento de Azoyú
+13471	GRO - Ayuntamiento de Benito Juárez
+2090	GRO - Ayuntamiento de Buenavista de Cuéllar
+2091	GRO - Ayuntamiento de Chilapa de Álvarez
+2092	GRO - Ayuntamiento de Chilpancingo de los Bravo
+12975	GRO - Ayuntamiento de Coahuayutla de José Maria Izazaga
+12977	GRO - Ayuntamiento de Cochoapa el Grande
+2093	GRO - Ayuntamiento de Cocula
+11755	GRO - Ayuntamiento de Copala
+2094	GRO - Ayuntamiento de Copalillo
+12978	GRO - Ayuntamiento de Copanatoyac
+11758	GRO - Ayuntamiento de Coyuca de Benítez
+11759	GRO - Ayuntamiento de Coyuca de Catalán
+12979	GRO - Ayuntamiento de Cuajinicuilapa
+12980	GRO - Ayuntamiento de Cualác
+12981	GRO - Ayuntamiento de Cuautepec
+2095	GRO - Ayuntamiento de Cuetzala del Progreso
+12982	GRO - Ayuntamiento de Cutzamala de Pinzón
+2096	GRO - Ayuntamiento de Eduardo Neri
+11760	GRO - Ayuntamiento de Florencio Villarreal
+16134	GRO - Ayuntamiento de General Canuto A. Neri
+2097	GRO - Ayuntamiento de General Heliodoro Castillo
+11761	GRO - Ayuntamiento de Huamuxtitlán
+2099	GRO - Ayuntamiento de Huitzuco de los Figueroa
+11762	GRO - Ayuntamiento de Iguala de la Independencia
+12983	GRO - Ayuntamiento de Igualapa
+12984	GRO - Ayuntamiento de Iliatenco
+11763	GRO - Ayuntamiento de Ixcateopan de Cuauhtémoc
+2100	GRO - Ayuntamiento de José Joaquin de Herrera
+2101	GRO - Ayuntamiento de Juan R. Escudero
+12985	GRO - Ayuntamiento de Juchitán
+30908	GRO - Ayuntamiento de las Vigas
+11764	GRO - Ayuntamiento de la Unión de Isidoro Montes de Oca
+2102	GRO - Ayuntamiento de Leonardo Bravo
+12986	GRO - Ayuntamiento de Malinaltepec
+12987	GRO - Ayuntamiento de Marquelia
+2103	GRO - Ayuntamiento de Mártir de Cuilapan
+12988	GRO - Ayuntamiento de Metlatónoc
+2104	GRO - Ayuntamiento de Mochitlán
+31291	GRO - Ayuntamiento de Ñuu Savi
+11765	GRO - Ayuntamiento de Olinalá
+11766	GRO - Ayuntamiento de Ometepec
+12989	GRO - Ayuntamiento de Pedro Ascencio de Alquisiras
+14131	GRO - Ayuntamiento de Petatlán
+13472	GRO - Ayuntamiento de Pilcaya
+12990	GRO - Ayuntamiento de Pungarabato
+2105	GRO - Ayuntamiento de Quechultenango
+15893	GRO - Ayuntamiento de San Luis Acatlán
+11767	GRO - Ayuntamiento de San Marcos
+12991	GRO - Ayuntamiento de San Miguel Totolapan
+32069	GRO - Ayuntamiento de San Nicolás
+31129	GRO - Ayuntamiento de Santa Cruz del Rincón
+11768	GRO - Ayuntamiento de Taxco de Alarcón
+12992	GRO - Ayuntamiento de Tecoanapa
+11769	GRO - Ayuntamiento de Tecpan de Galeana
+14013	GRO - Ayuntamiento de Teloloapan
+11770	GRO - Ayuntamiento de Tepecoacuilco de Trujano
+13473	GRO - Ayuntamiento de Tetipac
+12993	GRO - Ayuntamiento de Tixtla de Guerrero
+14014	GRO - Ayuntamiento de Tlacoachistlahuaca
+14015	GRO - Ayuntamiento de Tlacoapa
+16670	GRO - Ayuntamiento de Tlalchapa
+12994	GRO - Ayuntamiento de Tlalixtaquilla
+11771	GRO - Ayuntamiento de Tlapa de Comonfort
+13474	GRO - Ayuntamiento de Tlapehuala
+12995	GRO - Ayuntamiento de Xalpatlahuac
+12996	GRO - Ayuntamiento de Xochihuehuetlán
+11772	GRO - Ayuntamiento de Xochistlahuaca
+16330	GRO - Ayuntamiento de Zapotitlán Tablas
+12997	GRO - Ayuntamiento de Zihuatanejo de Azueta
+15250	GRO - Ayuntamiento de Zirándaro de los Chávez
+2106	GRO - Ayuntamiento de Zitlala
+12974	GRO - Casa de los Pueblos, Ayutla de los Libre
+29366	GRO - Centro de Conciliación Laboral del Estado de Guerrero.
+14725	GRO - Centro de Rehabilitación e Inclusión Infantil Teletón (CRIT) Guerrero
+2013	GRO - Colegio de Bachilleres del Estado de Guerrero (COBACH)
+2014	GRO - Colegio de Educación Profesional y Técnica del Estado de Guerrero (CONALEP)
+2015	GRO - Colegio de Estudios Cientificos y Tecnológicos del estado de Guerrero (CECyTEG)
+2016	GRO - Comisión de Agua Potable, Alcantarillado y Saneamiento del Estado de Guerrero (CAPASEG)
+16410	GRO - Comisión de Agua Potable y Alcantarillado de Chilpancingo de los Bravo (CAPACH)
+12999	GRO - Comisión de Agua Potable y Alcantarillado del Municipio de Acapulco (CAPAMA)
+16115	GRO - Comisión de Agua Potable y Alcantarillado del Municipio de Buenavista de Cuéllar
+13000	GRO - Comisión de Agua Potable y Alcantarillado del Municipio de Iguala (CAPAMI)
+16790	GRO - Comisión de Agua Potable y Alcantarillado de Taxco de Alarcón (CAPAT)
+12998	GRO - Comisión de Agua Potable y Alcantarillado de Zihuatanejo (CAPAZ)
+2017	GRO - Comisión de Infraestructura Carretera y Aeroportuaria ( CICAEG )
+3106	GRO - Comisión de los Derechos Humanos del Estado de Guerrero (CDHEG)
+14731	GRO - Comisión Ejecutiva Estatal de Atención a Víctimas del Estado de Guerrero
+2018	GRO - Comisión Estatal de Arbitraje Médico de Guerrero
+2019	GRO - Comisión Técnica de Transporte y Vialidad del Estado de Guerrero
+2021	GRO - Consejería Jurídica del Poder Ejecutivo de Guerrero
+2022	GRO - Consejo de Ciencia, Tecnología e innovación del estado de Guerrero (COCYTIEG)
+22657	GRO - Consejo de Políticas Públicas
+2024	GRO - Consejo Estatal del Café
+2025	GRO - Consejo Estatal del Cocotero
+2023	GRO - Consejo Estatal de Población
+2026	GRO - Coordinación General de Fortalecimiento Municipal
+2029	GRO - Escuela de Parteras Profesionales del Estado de Guerrero
+3709	GRO - Fideicomiso Bahía de Zihuatanejo (FIBAZI)
+3710	GRO - Fideicomiso Guerrero Industrial
+3711	GRO - Fideicomiso para el Desarrollo Económico y social de Acapulco (FIDACA)
+3712	GRO - Fideicomiso para la Promoción Turística de Acapulco (FIDETUR)
+2031	GRO - Fiscalía General del Estado (FGE)
+2032	GRO - Fondo de Apoyo a la Micro Empresa del Estado de Guerro
+2085	GRO - H. Congreso del Estado de Guerrero
+2033	GRO - Hospital de la Madre y el Niño Guerrerense
+2034	GRO - Hospital de la Madre y el Niño Indígena Guerrerense
+2035	GRO - Insituto de Seguridad Social de los Servidores Públicos (ISSSPEG)
+2036	GRO - Instituto de Capacitación para el Trabajo del Estado de Guerrero (ICATEGRO)
+2037	GRO - Instituto de la Policía Auxiliar del Estado de Guerrero
+14732	GRO - Instituto del Bachillerato del Estado de Guerrero (IBGRO)
+27584	GRO - Instituto del Bachillerato Intercultural del Estado de Guerrero (IBIEGro)
+2039	GRO - Instituto del Deporte de Guerrero (INDEG)
+3107	GRO - Instituto de Transparencia Acceso a la Información Y Protección de Datos Personales del Estado de Guerrero (ITAIGRO)
+2038	GRO - Instituto de Vivienda y Suelo Urbano de Guerrero (INVISUR)
+3108	GRO - Instituto Electoral y de Participación Ciudadana del Estado de Guerrero (IEPCGRO)
+2040	GRO - Instituto Estatal de Cancerología "Dr. Arturo Beltrán Ortega"
+2041	GRO - Instituto Estatal de Oftalmología
+2042	GRO - Instituto Estatal para la Educación de Jóvenes y Adultos de Guerrero (IEEJAG)
+2043	GRO - Instituto Guerrerense de la Infraestructura Fisica Educativa (IGIFE)
+14030	GRO - Instituto Guerrerense del Emprendedor
+2044	GRO - Instituto Guerrerense para la Atención Integral de las Personas Adultas Mayores (IGATIPAM)
+32209	GRO - Instituto Municipal de Vivienda de Chilpancingo
+2055	GRO - Instituto Radio y Televisión de Guerrero
+2045	GRO - Instituto Tecnológico Superior de la Costa Chica
+2046	GRO - Instituto Tecnológico Superior de la Montaña
+20900	GRO - Junta Especial de Conciliación y Arbitraje de Chilpancingo
+20898	GRO - Junta Local de Conciliación y Arbitraje de Chilpancingo
+20902	GRO - Junta Local de Conciliación y Arbitraje de Coyuca de Catalán
+20901	GRO - Junta Local de Conciliación y Arbitraje de Iguala
+20899	GRO - Junta Local de Conciliación y Arbitraje de Zihuatanejo
+20903	GRO - Junta Local de Conciliación y Arbitraje Número 1 de Acapulco de Juárez
+21997	GRO - Junta Local de Conciliación y Arbitraje Número 2 de Acapulco de Juárez
+3707	GRO - Movimiento de Regeneración Nacional (MORENA)
+2047	GRO - Museo Interactivo La Avispa
+14990	GRO - Oficina de la Gubernatura
+2048	GRO - Orquesta Filarmónica de Acapulco (OFA)
+2049	GRO - Parque Papagayo E.P.B.S.
+11753	GRO - Partido Acción Nacional (PAN)
+13001	GRO - Partido de la Revolución Democrática Guerrero (PRD)
+13002	GRO - Partido del Trabajo (PT)
+13003	GRO - Partido Movimiento Ciudadano (MC)
+13004	GRO - Partido Revolucionario Institucional (PRI)
+13005	GRO - Partido Verde Ecologista de México (PVEM)
+2051	GRO - Procuraduría de Protección Ambiental
+2052	GRO - Promotora Turística de Guerrero (PROTUR)
+2053	GRO - Promotora y Administradora de los Servicios de Playa de Zona Federal Marítimo-Terrestre de Acapulco
+2054	GRO - Promotora y Administradora de los Servicios de Playa de Zona Federal Marítimo-Terrestre de Zihuatanejo (PASPZOFEMATZ)
+15968	GRO - Representación del Poder Ejecutivo del Estado de Guerrero en la Ciudad de México
+2056	GRO - Secretaria de Agricultura, Ganaderia, Pesca y Desarrollo Rural (SAGADEGRO)
+2060	GRO - Secretaría de Bienestar
+2058	GRO - Secretaria de Contraloría y Transparencia Gubernamental
+2059	GRO - Secretaría de Cultura
+2061	GRO - Secretaría de Desarrollo Urbano, Obras Públicas y Ordenamiento Territorial
+2062	GRO - Secretaría de Educación Guerrero (SEG)
+2063	GRO - Secretaría de Finanzas y Administración
+2064	GRO - Secretaría de Fomento y Desarrollo Económico
+13475	GRO - Secretaría de Gestión Integral de Riesgo y Protección Civil
+2065	GRO - Secretaría de la Juventud y la niñez del Estado de Guerrero
+2066	GRO - Secretaría de la mujer
+2073	GRO - Secretaría de los Migrantes y Asuntos Internacionales
+2074	GRO - Secretaría del Trabajo y Previsión Social
+2067	GRO - Secretaría de Medio Ambiente y Recursos Naturales
+2068	GRO - Secretaría de Planeación y Desarrollo Regional
+2070	GRO - Secretaría de Salud
+2071	GRO - Secretaría de Seguridad Pública
+2072	GRO - Secretaría de Turismo
+2077	GRO - Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública
+24937	GRO - Secretaría Ejecutiva del Sistema Estatal Anticorrupción del Estado de Guerrero
+2075	GRO - Secretaría General de Gobierno
+2057	GRO - Secretaría para el Desarrollo de los Pueblos Indígenas y Afromexicanos
+32333	GRO - Sindicato de Trabajadoras y Trabajadores del Poder Legislativo del Estado Libre y Soberano de Guerrero "Sentimientos de la Nación" (S...
+3717	GRO - Sindicato de Trabajadores Académicos de la Uagro (STAUAG)
+32334	GRO - Sindicato de Trabajadores Burócratas y Servidores Públicos del Esatdo de Guerrero (SITBSPEG)
+32335	GRO - Sindicato de Trabajadores de Magisterio, Ayuntamientos y Burocracia del Estado de Guerrero (SITMABEG)
+3720	GRO - Sindicato de Trabajadores Técnicos, Administrativos y de Intendencia al Servicio de la UAGro. (STTAISUAG)
+32332	GRO - Sindicato Estatal de Servidores Públicos del Poder Judicial del Estado de Guerrero
+3716	GRO - Sindicato Estatal de Trabajadores Administrativos y de Intendencia del Gobierno del Estado y Municipios del Estado de Guerrero (SETAI...
+32331	GRO - Sindicato Estatal de Trabajadores de Protección Civil del Estado de Guerrero
+3715	GRO - Sindicato Independiente de Servidores Públicos del Estado de Guerrero (SISPEG)
+3719	GRO - Sindicato Independiente de Trabajadores al Servicio del Estado, de los Municipios y de los Organismos Públicos Coordinados y Descentr...
+3721	GRO - Sindicato Independiente de Trabajadores del Colegio de Bachilleres (SitCobach)
+32330	GRO - Sindicato Independiente de Trabajadores del H. Ayuntamiento Municipal de Chilpancingo de los Bravo, Guerrero (SITACH)
+3723	GRO - Sindicato Único de Servidores Públicos del Estado de Guerrero (SUSPEG)
+3726	GRO - Sindicato único de Trabajadores, Empleados de Agua Potable, Alcantarillado y Conexos (SUTEAPASC)
+3724	GRO - Sindicato Único de Trabajadores de la Música del Estado de Guerrero (SUTMEG)
+3714	GRO - Sindicato Único de Trabajadores del Ayuntamiento de José Azueta (SUTAJAG)
+3725	GRO - Sindicato Único de Trabajadores del Colegio de Bachilleres (SutCobach)
+2078	GRO - Sistema para el Desarrollo Integral de la Familia (DIF-GUERRERO)
+16050	GRO - Tribunal de Conciliación y Arbitraje del Estado de Guerrero
+11754	GRO - Tribunal de Justicia Administrativa del Estado de Guerrero
+3109	GRO - Tribunal Electoral del Estado de Guerrero
+2086	GRO - Tribunal Superior de Justicia del Estado de Guerrero
+3110	GRO - Universidad Autónoma de Guerrero (UAGRO)
+2079	GRO - Universidad Intercultural del Estado de Guerrero
+2080	GRO - Universidad Politécnica del Estado de Guerrero
+2081	GRO - Universidad Tecnológica de Acapulco
+2082	GRO - Universidad Tecnológica de la Costa Grande
+2083	GRO - Universidad Tecnológica de la Región Norte
+14694	GRO - Universidad Tecnológica de la Tierra Caliente
+14695	GRO - Universidad Tecnológica del Mar del Estado de Guerrero
+32396	GRO - Universidad Tecnológica y Politécnica de Coyuca de Benítez

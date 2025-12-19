@@ -1,0 +1,124 @@
+696	BCS - Academia Estatal de Seguridad Pública
+28845	BCS - Administración de la Beneficencia Pública
+697	BCS - Administración Portuaria Integral de Baja California Sur, S.A. de C.V.
+772	BCS - Auditoria Superior del Estado de Baja California Sur
+715	BCS - Benemérita Escuela Normal Urbana Profr. Domingo Carballo Félix
+28925	BCS - Centro de Conciliación Laboral del Estado de Baja California Sur
+13750	BCS - Centro de Rehabilitación e Inclusión Infantil Teletón Baja California Sur
+701	BCS - Centro Estatal de Control y Confianza
+703	BCS - Centro Estatal de Prevención del Delito con Participación Ciudadana
+704	BCS - Colegio de Bachilleres de Baja California Sur
+699	BCS - Colegio de Estudios Científicos y Tecnológicos del Estado de Baja California Sur (CECYTEBCS)
+705	BCS - Colegio Nacional de Educación Profesional Técnica
+26172	BCS - Comisión de Mediación, Conciliación y Arbitraje Médico para el Estado de Baja California Sur
+785	BCS - Comisión Estatal de Derechos Humanos de Baja California Sur
+706	BCS - Comisión Estatal del Agua
+707	BCS - Comisión Estatal para la Protección Contra Riesgos Sanitarios (COEPRIS-BCS)
+709	BCS - Consejo Sudcaliforniano de Ciencia y Tecnología
+710	BCS - Contraloria General del Estado
+28966	BCS - Dirección de Ejecución y Seguimiento de Medidas para Adolescentes
+28967	BCS - Dirección de Servicios Previos a Juicio y Supervisión de Libertad Condicionada
+23957	BCS - Dirección General del Instituto de la Mujer La Paz
+23959	BCS - Dirección General del Instituto Municipal de Cultura La Paz
+23958	BCS - Dirección General del Instituto Municipal de la Juventud La Paz
+23962	BCS - Dirección General del Instituto Municipal del Deporte La Paz
+23918	BCS - Dirección General del Instituto Municipal de Planeación La Paz
+23961	BCS - Dirección General del Organismo Descentralizado Denominado Jardines del Recuerdo
+27885	BCS - Escuela Normal Superior de Estado de B.C.S "Prof. Enrique Estrada Lucero"
+18297	BCS - Escuela Preparatoria “José Maria Morelos y Pavón”
+716	BCS - Fideicomiso 228 para la Implementación del Nuevo Sistema de Justicia Penal en el Estado
+717	BCS - Fideicomiso de Administración, inversión y fuente de pago para Obras de Infraestructura Social del Municipio de Comondú(FOIS COMONDÚ)
+730	BCS - Fideicomiso de Fomento Agropecuario (FOFAE)
+722	BCS - Fideicomiso de Infraestructura Social del Municipio de Mulegé (FOIS MULEGÉ)
+719	BCS - Fideicomiso de Obras de Infraestructura Social de La Paz (FOIS LA PAZ)
+720	BCS - Fideicomiso de Obras de Infraestructura Social del Municipio de Loreto (FOIS LORETO)
+721	BCS - Fideicomiso de Obras de Infraestructura Social de Los Cabos (FOIS LOS CABOS)
+723	BCS - Fideicomiso de Turismo de Comondú-Mulege (FITUCOMUL)
+718	BCS - Fideicomiso de Turismo de Loreto (FITULORETO)
+724	BCS - Fideicomiso de Turismo de Los Cabos (FITURCA)
+725	BCS - Fideicomiso de Turismo Estatal (FITUES)
+726	BCS - Fideicomiso de Turismo La Paz (FITUPAZ)
+728	BCS - Fondo Auxiliar para la Procuración de Justicia
+732	BCS - Fondo para la Protección de los Recursos Marinos (FONMAR)
+731	BCS - Fondo Social para el Desarrollo de Baja California Sur
+775	BCS - H. Ayuntamiento de Comondú
+776	BCS - H. Ayuntamiento de La Paz
+777	BCS - H. Ayuntamiento de Loreto
+778	BCS - H. Ayuntamiento de Los Cabos
+779	BCS - H. Ayuntamiento de Mulegé
+771	BCS - H. Congreso del Estado de Baja California Sur
+13631	BCS - H. Tribunal Superior de Justicia del Estado de Baja California Sur
+733	BCS - Instituto de Capacitación para los Trabajadores del Estado de BCS (ICATEBCS)
+15251	BCS - Instituto de la Juventud del Municipio de Los Cabos, BCS.
+15850	BCS - Instituto de las Mujeres del Municipio de Los Cabos
+15292	BCS - Instituto del Deporte del Municipio de Los Cabos
+32878	BCS - Instituto de Salud Municipal de Los Cabos
+735	BCS - Instituto de Servicios de Salud
+786	BCS - Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California Sur
+736	BCS - Instituto de Vivienda de Baja California Sur
+737	BCS - Instituto Estatal de Educación para los Adultos
+738	BCS - Instituto Estatal de Radio y Televisión
+787	BCS - Instituto Estatal Electoral de Baja California Sur
+694	BCS - Instituto Interdisciplinario de Ciencias Penales
+15811	BCS - Instituto Municipal de Planeacion de Los Cabos
+27805	BCS - Instituto Municipal para el Desarrollo e Inclusión de Personas con Discapacidad de los Cabos
+739	BCS - Instituto Sudcaliforniano de Cultura
+734	BCS - Instituto Sudcaliforniano de la Infraestructura Física Educativa
+740	BCS - Instituto Sudcaliforniano de la Juventud
+741	BCS - Instituto Sudcaliforniano de las Mujeres
+742	BCS - Instituto Sudcaliforniano del Deporte
+743	BCS - Instituto Sudcaliforniano para la Inclusión de las Personas con Discapacidad
+29846	BCS - Instituto Tecnológico de La Paz
+744	BCS - Instituto Tecnológico Superior de Ciudad Constitución
+745	BCS - Instituto Tecnológico Superior de los Cabos
+746	BCS - Instituto Tecnológico Superior de Mulegé
+748	BCS - Jefatura de la Oficina del Ejecutivo
+747	BCS - Junta Estatal de Caminos
+695	BCS - Junta Local de Conciliación y Arbitraje
+781	BCS - Organismo Operador del Sistema de Agua Potable, Alcantarillado y Saneamiento Para El Municipio de Comondu
+782	BCS - Organismo Operador Municipal del Sistema de Agua Potable, Alcantarillado y Saneamiento de la Paz
+783	BCS - Organismo Operador Municipal del Sistema de Agua Potable, Alcantarillado y Saneamiento de Loreto
+780	BCS - Organismo Operador Municipal del Sistema de Agua Potable, Alcantarillado y Saneamiento de Los Cabos
+784	BCS - Organismo Operador Municipal del Sistema de Agua Potable, Alcantarillado y Saneamiento de Mulegé
+793	BCS - Partido Acción Nacional
+16270	BCS - Partido BCS Coherente
+794	BCS - Partido de la Revolución Democrática
+796	BCS - Partido del Trabajo
+795	BCS - Partido de Renovación Sudcaliforniana
+14091	BCS - Partido Encuentro Solidario
+29666	BCS - Partido Fuerza por México
+797	BCS - Partido Humanista de BCS
+790	BCS - Partido Movimiento Ciudadano
+791	BCS - Partido Movimiento de Regeneración Nacional
+792	BCS - Partido Nueva Alianza
+798	BCS - Partido Revolucionario Institucional
+799	BCS - Partido Verde Ecologista de México
+749	BCS - Patronato del Estudiante Sudcaliforniano
+751	BCS - Policía Estatal Preventiva
+752	BCS - Procuraduría de la Defensa Del Trabajo
+754	BCS - Procuraduría General de Justicia
+757	BCS - Secretaria de Educación Pública
+758	BCS - Secretaria de Finanzas y Administración
+17777	BCS - Secretaría del Trabajo, Bienestar y Desarrollo Social
+759	BCS - Secretaria de Pesca, Acuacultura y Desarrollo Agropecuario
+762	BCS - Secretaria de Salud
+17739	BCS - Secretaria de Seguridad Pública
+18938	BCS - Secretaría de Turismo y Economía
+23857	BCS - Secretaria Ejecutiva de la Comisión de Consolidación, Evaluación y Seguimiento del Sistema de Justicia Penal
+23738	BCS - Secretaria Ejecutiva del Sistema Estatal Anticorrupción del Estado De Baja California Sur
+766	BCS - Secretaria General de Gobierno
+760	BCS - Secretaria Planeación Urbana, Infraestructura, Movilidad, Medio Ambiente y Recursos Naturales
+18277	BCS - Sindicato del Personal Académico de la Universidad Autónoma De Baja California Sur
+800	BCS - Sindicato Nacional de Trabajadores de la Educación (SNTE)
+29126	BCS - Sindicato Única de Personal Docente y Administrativo del Instituto Tecnológico de Estudios Superiores de los Cabos (SUPDAITES)
+19637	BCS - Sindicato Único de Trabajadores Administrativos de la Universidad Autónoma de BCS
+801	BCS - Sindicato Único de Trabajadores al Servicio de los Poderes del Estado, Municipios E Instituciones Descentralizadas de Baja California...
+15110	BCS - Sindicato Único de Trabajadores del Colegio de Bachilleres
+29607	BCS - Sindicato Único de Trabajadores del Colegio de Estudios Científicos y Tecnológicos del Estado de Baja California Sur
+767	BCS - Sistema Estatal para el Desarrollo Integral de la Familia (SEDIF)
+23960	BCS - Sistema para el Desarrollo Integral de la Familia del Municipio de La Paz, Baja California Sur
+769	BCS - Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio de los Poderes Del Estado y Municipios
+19357	BCS - Tribunal de Justicia Administrativa del Estado de Baja California Sur
+11580	BCS - Tribunal Estatal Electoral de Baja California Sur
+788	BCS - Universidad Autónoma de Baja California Sur
+770	BCS - Universidad Tecnológica de La Paz

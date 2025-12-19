@@ -1,0 +1,394 @@
+19999	CHP - (Histórico) Ayuntamiento de Belisario Domínguez
+12521	CHP - (Histórico) Fideicomiso Programa de Becas Nacionales para la Educación Superior (Manutención)
+20442	CHP - Agencia Digital Tecnológica del Estado (Anteriormente Instituto de Ciencia, Tecnología e Innovación del Estado de Chiapas)
+31210	CHP - Alberto Gonzáles Santíz
+27103	CHP - Archivo General del Estado
+1241	CHP - Auditoría Superior del Estado (ASE)
+14730	CHP - Ayuntamiento de Acacoyagua
+16031	CHP - Ayuntamiento de Acala
+12473	CHP - Ayuntamiento de Acapetahua
+13831	CHP - Ayuntamiento de Aldama
+12474	CHP - Ayuntamiento de Altamirano
+19998	CHP - Ayuntamiento de Amatán
+12475	CHP - Ayuntamiento de Amatenango de la Frontera
+14746	CHP - Ayuntamiento de Amatenango del Valle
+17964	CHP - Ayuntamiento de Ángel Albino Corzo
+1276	CHP - Ayuntamiento de Arriaga
+19697	CHP - Ayuntamiento de Arriaga - SAPAM
+12476	CHP - Ayuntamiento de Bejucal de Ocampo
+12477	CHP - Ayuntamiento de Bella Vista
+17965	CHP - Ayuntamiento de Benemérito de las Américas
+1280	CHP - Ayuntamiento de Berriozábal
+22197	CHP - Ayuntamiento de Berriozábal - SAPAM
+17966	CHP - Ayuntamiento de Bochil
+12478	CHP - Ayuntamiento de Cacahoatán
+20000	CHP - Ayuntamiento de Capitán Luis Ángel Vidal
+15973	CHP - Ayuntamiento de Catazajá
+15978	CHP - Ayuntamiento de Chalchihuitán
+1246	CHP - Ayuntamiento de Chamula
+15974	CHP - Ayuntamiento de Chanal
+17997	CHP - Ayuntamiento de Chapultenango
+17959	CHP - Ayuntamiento de Chenalhó
+1247	CHP - Ayuntamiento de Chiapa de Corzo
+12480	CHP - Ayuntamiento de Chiapa de Corzo-SAPAM
+1288	CHP - Ayuntamiento de Chiapilla
+13850	CHP - Ayuntamiento de Chicoasén
+12481	CHP - Ayuntamiento de Chicomuselo
+1248	CHP - Ayuntamiento de Chilón
+1249	CHP - Ayuntamiento de Cintalapa de Figueroa
+12483	CHP - Ayuntamiento de Cintalapa de Figueroa - SAPAM
+17577	CHP - Ayuntamiento de Cintalapa de Figueroa -Sistema DIF Municipal
+20001	CHP - Ayuntamiento de Coapilla
+1250	CHP - Ayuntamiento de Comitán de Domínguez
+13871	CHP - Ayuntamiento de Comitán de Domínguez - COAPAM
+13947	CHP - Ayuntamiento de Comitán de Domínguez - IMPLAN
+14831	CHP - Ayuntamiento de Comitán de Domínguez - Sistema DIF municipal
+1292	CHP - Ayuntamiento de Copainalá
+19817	CHP - Ayuntamiento de El Bosque
+15210	CHP - Ayuntamiento de El Parral
+12484	CHP - Ayuntamiento de El Porvenir
+17999	CHP - Ayuntamiento de EL Porvenir -DIF (Baja) Histórico
+12485	CHP - Ayuntamiento de Emiliano Zapata
+1264	CHP - Ayuntamiento de Escuintla
+1295	CHP - Ayuntamiento de Francisco León
+12486	CHP - Ayuntamiento de Frontera Comalapa
+1297	CHP - Ayuntamiento de Frontera Hidalgo
+25837	CHP - Ayuntamiento de Honduras de la Sierra
+12487	CHP - Ayuntamiento de Huehuetán
+17998	CHP - Ayuntamiento de Huitiupán
+13870	CHP - Ayuntamiento de Huixtán
+12488	CHP - Ayuntamiento de Huixtla
+18000	CHP - Ayuntamiento de Huixtla - SAPAM
+12489	CHP - Ayuntamiento de Ixhuatán
+13890	CHP - Ayuntamiento de Ixtacomitán
+18001	CHP - Ayuntamiento de Ixtapa
+15977	CHP - Ayuntamiento de Ixtapangajoya
+18002	CHP - Ayuntamiento de Jiquipilas
+17958	CHP - Ayuntamiento de Jitotol
+14777	CHP - Ayuntamiento de Juárez
+18003	CHP - Ayuntamiento de La Concordia
+12490	CHP - Ayuntamiento de La Grandeza
+18004	CHP - Ayuntamiento de La Independencia
+18005	CHP - Ayuntamiento de La Libertad
+18006	CHP - Ayuntamiento de Larráinzar
+1252	CHP - Ayuntamiento de Las Margaritas
+12493	CHP - Ayuntamiento de Las Margaritas-SAPAM
+1253	CHP - Ayuntamiento de Las Rosas
+1251	CHP - Ayuntamiento de La Trinitaria
+15130	CHP - Ayuntamiento de Mapastepec
+18007	CHP - Ayuntamiento de Maravilla Tenejapa
+18008	CHP - Ayuntamiento de Marqués de Comillas
+12494	CHP - Ayuntamiento de Mazapa de Madero
+12495	CHP - Ayuntamiento de Mazatán
+14991	CHP - Ayuntamiento de Metapa
+18009	CHP - Ayuntamiento de Mezcalapa
+19978	CHP - Ayuntamiento de Mitontic
+13912	CHP - Ayuntamiento de Montecristo de Guerrero
+12496	CHP - Ayuntamiento de Motozintla
+16033	CHP - Ayuntamiento de Nicolás Ruíz
+1254	CHP - Ayuntamiento de Ocosingo
+15211	CHP - Ayuntamiento de Ocosingo - DIF
+15212	CHP - Ayuntamiento de Ocosingo - SAPAM
+18579	CHP - Ayuntamiento de Ocotepec
+1265	CHP - Ayuntamiento de Ocozocoautla de Espinosa
+13911	CHP - Ayuntamiento de Ostuacán
+19979	CHP - Ayuntamiento de Osumacinta
+20002	CHP - Ayuntamiento de Oxchuc
+1255	CHP - Ayuntamiento de Palenque
+12500	CHP - Ayuntamiento de Palenque-DIF
+12499	CHP - Ayuntamiento de Palenque-SAPAM
+15091	CHP - Ayuntamiento de Pantelhó
+19981	CHP - Ayuntamiento de Pantepec
+1330	CHP - Ayuntamiento de Pichucalco
+19980	CHP - Ayuntamiento de Pichucalco - SAPAM
+16030	CHP - Ayuntamiento de Pijijiapan
+19982	CHP - Ayuntamiento de Pueblo Nuevo Solistahuacán
+19983	CHP - Ayuntamiento de Rayón
+19984	CHP - Ayuntamiento de Reforma
+20003	CHP - Ayuntamiento de Rincón Chamula San Pedro
+17497	CHP - Ayuntamiento de Sabanilla
+15972	CHP - Ayuntamiento de Salto de Agua
+20004	CHP - Ayuntamiento de San Andres Duraznal
+1266	CHP - Ayuntamiento de San Cristóbal de las Casas
+12501	CHP - Ayuntamiento de San Cristóbal de las Casas-DIF
+12502	CHP - Ayuntamiento de San Cristóbal de las Casas-SAPAM
+20005	CHP - Ayuntamiento de San Fernando
+20006	CHP - Ayuntamiento de San Juan Cancuc
+15173	CHP - Ayuntamiento de San Lucas
+20007	CHP - Ayuntamiento de Santiago el Pinar
+19977	CHP - Ayuntamiento de Siltepec
+15979	CHP - Ayuntamiento de Simojovel
+18857	CHP - Ayuntamiento de Sitalá
+19985	CHP - Ayuntamiento de Socoltenango
+19986	CHP - Ayuntamiento de Solosuchiapa
+14805	CHP - Ayuntamiento de Soyaló
+16032	CHP - Ayuntamiento de Suchiapa
+1349	CHP - Ayuntamiento de Suchiate
+14647	CHP - Ayuntamiento de Suchiate -DIF
+14646	CHP - Ayuntamiento de Suchiate - SAPAM
+12503	CHP - Ayuntamiento de Sunuapa
+12567	CHP - Ayuntamiento de Tapachula
+12559	CHP - Ayuntamiento de Tapachula - COAPATAP
+12561	CHP - Ayuntamiento de Tapachula - DIF
+13954	CHP - Ayuntamiento de Tapalapa
+20008	CHP - Ayuntamiento de Tapilula
+17541	CHP - Ayuntamiento de Tecpatán
+1257	CHP - Ayuntamiento de Tenejapa
+1258	CHP - Ayuntamiento de Teopisca
+1259	CHP - Ayuntamiento de Tila
+19997	CHP - Ayuntamiento de Tila - DIF
+1260	CHP - Ayuntamiento de Tonalá
+13943	CHP - Ayuntamiento de Tonalá - SAPAM
+12504	CHP - Ayuntamiento de Totolapa
+20009	CHP - Ayuntamiento de Totolapa - DIF (Baja) Histórico
+19118	CHP - Ayuntamiento de Tumbalá
+12505	CHP - Ayuntamiento de Tuxtla Chico
+1261	CHP - Ayuntamiento de Tuxtla Gutiérrez
+13614	CHP - Ayuntamiento de Tuxtla Gutiérrez -DIF
+20018	CHP - Ayuntamiento de Tuxtla Gutiérrez - ICIPLAM
+13615	CHP - Ayuntamiento de Tuxtla Gutiérrez - SMAPA
+12506	CHP - Ayuntamiento de Tuzantán
+1358	CHP - Ayuntamiento de Tzimol
+1359	CHP - Ayuntamiento de Unión Juárez
+12507	CHP - Ayuntamiento de Venustiano Carranza
+13945	CHP - Ayuntamiento de Villa Comaltitlán
+16048	CHP - Ayuntamiento de Villacomaltitlán - SAPAM
+16072	CHP - Ayuntamiento de Villacorzo
+1262	CHP - Ayuntamiento de Villaflores
+13946	CHP - Ayuntamiento de Villaflores - SAPAM
+19377	CHP - Ayuntamiento de Yajalón
+1263	CHP - Ayuntamiento de Zinacantán
+18784	CHP - Candidato Independiente C. Ángel Albíno Corzo Velasco (Histórico)
+18818	CHP - Candidato Independiente C. Antonio Aguilón López (Histórico)
+18804	CHP - Candidato Independiente C. Arturo Alonso Escobar Rosas (Histórico)
+18807	CHP - Candidato Independiente C. Corazón Gómez Consuegra (Histórico)
+18782	CHP - Candidato Independiente C. Daniel Pérez Pérez (histórico)
+18816	CHP - Candidato Independiente C. Darinel Vera Ruiz (Histórico)
+18813	CHP - Candidato Independiente C. Ervin Marroquín López (Histórico)
+18822	CHP - Candidato Independiente C. Eugenio de Jesús Jiménez López (Histórico)
+18802	CHP - Candidato Independiente C. Evelio cruz rasgado (Historico)
+18810	CHP - Candidato Independiente C. Francisco Javier Avendaño Pérez (Histórico)
+18798	CHP - Candidato Independiente C. Grisel Aquino Ruiz (Histórico)
+18806	CHP - Candidato Independiente C. Héctor Escandón Ochoa (Histórico)
+18811	CHP - Candidato Independiente C. Isaías Ovilla Coyazo (Histórico)
+18780	CHP - Candidato Independiente C. José Carlos Rasgado Vicente (Histórico)
+18820	CHP - Candidato Independiente C. Juan Moctezuma García gordillo (Histórico)
+18783	CHP - Candidato Independiente C. Karen Dianne Limón Padilla (Histórico)
+18779	CHP - Candidato Independiente C. Manuel de Jesús Cruz Espinosa (Histórico)
+18819	CHP - Candidato Independiente C. Marcos Antonio Aguilar García (Histórico)
+18808	CHP - Candidato Independiente C. Mario Alegría Flores (Histórico)
+18815	CHP - Candidato Independiente C. Merced Suriano Hernández (Histórico)
+18812	CHP - Candidato Independiente C. Narbel Aguilar de la Cruz (Histórico)
+18821	CHP - Candidato Independiente C. Oscar Alberto Sánchez Gúmeta (Histórico)
+18777	CHP - Candidato Independiente C. Raymundo de Jesús Zenteno Mijangos (Histórico)
+18809	CHP - Candidato Independiente C. Samuel Ortiz López (Histórico)
+18814	CHP - Candidato Independiente C. Samuel Roque Guillen (Histórico)
+18800	CHP - Candidato Independiente C. Texan Molina Acero (Histórico)
+18817	CHP - Candidato Independiente C. Víctor Hugo Guzmán Guzmán (Histórico)
+18778	CHP - Candidato Independiente CP. Jorge Luis Martínez Salazar (Histórico)
+18799	CHP - Candidato Independiente CP. Mario Sánchez Gómez (Histórico)
+18801	CHP - Candidato Independiente Ing. Belisario Ibarra Argueta (Histórico)
+18803	CHP - Candidato Independiente Ing. Jesús Abundio Narcia Coello (Histórico)
+18797	CHP - Candidato Independiente Prof. Salvador Osvaldo Velazco García (Histórico)
+27363	CHP - Centro de Conciliación Laboral del Estado de Chiapas
+14974	CHP - Centro de Rehabilitación e Inclusión Infantil - CRIT Chiapas(Baja) Histórico
+20718	CHP - Centro Estatal de Control de Confianza Certificado del Estado de Chiapas
+1164	CHP - Centro Estatal de Control de Confianza Certificado del Estado de Chiapas (Información 2015-2018) Histórico
+1165	CHP - Centro Estatal de Prevención Social de la Violencia y Participación Ciudadana
+11589	CHP - Centro Estatal de Trasplantes del Estado de Chiapas
+1166	CHP - Centro Regional de Formación Docente e Investigación Educativa (Histórico)
+1167	CHP - Colegio de Bachilleres de Chiapas
+1168	CHP - Colegio de Educación Profesional Técnica del Estado de Chiapas
+1169	CHP - Colegio de Estudios Científicos y Tecnológicos del Estado de Chiapas
+20441	CHP - Comisión de Caminos e Infraestructura Hidraulica
+12508	CHP - Comisión de Caminos e Infraestructura Hidraulica (Información 2015-2018) Histórico
+24817	CHP - Comisión Ejecutiva Estatal de Atención a Víctimas
+24960	CHP - Comisión Estatal De Búsqueda De Personas.
+1170	CHP - Comisión Estatal de Conciliación y Arbitraje Médico del Estado de Chiapas
+1364	CHP - Comisión Estatal de los Derechos Humanos
+1171	CHP - Comisión Estatal de Mejora Regulatoria
+16218	CHP - Comité de Fomento y Protección Pecuaria del Estado de Chiapas, A.C
+14976	CHP - Comité Estatal de Sanidad Acuícola de Chiapas
+17917	CHP - Comité Estatal de Sanidad Vegetal de Chiapas (CESAVECH)
+16190	CHP - Confía Chiapas (Baja) Histórico
+1240	CHP - Congreso del Estado de Chiapas
+20453	CHP - Consejeria Juridica del Gobernador
+1172	CHP - Consejo de Ciencia y Tecnología del Estado de Chiapas (Información 2015-2018) Histórico
+1174	CHP - Consejo Estatal para las Culturas y las Artes de Chiapas
+1175	CHP - Coordinación de Fomento Agroalimentario Sustentable (Baja) Histórico
+1177	CHP - Coordinación Ejecutiva del Fondo de Fomento Agropecuario del Estado de Chiapas "FOFAE" (Baja) Histórico
+1178	CHP - Coordinación Ejecutiva del Fondo de Fomento Económico Chiapas Solidario (Baja) Histórico
+1179	CHP - Coordinación Estatal para el Mejoramiento del Zoológico "Miguel Álvarez del Toro"
+26519	CHP - Esteban Guadalupe Morales Moreno - Candidato Independiente a la Presidencia Municipal de San Cristóbal de las Casas, Chiapas -(Histór...
+12509	CHP - Fideicomiso "Una mano... una Esperanza"
+12510	CHP - Fideicomiso de Apoyo a las Necesidades de los Cafeticultores del Estado de Chiapas
+12512	CHP - Fideicomiso de Apoyo para la Atención de Personas Mayores de 64 años (Histórico)
+12513	CHP - Fideicomiso de Estrategias Financieras Multisectoriales (Histórico)
+12514	CHP - Fideicomiso de la Zona Metropolitana del Estado de Chiapas(Baja) Histórico
+12515	CHP - Fideicomiso de Prestaciones Seguridad Social para los Trabajadores del Sector Policial Operativo al Servicio del Poder Ejecutivo del ...
+22317	CHP - Fideicomiso Fondo de Apoyo para la Ejecución del Programa Complemento Alimentario en el Estado de Chiapas - Secretaría de Bienestar (...
+12555	CHP - Fideicomiso Fondo de Participación Social Chiapas (FOPASCH) Histórico
+22318	CHP - Fideicomiso Fondo de Protección para Vehículos Propiedad del Poder Ejecutivo Estatal (FOPROVEP) - Oficialía Mayor del Estado de Chiap...
+22319	CHP - Fideicomiso Fondo Estatal de Fomento Industrial (FEFICH) - Secretaría de Economía y del Trabajo
+12550	CHP - Fideicomiso Irrevocable de Administracion e Inversion Fondo Contra la Delincuencia Organizada (FOCODO)
+12523	CHP - Fideicomiso Irrevocable de Inversión y Administración para el Programa Especial de Financiamiento a la Vivienda para el Magisterio de...
+22320	CHP - Fideicomiso para el Desarrollo Estratégico del Aeropuerto Internacional "Ángel Albino Corzo" - Secretaría de Obras Públicas (históric...
+12522	CHP - Fideicomiso para el Desarrollo Social Integrado y Sostenible Chiapas, México (Baja) Histórico
+22321	CHP - Fideicomiso para el Establecimiento de Parques Agroindustriales en el Estado de Chiapas (FIDEPAR) - Secretaría de Economía y del Trab...
+15238	CHP - Fideicomiso para la Habilitación y Administración del Recinto Fiscalizado Estratégico Puerto Chiapas (Baja) Histórico
+15240	CHP - Fideicomiso para la Implementación del Sistema de Justicia Penal en el Estado de Chiapas (Baja) Histórico
+12525	CHP - Fideicomiso para la Modernización del Transporte Público del Estado
+12526	CHP - Fideicomiso para la Promoción Difusión y Comercialización de los Atractivos Turísticos del Estado de Chiapas
+16062	CHP - Fideicomiso Programa de Fortalecimiento a la Excelencia Educativa (PROFEXCE) UNACH
+12520	CHP - Fideicomiso Programa Escuelas de Calidad "PEC" Histórico
+12528	CHP - Fideicomiso Programa para el Desarrollo Profesional Docente de la Universidad Autónoma de Ciencias y Artes de Chiapas (PRODEPUNICACH)
+12556	CHP - Fideicomiso Público de Administración e Inversión Fondo Estatal Ambiental (FESA)
+21237	CHP - Fideicomiso Público de Inversión, Administración y Fuente de Pago, Fondo para la Gestión Integral de Riesgos de Desastres (FOGIRD)
+12511	CHP - Fideicomiso Público de Inversión y Administración de Apoyo de Tecnologías de la Información para el personal al Servicio de la Educac...
+12524	CHP - Fideicomiso Público Estatal Fondo para la Educación de Chiapas (FECH) - Sistema para el Desarrollo Integral de la Familia del Estado ...
+12519	CHP - Fideicomiso Público Liquidador de Activos Financieros y de Financiamiento a Sectores Estratégicos (FLAFFISE) Histórico
+12529	CHP - Fideicomiso UNACH PRODEP
+12527	CHP - Fideicomiso UNICACH PFCE (Histórico)
+1367	CHP - Fiscalía General del Estado
+22157	CHP - Fondo de Apoyo a la Economía de las Mujeres (FAEM)
+22322	CHP - Fondo de Apoyo a Periodistas (FAP) - Secretaría de Bienestar (Histórico)
+12553	CHP - Fondo de Financiamiento para las Empresas de Solidaridad del Sector Artesanal de Chiapas
+12554	CHP - Fondo de Fomento Agropecuario del Estado de Chiapas
+15234	CHP - Fondo de Fomento Económico Chiapas Solidario (FOFOE)
+15239	CHP - Fondo de Seguridad Pública del Estado de Chiapas - FOSEG
+12557	CHP - Fondo Estatal de Desarrollo Comercial Agropecuario y Agroindustrial (FEDCAA)
+12558	CHP - Fondo para el Desarrollo Forestal Sustentable del Estado de Chiapas (Baja) Histórico
+21017	CHP - Gubernatura
+26518	CHP - Guillermina Fernández Solís - Candidata Independiente a la Presidencia Municipal de Villa Comaltitlán , Chiapas - (Histórico)
+26523	CHP - Hugo Antonio Espinosa Guillén - Candidato Independiente a la Presidencia Municipal de Tuxtla Gutiérrez, Chiapas -(Histórico)
+1180	CHP - Instituto Amanecer (Información 2015-2018) Histórico
+1181	CHP - Instituto Casa de las Artesanías de Chiapas
+1182	CHP - Instituto Chiapaneco de Educación para Jóvenes y Adultos
+14973	CHP - Instituto de Administración Pública del Estado de Chiapas, A. C. ( Histórico)
+1183	CHP - Instituto de Bienestar Social (Información 2015-2018) Histórico
+25717	CHP - Instituto de Bomberos del Estado de Chiapas.
+1184	CHP - Instituto de Capacitación y Vinculación Tecnológica del Estado de Chiapas
+1185	CHP - Instituto de Comunicación Social del Estado de Chiapas (Información 2015-2018) Histórico
+20444	CHP - Instituto de Comunicación Social y Relaciones Publicas del Estado de Chiapas
+1186	CHP - Instituto de Desarrollo de Energías del Estado de Chiapas (Baja) Histórico
+1366	CHP - Instituto de Elecciones y Participación Ciudadana
+1187	CHP - Instituto de Estudios de Posgrado (Histórico)
+30728	CHP - Instituto de Evaluación, Profesionalización y Promoción Docente de Chiapas (IEPPDCH)
+1188	CHP - Instituto de Formación Policial
+1189	CHP - Instituto de la Consejería Jurídica y de Asistencia Legal (Informaciión 2015-2018) Histórico
+1190	CHP - Instituto de la Infraestructura Física Educativa del Estado de Chiapas
+20438	CHP - Instituto de la Juventud del Estado de Chiapas
+1196	CHP - Instituto del Café de Chiapas
+20443	CHP - Instituto del Deporte del Estado de Chiapas
+24458	CHP - Instituto de Patrimonio del Estado
+1193	CHP - Instituto de Protección Social y Beneficencia Pública del Estado de Chiapas
+1195	CHP - Instituto de Seguridad Social de los Trabajadores del Estado de Chiapas
+1365	CHP - Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Chiapas
+1197	CHP - Instituto Estatal de Evaluación e Innovación Educativa (Histórico)
+1198	CHP - Instituto Estatal del Agua
+1201	CHP - Instituto Tecnológico Superior de Cintalapa
+26517	CHP - Julio César Nañez Gutiérrez - Candidato Independiente a la Presidencia Municipal de Francisco León, Chiapas -(Histórico)
+1202	CHP - Junta Local de Conciliación y Arbitraje
+26522	CHP - Leobardo López Morales - Candidato Independiente a la Presidencia Municipal de Metapa
+26525	CHP - Marco Antonio Gómez Morales - Candidato Independiente a la Presidencia Municipal de Soyaló, Chiapas - Histórico
+21238	CHP - Oficialía Mayor del Estado de Chiapas.
+1203	CHP - Oficina de Convenciones y Visitantes (Información 2015-2018) Histórico
+20439	CHP - Oficina de Convenciones y Visitantes del Estado de Chiapas
+1205	CHP - Oficina del Gobernador (Información 2015-2018) Histórico
+1206	CHP - Parque Agroindustrial para el Desarrollo Regional del Sureste Chiapas (Histórico)
+1371	CHP - Partido Acción Nacional
+1378	CHP - Partido Chiapas Unido
+1373	CHP - Partido de la Revolución Democrática
+20017	CHP - Partido del Trabajo
+18129	CHP - Partido Encuentro Social (Baja) Histórico
+25878	CHP - Partido Encuentro Solidario Chiapas
+25879	CHP - Partido Fuerza por Mexico
+18127	CHP - Partido Movimiento Ciudadano
+1380	CHP - Partido Movimiento Regeneración Nacional
+22037	CHP - Partido Nueva Alianza (Historico)
+1379	CHP - Partido Podemos Mover a Chiapas
+25438	CHP - Partido Popular Chiapaneco
+25880	CHP - Partido Redes Sociales Progresistas Chiapas
+1372	CHP - Partido Revolucionario Institucional
+1376	CHP - Partido Verde Ecologista de México
+26520	CHP - Porfirio Correa López - Candidato Independiente a la Presidencia Municipal de La Libertad, Chiapas
+20440	CHP - Procuraduria Ambiental del Estado de Chiapas
+1207	CHP - Procuraduría Ambiental en el Estado de Chiapas (Información 2015-2018) Histórico
+1208	CHP - Promotora de Vivienda Chiapas
+18781	CHP - Prueba
+1209	CHP - Régimen Estatal de Protección Social en Salud (Histórico)
+26521	CHP - Ricardo de Jesús González Santizo - Candidato Independiente a la Presidencia Municipal de Tuxtla Gutiérrez, Chiapas - (Histórico)
+26524	CHP - Samuel Ortiz López - Candidato Independiente a la Presidencia Municipal de Soyaló, Chiapas - (Histórico)
+20451	CHP - Secretaría de Agricultura, Ganaderia y Pesca - SAGyP
+1215	CHP - Secretaria de Anticorrupción y Buen Gobierno (Anteriormente Secretaría de la Honestidad y Función Pública)
+1210	CHP - Secretaría de Desarrollo Social (Información 2015-2018) Histórico
+1211	CHP - Secretaría de Economía (Información 2015-2018) Histórico
+20447	CHP - Secretaría de Economia y del Trabajo
+1212	CHP - Secretaría de Educación
+1213	CHP - Secretaría de Finanzas (Anteriormente Secretaría de Hacienda)
+20448	CHP - Secretaría de Infraestructura (Anteriormente Secretaría de Obras Publicas- SOP)
+1216	CHP - Secretaría de la Juventud, Recreación y Deporte (Información 2015-2018) Histórico
+20452	CHP - Secretaría de la Mujer e Igualdad de Género (Anteriormente Secretaría de Igualdad de Genero-SEIGEN)
+1225	CHP - Secretaría del Campo (Información 2015-2018) Histórico
+20446	CHP - Secretaría del Humanismo (Anteriormente Secretaría de Bienestar)
+1226	CHP - Secretaría del Trabajo (Información 2015-2018) Histórico
+1217	CHP - Secretaría de Medio Ambiente e Historia Natural - SEMAHN
+20449	CHP - Secretaría de Movilidad y Transporte
+1214	CHP - Secretaría de Obra Pública y Comunicaciones (Información 2015-2018) Histórico
+1218	CHP - Secretaría de Pesca y Acuacultura (Baja) Histórico
+1220	CHP - Secretaría de Protección Civil / Instituto para la Gestión Integral de Riesgos de Desastres del Estado de Chiapas
+1222	CHP - Secretaría de Seguridad del Pueblo (Anteriormente Secretaría de Seguridad y Protección Ciudadana)
+1223	CHP - Secretaría de Transportes (Información 2015-2018) Histórico
+1224	CHP - Secretaría de Turismo-SECTUR
+1231	CHP - Secretariado Ejecutivo del Sistema Estatal de Seguridad Publica
+25437	CHP - Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Chiapas (SESAECH)
+1227	CHP - Secretaría General de Gobierno y Mediación (Anteriormente Secretaría General de Gobierno)
+15233	CHP - Secretaría-Instituto de Salud
+1228	CHP - Secretaría para el Desarrollo de la Frontera Sur y Enlace para la Cooperación Internacional (Baja) Histórico
+1229	CHP - Secretaría para el Desarrollo Sustentable de los Pueblos Indígenas - SEDESPI
+1230	CHP - Secretaría para el Desarrollo y Empoderamiento de las Mujeres (Información 2015-2018) Histórico
+15034	CHP - Sindicato de Empleados Administrativos de la Universidad de Ciencias y Artes de Chiapas (SEAUNICACH)
+22577	CHP - Sindicato del Comite de Agua Potable y Alcantarillado en Defensa de los Trabajadores (Histórico)
+15071	CHP - Sindicato de los Trabajadores del Sistema para el Desarrollo Integral de la Familia del Municipio de Tuxtla Gutiérrez, Chiapas
+15050	CHP - Sindicato del Personal Académico de la Universidad Autónoma de Chiapas (SPAUNACH)
+21738	CHP - Sindicato del Personal Académico de la Universidad de Ciencias y Artes de Chiapas (SPAUNICACH)
+30972	CHP - Sindicato de Trabajadores Académicos de la Universidad de Ciencias y Artes de Chiapas (SITAUNICACH)
+21600	CHP - Sindicato de Trabajadores Administrativos de la Universidad Autónoma de Chiapas (STAUNACH)
+24337	CHP - Sindicato de Trabajadores al Servicio del Gobierno del Estado de Chiapas
+24237	CHP - Sindicato de Trabajadores al Servicio del Sistema de Agua Potable y Alcantarillado Municipal - SITRASSAPAM
+22097	CHP - Sindicato de Trabajadores Chiapanecos al Servicio del Ayuntamiento de Tuxtla Gutiérrez, Chiapas (SITRACHISA)
+21599	CHP - Sindicato de Trabajadores del Sistema de Agua Potable y Alcantarillado de Tuxtla Gutiérrez, Chiapas (STSMAPA)
+15072	CHP - Sindicato Independiente de Trabajadores al Servicio del Municipio de San Cristobal de las Casas (SUTRAM)
+14133	CHP - Sindicato Único de Trabajadores al Servicio del Honorable Ayuntamiento de Ocosingo, Chiapas
+21601	CHP - Sindicato Único de Trabajadores al Servicio del Instituto de Seguridad Social de los Trabajadores del Estado de Chiapas (SUTSISSTECH)
+16046	CHP - Sindicato Unico de Trabajadores al Servicio del Municipio de Tapachula
+21739	CHP - Sindicato Único de Trabajadores al Servicio del Municipio de Villaflores Chiapas (SUTSMV)
+21602	CHP - Sindicato Único de Trabajadores al Servicio del Poder Legislativo del Congreso del Estado de Chiapas (STSPL)
+21597	CHP - Sindicato Único de Trabajadores de la Universidad Intercultural de Chiapas (SUTUNICH)
+21618	CHP - Sindicato Único de Trabajadores del Sistema de Agua Potable y Alcantarillado de Tuxtla Gutiérrez, Chiapas (SUTSAPA)
+14803	CHP - Sindicato Unico de Trabajadores del Sistema para el Desarrollo Integral de la Familia del Municipio de Tuxtla Gutiérrez, Chiapas (SUT...
+15070	CHP - Sindicato Unico de Trabajadores Municipales de San Cristobal de las Casas, Chiapas (Histórico)
+21617	CHP - Sindicato Único de Trabajadores y Empleados al Servicio del Honorable Ayuntamiento de Tuxtla Gutiérrez, Chiapas (SUTESA)
+21737	CHP - Sindicato Único Independiente del Colegio de Bachilleres de Chiapas (SUICOBACH)
+24557	CHP - Sindicato Unido de Trabajadores del Ayuntamiento de Tuxtla Gutiérrez, Chiapas (SUTRA)
+1232	CHP - Sistema Chiapaneco de Radio, Televisión y Cinematografía
+1233	CHP - Sistema para el Desarrollo Integral de la Familia del Estado de Chiapas
+1234	CHP - Sociedad Operadora del Aeropuerto Internacional Ángel Albino Corzo
+28825	CHP - Sociedad Operadora de la Torre Chiapas S.A. de C.V.
+1235	CHP - Talleres Gráficos de Chiapas
+32897	CHP - Transparencia para el Pueblo de Chiapas (TPCH)
+24897	CHP - Tribunal Administrativo del Poder Judicial del Estado de Chiapas (Histórico)
+12472	CHP - Tribunal Constitucional (Histórico)
+18177	CHP - Tribunal de justicia Administrativa (información 2019) Histórico
+32311	CHP - Tribunal de Justicia Administrativa del Estado de Chiapas (TJAECH)
+12471	CHP - Tribunal del Trabajo Burocrático (Histórico)
+1368	CHP - Tribunal Electoral del Estado de Chiapas (TEECH)
+1242	CHP - Tribunal Superior de Justicia - Consejo de la Judicatura.
+31209	CHP - Ulises Pérez Cruz
+21598	CHP - Unión Sindical de Empleados y Trabajadores del Honorable Ayuntamiento Municipal de Suchiate, Chiapas (USETHAS)
+1369	CHP - Universidad Autónoma de Chiapas
+1370	CHP - Universidad Autónoma de Ciencias y Artes de Chiapas (UNICACH)
+1236	CHP - Universidad Intercultural de Chiapas
+1237	CHP - Universidad Politécnica de Chiapas
+1238	CHP - Universidad Politécnica de Tapachula
+1239	CHP - Universidad Tecnológica de la Selva

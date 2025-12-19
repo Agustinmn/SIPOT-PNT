@@ -1,0 +1,148 @@
+2185	HID - Acatlán
+2186	HID - Acaxochitlán
+2187	HID - Actopan
+2188	HID - Agua Blanca
+2189	HID - Ajacuba
+2190	HID - Alfajayucan
+2191	HID - Almoloya
+2192	HID - Apan
+2193	HID - Atitalaquia
+2194	HID - Atlapexco
+2195	HID - Atotonilco de Tula
+2196	HID - Atotonilco el Grande
+22397	HID - Auditoría Superior del Estado de Hidalgo
+2197	HID - Calnali
+13592	HID - Centro de Rehabilitación e Inclusión Infantil Teletón Hidalgo
+2198	HID - Chapantongo
+2199	HID - Chapulhuacán
+2200	HID - Chilcuautla
+2269	HID - Comisión de Derechos Humanos del Estado de Hidalgo
+2270	HID - Consejo Consultivo Ciudadano
+2201	HID - Cuautepec de Hinojosa
+2202	HID - El Arenal
+2203	HID - El Cardonal
+2204	HID - Eloxochitlán
+2205	HID - Emiliano Zapata
+2206	HID - Epazoyucan
+2207	HID - Francisco I. Madero
+2208	HID - Huasca de Ocampo
+2209	HID - Huautla
+2210	HID - Huazalingo
+2211	HID - Huehuetla
+2212	HID - Huejutla de Reyes
+2213	HID - Huichapan
+2271	HID - Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado de Hidalgo
+2272	HID - Instituto Estatal Electoral
+2214	HID - Ixmiquilpan
+2215	HID - Jacala de Ledezma
+2216	HID - Jaltocán
+2217	HID - Juárez Hidalgo
+2218	HID - La Misión
+2219	HID - Lolotla
+19178	HID - MÁS POR HIDALGO
+2220	HID - Metepec
+2221	HID - Metztitlán
+2222	HID - Mineral de la Reforma
+2223	HID - Mineral del Chico
+2224	HID - Mineral del Monte
+2225	HID - Mixquiahuala
+2226	HID - Molango de Escamilla
+2275	HID - MORENA
+2274	HID - MOVIMIENTO CIUDADANO
+2227	HID - Nicolás Flores
+2228	HID - Nopala de Villagrán
+2229	HID - Omitlán de Juárez
+2230	HID - Pachuca de Soto
+2231	HID - Pacula
+2276	HID - PAN
+32129	HID - Partido de la Revolución Democrática Hidalgo
+22277	HID - Partido Encuentro Social Hidalgo
+20638	HID - Partido Local Nueva Alianza Hidalgo
+2277	HID - PES
+2232	HID - Pisaflores
+2278	HID - PNA
+19318	HID - PODEMOS
+2131	HID - Poder Ejecutivo del Estado de Hidalgo
+2184	HID - Poder Judicial del Estado de Hidalgo
+2183	HID - Poder Legislativo del Estado de Hidalgo
+2279	HID - PRD
+2280	HID - PRI
+2233	HID - Progreso de Obregón
+2297	HID - PT
+2282	HID - PVEM
+2234	HID - San Agustín Metzquititlán
+2235	HID - San Agustín Tlaxiaca
+2236	HID - San Bartolo Tutotepec
+2237	HID - San Felipe Orizatlán
+2238	HID - San Salvador
+2239	HID - Santiago de Anaya
+2240	HID - Santiago Tulantepec
+2308	HID - Sindicato ¿Lealtad, Fuerza Y Perseverancia¿ de los Trabajadores al Servicio del Municipio de Tlaxcoapan
+30239	HID - Sindicato al servicio del ayuntamiento Comisión Ejecutiva Única de Trabajadores al Servicio del Municipio de Santiago de Anaya, Hidal...
+2311	HID - Sindicato de Personal Académico de la Universidad Autónoma del Estado de Hidalgo
+30237	HID - Sindicato de Trabajadores al Servicio del municipio de Ixmiquilpan, Hidalgo
+30241	HID - Sindicato Único de Prestadores de Servicio de Zimapán Hidalgo
+30244	HID - Sindicato Único de Trabajadores Al Servicio de Ayuntamiento del Municipio de Molango de Escamilla, Hidalgo
+2316	HID - Sindicato Único de Trabajadores al Servicio de la Comisión de Agua y Alcantarillado de Sistemas Intermuniciaples del Estado de Hidalg...
+30235	HID - Sindicato único de Trabajadores al servicio del H. Ayuntamiento de Cardonal
+30230	HID - Sindicato único de Trabajadores al servicio del H. Ayuntamiento del Municipio de Cuautepec de Hinojosa
+30236	HID - Sindicato único de Trabajadores al servicio del H. Ayuntamiento del Municipio de Huichapan Hidalgo
+30238	HID - Sindicato Único de Trabajadores al Servicio del H. Ayuntamiento del Municipio de Mixquiahuala de Juárez, Hidalgo
+30229	HID - Sindicato único de Trabajadores al servicio del H. Ayuntamiento del Municipio de Tecozautla
+30240	HID - Sindicato Único de Trabajadores Al Servicio del H. Ayuntamiento del Municipio de Tula de Allende, Hidalgo
+30245	HID - Sindicato único de Trabajadores al servicio del H. Ayuntamiento Omitlán
+30231	HID - Sindicato Único de Trabajadores al Servicio del Honorable Ayuntamiento Municipal de Huasca de Ocampo Hidalgo
+30233	HID - Sindicato Único de Trabajadores al Servicio del Municipio de Actopan, Hidalgo
+16630	HID - Sindicato Único de Trabajadores al Servicio del Municipio de Almoloya
+19117	HID - Sindicato Único de Trabajadores al Servicio del Municipio de Apan, Hidalgo
+16090	HID - Sindicato Único de Trabajadores al Servicio del Municipio de Atitalaquia, Hidalgo
+30234	HID - Sindicato Único de Trabajadores al Servicio del Municipio de Atitalaquia Hidalgo
+30242	HID - Sindicato Único de Trabajadores al Servicio del Municipio de Atlapexco
+2336	HID - Sindicato Único de Trabajadores al Servicio del Municipio de Atotonilco El Grande, Hidalgo
+2338	HID - Sindicato Único de Trabajadores al Servicio del Municipio de Emiliano Zapata, Hidalgo
+17351	HID - Sindicato Único de Trabajadores al Servicio del Municipio de Huautla, Hidalgo
+30243	HID - Sindicato único de Trabajadores al Servicio del Municipio de Huejutla de Reyes
+30228	HID - Sindicato Único de Trabajadores al Servicio del Municipio de Mineral de la Reforma
+2330	HID - Sindicato Único de Trabajadores al Servicio del Municipio de Mineral del Monte, Hidalgo
+2348	HID - Sindicato Único de Trabajadores al Servicio del Municipio de Pachuca, Hidalgo
+2351	HID - Sindicato Único de Trabajadores al Servicio del Municipio de Progreso de Obregón, Hidalgo
+30232	HID - Sindicato Único de Trabajadores al Servicio del Municipio de Tepeapulco, Hidalgo
+16970	HID - Sindicato Único de Trabajadores al Servicio del Municipio de Tizayuca, Hidalgo
+17292	HID - Sindicato Único de Trabajadores al Servicio del Municipio de Tlahuelilpan de Ocampo, Hidalgo
+17110	HID - Sindicato Único de Trabajadores al Servicio del Municipio de Tlanalapa, Hidalgo
+16730	HID - Sindicato Único de Trabajadores al Servicio del Municipio de Tlanchinol, Hidalgo
+25497	HID - Sindicato Único de Trabajadores al Servicio del Municipio de Tulancingo de Bravo, Hidalgo.
+2364	HID - Sindicato Único de Trabajadores al Servicio del Poder Ejecutivo del Estado de Hidalgo
+13731	HID - Sindicato Único de Trabajadores al Servicio del Poder Legislativo del Estado de Hidalgo
+2365	HID - Sindicato Único de Trabajadores del Servicio del Poder Judicial del Estado de Hidalgo
+2309	HID - Sindicato Único de Trabajadores y Empleados de la UAEH
+2241	HID - Singuilucan
+2242	HID - Tasquillo
+2243	HID - Tecozautla
+2244	HID - Tenango de Doria
+2245	HID - Tepeapulco
+2246	HID - Tepehuacán de Guerrero
+2247	HID - Tepeji del Río
+2248	HID - Tepetitlán
+2249	HID - Tetepango
+2250	HID - Tezontepec de Aldama
+2251	HID - Tianguistengo
+2252	HID - Tizayuca
+2253	HID - Tlahuelilpan
+2254	HID - Tlahuiltepa
+2255	HID - Tlanalapa
+2256	HID - Tlanchinol
+2257	HID - Tlaxcoapan
+2258	HID - Tolcayuca
+13593	HID - Tribunal Electoral del Estado de Hidalgo
+2259	HID - Tula de Allende
+2260	HID - Tulancingo de Bravo
+14669	HID - Universidad Autonoma del Estado de Hidalgo
+2261	HID - Villa de Tezontepec
+2262	HID - Xochiatipan
+2263	HID - Xochicoatlán
+2264	HID - Yahualica
+2265	HID - Zacualtipán de Ángeles
+2266	HID - Zapotlán de Juárez
+2267	HID - Zempoala
+2268	HID - Zimapán

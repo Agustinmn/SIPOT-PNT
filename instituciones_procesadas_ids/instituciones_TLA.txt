@@ -1,0 +1,158 @@
+5325	TLA - Acuamanala de Miguel Hidalgo
+5327	TLA - Amaxac de Guerrero
+5328	TLA - Apetatitlán de Antonio Carvajal
+5329	TLA - Apizaco
+31048	TLA - Archivo General e Historico del Estado de Tlaxcala
+5330	TLA - Atlangatepec
+5326	TLA - Atltzayanca
+5331	TLA - Benito Juárez
+5332	TLA - Calpulalpan
+12183	TLA - Casa de las Artesanías de Tlaxcala
+28106	TLA - Centro de Conciliación Laboral del Estado de Tlaxcala
+12078	TLA - Centro de Educación Continua y a Distancia del Instituto Politécnico Nacional Unidad Tlaxcala (En proceso de Extinción)
+12079	TLA - Centro de Estudios Superiores de Comunicación Educativa del Estado de Tlaxcala
+12080	TLA - Centro de Servicios Integrales para el Tratamiento de Aguas Residuales del Estado de Tlaxcala (En proceso de Extinción)
+5333	TLA - Chiautempan
+12081	TLA - Colegio de Bachilleres del Estado de Tlaxcala
+12082	TLA - Colegio de Educación Profesional Técnica del Estado de Tlaxcala
+12084	TLA - Colegios de Estudios Científicos y Tecnológicos del Estado de Tlaxcala
+13331	TLA - Comisión de Agua Potable y Alcantarillado del Municipio de Apizaco
+13332	TLA - Comisión de Agua Potable y Alcantarillado del Municipio de Chiautempan
+13333	TLA - Comisión de Agua Potable y Alcantarillado del Municipio de Huamantla
+13334	TLA - Comisión de Agua Potable y Alcantarillado del Municipio de Tlaxcala
+12181	TLA - Comisión Ejecutiva de Atención a Víctimas y Ofendidos
+12086	TLA - Comisión Estatal de Agua de Tlaxcala (En proceso de Extinción)
+12087	TLA - Comisión Estatal de Arbitraje Médico
+12088	TLA - Comisión Estatal de Derechos Humanos
+29766	TLA - Comisión Estatal del Agua y Saneamiento
+12089	TLA - Comisión Estatal para la Protección contra los Riesgos Sanitarios de Tlaxcala
+12103	TLA - Congreso del Estado
+12090	TLA - Consejería Jurídica del Ejecutivo del Estado
+12091	TLA - Consejo Estatal de Población
+5338	TLA - Contla de Juan Cuamatzi
+12096	TLA - Coordinación de Comunicación
+12164	TLA - Coordinación del Sistema Estatal de Promoción del Empleo y Desarrollo Comunitario (En proceso de extinción)
+17729	TLA - Coordinación de Planeación e Inversión
+12093	TLA - Coordinación de Radio, Cine y Televisión de Tlaxcala
+12108	TLA - Coordinación Estatal de Protección Civil
+5339	TLA - Cuapiaxtla
+5340	TLA - Cuaxomulco
+12097	TLA - Despacho de la Gobernadora
+5341	TLA - El Carmen Tequexquitla
+12083	TLA - El Colegio de Tlaxcala, A.C.
+12076	TLA - Emiliano Zapata
+5342	TLA - Españita
+12098	TLA - Fideicomiso de la Ciudad Industrial de Xicoténcatl
+12102	TLA - Fondo Macro para el Desarrollo Integral de Tlaxcala
+5343	TLA - Huamantla
+5344	TLA - Hueyotlipan
+5386	TLA - Instituto de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Tlaxcala
+12104	TLA - Instituto de Capacitación para el Trabajo del Estado de Tlaxcala
+12105	TLA - Instituto de Catastro
+12106	TLA - Instituto del Deporte de Tlaxcala
+5303	TLA - Instituto Tecnológico Superior de Tlaxco
+5304	TLA - Instituto Tlaxcalteca de Asistencia Especializada a la Salud
+5305	TLA - Instituto Tlaxcalteca de Desarrollo Taurino
+5387	TLA - Instituto Tlaxcalteca de Elecciones
+12109	TLA - Instituto Tlaxcalteca de la Infraestructura Física Educativa
+12111	TLA - Instituto Tlaxcalteca de la Juventud
+31049	TLA - Instituto Tlaxcalteca para Devolver al Pueblo lo Robado
+12112	TLA - Instituto Tlaxcalteca para la Educación de los Adultos
+12114	TLA - Instituto Tlaxcalteca para Personas con Discapacidad (Extinto en 2022)
+31050	TLA - Intituto de Fauna Silvestre para el Estado de Tlaxcala
+5345	TLA - Ixtacuixtla de Mariano Matamoros
+5346	TLA - Ixtenco
+12121	TLA - La Libertad Centro Cultural Apizaco (Extinto en 2022)
+5347	TLA - La Magdalena Tlaltelulco
+12077	TLA - Lázaro Cárdenas
+5348	TLA - Mazatecochco de José María Morelos
+5349	TLA - Muñoz de Domingo Arenas
+5350	TLA - Nanacamilpa de Mariano Arista
+5351	TLA - Natívitas
+12117	TLA - Oficialía Mayor de Gobierno
+5323	TLA - Órgano de Fiscalización Superior
+5352	TLA - Panotla
+5353	TLA - Papalotla de Xicohténcatl
+13336	TLA - Partido Acción Nacional
+5390	TLA - Partido Alianza Ciudadana
+13337	TLA - Partido de la Revolución Democrática
+13338	TLA - Partido del Trabajo
+13339	TLA - Partido Encuentro Social Tlaxcala (Extinto en 2022)
+28205	TLA - Partido Fuerza por México Tlaxcala
+13335	TLA - Partido Movimiento Ciudadano
+13340	TLA - Partido Movimiento Regeneración Nacional
+13341	TLA - Partido Nueva Alianza Tlaxcala
+28206	TLA - Partido Redes Sociales Progresistas Tlaxcala
+13342	TLA - Partido Revolucionario Institucional
+5391	TLA - Partido Socialista (Extinto en 2022)
+13343	TLA - Partido Verde Ecologista de México
+12123	TLA - Patronato Centro de Rehabilitación Integral y Escuela en Terapia Física y Rehabilitación
+12119	TLA - Patronato para las Exposiciones y Ferias de la Ciudad de Tlaxcala
+12131	TLA - Pensiones Civiles del Estado de Tlaxcala
+30349	TLA - Procuraduría de Protección al Ambiente del Estado de Tlaxcala
+12132	TLA - Procuraduría General de Justicia
+12137	TLA - Régimen Estatal de Protección Social en Salud en Tlaxcala
+5362	TLA - Sanctórum de Lázaro Cárdenas
+5354	TLA - San Damián Texoloc
+5355	TLA - San Francisco Tetlanohcan
+5356	TLA - San Jerónimo Zacualpan
+5357	TLA - San José Teacalco
+5358	TLA - San Juan Huactzinco
+5359	TLA - San Lorenzo Axocomanitla
+5360	TLA - San Lucas Tecopilco
+5361	TLA - San Pablo del Monte
+5363	TLA - Santa Ana Nopalucan
+5364	TLA - Santa Apolonia Teacalco
+5365	TLA - Santa Catarina Ayometla
+5366	TLA - Santa Cruz Quilehtla
+5367	TLA - Santa Cruz Tlaxcala
+5368	TLA - Santa Isabel Xiloxoxtla
+28085	TLA - Secretaría de Bienestar
+5306	TLA - Secretaría de Cultura
+17727	TLA - Secretaría de Desarrollo Económico
+12155	TLA - Secretaría de Educación Pública del Estado - Unidad de Servicios Educativos del Estado de Tlaxcala
+12160	TLA - Secretaría de Finanzas
+12157	TLA - Secretaría de Gobierno
+12156	TLA - Secretaría de Impulso Agropecuario
+12159	TLA - Secretaría de Infraestructura
+12092	TLA - Secretaría de la Función Pública
+12107	TLA - Secretaría de las Mujeres
+12095	TLA - Secretaría de Medio Ambiente
+13490	TLA - Secretaría de Movilidad y Transporte
+5302	TLA - Secretaría de Ordenamiento Territorial y Vivienda
+12161	TLA - Secretaría de Salud y O. P. D. Salud de Tlaxcala
+12178	TLA - Secretaría de Seguridad Ciudadana
+28086	TLA - Secretaría de Trabajo y Competitividad
+17728	TLA - Secretaría de Turismo
+12162	TLA - Secretaría de Turismo y Desarrollo Económico
+12085	TLA - Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública
+27125	TLA - Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Tlaxcala
+27443	TLA - Sindicato de Trabajadores al Servicio de los Poderes y Municipios y Organismos Descentralizados del Estado de Tlaxcala "7 De Mayo"
+12167	TLA - Sistema Estatal para el Desarrollo Integral de la Familia Tlaxcala
+13330	TLA - Tenancingo
+5369	TLA - Teolocholco
+5370	TLA - Tepetitla de Lardizábal
+5371	TLA - Tepeyanco
+5372	TLA - Terrenate
+5373	TLA - Tetla de la Solidaridad
+5374	TLA - Tetlatlahuca
+5375	TLA - Tlaxcala
+5376	TLA - Tlaxco
+5377	TLA - Tocatlán
+5378	TLA - Totolac
+5388	TLA - Tribunal de Conciliación y Arbitraje del Estado de Tlaxcala
+21657	TLA - Tribunal de Justicia Administrativa del Estado de Tlaxcala
+12176	TLA - Tribunal Electoral de Tlaxcala
+5324	TLA - Tribunal Superior de Justicia del Estado / Consejo de la Judicatura
+5379	TLA - Tzompantepec
+5389	TLA - Universidad Autónoma de Tlaxcala
+31051	TLA - Universidad Intercultural de Tlaxcala
+12170	TLA - Universidad Politécnica de Tlaxcala
+12174	TLA - Universidad Politécnica de Tlaxcala Región Poniente
+12175	TLA - Universidad Tecnológica de Tlaxcala
+5380	TLA - Xaloztoc
+5381	TLA - Xaltocan
+5382	TLA - Xicohtzinco
+5383	TLA - Yauhquemehcan
+5384	TLA - Zacatelco
+5385	TLA - Zitlaltepec de Trinidad Sánchez Santos

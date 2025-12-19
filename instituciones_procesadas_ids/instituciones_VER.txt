@@ -1,0 +1,445 @@
+26085	VER - Academia Regional de Seguridad Pública del Sureste
+11468	VER - Academia Veracruzana de las Lenguas Indígenas
+25997	VER - Agencia Estatal de Energía
+13875	VER - Alianza Generacional
+27495	VER - API Sistema Portuario Veracruzano, S.A de C.V.
+5407	VER - Ayuntamiento de Acajete
+5408	VER - Ayuntamiento de Acatlán
+5409	VER - Ayuntamiento de Acayucan
+5410	VER - Ayuntamiento de Actopan
+5411	VER - Ayuntamiento de Acula
+5412	VER - Ayuntamiento de Acultzingo
+5413	VER - Ayuntamiento de Agua Dulce
+5414	VER - Ayuntamiento de Álamo Temapache
+5415	VER - Ayuntamiento de Alpatláhuac
+5416	VER - Ayuntamiento de Alto Lucero de Gutiérrez Barrios
+5417	VER - Ayuntamiento de Altotonga
+5418	VER - Ayuntamiento de Alvarado
+5419	VER - Ayuntamiento de Amatitlán
+5420	VER - Ayuntamiento de Amatlán de Los Reyes
+5421	VER - Ayuntamiento de Ángel R. Cabada
+5422	VER - Ayuntamiento de Apazapan
+5423	VER - Ayuntamiento de Aquila
+5424	VER - Ayuntamiento de Astacinga
+5425	VER - Ayuntamiento de Atlahuilco
+5426	VER - Ayuntamiento de Atoyac
+5427	VER - Ayuntamiento de Atzacan
+5428	VER - Ayuntamiento de Atzalan
+5429	VER - Ayuntamiento de Ayahualulco
+5430	VER - Ayuntamiento de Banderilla
+5431	VER - Ayuntamiento de Benito Juárez
+5432	VER - Ayuntamiento de Boca del Río
+5433	VER - Ayuntamiento de Calcahualco
+5434	VER - Ayuntamiento de Camarón de Tejeda
+5435	VER - Ayuntamiento de Camerino Z. Mendoza
+5436	VER - Ayuntamiento de Carlos A. Carrillo
+5437	VER - Ayuntamiento de Carrillo Puerto
+5438	VER - Ayuntamiento de Castillo de Teayo
+5439	VER - Ayuntamiento de Catemaco
+5440	VER - Ayuntamiento de Cazones de Herrera
+5441	VER - Ayuntamiento de Cerro Azul
+5442	VER - Ayuntamiento de Chacaltianguis
+5443	VER - Ayuntamiento de Chalma
+5444	VER - Ayuntamiento de Chiconamel
+5445	VER - Ayuntamiento de Chiconquiaco
+5446	VER - Ayuntamiento de Chicontepec
+5447	VER - Ayuntamiento de Chinameca
+5448	VER - Ayuntamiento de Chinampa de Gorostiza
+5449	VER - Ayuntamiento de Chocamán
+5450	VER - Ayuntamiento de Chontla
+5451	VER - Ayuntamiento de Chumatlán
+5452	VER - Ayuntamiento de Citlaltépetl
+5453	VER - Ayuntamiento de Coacoatzintla
+5454	VER - Ayuntamiento de Coahuitlán
+5455	VER - Ayuntamiento de Coatepec
+5456	VER - Ayuntamiento de Coatzacoalcos
+5457	VER - Ayuntamiento de Coatzintla
+5458	VER - Ayuntamiento de Coetzala
+5459	VER - Ayuntamiento de Colipa
+5460	VER - Ayuntamiento de Comapa
+5461	VER - Ayuntamiento de Córdoba
+5462	VER - Ayuntamiento de Cosamaloapan
+5463	VER - Ayuntamiento de Cosautlán de Carvajal
+5464	VER - Ayuntamiento de Coscomatepec
+5465	VER - Ayuntamiento de Cosoleacaque
+5466	VER - Ayuntamiento de Cotaxtla
+5467	VER - Ayuntamiento de Coxquihui
+5468	VER - Ayuntamiento de Coyutla
+5469	VER - Ayuntamiento de Cuichapa
+5470	VER - Ayuntamiento de Cuitláhuac
+5471	VER - Ayuntamiento de El Higo
+11465	VER - Ayuntamiento de Emiliano Zapata
+5472	VER - Ayuntamiento de Espinal
+5473	VER - Ayuntamiento de Filomeno Mata
+5474	VER - Ayuntamiento de Fortín
+5475	VER - Ayuntamiento de Gutiérrez Zamora
+5476	VER - Ayuntamiento de Hidalgotitlán
+5477	VER - Ayuntamiento de Huatusco
+5478	VER - Ayuntamiento de Huayacocotla
+5479	VER - Ayuntamiento de Hueyapan de Ocampo
+5480	VER - Ayuntamiento de Huiloapan de Cuauhtémoc
+5481	VER - Ayuntamiento de Ignacio de la Llave
+5482	VER - Ayuntamiento de Ilamatlán
+5483	VER - Ayuntamiento de Isla
+5484	VER - Ayuntamiento de Ixcatepec
+5485	VER - Ayuntamiento de Ixhuacán de Los Reyes
+5489	VER - Ayuntamiento de Ixhuatlancillo
+5487	VER - Ayuntamiento de Ixhuatlán del Café
+5488	VER - Ayuntamiento de Ixhuatlán del Sureste
+5486	VER - Ayuntamiento de Ixhuatlán de Madero
+5490	VER - Ayuntamiento de Ixmatlahuacan
+5491	VER - Ayuntamiento de Ixtaczoquitlán
+5492	VER - Ayuntamiento de Jalacingo
+5493	VER - Ayuntamiento de Jalcomulco
+5494	VER - Ayuntamiento de Jáltipan de Morelos
+5495	VER - Ayuntamiento de Jamapa
+5496	VER - Ayuntamiento de Jesús Carranza
+5497	VER - Ayuntamiento de Jilotepec
+5498	VER - Ayuntamiento de José Azueta
+5499	VER - Ayuntamiento de Juan Rodríguez Clara
+5500	VER - Ayuntamiento de Juchique de Ferrer
+5501	VER - Ayuntamiento de La Antigua
+5503	VER - Ayuntamiento de Landero y Coss
+5502	VER - Ayuntamiento de La Perla
+5504	VER - Ayuntamiento de Las Choapas
+5505	VER - Ayuntamiento de Las Minas
+5506	VER - Ayuntamiento de Las Vigas de Ramírez
+5507	VER - Ayuntamiento de Lerdo de Tejada
+5508	VER - Ayuntamiento de Los Reyes
+5509	VER - Ayuntamiento de Magdalena
+5510	VER - Ayuntamiento de Maltrata
+5511	VER - Ayuntamiento de Manlio Fabio Altamirano
+5512	VER - Ayuntamiento de Mariano Escobedo
+5513	VER - Ayuntamiento de Martínez de la Torre
+5514	VER - Ayuntamiento de Mecatlán
+5515	VER - Ayuntamiento de Mecayapan
+5516	VER - Ayuntamiento de Medellín de Bravo
+5517	VER - Ayuntamiento de Miahuatlán
+5518	VER - Ayuntamiento de Minatitlán
+5519	VER - Ayuntamiento de Misantla
+5520	VER - Ayuntamiento de Mixtla de Altamirano
+5521	VER - Ayuntamiento de Moloacán
+5522	VER - Ayuntamiento de Nanchital de Lázaro Cárdenas del Río
+5523	VER - Ayuntamiento de Naolinco
+5524	VER - Ayuntamiento de Naranjal
+5525	VER - Ayuntamiento de Naranjos Amatlán
+5526	VER - Ayuntamiento de Nautla
+5527	VER - Ayuntamiento de Nogales
+5528	VER - Ayuntamiento de Oluta
+5529	VER - Ayuntamiento de Omealca
+5530	VER - Ayuntamiento de Orizaba
+5531	VER - Ayuntamiento de Otatitlán
+5532	VER - Ayuntamiento de Oteapan
+5533	VER - Ayuntamiento de Ozuluama
+5534	VER - Ayuntamiento de Pajapan
+5535	VER - Ayuntamiento de Pánuco
+5536	VER - Ayuntamiento de Papantla
+5538	VER - Ayuntamiento de Paso del Macho
+11527	VER - Ayuntamiento de Paso de Ovejas
+11529	VER - Ayuntamiento de Perote
+5540	VER - Ayuntamiento de Platón Sánchez
+5541	VER - Ayuntamiento de Playa Vicente
+5542	VER - Ayuntamiento de Poza Rica de Hidalgo
+5543	VER - Ayuntamiento de Pueblo Viejo
+5544	VER - Ayuntamiento de Puente Nacional
+5545	VER - Ayuntamiento de Rafael Delgado
+5546	VER - Ayuntamiento de Rafael Lucio
+5547	VER - Ayuntamiento de Río Blanco
+5548	VER - Ayuntamiento de Saltabarranca
+5549	VER - Ayuntamiento de San Andrés Tenejapan
+5550	VER - Ayuntamiento de San Andrés Tuxtla
+11532	VER - Ayuntamiento de San Juan Evangelista
+5552	VER - Ayuntamiento de San Rafael
+5553	VER - Ayuntamiento de Santiago Sochiapan
+5554	VER - Ayuntamiento de Santiago Tuxtla
+5555	VER - Ayuntamiento de Sayula de Alemán
+5556	VER - Ayuntamiento de Sochiapa
+5557	VER - Ayuntamiento de Soconusco
+5558	VER - Ayuntamiento de Soledad Atzompa
+5559	VER - Ayuntamiento de Soledad de Doblado
+5560	VER - Ayuntamiento de Soteapan
+5561	VER - Ayuntamiento de Tamalín
+5562	VER - Ayuntamiento de Tamiahua
+5563	VER - Ayuntamiento de Tampico Alto
+5564	VER - Ayuntamiento de Tancoco
+5565	VER - Ayuntamiento de Tantima
+5566	VER - Ayuntamiento de Tantoyuca
+5567	VER - Ayuntamiento de Tatahuicapan de Juárez
+5568	VER - Ayuntamiento de Tatatila
+5569	VER - Ayuntamiento de Tecolutla
+5570	VER - Ayuntamiento de Tehuipango
+5571	VER - Ayuntamiento de Tempoal
+5572	VER - Ayuntamiento de Tenampa
+5573	VER - Ayuntamiento de Tenochtitlán
+5574	VER - Ayuntamiento de Teocelo
+5575	VER - Ayuntamiento de Tepatlaxco
+5576	VER - Ayuntamiento de Tepetlán
+5577	VER - Ayuntamiento de Tepetzintla
+5578	VER - Ayuntamiento de Tequila
+5579	VER - Ayuntamiento de Texcatepec
+5580	VER - Ayuntamiento de Texhuacan
+5581	VER - Ayuntamiento de Texistepec
+5582	VER - Ayuntamiento de Tezonapa
+5583	VER - Ayuntamiento de Tierra Blanca
+5584	VER - Ayuntamiento de Tihuatlán
+5589	VER - Ayuntamiento de Tlachichilco
+5585	VER - Ayuntamiento de Tlacojalpan
+5586	VER - Ayuntamiento de Tlacolulan
+5587	VER - Ayuntamiento de Tlacotalpan
+5588	VER - Ayuntamiento de Tlacotepec de Mejía
+5590	VER - Ayuntamiento de Tlalixcoyan
+5591	VER - Ayuntamiento de Tlalnelhuayocan
+5592	VER - Ayuntamiento de Tlaltetela
+5593	VER - Ayuntamiento de Tlapacoyan
+5594	VER - Ayuntamiento de Tlaquilpa
+5595	VER - Ayuntamiento de Tlilapan
+5596	VER - Ayuntamiento de Tomatlán
+5597	VER - Ayuntamiento de Tonayán
+5598	VER - Ayuntamiento de Totutla
+5599	VER - Ayuntamiento de Tres Valles
+5600	VER - Ayuntamiento de Tuxpan
+5601	VER - Ayuntamiento de Tuxtilla
+5602	VER - Ayuntamiento de Úrsulo Galván
+5603	VER - Ayuntamiento de Uxpanapa
+5604	VER - Ayuntamiento de Vega de Alatorre
+5605	VER - Ayuntamiento de Veracruz
+5606	VER - Ayuntamiento de Villa Aldama
+5607	VER - Ayuntamiento de Xalapa
+5608	VER - Ayuntamiento de Xico
+5609	VER - Ayuntamiento de Xoxocotla
+5610	VER - Ayuntamiento de Yanga
+5611	VER - Ayuntamiento de Yecuatla
+5612	VER - Ayuntamiento de Zacualpan
+11550	VER - Ayuntamiento de Zaragoza
+5614	VER - Ayuntamiento de Zentla
+5615	VER - Ayuntamiento de Zongolica
+5616	VER - Ayuntamiento de Zontecomatlán de López y Fuentes
+5617	VER - Ayuntamiento de Zozocolco de Hidalgo
+28505	VER - Centro de Conciliación Laboral Veracruz
+25958	VER - Centro de Justicia Para Las Mujeres del Estado de Veracruz
+28906	VER - Centro Estatal de Justicia Alternativa de Veracruz
+11470	VER - Colegio de Bachilleres del Estado de Veracruz
+11471	VER - Colegio de Educación Profesional Técnica del Estado de Veracruz
+11472	VER - Colegio de Estudios Científicos y Tecnológicos del Estado de Veracruz
+5619	VER - Comisión de Agua y Saneamiento de Fortín
+25057	VER - Comisión de Arbitraje Médico del Estado de Veracruz (CODAMEVER)
+11555	VER - Comisión del Agua del Estado de Veracruz
+15677	VER - Comisión de Vigilancia y Liquidadora del Sindicato de Obreros y Artesanos Progresistas "Rafael Moreno" de la Fábrica San Lorenzo
+11556	VER - Comisión Ejecutiva Estatal de Atención Integral a Víctimas
+5637	VER - Comisión Estatal de Derechos Humanos
+5638	VER - Comisión Estatal para la Atención y Protección de los Periodistas
+5621	VER - Comisión Municipal de Agua Potable Drenaje y Alcantarillado de Banderilla
+5622	VER - Comisión Municipal de Agua Potable y Saneamiento de Coatepec
+27496	VER - Comisión Municipal de Agua Potable y Saneamiento de Coatzacoalcos
+5623	VER - Comisión Municipal de Agua Potable y Saneamiento de Emiliano Zapata
+13812	VER - Comisión Municipal de Agua Potable y Saneamiento de Huatusco
+5624	VER - Comisión Municipal de Agua Potable y Saneamiento de Jamapa
+5625	VER - Comisión Municipal de Agua Potable y Saneamiento de Juchique de Ferrer
+5626	VER - Comisión Municipal de Agua Potable y Saneamiento de La Antigua
+5627	VER - Comisión Municipal de Agua Potable y Saneamiento de Naolinco
+5628	VER - Comisión Municipal de Agua Potable y Saneamiento de San Andrés Tuxtla
+5629	VER - Comisión Municipal de Agua Potable y Saneamiento de San Juan Evangelista (Villa Juanita)
+5630	VER - Comisión Municipal de Agua Potable y Saneamiento de Úrsulo Galván
+5633	VER - Comisión Municipal de Agua Potable y Saneamiento de Xalapa
+5631	VER - Comisión Municipal de Agua y Saneamiento de Coscomatepec
+5632	VER - Comisión Municipal de Agua y Saneamiento de Lerdo de Tejada
+15687	VER - Comité Ejecutivo del Sindicato Único de Empleados Municipales (San Andrés Tuxtla)
+30429	VER - Compromiso con Veracruz
+11475	VER - Consejo Veracruzano de Investigación Científica y Desarrollo Tecnológico
+5397	VER - Contraloría General del Estado
+11476	VER - Coordinación General de Comunicación Social
+11477	VER - Democracia e Igualdad Veracruzana
+11478	VER - Democráticos Unidos por Veracruz
+11473	VER - El Colegio de Veracruz
+26177	VER - Expresión Ciudadana de Veracruz
+15609	VER - Fideicomiso 2244 para la Implementación del Sistema de Justicia Penal del Estado de Veracruz
+15591	VER - Fideicomiso de Administración denominado "Acuario de Veracruz" (ACUARIO)
+15592	VER - Fideicomiso de Administración e Inversión como Instrumento Impulsor del Desarrollo de la Micro, Pequeña y Mediana Empresa del Gobiern...
+15623	VER - Fideicomiso de Administración e Inversión del Sistema de Ahorro para el Retiro de los Trabajadores al Servicio del Gobierno del Estad...
+15632	VER - Fideicomiso de Inversión y Administración denominado Fideicomiso Veracruzano de Fomento Agropecuario (FIVERFAP)
+15599	VER - Fideicomiso de Inversión y Administración para la Implementación del Programa de Aplicación de los Sistemas de Enseñanza Vivencial e ...
+15605	VER - Fideicomiso de la Reserva Técnica del IPE
+15610	VER - Fideicomiso Irrevocable de Inversión y Administración con el objeto que se Diseñe, Construya y Opere un Sistema Conjunto de Colección...
+15604	VER - Fideicomiso Irrevocable de Inversión y Administración denominado "Fideicomiso Público del Organismo Acreditador de Competencias Labor...
+15617	VER - Fideicomiso Irrevocable de Inversión y Fuente de Pago N°. 2001, denominado "Fondo de Desastres Naturales Veracruz" (FONDEN)
+15622	VER - Fideicomiso Irrevocable N°. 1986 constituido para la Construcción, Operación, Explotación y Mantenimiento de la Autopista Cardel-Vera...
+22997	VER - Fideicomiso para las obras adicionales materia de la prórroga de la concesión de la Autopista Veracruz - Cardel
+27343	VER - Fideicomiso Público de Administración del Impuesto por la Prestación de Servicios de Hospedaje del Estado de Veracruz (Hospedaje)
+15627	VER - Fideicomiso Público de Administración e Inversión del "Fondo Metropolitano de Acayucan". (FONMETROAC)
+15626	VER - Fideicomiso Público de Administración e Inversión del "Fondo Metropolitano de Coatzacoalcos". (FONMETROC)
+15621	VER - Fideicomiso Público de Administración e Inversión del "Fondo Metropolitano de Xalapa". (FONMETROX)
+15624	VER - Fideicomiso Público de Administración e Inversión del "Fondo Metropolitano Veracruzano" (FONMETROV)
+15594	VER - Fideicomiso Público de Administración y Operación del Parque Temático Takhil -Sukut (TAKHIL-SUKUT)
+15593	VER - Fideicomiso Público del Centro de Exposiciones y Convenciones de Veracruz (WTC)
+15630	VER - Fideicomiso Público del Fondo Ambiental Veracruzano
+15598	VER - Fideicomiso Público del Proyecto denominado Apoyo a Tecnologías Educativas y de la Información para el personal al Servicio de la Edu...
+15620	VER - Fideicomiso Público Irrevocable de Inversión, Administración y Fuente de Pago para la Operación, Explotación, Conservación y Mantenim...
+15596	VER - Fideicomiso Público Irrevocable de Inversión y Administración para el "Programa Especial de Financiamiento a la Vivienda para el Magi...
+15631	VER - Fideicomiso Público Revocable de Administración, Inversión y Garantía denominado Fideicomiso para el Desarrollo Rural del Estado de V...
+15618	VER - Fideicomiso Público Revocable de Administración e Inversión para la Operación del Programa Nacional de Becas para la Educación Superi...
+15601	VER - Fideicomiso SAR para los Trabajadores del IPE
+11467	VER - Fiscalía General del Estado de Veracruz
+15608	VER - Fondo Mixto CONACYT-Gobierno del Estado de Veracruz de Ignacio de la Llave
+19838	VER - Foro Boca
+11479	VER - Foro Democrático Veracruz
+30428	VER - Fuerza por Veracruz México
+11480	VER - Fuerza Veracruzana
+11481	VER - Ganemos México la Confianza
+11482	VER - Generando Bienestar 3
+5634	VER - Hidrosistema de Córdoba
+22697	VER - Instituto Consorcio Clavijero
+11483	VER - Instituto de Capacitación para el Trabajo del Estado de Veracruz
+11484	VER - Instituto de Espacios Educativos del Estado de Veracruz
+11485	VER - Instituto de la Policía Auxiliar y Protección Patrimonial para el Estado de Veracruz
+11486	VER - Instituto de Pensiones del Estado de Veracruz
+21217	VER - Instituto Metropolitano del Agua
+29929	VER - Instituto Municipal de las Mujeres del Municipio de la Antigua
+31649	VER - Instituto Municipal de las Mujeres de Nogales, Veracruz (IMM)
+32310	VER - Instituto Municipal de las Mujeres de Teocelo, Veracruz (IMM)
+31809	VER - Instituto Municipal de las Mujeres de Tlalnelhuayocan
+11488	VER - Instituto Tecnológico Superior de Acayucan
+11489	VER - Instituto Tecnológico Superior de Álamo Temapache
+11490	VER - Instituto Tecnológico Superior de Alvarado
+11491	VER - Instituto Tecnológico Superior de Chicontepec
+11492	VER - Instituto Tecnológico Superior de Coatzacoalcos
+11493	VER - Instituto Tecnológico Superior de Cosamaloapan
+11494	VER - Instituto Tecnológico Superior de Huatusco
+11495	VER - Instituto Tecnológico Superior de Jesús Carranza
+11496	VER - Instituto Tecnológico Superior de Juan Rodríguez Clara
+11497	VER - Instituto Tecnológico Superior de Las Choapas
+11498	VER - Instituto Tecnológico Superior de Martínez de la Torre
+11499	VER - Instituto Tecnológico Superior de Misantla
+15031	VER - Instituto Tecnológico Superior de Naranjos
+11501	VER - Instituto Tecnológico Superior de Pánuco
+11502	VER - Instituto Tecnológico Superior de Perote
+11503	VER - Instituto Tecnológico Superior de Poza Rica
+11504	VER - Instituto Tecnológico Superior de San Andrés Tuxtla
+11505	VER - Instituto Tecnológico Superior de Tantoyuca
+11506	VER - Instituto Tecnológico Superior de Tierra Blanca
+11507	VER - Instituto Tecnológico Superior de Xalapa
+11508	VER - Instituto Tecnológico Superior de Zongolica
+5639	VER - Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales
+11512	VER - Instituto Veracruzano de Desarrollo Municipal
+11513	VER - Instituto Veracruzano de Educación para los Adultos
+11516	VER - Instituto Veracruzano de las Mujeres
+11515	VER - Instituto Veracruzano de la Vivienda
+11517	VER - Instituto Veracruzano del Deporte
+11558	VER - Movimiento Civilista Independiente
+5399	VER - Oficina del Gobernador del Estado de Veracruz de Ignacio de la Llave
+5398	VER - Oficina de Programa de Gobierno
+5635	VER - Organismo Operador de Agua Potable y Alcantarillado Tierra Blanca
+5640	VER - Organismo Público Local Electoral del Estado de Veracruz
+15673	VER - Organización Sindical Confederación Auténtica de Trabajadores del Estado de Veracruz CAT
+5641	VER - Órgano de Fiscalización Superior del Estado de Veracruz
+30430	VER - Participación Ciudadana
+11520	VER - Partido Acción Nacional
+26097	VER - Partido Cardenista
+11521	VER - Partido de la Revolución Democrática
+11522	VER - Partido del Trabajo
+11523	VER - Partido Encuentro Social
+26087	VER - Partido Encuentro Solidario
+11519	VER - Partido Morena
+11524	VER - Partido Nueva Alianza
+5645	VER - Partido Político Nacional Movimiento Ciudadano
+11525	VER - Partido Revolucionario Institucional
+26084	VER - Partido Unidad Ciudadana
+11526	VER - Partido Verde Ecologista de México
+26086	VER - Podemos
+12776	VER - Poder Judicial del Estado de Veracruz
+5405	VER - Poder Legislativo del Estado de Veracruz
+11530	VER - Procuraduría Estatal de Protección al Medio Ambiente
+11531	VER - Radio Televisión de Veracruz
+14950	VER - Régimen Veracruzano de Protección Social en Salud
+15675	VER - Sección dos del Sindicato Independiente de Mujeres Transportistas del Estado de Veracruz.
+11514	VER - Secretaría de Cultura
+5400	VER - Secretaría de Desarrollo Agropecuario, Rural y Pesca
+5401	VER - Secretaría de Desarrollo Económico y Portuario
+11534	VER - Secretaría de Desarrollo Social
+11535	VER - Secretaría de Educación de Veracruz
+5402	VER - Secretaría de Finanzas y Planeación
+11559	VER - Secretaría de Gobierno
+5403	VER - Secretaría de Infraestructura y Obras Públicas
+11536	VER - Secretaría de Medio Ambiente
+11537	VER - Secretaría de Protección Civil
+11538	VER - Secretaría de Salud
+11539	VER - Secretaría de Seguridad Pública
+5404	VER - Secretaría de Trabajo, Previsión Social y Productividad
+11540	VER - Secretaría de Turismo y Cultura
+19338	VER - Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Veracruz
+15607	VER - Sindicato "Solidaridad Urbana" de Trabajadores Municipales al Servicio del ayuntamiento de Xalapa (Solidaridad Urbana)
+15628	VER - Sindicato "Solidaridad Urbana" de Trabajadores Municipales al Servicio del ayuntamiento de Xalapa Orquesta Municipal de Xalapa y Ensa...
+14945	VER - Sindicato Autentico de Trabajadores del Instituto de Capacitación para el Trabajo del Estado de Veracruz-CTM (SATICATVER-CTM)
+15676	VER - Sindicato de Choferes, Operadores, Ayudantes y Similares del Municipio de Pánuco
+15705	VER - Sindicato de Empleados, Trabajadores y Docentes del Instituto Tecnológico Superior de Misantla
+29151	VER - Sindicato de Empleados al Servicio del H. Ayuntamiento de Córdoba, Veracruz
+15686	VER - Sindicato de Empleados Municipales "Eduardo Núñez Marín"
+15679	VER - Sindicato de Empleados Municipales (Nanchital)
+29156	VER - Sindicato de Empleados Municipales al Servicio del Honorable Ayuntamiento Constitucional de Ciudad Nanchital de Lázaro Cárdenas del R...
+15702	VER - Sindicato de Empleados Trabajadores y Docentes del Instituto Tecnológico Superior de Xalapa
+15682	VER - Sindicato de Empleados y Trabajadores al Servicio del Municipio de Ixtaczoquitlán
+15691	VER - Sindicato de Empleados y Trabajadores al Servicio INVIVIENDA
+15629	VER - Sindicato de Empleados y Trabajadores de la Comisión Municipal de Agua Potable y Saneamiento de la Ciudad de Xalapa, Veracruz
+27498	VER - Sindicato Democrático de Empleados del Poder Judicial del Estado de Veracruz
+15671	VER - Sindicato Democrático de Trabajadores al Servicio del DIF Estatal Veracruz
+29158	VER - Sindicato Democrático de Trabajadores del Municipio de Santiago Sochiapan, Veracruz
+15699	VER - Sindicato Democrático Estatal de los Trabajadores de Sistemas de Agua, Similares y Conexos del Estado de Veracruz
+15674	VER - Sindicato de Obreros, Panaderos, Reposteros y Similares de la Ciudad de Xalapa, Veracruz.
+15698	VER - Sindicato de Obreros y Empleados al servicio del sistema de Agua Potable, Alcantarillado, Saneamiento y Conexos de la Zona Norte del ...
+15696	VER - Sindicato de Obreros y Empleados al Servicio del Sistema de Agua Potable, Alcantarillado, Saneamiento y Conexos del Municipio de Coat...
+15697	VER - Sindicato de Trabajadores al servicio de la Comisión Municipal de Agua Potable y Saneamiento de Minatitlán, Veracruz
+15600	VER - Sindicato de Trabajadores al Servicio del H. Ayuntamiento de Xalapa, Ver.
+15690	VER - Sindicato de Trabajadores al Servicio del Honorable Ayuntamiento de la Antigua, Ver.
+29147	VER - Sindicato de Trabajadores al Servicio del Municipio de Actopan, Veracruz
+29149	VER - Sindicato de Trabajadores al Servicio del Municipio de Cerro Azul, Veracruz
+29155	VER - Sindicato de Trabajadores al Servicio del Municipio de Jáltipan de Morelos, Veracruz
+15650	VER - Sindicato de Trabajadores al Servicio del Poder Ejecutivo del Estado de Veracruz
+27344	VER - Sindicato de Trabajadores de la Comisión Municipal de Agua Potable, Saneamiento, Drenaje, Alcantarillado y Conexos y Similares del Mu...
+15701	VER - Sindicato de Trabajadores del Instituto Tecnológico Superior de Alvarado
+15688	VER - Sindicato de Trabajadores del Instituto Tecnológico Superior de Perote
+15633	VER - Sindicato de Trabajadores del Instituto Tecnológico Superior de Tierra Blanca
+15694	VER - Sindicato de Trabajadores en General al Servicio de la Comisión de Agua del Estado de Veracruz, C.A.E.V Operadora Acayucan, Sistema d...
+29157	VER - Sindicato de Trabajadores y Transportes de la Limpia Pública, Conexos y Similares del Puerto de Veracruz
+15678	VER - Sindicato de Trabajadores y Transportes de Limpia Pública Conexos y Similares del Puerto de Veracruz
+15685	VER - Sindicato Estatal del Personal Académico de la Universidad Veracruzana
+15731	VER - Sindicato Estatal de Trabajadores al Servicio de la Universidad Veracruzana (SETSUV)
+15730	VER - Sindicato Estatal de Trabajadores al Servicio del Poder Judicial (SETSPJ)
+15707	VER - Sindicato Independiente de Trabajadores al Servicio de la Educación del Instituto Tecnológico Superior de Huatusco
+15672	VER - Sindicato Industrial de Trabajadores de Expendios de Gasolina Lubricantes, Lavadores, Engrasadores, Conexos y Similares CTM
+29154	VER - Sindicato Único de Empleados al Servicio del Municipio de Huatusco, Veracruz
+15680	VER - Sindicato Único de Empleados Municipales (Minatitlán)
+15681	VER - Sindicato Único de Empleados Municipales al Servicio del H. Ayuntamiento de Juan Rodríguez Clara, Ver.
+15670	VER - Sindicato Único de Empleados Municipales al Servicio del Municipio de Perote
+15693	VER - Sindicato Único de Empleados y Trabajadores "Ing. Ricardo Remes Rosales"
+29148	VER - Sindicato Único de Empleados y Trabajadores al Servicio del H. Ayuntamiento de Alvarado, Veracruz
+29153	VER - Sindicato Único de Empleados y Trabajadores al Servicio del Municipio de Cosautlán de Carvajal, Veracruz
+29159	VER - Sindicato Único de Empleados y Trabajadores al Servicio del Municipio de Soledad de Doblado, Veracruz
+29160	VER - Sindicato Único de Empleados y Trabajadores en General al Servicio del H. Ayuntamiento de Veracruz, Veracruz
+15695	VER - Sindicato Único de Trabajadores al Servicio de la Comisión Municipal de Agua Potable y Saneamiento de La Antigua, Veracruz
+29161	VER - Sindicato Único de Trabajadores al Servicio del H. Ayuntamiento de Zongolica, Veracruz
+29150	VER - Sindicato Único de Trabajadores al Servicio del Municipio de Coatzacoalcos, Veracruz
+29152	VER - Sindicato Único de Trabajadores al Servicio del Municipio de Cosamaloapan, Veracruz
+15689	VER - Sindicato Único de Trabajadores al Servicio del Municipio de Juchique de Ferrer
+15651	VER - Sindicato Único de Trabajadores al Servicio del Poder Legislativo (S.U.T.S.P.L.)
+15692	VER - Sindicato único de Trabajadores del Agua Potable y Saneamiento del Municipio de Martínez de la Torre
+15700	VER - Sindicato Único de Trabajadores de la Universidad Tecnológica del Sureste de Veracruz
+15704	VER - Sindicato Único de Trabajadores del Colegio de Estudios Científicos y Tecnológicos del Estado de Veracruz
+15603	VER - Sindicato Único de Trabajadores del DIF Municipal Xalapa
+15706	VER - Sindicato Único de Trabajadores del instituto Tecnológico Superior de Naranjos
+15703	VER - Sindicato Único de Trabajadores del Instituto Tecnológico Superior de Poza Rica
+15684	VER - Sindicato Único de Trabajadores y Empleados Municipales al Servicio del Municipio de Cosoleacaque, Veracruz
+15033	VER - Sindicato Único Independiente de Trabajadores del Colegio de Bachilleres del Estado de Veracruz (SUITCOBAEV)
+31509	VER - Sistema Intermunicipal de Gestión Integral de Residuos Sólidos Urbanos y Manejo Especial (SIGIRES)
+32109	VER - Sistema Municipal para el Desarrollo Integral de la Familia SMDIF Córdoba, Veracruz
+11541	VER - Sistema para el Desarrollo Integral de la Familia
+26137	VER - Todos por Veracruz
+17862	VER - Tribunal de Justicia Administrativa del Estado de Veracruz
+11542	VER - Tribunal Electoral del Estado de Veracruz
+11543	VER - Unidad y Democracia
+11544	VER - Unión Veracruzana por la Evolución de la Sociedad
+11545	VER - Universidad Politécnica de Huatusco
+11546	VER - Universidad Popular Autónoma de Veracruz
+11547	VER - Universidad Tecnológica de Gutiérrez Zamora
+11548	VER - Universidad Tecnológica del Centro de Veracruz
+11549	VER - Universidad Tecnológica del Sureste de Veracruz
+5642	VER - Universidad Veracruzana
+11560	VER - Vía Veracruzana

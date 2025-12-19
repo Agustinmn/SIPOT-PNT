@@ -1,0 +1,204 @@
+1061	COL - Administración de la Beneficencia Pública del Estado de Colima (PBP)
+14937	COL - Apac Colima
+1120	COL - Archivo Histórico del Municipio de Colima
+15874	COL - Asociación de Beneficiencia Privada de Colima IAP
+14932	COL - Asociación Manzanillense de Apoyo a Sordos, IAP
+14928	COL - Asociación Mexicana de Mujeres Empresarias del Estado de Colima (AMMEEC)
+14927	COL - Ballet Flolklorico de Villa de Álvarez A.C.
+14936	COL - Banco de Alimentos
+15884	COL - Bruno Donamor´s IAP
+27543	COL - Centro de Conciliación Laboral del Estado de Colima
+27589	COL - Centro de Coordinación, Control, Comando, Comunicación, Cómputo e Inteligencia del Estado (C5i)
+27590	COL - Centro de Evaluación y Control de Confianza del Estado (C3)
+14929	COL - Centro de Integración Juvenil de Colima A.C.
+15969	COL - Centro de Promoción Humana y de Cultura de Colima, I.A.P.
+27101	COL - Centro Estatal de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana
+1063	COL - Centro Estatal de Transfusión Sanguínea
+1071	COL - Centro Estatal para la Prevención y Atención a la Violencia Intrafamiliar (CEPAVI)
+1064	COL - Colegio de Educación Profesional Técnica del Estado de Colima (CONALEP)
+1118	COL - Comisión de Agua Potable, Drenaje y Alcantarillado de Manzanillo (CAPDAM)
+1112	COL - Comisión de Agua Potable y Alcantarillado del Municipio de Comala (COMAPAC)
+1115	COL - Comisión de Agua Potable y Alcantarillado del Municipio de Coquimatlán (CAPACO)
+1116	COL - Comisión de Agua Potable y Alcantarillado del Municipio de Cuauhtémoc (CAPAMC)
+1117	COL - Comisión de Agua Potable y Alcantarillado del Municipio de Ixtlahuacán (CAPAI)
+1113	COL - Comisión de Agua Potable y Alcantarillado del Municipio de Minatitlán (CAPAMI)
+1119	COL - Comisión de Agua Potable y Alcantarillado del Municipio de Tecomán (COMAPAT)
+27102	COL - Comisión de Búsqueda de Personas del Estado de Colima
+1146	COL - Comisión de Derechos Humanos del Estado de Colima (CDHEC)
+15882	COL - Comisión Ejecutiva Estatal de Atención a Víctimas (CEAVI)
+1066	COL - Comisión Estatal de Conciliación y Arbitraje Médico (COESCAMED)
+1067	COL - Comisión Estatal del Agua de Colima (CEAC)
+27593	COL - Comisión Estatal de Salud Mental y Adicciones
+15888	COL - Comisión Estatal para la Protección Contra Riesgos Sanitarios (COESPRIS)
+1068	COL - Comisión Intermunicipal de Agua Potable y Alcantarillado de Colima y Villa de Álvarez (CIAPACOV)
+1114	COL - Comisión Municipal de Agua Potable y Alcantarillado del Municipio de Armería
+19040	COL - Consejería Jurídica del Poder Ejecutivo (Poder Ejecutivo)
+1070	COL - Consejo Estatal de Ciencia y Tecnología del Estado de Colima (CECYTCOL)
+15880	COL - Consejo Estatal de Población
+1072	COL - Consejo Estatal para la Prevención y Control de Accidentes en Colima (órgano desconcentrado, no es actualmente sujeto obligado)
+19177	COL - Contraloría General del Estado (Poder Ejecutivo)
+1073	COL - Coordinación de Servicios Educativos del Estado de Colima
+1074	COL - Coordinación Estatal de Desarrollo Municipal (CEDEMUN)
+28766	COL - Coordinación General de Representación de los Municipios de los Municipios
+31531	COL - Cruz Roja Mexicana, Delegación Colima
+1121	COL - DIF Minatitlán
+1133	COL - Dirección Municipal de Protección Civil (Colima)
+31541	COL - Fideicomiso del Fondo Ambiental del Estado de Colima
+1161	COL - Fideicomiso para la Promoción Turística del Estado de Colima (FIDETUR)
+31542	COL - Fideicomiso Revocable de Administración e Inversión para la Dotación de Infraestructura Industrial, Comercial, de Servicios y Urbana ...
+31540	COL - Fideicomisos Público Revocable de Administración e Inversión para el Desarrollo del Estado de Colima (FIDEC)
+19039	COL - Fiscalía General del Estado de Colima
+29988	COL - Fuerza por México
+15871	COL - Fundación Carolita Gaitan, IAP
+15873	COL - Fundación de Autismo TATO
+14935	COL - Grupo de Apoyo Amanecer IAP
+1136	COL - H. Ayuntamiento de Armería
+1137	COL - H. Ayuntamiento de Colima
+1138	COL - H. Ayuntamiento de Comala
+1139	COL - H. Ayuntamiento de Coquimatlán
+1140	COL - H. Ayuntamiento de Cuauhtémoc
+1141	COL - H. Ayuntamiento de Ixtlahuacán
+1142	COL - H. Ayuntamiento de Manzanillo
+1143	COL - H. Ayuntamiento de Minatitlán
+1144	COL - H. Ayuntamiento de Tecomán
+1145	COL - H. Ayuntamiento de Villa de Álvarez
+1110	COL - H. Congreso del Estado
+1076	COL - Instituto Colimense de la Infraestructura Física Educativa (INCOIFED)
+1077	COL - Instituto Colimense de las Mujeres (ICM)
+1078	COL - Instituto Colimense del Deporte (INCODE)
+1079	COL - Instituto Colimense para la Discapacidad (INCODIS)
+16039	COL - Instituto Colimense para la Sociedad de la Información y el Conocimiento (ICSIC)
+1080	COL - Instituto Colimense Radio y Televisión
+28765	COL - Instituto de Defensoría Pública del Estado de Colima
+25977	COL - Instituto de Ferias, Eventos y Exposiciones de Manzanillo, Col.
+14930	COL - Instituto de Festejos Charro Taurinos y Exposiciones de Villa de Álvarez
+27870	COL - Instituto de Festejos Charro Taurinos y Exposiciones de Villa de Álvarez (IFCEVA)
+1082	COL - Instituto de Fomento de Ferias y Exposiciones del Estado de Colima
+15330	COL - Instituto de Formación, Capacitación y Profesionalización Policial
+31536	COL - Instituto de la Feria del Limón de Tecomán
+1134	COL - Instituto de las Mujeres para el Municipio de Colima
+1075	COL - Instituto de Pensiones de los Servidores Públicos del Estado de Colima (IPECOL)
+26117	COL - Instituto de Planeación para el Desarrollo Sustentable de Manzanillo, Col.
+1131	COL - Instituto de Planeación para el Municipio de Colima (IPCO)
+1083	COL - Instituto de Suelo Urbanización y Vivienda del Estado de Colima (INSUVI)
+12750	COL - Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos del Estado de Colima (INFOCOL)
+15872	COL - Instituto Down de Colima, IAP
+1148	COL - Instituto Electoral del Estado de Colima (IEE)
+16450	COL - Instituto Especializado en la Ejecución de Medidas para Adolescentes
+1084	COL - Instituto Estatal de Cancerología
+1081	COL - Instituto Estatal de Educación para Adulto (IEEA)
+25881	COL - Instituto Municipal de la Cultura de Manzanillo
+15030	COL - Instituto Municipal de la Juventud (Colima)
+25937	COL - Instituto Municipal de la Juventud del Municipio de Manzanillo
+1135	COL - Instituto Municipal de la Mujer Comalteca
+31532	COL - Instituto Municipal de la Mujer de Armería
+31534	COL - Instituto Municipal de la Mujer de Minatitlán
+31535	COL - Instituto Municipal de la Mujer de Tecomense
+25959	COL - Instituto Municipal de la Mujer Manzanillense
+26118	COL - Instituto Municipal del Deporte de Manzanillo
+17030	COL - Instituto para el Medio Ambiente y Desarrollo Sustentable (IMADES)
+15370	COL - Instituto para el Registro del Territorio del Estado de Colima (IRTEC)
+1085	COL - Instituto para la Atención de los Adultos Mayores
+1060	COL - Instituto para la Competitividad del Estado de Colima
+1086	COL - Instituto Técnico Hacendario del Estado de Colima
+24257	COL - Instituto Tecnológico de Colima
+27868	COL - Instituto Villalvarense de la Juventud
+27869	COL - Instituto Villalvarense de la Mujer
+1087	COL - Junta de Asistencia Privada (JAP)
+22717	COL - Laboratorio Estatal de Salud Pública
+14940	COL - Mira por la vida
+1154	COL - Movimiento ciudadano
+14941	COL - Movimiento de Regeneración Nacional Colima
+15490	COL - Nosotros También Contamos (IAP)
+16041	COL - Nueva Alianza Colima
+19038	COL - Oficina de la Gubernatura (Poder Ejecutivo)
+27588	COL - Órgano de Gestión y de Control del Patrimonio Inmobiliario del Estado de Colima
+1149	COL - Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado (OSAFIG)
+1159	COL - Partido Acción Nacional
+1157	COL - Partido del Trabajo (PT)
+30448	COL - Partido Encuentro Solidario Colima
+1160	COL - Partido Revolucionario Institucional
+1156	COL - Partido Revolución Democrática
+1158	COL - Partido Verde Ecologista de México (PVEM)
+27037	COL - Patronato de Bomberos Voluntarios del Estado de Colima
+31533	COL - Patronato del Cuerpo de Bomberos de Tecomán A.C.
+1059	COL - PODER EJECUTIVO
+27596	COL - Policía Auxiliar del Estado de Colima
+1132	COL - Procesadora Municipal de Carne Colima
+23897	COL - Procuraduría de Protección de Niños, Niñas y Adolescentes del Estado de Colima
+1106	COL - Régimen Estatal de Protección Social en Salud del Estado de Colima (REPSS)
+1091	COL - Secretaría de Administración y Gestión Pública (No vigente información hasta 2021)
+27485	COL - Secretaría de Bienestar, Inclusión Social y Mujeres
+1092	COL - Secretaría de Cultura (No vigente información hasta 2021)
+27491	COL - Secretaría de Desarrollo Económico
+1093	COL - Secretaría de Desarrollo Rural (No vigente información hasta 2021)
+1094	COL - Secretaría de Desarrollo Social (No vigente información hasta 2021)
+1095	COL - Secretaría de Educación (No vigente información hasta 2021)
+27489	COL - Secretaría de Educación y Cultura
+1096	COL - Secretaría de Fomento Económico (No vigente información hasta 2021)
+27487	COL - Secretaría de Infraestructura, Desarrollo Urbano y Movilidad
+1097	COL - Secretaría de Infraestructura y Desarrollo Urbano (No vigente información hasta 2021)
+1098	COL - Secretaría de la Juventud (No vigente información hasta 2021)
+1104	COL - Secretaría del Trabajo y Previsión Social (No vigente información hasta 2021)
+1099	COL - Secretaría de Movilidad (No vigente información hasta 2021)
+27483	COL - Secretaría de Planeación, Finanzas y Administración
+1100	COL - Secretaría de Planeación y Finanzas (No vigente información hasta 2021)
+1101	COL - Secretaría de Salud y Bienestar Social (Poder Ejecutivo)
+1102	COL - Secretaría de Seguridad Pública (Poder Ejecutivo)
+1103	COL - Secretaría de Turismo (No vigente información hasta 2021)
+15881	COL - Secretariado Ejecutivo del Sistema de Seguridad Pública del Estado de Colima
+24737	COL - Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Colima
+1105	COL - Secretaría General de Gobierno
+14938	COL - Servicios de Salud del Estado (SSE)
+14939	COL - Sigue adelante siempre hay una luz
+31537	COL - Sindicato de Trabajadores Activos, Jubilados, Pensionados y Organismos Descentralizados del H. Ayuntamiento de Cuauhtémoc, Colima
+16510	COL - Sindicato de Trabajadores al Servicio de la Comisión de Agua Potable y Alcantarillado de Colima-Villa de Álvarez
+16810	COL - Sindicato de Trabajadores al Servicio de la Procesadora Municipal de Carnes
+16470	COL - Sindicato de Trabajadores al Servicio del DIF Municipal Colima
+15570	COL - Sindicato de Trabajadores al Servicio del Gobierno del Estado de Colima
+14873	COL - Sindicato de Trabajadores al Servicio del H. Ayuntamiento, COMAPC y DIF Municipal de Comala
+16058	COL - Sindicato de Trabajadores al Servicio del H. Ayuntamiento, Dif y Comapat de Tecomán
+15931	COL - Sindicato de Trabajadores al Servicio del H. Ayuntamiento, DIF y Organismos Descentralizados de Villa de Álvarez
+16671	COL - Sindicato de Trabajadores al Servicio del H. Ayuntamiento Constitucional de Coquimatlán
+17050	COL - Sindicato de Trabajadores al Servicio del H. Ayuntamiento Constitucional de Ixtlahuacán
+16511	COL - Sindicato de Trabajadores al Servicio del H. Ayuntamiento Constitucional de Minatitlán
+16213	COL - Sindicato de Trabajadores al Servicio del H. Ayuntamiento de Colima
+17270	COL - Sindicato de Trabajadores al Servicio del Honorable Ayuntamiento, DIF y Organismos Descentralizados de Armería, Colima
+22597	COL - Sindicato de Trabajadores al Servicio del Instituto de Suelo, Urbanización y Vivienda del Estado de Colima (SUTSINSUVI)
+27873	COL - Sindicato Independiente de Trabajadores al Servicio del Gobierno y Organismos Descentralizados del Estado de Colima
+31538	COL - Sindicato Libre Democrático de Trabajadores al Servicio del H. Ayuntamiento de Cuauhtémoc
+14876	COL - Sindicato Único de Trabajadores al Servicio del Ayuntamiento de Manzanillo
+17639	COL - Sindicato Único de Trabajadores al Servicio del H. Ayuntamiento y Organismos Descentralizados del Municipio de Cuauhtémoc
+20497	COL - Sindicato Único de Trabajadores de la Comisión de Agua Potable, Drenaje y Alcantarillado de Manzanillo
+22677	COL - Sindicato Único de Trabajadores de la Universidad de Colima
+16217	COL - Sindicato Unión y Armonía de Trabajadores Activos, Jubilados y Pensionados del H. Ayuntamiento de Colima y Organismos Descentralizado...
+1107	COL - Sistema de Información para la Planeación del Desarrollo (SIPLADE)
+1108	COL - Sistema Estatal de Financiamiento para el Desarrollo Económico del Estado de Colima (SEFIDEC)
+1109	COL - Sistema Estatal para el Desarrollo Integral de la Familia (DIF Estatal)
+1122	COL - Sistema Municipal para el Desarrollo Integral de la Familia (DIF Armería)
+1123	COL - Sistema Municipal para el Desarrollo Integral de la Familia (DIF Colima)
+1124	COL - Sistema Municipal para el Desarrollo Integral de la Familia (DIF Comala)
+1125	COL - Sistema Municipal para el Desarrollo Integral de la Familia (DIF Coquimatlán)
+1127	COL - Sistema Municipal para el Desarrollo Integral de la Familia (DIF Ixtlahuacán)
+1128	COL - Sistema Municipal para el Desarrollo Integral de la Familia (DIF Manzanillo)
+1129	COL - Sistema Municipal para el Desarrollo Integral de la Familia (DIF TECOMÁN)
+1130	COL - Sistema Municipal para el Desarrollo Integral de la Familia (DIF VILLA DE ÁLVAREZ)
+1126	COL - Sistema para el Desarrollo Integral de la Familia de Cuauhtémoc ( DIF Cuauhtémoc)
+27484	COL - Subsecretaría de Administración (Depende de la Secretaría de Planeación, Finanzas y Administración)
+27490	COL - Subsecretaría de Cultura (Depende de la Secretaría de Educación y Cultura)
+27494	COL - Subsecretaría de Desarrollo Rural (Depende de la Secretaría de Desarrollo Económico)
+27486	COL - Subsecretaría de la Juventud (Depende de la Secretaría de Bienestar, inclusión Social y Mujeres)
+27493	COL - Subsecretaría del Trabajo (Depende de la Secretaría de Desarrollo Económico)
+27488	COL - Subsecretaría de Movilidad (Depende de la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad)
+27492	COL - Subsecretaría de Turismo (Depende de la Secretaría de Desarrollo Económico)
+1111	COL - Supremo Tribunal de Justicia del Estado
+1150	COL - Tribunal de Arbitraje y Escalafón (TAE)
+1151	COL - Tribunal de Justicia Administrativa del Estado de Colima
+1152	COL - Tribunal Electoral del Estado (TEE)
+15887	COL - Unidad Estatal de Protección Civil
+15876	COL - Unión de Trabajadores al Servicio al Estado de Colima, Ayuntamientos y Organismos Descentralizados.
+1153	COL - Universidad de Colima (U. de C.)
+30788	COL - Universidad Intercultural de Colima
+15930	COL - Universidad Tecnológica de Manzanillo
+14934	COL - Un Paso Hacia la Recuperación IAP
+14931	COL - Yoyolokoko, A.C.

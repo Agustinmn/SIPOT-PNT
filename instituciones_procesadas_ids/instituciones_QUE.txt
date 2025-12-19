@@ -1,0 +1,121 @@
+15912	QUE - Aeropuerto Intercontinental de Querétaro
+28045	QUE - Agencia de Energía del Estado de Querétaro
+15771	QUE - Agencia de Movilidad del Estado de Querétaro
+14090	QUE - Casa Queretana de las Artesanías
+18317	QUE - Centro de Capacitación Formación e Investigación para la Seguridad del Estado de Querétaro
+27303	QUE - Centro de Conciliación Laboral del Estado de Querétaro
+18178	QUE - Centro de Evaluación y Control de Confianza del Estado de Querétaro
+20618	QUE - Centro de Información y Análisis para la Seguridad de Querétaro
+30268	QUE - Centro de Prevención Social del Delito y la Violencia en el estado de Querétaro
+14872	QUE - Centro Estatal de Trasplantes de Querétaro
+14094	QUE - Colegio de Bachilleres del Estado de Querétaro
+16531	QUE - Colegio de Educación Profesional Técnica del Estado de Querétaro (CONALEP)
+14830	QUE - Colegio de Estudios Científicos y Tecnológicos del Estado de Querétaro
+4590	QUE - Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro
+14715	QUE - Comisión Estatal de Aguas
+14926	QUE - Comisión Estatal de Infraestructura
+20617	QUE - Comisión Estatal del Sistema Penitenciario de Querétaro
+15910	QUE - Comisión para el Fomento Económico de las Empresas del Sector Industrial, Comercial y de Servicios del Estado de Querétaro
+14111	QUE - Consejo de Ciencia y Tecnología del Estado de Querétaro
+4591	QUE - Defensoria de los Derechos Humanos de Querétaro
+15763	QUE - DIF Municipio de Amealco de Bonfil
+21897	QUE - DIF Municipio de Cadereyta de Montes
+27583	QUE - DIF Municipio de Colón
+15767	QUE - DIF Municipio de Corregidora
+13790	QUE - DIF Municipio de El Marqués
+15190	QUE - DIF Municipio de Ezequiel Montes
+15769	QUE - DIF Municipio de Huimilpan
+15879	QUE - DIF Municipio de Jalpan de Serra
+22137	QUE - DIF Municipio de Landa de Matamoros
+15878	QUE - DIF Municipio de Pedro Escobedo
+20317	QUE - DIF Municipio de Peñamiller
+31268	QUE - DIF Municipio de Pinal de Amoles
+14156	QUE - DIF Municipio de Querétaro
+30829	QUE - DIF Municipio de San Joaquín
+28185	QUE - DIF Municipio de San Juan del Río
+16750	QUE - DIF Municipio de Tequisquiapan
+21717	QUE - DIF Municipio de Tolimán
+4592	QUE - Entidad Superior de Fiscalización del Estado
+14710	QUE - Fideicomiso Promotor del Empleo
+14711	QUE - Fideicomiso Promotor de Proyectos Económicos y de Bienestar Social
+15832	QUE - Fideicomiso Queretano para la Conservación del Medio Ambiente
+12774	QUE - Fiscalía General del Estado de Querétaro
+15174	QUE - Fundación Teletón Vida I.A.P.
+14012	QUE - Instituto de Artes y Oficios de Querétaro
+14802	QUE - Instituto de Capacitación para el Trabajo del Estado de Querétaro
+19638	QUE - Instituto de Infraestructura Física Educativa del Estado de Querétaro
+15911	QUE - Instituto de la Vivienda del Estado de Querétaro
+17839	QUE - Instituto del Deporte y la Recreación del Estado de Querétaro (INDEREQ)
+4593	QUE - Instituto Electoral del Estado de Querétaro
+15762	QUE - Instituto Municipal de la Juventud de Ezequiel Montes
+15890	QUE - Instituto Municipal de la Juventud de Pedro Escobedo
+32448	QUE - Instituto Municipal de la Mujer de San Joaquín
+27564	QUE - Instituto Municipal de las Mujeres de Colón
+15894	QUE - Instituto Municipal de las Mujeres de Pedro Escobedo
+14733	QUE - Instituto Municipal de Planeación del Municipio de Querétaro
+31068	QUE - Instituto Queretano del Emprendimiento y la Innovación
+32130	QUE - Instituto Registral y Catastral del Estado de Querétaro
+26258	QUE - Junta de Agua Potable y Alcantarillado Municipal de San Juan del Río
+4572	QUE - Municipio de Amealco de Bonfil
+4573	QUE - Municipio de Arroyo Seco
+4574	QUE - Municipio de Cadereyta de Montes
+4575	QUE - Municipio de Colón
+4576	QUE - Municipio de Corregidora
+4577	QUE - Municipio de El Marqués
+4578	QUE - Municipio de Ezequiel Montes
+4579	QUE - Municipio de Huimilpan
+4580	QUE - Municipio de Jalpan de Serra
+4581	QUE - Municipio de Landa de Matamoros
+4582	QUE - Municipio de Pedro Escobedo
+4583	QUE - Municipio de Peñamiller
+4584	QUE - Municipio de Pinal de Amoles
+4585	QUE - Municipio de Querétaro
+4586	QUE - Municipio de San Joaquín
+4587	QUE - Municipio de San Juan del Río
+4588	QUE - Municipio de Tequisquiapan
+4589	QUE - Municipio de Tolimán
+25357	QUE - Parque Bicentenario Querétaro
+4596	QUE - Partido Acción Nacional
+16530	QUE - Partido del Trabajo
+15810	QUE - Partido MORENA
+4600	QUE - Partido Movimiento Ciudadano
+4598	QUE - Partido Revolucionario Institucional
+4599	QUE - Partido Verde Ecologista de México
+30809	QUE - Patronato de las Fiestas del Estado de Querétaro
+4562	QUE - Poder Ejecutivo del Estado de Querétaro
+12790	QUE - Poder Judicial del Estado de Querétaro
+4571	QUE - Poder Legislativo del Estado de Querétaro
+14833	QUE - Procuraduría Estatal de Protección al Medio Ambiente y Desarrollo Urbano
+16850	QUE - Secretaría Ejecutiva del Sistema Estatal Anticorrupción
+14723	QUE - Servicios de Salud del Estado de Querétaro
+14153	QUE - Sindicato de los Trabajadores al Servicio de los Poderes del Estado
+30849	QUE - Sindicato de Trabajadores Académicos de la Escuela Normal del Estado de Querétaro
+13591	QUE - Sindicato de Trabajadores al Servicio del Municipio de Arroyo Seco
+15270	QUE - Sindicato de Trabajadores al Servicio del Municipio de Cadereyta de Montes
+15278	QUE - Sindicato de Trabajadores al Servicio del Municipio de Colón
+15273	QUE - Sindicato de Trabajadores al Servicio del Municipio de El Marqués, Qro.
+15274	QUE - Sindicato de Trabajadores al Servicio del Municipio de Ezequiel Montes
+15272	QUE - Sindicato de Trabajadores al Servicio del Municipio de Huimilpan
+15276	QUE - Sindicato de Trabajadores al Servicio del Municipio de Jalpan de Serra
+28325	QUE - Sindicato de Trabajadores al Servicio del Municipio de Landa de Matamoros
+28465	QUE - Sindicato de Trabajadores al Servicio del Municipio de Peñamiller, Qro.
+26657	QUE - Sindicato de Trabajadores al Servicio del Municipio de Pinal de Amoles
+15275	QUE - Sindicato de Trabajadores al Servicio del Municipio de Tequisquiapan
+15271	QUE - Sindicato de Trabajadores del Municipio de Pedro Escobedo
+17370	QUE - Sindicato Único de Trabajadores al Servicio del Municipio de Amealco
+17797	QUE - Sindicato Único de Trabajadores al Servicio del Municipio de Corregidora
+26817	QUE - Sindicato Único de Trabajadores al Servicio del Municipio de San Juan del Río
+30350	QUE - Sindicato Único de Trabajadores al Servicio del Municipio de Tolimán
+14933	QUE - Sistema Estatal de Comunicación Cultural y Educativa
+15252	QUE - Sistema para el Desarrollo Integral de la Familia del Estado de Querétaro
+17817	QUE - Tribunal de Conciliación y Arbitraje del Estado
+12791	QUE - Tribunal de Justicia Administrativa del Estado de Querétaro
+12770	QUE - Tribunal Electoral del Estado de Querétaro
+14112	QUE - Unidad de Servicios para la Educación Básica en el Estado de Querétaro
+14152	QUE - Universidad Aeronáutica en Querétaro
+4594	QUE - Universidad Autónoma de Querétaro
+16067	QUE - Universidad Politécnica de Querétaro
+14050	QUE - Universidad Politécnica de Santa Rosa Jauregui
+14744	QUE - Universidad Tecnológica de Corregidora
+15090	QUE - Universidad Tecnológica de Queretaro
+14716	QUE - Universidad Tecnológica de San Juan del Río

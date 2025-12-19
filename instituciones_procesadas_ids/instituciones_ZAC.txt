@@ -1,0 +1,187 @@
+25017	ZAC - Agencia de Energía del Estado de Zacatecas (extinto)
+5904	ZAC - Auditoría Superior del Estado de Zacatecas
+5909	ZAC - Ayuntamiento de Apozol
+5910	ZAC - Ayuntamiento de Apulco
+5911	ZAC - Ayuntamiento de Atolinga
+5912	ZAC - Ayuntamiento de Calera
+5916	ZAC - Ayuntamiento de Cañitas de Felipe Pescador
+5917	ZAC - Ayuntamiento de Chalchihuites
+5918	ZAC - Ayuntamiento de Concepción del Oro
+5913	ZAC - Ayuntamiento de Cuahutémoc
+5919	ZAC - Ayuntamiento de El Plateado de Joaquín Amaro
+5914	ZAC - Ayuntamiento de El Salvador
+5920	ZAC - Ayuntamiento de Florencia de Benito Juárez
+5921	ZAC - Ayuntamiento de Fresnillo
+5923	ZAC - Ayuntamiento de Genaro Codina
+5924	ZAC - Ayuntamiento de Gral. Enrique Estrada
+5925	ZAC - Ayuntamiento de Gral. Francisco R. Murguía
+5926	ZAC - Ayuntamiento de Gral. Pánfilo Natera
+5907	ZAC - Ayuntamiento de Guadalupe
+5927	ZAC - Ayuntamiento de Huanusco
+5928	ZAC - Ayuntamiento de Jalpa
+5915	ZAC - Ayuntamiento de Jerez de García Salinas
+5929	ZAC - Ayuntamiento de Jiménez del Téul
+5930	ZAC - Ayuntamiento de Juan Aldama
+5931	ZAC - Ayuntamiento de Juchipila
+5932	ZAC - Ayuntamiento de Loreto
+5933	ZAC - Ayuntamiento de Luis Moya
+5934	ZAC - Ayuntamiento de Mazapil
+5935	ZAC - Ayuntamiento de Melchor Ocampo
+5936	ZAC - Ayuntamiento de Mezquital del Oro
+5937	ZAC - Ayuntamiento de Miguel Auza
+5938	ZAC - Ayuntamiento de Momax
+5939	ZAC - Ayuntamiento de Monte Escobedo
+5940	ZAC - Ayuntamiento de Morelos
+5941	ZAC - Ayuntamiento de Moyahua de Estrada
+5942	ZAC - Ayuntamiento de Nochistlán
+5943	ZAC - Ayuntamiento de Noria de Ángeles
+5944	ZAC - Ayuntamiento de Ojocaliente
+5945	ZAC - Ayuntamiento de Pánuco
+5946	ZAC - Ayuntamiento de Pinos
+5947	ZAC - Ayuntamiento de Río Grande
+5948	ZAC - Ayuntamiento de Saín Alto
+5949	ZAC - Ayuntamiento de Santa María de la Paz
+5950	ZAC - Ayuntamiento de Sombrerete
+5951	ZAC - Ayuntamiento de Susticacán
+5952	ZAC - Ayuntamiento de Tabasco
+5953	ZAC - Ayuntamiento de Tepechitlán
+5954	ZAC - Ayuntamiento de Tepetongo
+5955	ZAC - Ayuntamiento de Teúl de González Ortega
+5956	ZAC - Ayuntamiento de Tlaltenango de Sánchez Román
+5957	ZAC - Ayuntamiento de Trancoso
+5922	ZAC - Ayuntamiento de Trinidad García de la Cadena
+5958	ZAC - Ayuntamiento de Valparaíso
+5959	ZAC - Ayuntamiento de Vetagrande
+5960	ZAC - Ayuntamiento de Villa de Cos
+5961	ZAC - Ayuntamiento de Villa García
+5962	ZAC - Ayuntamiento de Villa González Ortega
+5963	ZAC - Ayuntamiento de Villa Hidalgo
+5964	ZAC - Ayuntamiento de Villanueva
+5908	ZAC - Ayuntamiento de Zacatecas
+26997	ZAC - Centro de Conciliación Laboral del Estado de Zacatecas
+5873	ZAC - Colegio de Bachilleres del Estado de Zacatecas
+5874	ZAC - Colegio de Educación Profesional Técnica del Estado de Zacatecas
+5875	ZAC - Colegio de Estudios Científicos y Tecnológicos del Estado de Zacatecas
+11037	ZAC - Comisión de Derechos Humanos del Estado de Zacatecas
+20037	ZAC - Comisión Estatal de la Defensa del Contribuyente
+5876	ZAC - Consejo Estatal de Desarrollo Económico de Zacatecas
+5877	ZAC - Consejo Zacatecano de Ciencia, Tecnología e Innovación
+14667	ZAC - Coordinación Estatal de Planeación
+5878	ZAC - Coordinación General Jurídica
+5879	ZAC - Escuela Estatal de Conservación y Restauración de Zacatecas
+13610	ZAC - Fideicomiso Fondo Plata
+13611	ZAC - Fideicomiso Zacatecas
+11038	ZAC - Fiscalía General de Justicia del Estado
+13537	ZAC - Instituto de Capacitación para el Trabajo en el Estado de Zacatecas
+5880	ZAC - Instituto de Cultura Física y Deporte del Estado de Zacatecas
+5881	ZAC - Instituto de La Defensoría Pública
+15961	ZAC - Instituto de la Juventud del Estado de Zacatecas
+5892	ZAC - Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Zacatecas
+5882	ZAC - Instituto de Selección y Capacitación
+5966	ZAC - Instituto Electoral del Estado de Zacatecas
+14692	ZAC - Instituto para la Atención e Inclusión de las Personas con Discapacidad en el Estado de Zacatecas
+14693	ZAC - Instituto Regional del Patrimonio Mundial
+5883	ZAC - Instituto Tecnológico Superior de Fresnillo
+5884	ZAC - Instituto Tecnológico Superior de Jerez
+5885	ZAC - Instituto Tecnológico Superior de Loreto
+5886	ZAC - Instituto Tecnológico Superior de Nochistlán
+5887	ZAC - Instituto Tecnológico Superior Zacatecas Norte
+5888	ZAC - Instituto Tecnológico Superior Zacatecas Occidente
+5889	ZAC - Instituto Tecnológico Superior Zacatecas Sur
+14653	ZAC - Instituto Zacatecano de Construcción de Escuelas
+5890	ZAC - Instituto Zacatecano de Cultura
+5891	ZAC - Instituto Zacatecano de Educación para Adultos
+5965	ZAC - Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales
+5893	ZAC - Jefatura de Oficina del C. Gobernador
+5894	ZAC - Junta de Protección y Conservación de Monumentos y Zonas Típicas del Estado de Zacatecas
+16120	ZAC - Junta Intermunicipal de Agua Potable y Alcantarillado de Zacatecas.
+27905	ZAC - Junta Intermunicipal para la Operación de Relleno Sanitario
+11054	ZAC - LXV Legislatura del Estado de Zacatecas
+30528	ZAC - Movimiento Alternativa Zacatecas
+11414	ZAC - Movimiento Ciudadano
+11043	ZAC - Movimiento Regeneración Nacional
+11031	ZAC - Partido Acción Nacional
+11033	ZAC - Partido de la Revolución Democrática
+11034	ZAC - Partido del Trabajo
+26297	ZAC - Partido Encuentro Solidario Zacatecas
+11035	ZAC - Partido Nueva Alianza Zacatecas
+26317	ZAC - Partido Redes Sociales Progresistas
+11032	ZAC - Partido Revolucionario Institucional
+30529	ZAC - Partido Revolución Popular Zacatecas
+11030	ZAC - Partido Verde Ecologista de México
+5896	ZAC - Patronato Estatal de Promotores Voluntarios
+11039	ZAC - Régimen Estatal de Protección Social en Salud (Extinto)
+11040	ZAC - Secretaría de Administración
+11046	ZAC - Secretaría de Desarrollo Social
+14714	ZAC - Secretaría de Desarrollo Urbano, Vivienda y Ordenamiento Territorial
+11047	ZAC - Secretaría de Economía
+5897	ZAC - Secretaría de Educación del Estado de Zacatecas
+11042	ZAC - Secretaría de Finanzas
+11045	ZAC - Secretaría de la Función Pública
+5898	ZAC - Secretaría del Agua y Medio Ambiente
+11049	ZAC - Secretaría de las Mujeres
+11041	ZAC - Secretaría del Campo
+5899	ZAC - Secretaría del Zacatecano Migrante
+11048	ZAC - Secretaría de Obras Públicas
+11050	ZAC - Secretaría de Seguridad Pública
+11051	ZAC - Secretaría de Turismo
+18937	ZAC - Secretaría Ejecutiva del Sistema Estatal Anticorrupción
+11052	ZAC - Secretaría General de Gobierno
+5900	ZAC - Servicios de Salud de Zacatecas
+15891	ZAC - Sindicato de Docentes y Trabajadores del Instituto Tecnológico Superior de Fresnillo
+6021	ZAC - Sindicato del Personal Académico de la Universidad Autónoma de Zacatecas
+17397	ZAC - Sindicato de Personal Académico y Administrativo del Instituto Tecnológico Superior de Zacatecas Norte
+11407	ZAC - Sindicato de Trabajadores de la Universidad Autónoma de Zacatecas
+25097	ZAC - Sindicato de Trabajadores de la Universidad Politécnica de Zacatecas
+16159	ZAC - Sindicato de Trabajadores del Instituto Tecnológico Superior de Fresnillo
+16158	ZAC - Sindicato de Trabajadores del Instituto Tecnológico Superior de Jerez
+11411	ZAC - Sindicato de Trabajadores del Instituto Tecnológico Superior de Loreto
+14728	ZAC - Sindicato de Trabajadores del Instituto Tecnológico Superior Zacatecas Norte
+14729	ZAC - Sindicato de Trabajadores del ITSZN de Río Grande
+11408	ZAC - Sindicato Independiente de Trabajadores de Telesecundaria en el Estado de Zacatecas
+11406	ZAC - Sindicato Único Del Personal Docente Y Administrativo Del Colegio de Bachilleres del Estado de Zacatecas
+11412	ZAC - Sindicato Único de Personal Académico y Administrativo de la Universidad Politécnica de Zacatecas
+18398	ZAC - Sindicato Único de Personal Docente del Colegio de Educación Profesional Técnica del Estado de Zacatecas Plantel Fresnillo
+20397	ZAC - Sindicato Único de Personal Docente y Administrativo del Instituto Tecnológico Superior de Loreto
+21677	ZAC - Sindicato Único de Trabajadores Académicos del CONALEP Plantel Maestra Dolores Castro Varela y Sección Mazapil
+11930	ZAC - Sindicato Único de Trabajadores al Servicio de Municipios y Organismos Paraestatales
+11509	ZAC - Sindicato Único de Trabajadores Universidad Tecnológica del Estado de Zacatecas
+16210	ZAC - Sistema de Agua Potable, Alcantarillado y Saneamiento de Apozol
+16130	ZAC - Sistema de Agua Potable, Alcantarillado y Saneamiento de Jalpa
+16151	ZAC - Sistema de Agua Potable, Alcantarillado y Saneamiento de Loreto
+16165	ZAC - Sistema de Agua Potable, Alcantarillado y Saneamiento de Tabasco
+16118	ZAC - Sistema de Agua Potable, Alcantarillado y Saneamiento de Villa García
+16215	ZAC - Sistema de Agua Potable Alcantarillado y Saneamiento de Pinos
+16125	ZAC - Sistema de Agua Potable de Teul de González Ortega
+16126	ZAC - Sistema de Agua Potable de Valparaíso
+16122	ZAC - Sistema de Agua Potable y Alcantarillado de Calera
+16131	ZAC - Sistema de Agua Potable y Alcantarillado de Cuauhtémoc
+16116	ZAC - Sistema de Agua Potable y Alcantarillado de Fresnillo
+16156	ZAC - Sistema de Agua potable y Alcantarillado de Villa González Ortega
+16119	ZAC - Sistema de Municipal de Agua Potable, Alcantarillado y Saneamiento de Tlaltenango
+11053	ZAC - Sistema Estatal para el Desarrollo Integral de la Familia
+16164	ZAC - Sistema Municipal de Agua Potable, Alcantarillado y Saneamiento de Enrique Estrada
+16121	ZAC - Sistema Municipal de Agua Potable, Alcantarillado y Saneamiento de Monte Escobedo
+16155	ZAC - Sistema Municipal de Agua Potable de Huanusco
+16170	ZAC - Sistema Municipal de Agua Potable de Tepechitlán
+16153	ZAC - Sistema Municipal de Agua Potable de Villa de Cos
+16124	ZAC - Sistema Municipal de Agua Potable de Villanueva
+16133	ZAC - Sistema Municipal de Agua Potable Gral. Pánfilo Natera
+16123	ZAC - Sistema Municipal de Agua Potable Nochistlán
+16117	ZAC - Sistema Municipal de Agua Potable y Alcantarillado de Jerez
+16150	ZAC - Sistema Municipal de Agua Potable y Alcantarillado de Juan Aldama
+16152	ZAC - Sistema Municipal de Agua Potable y Alcantarillado de Luis Moya
+16172	ZAC - Sistema Municipal de Agua Potable y Alcantarillado de Ojocaliente
+16113	ZAC - Sistema Municipal de Agua Potable y Alcantarillado de Río Grande
+16132	ZAC - Sistema Municipal de Agua Potable y Alcantarillado Miguel Auza
+16171	ZAC - Sistema Operador de Agua Potable y Alcantarillado de Juchipila, Zac.
+11931	ZAC - Sistema Zacatecano de Radio y Televisión
+31669	ZAC - Sujeto Obligado de Prueba
+11036	ZAC - Tribunal de Justicia Administrativa del Estado de Zacatecas
+5967	ZAC - Tribunal de Justicia Electoral del Estado de Zacatecas
+26198	ZAC - Tribunal de Justicia Laboral Burocrático del Estado de Zacatecas
+5906	ZAC - Tribunal Superior de Justicia del Estado De Zacatecas
+5968	ZAC - Universidad Autónoma de Zacatecas
+5902	ZAC - Universidad Politécnica del Sur de Zacatecas
+5901	ZAC - Universidad Politécnica de Zacatecas
+5903	ZAC - Universidad Tecnológica del Estado de Zacatecas

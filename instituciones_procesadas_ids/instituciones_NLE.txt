@@ -1,0 +1,400 @@
+11118	NLE - Abasolo
+11107	NLE - Agencia para la Racionalización y Modernización del Sistema de Transporte Público de Nuevo León (OPD) (NO VIGENTE)
+11119	NLE - Agualeguas
+22957	NLE - Alianza Educativa Ciudadana Por Nuevo León A.C.
+11121	NLE - Allende
+23037	NLE - Alternativas Pacificas, A.C. (NO VIGENTE)
+28365	NLE - Amar a Nuevo León
+11122	NLE - Anáhuac
+11123	NLE - Apodaca
+11124	NLE - Aramberri
+23097	NLE - Asociación Alzheimer De Monterrey, A.C.
+11112	NLE - Auditoria Superior del Estado de Nuevo León
+23117	NLE - Bomberos De Nuevo León, A.B.P.
+11125	NLE - Bustamante
+11126	NLE - Cadereyta Jiménez
+20244	NLE - CandidatoIndependiente_Alcalde_Aldo Fasci Zuazua
+20234	NLE - CandidatoIndependiente_Alcalde_Americo Garza Salinas
+20224	NLE - CandidatoIndependiente_Alcalde_Andres Eduardo Sepulveda Kuri
+20249	NLE - CandidatoIndependiente_Alcalde_Arnoldo Saucedo Garcia
+20246	NLE - CandidatoIndependiente_Alcalde_Arturo Rodriguez Eguia
+20257	NLE - CandidatoIndependiente_Alcalde_Camilo Ramirez Puente
+20256	NLE - CandidatoIndependiente_Alcalde_Carlos Alberto Guevara Garza_2018
+20219	NLE - CandidatoIndependiente_Alcalde_Carolina Garza Elizondo
+20248	NLE - CandidatoIndependiente_Alcalde_Cesar Alanis Martinez
+20211	NLE - CandidatoIndependiente_Alcalde_Daniel Torres Cantu
+20214	NLE - CandidatoIndependiente_Alcalde_Daniel Torres Rangel
+20251	NLE - CandidatoIndependiente_Alcalde_Diego Ugarte De Lachica
+20267	NLE - CandidatoIndependiente_Alcalde_Edmundo Villalon Mendoza
+20230	NLE - CandidatoIndependiente_Alcalde_Eduardo Flores Martinez
+20263	NLE - CandidatoIndependiente_Alcalde_Fernando Elizondo Ortiz
+20247	NLE - CandidatoIndependiente_Alcalde_Francisco Esquivel Garza
+20237	NLE - CandidatoIndependiente_Alcalde_Gilberto Alonso Cardoza Garcia
+20259	NLE - CandidatoIndependiente_Alcalde_Gustavo Cerrillo Garza
+20227	NLE - CandidatoIndependiente_Alcalde_Hector Abundio Ibarra Garcia
+20217	NLE - CandidatoIndependiente_Alcalde_Helios Imerio Salazar Lopez
+20266	NLE - CandidatoIndependiente_Alcalde_Horacio Borjas Ramirez
+20258	NLE - CandidatoIndependiente_Alcalde_Jesús Galileo I Quintanilla Villarreal
+20229	NLE - CandidatoIndependiente_Alcalde_Jesus Gonzalez Lopez
+20236	NLE - CandidatoIndependiente_Alcalde_Jesus Placido Rodriguez Treviño
+20242	NLE - CandidatoIndependiente_Alcalde_Jorge Garza Salinas
+20228	NLE - CandidatoIndependiente_Alcalde_Jorge Luis Tamez Cantu
+20231	NLE - CandidatoIndependiente_Alcalde_Jose Abelardo Reyna Aguilar
+20255	NLE - CandidatoIndependiente_Alcalde_Josefina Villarreal Gonzalez
+20233	NLE - CandidatoIndependiente_Alcalde_Jose Ramiro Gonzalez Rodriguez
+20222	NLE - CandidatoIndependiente_Alcalde_Juan Humberto Leal Rodriguez
+20241	NLE - CandidatoIndependiente_Alcalde_Juan Ignacio Cantu De Ochoa
+20252	NLE - CandidatoIndependiente_Alcalde_Juan Jose Paez Hernandez
+20235	NLE - CandidatoIndependiente_Alcalde_Juan Manuel Garza Treviño
+20240	NLE - CandidatoIndependiente_Alcalde_Juan Manuel Molina Hernandez
+20268	NLE - CandidatoIndependiente_Alcalde_Liliana Rodriguez Mendoza
+20269	NLE - CandidatoIndependiente_Alcalde_Luis Alonso Rodriguez Gutierrez
+20226	NLE - CandidatoIndependiente_Alcalde_Luis Antonio Garza Cisneros
+20260	NLE - CandidatoIndependiente_Alcalde_Luis Garza Meza
+20265	NLE - CandidatoIndependiente_Alcalde_Maria Teresa Martinez Galvan
+20270	NLE - CandidatoIndependiente_Alcalde_Mariely Villarreal Garza
+20254	NLE - CandidatoIndependiente_Alcalde_Miguel Angel Solis Gallegos
+20261	NLE - CandidatoIndependiente_Alcalde_Miguel Bernardo Treviño De Hoyos
+20264	NLE - CandidatoIndependiente_Alcalde_Nemecio Lopez Vargas
+20245	NLE - CandidatoIndependiente_Alcalde_Pedro Alejo Rodriguez Martinez
+20243	NLE - CandidatoIndependiente_Alcalde_Pedro Alonso Casas Quiñones
+20239	NLE - CandidatoIndependiente_Alcalde_Raul Gonzalez Garza
+20250	NLE - CandidatoIndependiente_Alcalde_Rolando Fuentes Gutierrez
+20232	NLE - CandidatoIndependiente_Alcalde_Salvador Bazaldua Sanchez
+20238	NLE - CandidatoIndependiente_Alcalde_Santana Martinez Peña
+20262	NLE - CandidatoIndependiente_Alcalde_Sergio Eduardo Vazquez Carrera
+20253	NLE - CandidatoIndependiente_Alcalde_Sergio Humberto Chapa Chavez
+20209	NLE - CandidatoIndependiente_Alcalde_Yuri Salomon Vanegas Menchaca
+26353	NLE - CandidatoIndependiente_ALCALDE-AYUNTAMIENTO_Adriana Verónica Saenz Garza
+26356	NLE - CandidatoIndependiente_ALCALDE-AYUNTAMIENTO_Alfa Lery Domínguez Cortes
+26347	NLE - CandidatoIndependiente_ALCALDE-AYUNTAMIENTO_Carlos Alberto Guevara Garza
+26348	NLE - CandidatoIndependiente_ALCALDE-AYUNTAMIENTO_César Adrián Valdés Martínez
+26349	NLE - CandidatoIndependiente_ALCALDE-AYUNTAMIENTO_Cristhian Omar Pérez Álvarez
+26354	NLE - CandidatoIndependiente_ALCALDE-AYUNTAMIENTO_Francisco Javier Sánchez Fernández
+26351	NLE - CandidatoIndependiente_ALCALDE-AYUNTAMIENTO_Gerardo Guzmán González
+26355	NLE - CandidatoIndependiente_ALCALDE-AYUNTAMIENTO_Héctor Elizondo González
+26344	NLE - CandidatoIndependiente_ALCALDE-AYUNTAMIENTO_Jesús González López
+26350	NLE - CandidatoIndependiente_ALCALDE-AYUNTAMIENTO_Joel Alejandro De León Aguirre
+26345	NLE - CandidatoIndependiente_ALCALDE-AYUNTAMIENTO_Jorge Garza Salinas
+26343	NLE - CandidatoIndependiente_ALCALDE-AYUNTAMIENTO_Jorge Luis Tamez Cantú
+26358	NLE - CandidatoIndependiente_ALCALDE-AYUNTAMIENTO_José Alejandro Reyna Aguilar
+26352	NLE - CandidatoIndependiente_ALCALDE-AYUNTAMIENTO_Juan Manuel Molina Hernández
+26346	NLE - CandidatoIndependiente_ALCALDE-AYUNTAMIENTO_Miguel Ángel González Sandoval
+26357	NLE - CandidatoIndependiente_ALCALDE-AYUNTAMIENTO_Miguel Bernardo Treviño de Hoyos
+26339	NLE - CandidatoIndependiente_DIPUTACION_Alma Lucy Reyna Arellano
+26342	NLE - CandidatoIndependiente_DIPUTACION_Amyleth Palacios Medina
+26341	NLE - CandidatoIndependiente_DIPUTACION_Daniel Dario Pérez Cavazos
+26338	NLE - CandidatoIndependiente_DIPUTACION_Kristian Andrés Macias Fernández
+26337	NLE - CandidatoIndependiente_DIPUTACION_Mariana Villasuso Tellez Girón
+26340	NLE - CandidatoIndependiente_DIPUTACION_Roberto Alviso Marqués
+20275	NLE - CandidatoIndependiente_Diputada_Adriana Quiroz Quiroz
+20552	NLE - CandidatoIndependiente_Diputado_Adan Avila Cabrera
+20276	NLE - CandidatoIndependiente_Diputado_Alejandra Natzieli Martinez Del Toro
+20553	NLE - CandidatoIndependiente_Diputado_Alfonso Noe Martinez Alejandre
+20213	NLE - CandidatoIndependiente_Diputado_Ana Melisa Peña Villagomez
+20208	NLE - CandidatoIndependiente_Diputado_Arturo Saucedo Rodriguez
+20539	NLE - CandidatoIndependiente_Diputado_Benito Torres Escalante
+20551	NLE - CandidatoIndependiente_Diputado_Blanca Elia Alvarez Alvarez
+20548	NLE - CandidatoIndependiente_Diputado_Blanca Lilia Sandoval De Leon
+20277	NLE - CandidatoIndependiente_Diputado_Cinthia Mireya Moya Garza
+20550	NLE - CandidatoIndependiente_Diputado_Claritza Estefania Duarte Lugo
+20201	NLE - CandidatoIndependiente_Diputado_Cristian Alejandro Bocanegra Flores
+20546	NLE - CandidatoIndependiente_Diputado_Dany Osiel Portales Castro
+20215	NLE - CandidatoIndependiente_Diputado_Eleazar Puente Rangel
+20206	NLE - CandidatoIndependiente_Diputado_Eugenio Pacelli Chapa Valdes
+20221	NLE - CandidatoIndependiente_Diputado_Fernando Eduardo Garza Martinez
+20278	NLE - CandidatoIndependiente_Diputado_Gerardo Javier Villarreal Tomasichi
+20225	NLE - CandidatoIndependiente_Diputado_Heliodoro Tienda Grimaldo
+20540	NLE - CandidatoIndependiente_Diputado_Hugo Dante Lucio Garcia
+20274	NLE - CandidatoIndependiente_Diputado_Idalia Morales Guevara
+20547	NLE - CandidatoIndependiente_Diputado_Iliana Judith Camacho Montes
+20554	NLE - CandidatoIndependiente_Diputado_Jorge Dewey Castilla
+20210	NLE - CandidatoIndependiente_Diputado_Jose Esequiel Rodriguez Calderon
+20216	NLE - CandidatoIndependiente_Diputado_Jose Leon Lara Ayala
+20272	NLE - CandidatoIndependiente_Diputado_Josimar Bravo Garcia
+20223	NLE - CandidatoIndependiente_Diputado_Juanita Del Carmen Martinez Cantu
+20273	NLE - CandidatoIndependiente_Diputado_Karla Betsabe Quiroz Puente
+20542	NLE - CandidatoIndependiente_Diputado_Luis Antonio Diaz Torres
+20537	NLE - CandidatoIndependiente_Diputado_Luis Carlos Ordaz Reyes
+20271	NLE - CandidatoIndependiente_Diputado_Luz Maria Ortiz Quintos
+20545	NLE - CandidatoIndependiente_Diputado_Mario Alberto Juarez Valles
+20220	NLE - CandidatoIndependiente_Diputado_Mario Alberto Zamarripa Rodriguez
+20543	NLE - CandidatoIndependiente_Diputado_Martha Idalia Villarreal Martinez
+20538	NLE - CandidatoIndependiente_Diputado_Martha Magdalena Montes Salazar
+20541	NLE - CandidatoIndependiente_Diputado_Mayra Alejandra Morales Mariscal
+20207	NLE - CandidatoIndependiente_Diputado_Ricardo Ruiz Mancilla
+20544	NLE - CandidatoIndependiente_Diputado_Roberto Chavarria Gallegos
+20549	NLE - CandidatoIndependiente_Diputado_Rocio Maybe Montalvo Adame
+20218	NLE - CandidatoIndependiente_Diputado_Rodolfo Martinez Gonzalez
+20212	NLE - CandidatoIndependiente_Diputado_Veronica Llanes Sauceda
+23118	NLE - Caritas De Monterrey, A.B.P.
+23119	NLE - Casa Paterna La Gran Familia, A.C.
+23120	NLE - Casa Simón De Betania, A.C.
+29206	NLE - Centro de Conciliación Laboral del Estado de Nuevo León
+11128	NLE - Cerralvo
+11130	NLE - China
+11129	NLE - Ciénega de Flores
+23121	NLE - Ciudad De Los Niños De Monterrey, A.B.P.
+11083	NLE - Colegio de Educación Profesional Técnica de Nuevo León (CONALEP) (OPD)
+11096	NLE - Colegio de Estudios Científicos y Tecnológicos del Estado de Nuevo León (CECyTENL) (OPD)
+24037	NLE - Colegio Militarizado "General Mariano Escobedo" del Estado de Nuevo León
+11186	NLE - Comisión Estatal de Derechos Humanos
+28366	NLE - Comunicación
+11113	NLE - Congreso del Estado de Nuevo León
+28367	NLE - Consejería Jurídica
+11117	NLE - Consejo de la Judicatura (Poder Judicial)
+11086	NLE - Consejo Estatal de Transporte y Vialidad (OPD) (NO VIGENTE)
+11097	NLE - Consejo para la Cultura y las Artes de Nuevo León (OPD)
+11068	NLE - Contraloría y Transparencia Gubernamental (DGC)
+13971	NLE - Coordinación de Relaciones Públicas Institucionales (NO VIGENTE)
+13933	NLE - Coordinación Ejecutiva de la Administración Pública del Estado de Nuevo León (DGC)
+11069	NLE - Corporación para el Desarrollo Agropecuario de Nuevo León (OPDPC)
+11223	NLE - Corporación para el Desarrollo de la Zona Fronteriza de Nuevo León (OPDPC)
+11073	NLE - Corporación para el Desarrollo Turístico de Nuevo León (OPDPC)
+23123	NLE - Destellos De Luz, A.B.P.
+11131	NLE - Doctor Arroyo
+11132	NLE - Doctor Coss
+11133	NLE - Doctor González
+11127	NLE - El Carmen
+27203	NLE - Fideicomiso BP3417 CENDIS
+30548	NLE - Fideicomiso de Administración y Fuente de Pago No. 2284 “Tren Suburbano Villa García- Aeropuerto de Monterrey, primera fase, Etapa 1”
+30508	NLE - Fideicomiso de Desarrollo Urbano “FIDEURB”
+21517	NLE - Fideicomiso de Inversión y Administración (FIDEMEJORA)
+11217	NLE - Fideicomiso de Inversión y Fuente de Pago 1976 FONDEN Nuevo León
+21477	NLE - Fideicomiso de Mantenimiento Monterrey No. BP417
+27104	NLE - Fideicomiso de Patrimonio Cultural BP5518 “Fidecultural”
+18097	NLE - Fideicomiso de Proyectos Estratégicos (FIDEPROES)
+11228	NLE - Fideicomiso de Vida Silvestre (FVSNL)
+25199	NLE - Fideicomiso Distrito Tec
+13934	NLE - Fideicomiso Elevemos México
+32837	NLE - Fideicomiso Festival Impacto Futbolístico Actual (FIDEFIFA)
+11225	NLE - Fideicomiso Festival Internacional de Santa Lucía (FISL)
+11201	NLE - Fideicomiso Fondo de Apoyo para la Creación y Consolidación del Empleo Productivo en el Estado de Nuevo León (FOCRECE)
+11224	NLE - Fideicomiso Fondo de Fomento Agropecuario del Estado de Nuevo León (FOFAE)
+11221	NLE - Fideicomiso Fondo de Garantía para las Empresas en Solidaridad del Estado de Nuevo León (FOGALEON)
+11204	NLE - Fideicomiso Fondo Editorial de Nuevo León (FFENL)
+13972	NLE - Fideicomiso Fondo Metropolitano Ciudad de Monterrey (FONMETRO)
+11215	NLE - Fideicomiso Fondo Mixto CONACyT - Estado de Nuevo León (FOMIX) (No vigente)
+11205	NLE - Fideicomiso Fondo para la Educación, la Ciencia y Tecnología aplicadas al Campo del Nuevo León (FECTEC)
+11218	NLE - Fideicomiso Fondo para la Vivienda de los Trabajadores al Servicio del Estado (FOVILEONEDO) (FOVILEON-BURÓCRATAS)
+11226	NLE - Fideicomiso Fondo para la Vivienda de los Trabajadores de la Educación (FOVILEONEDU) (FOVILEON-EDUCACIÓN)
+26797	NLE - Fideicomiso Irrevocable de Administración y Medio de Pago denominado “Fondo para la Planeación Estratégica 71479”
+11222	NLE - Fideicomiso Museo Nacional de Historia Natural (FMNHN)
+13974	NLE - Fideicomiso No. 2209 Línea 3 del Sistema de Transporte Colectivo Metrorrey (LINEA3)
+13975	NLE - Fideicomiso No. 2236 del Estado de Nuevo León para la implementación del Sistema de Justicia Penal (SIJUPE)
+11202	NLE - Fideicomiso para el Desarrollo de la Zona Citrícola del Estado de Nuevo León (FIDECITRUS)
+11220	NLE - Fideicomiso para el Desarrollo del Sur del Estado de Nuevo León (FIDESUR)
+11206	NLE - Fideicomiso para el Sistema Integral del Tránsito Metropolitano (SINTRAM)
+24617	NLE - Fideicomiso para la Administración, Arrendamiento y Adecuación de oficinas alternas de la COTAI No. 851-01987
+13973	NLE - Fideicomiso para la Realización de Obras Viales en la Zona Valle Oriente y Áreas Adyacentes (FIDEVALLE)
+11227	NLE - Fideicomiso para la Reordenación Comercial (FIRECOM)
+11207	NLE - Fideicomiso para las Escuelas de Calidad del Estado de Nuevo León (FECNL)
+19718	NLE - Fideicomiso Presa de la Boca (FIPREBOCA)
+11211	NLE - Fideicomiso Programa de Becas Nacionales para la Educación Superior (MANUTENCIÓN ESTATAL)
+11210	NLE - Fideicomiso Programa de Tecnologías Educativas y de la Información para el Magisterio del Estado de Nuevo León (FPTEIMNL)
+11219	NLE - Fideicomiso Promotor de Proyectos Estratégicos Urbanos (FIDEPROES)
+11212	NLE - Fideicomiso Público de Administración y Traslativo de Dominio "Ciudad Solidaridad" (CDSOLIDARIDAD)(No vigente)
+11208	NLE - Fideicomiso Puente Internacional Solidaridad (FPIS)
+15963	NLE - Fideicomiso Revocable de Traslativo de Dominio y de Administración de Inmuebles (FIDEIN)
+11213	NLE - Fideicomiso Turismo Nuevo León (FTNL)
+11214	NLE - Fideicomiso Zaragoza (FIDEZA)
+18417	NLE - Fiscalía General de Justicia del Estado de Nuevo León
+11216	NLE - Fomento Metropolitano de Monterrey (FOMERREY)
+25337	NLE - Fundación México Monterrey 2010, A.C.
+11134	NLE - Galeana
+11135	NLE - García
+11137	NLE - General Bravo
+11138	NLE - General Escobedo
+11139	NLE - General Terán
+11140	NLE - General Treviño
+11141	NLE - General Zaragoza
+11142	NLE - General Zuazua
+28368	NLE - Gerencia de Proyectos (No vigente)
+11143	NLE - Guadalupe
+11164	NLE - Hidalgo
+11145	NLE - Higueras
+23124	NLE - Hogar De La Misericordia, A.B.P.
+11146	NLE - Hualahuises
+23137	NLE - Institución Renace A.B.P.
+11101	NLE - Instituto Constructor de infraestructura Física, Educativa y Deportiva de Nuevo León (ICIFED) (OPD)
+11721	NLE - Instituto de Capacitación y Educación para el Trabajo del Estado de Nuevo León, A.C. (OPD)
+11076	NLE - Instituto de Control Vehicular del Estado de Nuevo León (OPD)
+28988	NLE - Instituto de Cultura Física y Deporte de San Nicolás de los Garza
+11104	NLE - Instituto de Defensoría Pública de Nuevo León (OPD)
+11110	NLE - Instituto de innovación y Transferencia de Tecnología de Nuevo León (OPDPC)
+13935	NLE - Instituto de Investigación, Innovación y Estudios de Posgrado para la Educación del Estado de Nuevo León (OPDPC)
+11071	NLE - Instituto del Agua del Estado de Nuevo León (OPD)
+11702	NLE - Instituto de la Juventud Regia de la Ciudad de Monterrey, Nuevo León
+11087	NLE - Instituto de la Vivienda de Nuevo León (OPDPC)
+25557	NLE - Instituto de Movilidad y Accesibilidad de Nuevo León
+11178	NLE - Instituto de Planeación y Desarrollo Municipal de San Nicolás de los Garza
+11098	NLE - Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Nuevo León (ISSSTELEON) (OPD)
+11108	NLE - Instituto Estatal de Cultura Física y Deporte (OPDPC)
+11111	NLE - Instituto Estatal de la Juventud (OPDPC)
+11180	NLE - Instituto Estatal de las Mujeres (OPDPC)
+22057	NLE - Instituto Estatal de las Personas Adultas Mayores
+11066	NLE - Instituto Estatal de Seguridad Pública (OPD)
+11185	NLE - Instituto Estatal de Transparencia, Acceso a la Información y Protección de Datos Personales (INFONL antes COTAI)
+11064	NLE - Instituto Estatal Electoral y de Participación Ciudadana
+32637	NLE - Instituto Municipal de Bienestar Animal de San Pedro Garza García, Nuevo León
+13930	NLE - Instituto Municipal de Desarrollo Policial de Guadalupe, Nuevo León
+11171	NLE - Instituto Municipal de la Familia de San Pedro Garza García, Nuevo León
+11170	NLE - Instituto Municipal de la Juventud de Apodaca, Nuevo León
+11174	NLE - Instituto Municipal de la Juventud de Guadalupe, Nuevo León
+11172	NLE - Instituto Municipal de la Juventud de San Pedro Garza García, Nuevo León
+11176	NLE - Instituto Municipal de la Mujer de Guadalupe, Nuevo León
+11715	NLE - Instituto Municipal de la Mujer del municipio de Apodaca, Nuevo León
+13932	NLE - Instituto Municipal del Deporte de Guadalupe, Nuevo León
+11703	NLE - Instituto Municipal de Mujeres Regias (Monterrey, Nuevo León)
+13931	NLE - Instituto Municipal de Planeación Integral de Guadalupe, Nuevo León
+11704	NLE - Instituto Municipal de Planeación Urbana y Convivencia de Monterrey, Nuevo León
+31328	NLE - Instituto Municipal de Planeación y Gestión Urbana de San Pedro Garza García
+23997	NLE - Instituto Municipal para el Desarrollo Cultural de San Nicolás de los Garza, Nuevo León
+11102	NLE - Instituto Registral y Catastral del Estado de Nuevo León (OPD)
+23138	NLE - Integra A.B.P.
+11147	NLE - Iturbide
+11148	NLE - Juárez
+11075	NLE - Junta Local de Conciliación y Arbitraje (DGC)
+11149	NLE - Lampazos de Naranjo
+11150	NLE - Linares
+11120	NLE - Los Aldamas
+11144	NLE - Los Herreras
+11159	NLE - Los Ramones
+11151	NLE - Marín
+11152	NLE - Melchor Ocampo
+11153	NLE - Mier y Noriega
+11154	NLE - Mina
+11156	NLE - Montemorelos
+27499	NLE - Monterrey
+23139	NLE - Monterrey Ciudad De La Salud, A.C.
+11155	NLE - Monterrey - Contraloría Municipal (no vigente – información hasta enero 2022)
+11705	NLE - Monterrey - Oficina Ejecutiva del Presidente Municipal (no vigente – información hasta enero 2022)
+11706	NLE - Monterrey - Presidente Municipal (no vigente – información hasta enero 2022)
+11707	NLE - Monterrey - Secretaría de Administración (no vigente – información hasta enero 2022)
+11708	NLE - Monterrey - Secretaría de Desarrollo Económico (no vigente – información hasta enero 2022)
+11709	NLE - Monterrey - Secretaría de Desarrollo Social (no vigente – información hasta enero 2022)
+11710	NLE - Monterrey - Secretaría de Desarrollo Urbano y Ecología (no vigente – información hasta enero 2022)
+23977	NLE - Monterrey - Secretaría de Infraestructura Vial del Municipio de Monterrey (no vigente – información hasta enero 2022)
+11714	NLE - Monterrey - Secretaría del Ayuntamiento (no vigente – información hasta enero 2022)
+11711	NLE - Monterrey - Secretaría de Obras Públicas (no vigente – información hasta enero 2022)
+11712	NLE - Monterrey - Secretaría de Seguridad Pública y Vialidad (no vigente – información hasta enero 2022)
+11713	NLE - Monterrey - Secretaría de Servicios Públicos (no vigente – información hasta enero 2022)
+13211	NLE - Monterrey - Síndicos y Regidores del Ayuntamiento (no vigente - información hasta enero 2022)
+11716	NLE - Monterrey - Sistema para el Desarrollo Integral de la Familia (no vigente – información hasta enero 2022)
+11717	NLE - Monterrey - Tesorería Municipal (no vigente – información hasta enero 2022)
+11718	NLE - Monterrey - Tribunal de Arbitraje para los Trabajadores del Servicio del Municipio de Monterrey (no vigente – información hasta ener...
+11196	NLE - MORENA
+11194	NLE - Movimiento Ciudadano
+23140	NLE - Museo De Arte Contemporáneo De Monterrey, A.C.
+11106	NLE - Museo de Historia Mexicana (OPD)
+11195	NLE - Nueva Alianza
+22017	NLE - Oficina Ejecutiva del Gobernador
+11094	NLE - Operadora de Servicios Turísticos de Nuevo León (OSETUR) (OPD)
+11157	NLE - Parás
+23141	NLE - Parque Ecológico Chipinque A.B.P.
+11095	NLE - Parque Fundidora (OPD)
+11067	NLE - Parques y Vida Silvestre de Nuevo León (OPDPC)
+11189	NLE - Partido Acción Nacional
+11191	NLE - Partido de la Revolución Democrática
+26677	NLE - Partido de la Revolución Democrática en el Estado de Nuevo León (No vigente)
+11192	NLE - Partido del Trabajo
+11197	NLE - Partido Encuentro Social
+30330	NLE - Partido Encuentro Solidario Nuevo León (No vigente)
+30211	NLE - Partido Esperanza Social, N.L. (No vigente)
+30329	NLE - Partido Justicialista (No vigente)
+30210	NLE - Partido Liberal de Nuevo León (No vigente)
+22058	NLE - Partido Nueva Alianza Nuevo León
+11190	NLE - Partido Revolucionario Institucional
+11193	NLE - Partido Verde Ecologista de México
+30212	NLE - Partido Vida Democrática Activa “VIDA NL”
+23142	NLE - Patronato Cruz Verde Monterrey, A.C.
+22059	NLE - Patronato de Museos de San Pedro
+11158	NLE - Pesquería
+11080	NLE - Procuraduría General de Justicia (DGC)
+23143	NLE - Promoción De Paz, A.B.P.
+11229	NLE - Promotora de Desarrollo Rural de Nuevo León (OPD)
+21417	NLE - PRUEBAS
+11160	NLE - Rayones
+11109	NLE - Red Estatal de Autopistas de Nuevo León (OPD)
+18858	NLE - Red Rectitud Esperanza Demócrata
+11720	NLE - Régimen de Protección Social en Salud (OPD)
+13942	NLE - Representación del Gobierno del Estado en la Ciudad de México (DGC)
+11161	NLE - Sabinas Hidalgo
+11162	NLE - Salinas Victoria
+11163	NLE - San Nicolás de los Garza
+11136	NLE - San Pedro Garza García
+11165	NLE - Santa Catarina
+11166	NLE - Santiago
+13936	NLE - Secretaría de Administración
+27365	NLE - Secretaría de Cultura
+13937	NLE - Secretaría de Desarrollo Agropecuario
+27289	NLE - Secretaría de Desarrollo Regional y Agropecuario
+11084	NLE - Secretaría de Desarrollo Social.(DGC)
+11078	NLE - Secretaría de Desarrollo Sustentable.(DGC)
+27325	NLE - Secretaría de Economía
+13941	NLE - Secretaría de Economía y Trabajo.(DGC)
+11079	NLE - Secretaría de Educación.(DGC)
+11099	NLE - Secretaría de Finanzas y Tesorería General del Estado.(DGC)
+27287	NLE - Secretaría de Igualdad e Inclusión del Estado
+13939	NLE - Secretaría de Infraestructura.(DGC)
+27327	NLE - Secretaría de las Mujeres
+27328	NLE - Secretaría del Trabajo
+27290	NLE - Secretaría de Medio Ambiente
+27364	NLE - Secretaría de Movilidad y Planeación Urbana
+27326	NLE - Secretaría de Participación Ciudadana
+11088	NLE - Secretaría de Salud.(DGC)
+27288	NLE - Secretaría de Seguridad
+11074	NLE - Secretaría de Seguridad Pública.(DGC)
+27324	NLE - Secretaría de Turismo
+20555	NLE - Secretaría Ejecutiva del Sistema Estatal Anticorrupción
+11091	NLE - Secretaría General de Gobierno.(DGC)
+11092	NLE - Secretaría Particular del Gobernador (DGC)
+28946	NLE - Secretaría Técnica de Gobierno
+11169	NLE - Servicios de Agua y Drenaje de Monterrey, I.P.D.
+11055	NLE - Servicios de Salud de Nuevo León, O.P.D.
+25317	NLE - Servi Museos A.C.
+25938	NLE - Sindicato de Trabajadores al Servicio de San Nicolás de los Garza y Órganos Descentralizados del Municipio de San Nicolás de los Garz...
+16990	NLE - Sindicato de Trabajadores de la Escuela Normal Superior
+11242	NLE - Sindicato de Trabajadores de la Secretaria de Salud de la Sección 34 del Estado de Nuevo León
+11245	NLE - Sindicato de Trabajadores de la Universidad Autónoma de Nuevo León
+11239	NLE - Sindicato Único de Servidores Públicos del Estado de Nuevo León (SUSPE)
+18759	NLE - Sindicato Único de Trabajadores al Servicio de FOMERREY
+11237	NLE - Sindicato Único de Trabajadores al Servicio del Municipio de Allende, Nuevo León
+11235	NLE - Sindicato Único de Trabajadores al Servicio del Municipio de Apodaca, Nuevo León
+23978	NLE - Sindicato Único de Trabajadores al Servicio del Municipio de Cadereyta Jiménez, Nuevo León
+13940	NLE - Sindicato Único de Trabajadores al Servicio del Municipio de Ciudad Benito Juárez, Nuevo León
+11236	NLE - Sindicato Único de Trabajadores al Servicio del Municipio de García, Nuevo León
+11232	NLE - Sindicato Único de Trabajadores al Servicio del Municipio de Guadalupe
+18758	NLE - Sindicato Único de Trabajadores al Servicio del Municipio de Linares, Nuevo León
+18757	NLE - Sindicato Único de Trabajadores al Servicio del municipio de Montemorelos, Nuevo León
+11231	NLE - Sindicato Único de Trabajadores al Servicio del Municipio de Monterrey
+11230	NLE - Sindicato Único de Trabajadores al Servicio del Municipio de San Nicolás (No vigente)
+11233	NLE - Sindicato Único de Trabajadores al Servicio del Municipio de San Pedro Garza García, Nuevo León
+11234	NLE - Sindicato Único de Trabajadores al Servicio del Municipio de Santa Catarina, Nuevo León
+23197	NLE - Sindicato Único de Trabajadores al Servicio del Municipio de Santiago, Nuevo León
+18737	NLE - Sindicato Único de Trabajadores del Colegio de Estudios Científicos y Tecnológicos del Estado de Nuevo León
+18717	NLE - Sindicato Único de Trabajadores del Sistema para el Desarrollo Integral de la Familia de Nuevo León
+11057	NLE - Sistema de Caminos de Nuevo León (OPD)
+28305	NLE - Sistema de Parques Públicos de San Pedro Garza García, Nuevo León
+20697	NLE - Sistema de Radio y Televisión de Nuevo León
+11058	NLE - Sistema de Transporte Colectivo (METRORREY)
+28369	NLE - Sistema Estatal de Información
+11059	NLE - Sistema Integral para el Manejo Ecológico y Procesamiento de Desechos (SIMEPRODE)
+11093	NLE - Sistema para el Desarrollo Integral de la Familia de Nuevo León (DIF)
+11115	NLE - Tribunal de Arbitraje
+11116	NLE - Tribunal de Justicia Administrativa
+11114	NLE - Tribunal Electoral del Estado
+11060	NLE - Unidad de Integración Educativa
+23145	NLE - Unidos Por El Arte Contra El Cáncer Infantil, A.C.
+11187	NLE - Universidad Autónoma de Nuevo León
+11103	NLE - Universidad de Ciencias de la Seguridad
+11105	NLE - Universidad Politécnica de Apodaca
+13976	NLE - Universidad Politécnica de García
+26173	NLE - Universidad Tecnológica Bilingüe Franco Mexicana De Nuevo León
+11063	NLE - Universidad Tecnológica de Cadereyta
+11062	NLE - Universidad Tecnológica Gral. Mariano Escobedo
+11061	NLE - Universidad Tecnológica Linares
+11065	NLE - Universidad Tecnológica Santa Catarina
+11167	NLE - Vallecillo
+23144	NLE - Vida Y Familia Monterrey, A.C.
+11168	NLE - Villaldama

@@ -1,0 +1,175 @@
+1002	COA - Abasolo
+1003	COA - Acuña
+939	COA - Administración Fiscal General
+1004	COA - Aguas de Saltillo S.A. de C.V.
+1005	COA - Allende
+1006	COA - Arteaga
+999	COA - Auditoría Superior del Estado de Coahuila
+1007	COA - Candela
+1008	COA - Castaños
+940	COA - Centro Cultural "Vito Alessio Robles"
+19440	COA - Centro Cultural Arocena Laguna A.C.
+29566	COA - Centro de Conciliación Laboral del Estado de Coahuila de Zaragoza
+12775	COA - Centro de Justicia y Empoderamiento de la Mujer
+19438	COA - Centro de Rehabilitación Infantil Teletón Coahuila (CRIT)
+19437	COA - Cluster De Energía Coahuila A.C.
+11425	COA - Colegio de Bachilleres de Coahuila
+942	COA - Colegio de Educación Profesional Técnica del Estado de Coahuila (CONALEP)
+943	COA - Colegio de Estudios Científicos y Tecnológicos (CECYTEC)
+28265	COA - Comisaría de Seguridad y Protección Ciudadana
+3095	COA - Comisión Coahuilense de Conciliación y Arbitraje Médico
+24058	COA - Comisión de Búsqueda del Estado de Coahuila
+3096	COA - Comisión de Derechos Humanos del Estado de Coahuila
+11429	COA - Comisión Ejecutiva Estatal de Atención a Víctimas
+944	COA - Comisión Estatal de Aguas y Saneamiento de Coahuila (CEAS)
+946	COA - Comisión Estatal de la Vivienda
+941	COA - Comisión Estatal para la Regularización de la Tenencia de la Tierra Urbana y Rústica de Coahuila
+1009	COA - Compañía de Aguas de Ramos Arizpe
+1000	COA - Congreso del Estado de Coahuila de Zaragoza
+947	COA - Consejo Editorial del Estado
+948	COA - Consejo Estatal de Ciencia y Tecnología (COECYT)
+13451	COA - Consejo Promotor para el Desarrollo de las Reservas Territoriales de Torreón
+13613	COA - Coordinación General de Comunicación e Imagen Institucional
+1010	COA - Cuatrociénegas
+938	COA - Despacho del Titular del Gobernador
+11444	COA - Dif Saltillo
+11449	COA - Dif Torreon
+11440	COA - Dirección de Pensiones de Saltillo
+950	COA - Direccion de Pensiones y Otros Beneficios Sociales para los Trabajadores de la Educación del Estado de Coahuila
+1011	COA - Escobedo
+969	COA - Fiscalía General del Estado
+1012	COA - Francisco I. Madero
+1013	COA - Frontera
+1014	COA - General Cepeda
+1015	COA - Guerrero
+1016	COA - Hidalgo
+11447	COA - Insituto Municipal de Cultura y Educación de Torreón
+3097	COA - Instituto Coahuilense de Acceso a la Información(ICAI)
+953	COA - Instituto Coahuilense de la Infraestructura Física Educativa (ICIFED)
+985	COA - Instituto Coahuilense de La Juventud
+954	COA - Instituto Coahuilense de las Personas Adultas Mayores
+955	COA - Instituto de Becas para Educación Básica en el Estado de Coahuila de Zaragoza
+956	COA - Instituto de Capacitación para el Trabajo del estado de Coahuila (ICATEC)
+959	COA - Instituto de Estatal Desarrollo Docente, Investigación y Evaluación Educativa
+957	COA - Instituto de Pensiones para los Trabajadores al Servicio del Estado
+11430	COA - Instituto Electoral de Coahuila (IEC)
+960	COA - Instituto Estatal de Educación para Adultos (IEEA)
+961	COA - Instituto Estatal del Deporte (INEDEC)
+11441	COA - Instituto Municipal de Cultura de Saltillo
+11446	COA - Instituto Municipal de La Mujer De Torreon
+11448	COA - Instituto Municipal del Deporte de Torreón
+11443	COA - Instituto Municipal del Transporte Saltillo
+16068	COA - Instituto Municipal de Pensiones Monclova
+11445	COA - Instituto Municipal de Pensiones Torreón
+19237	COA - Instituto Municipal de Planeacion de Piedras Negras
+11442	COA - Instituto Municipal de Planeación Saltillo
+11450	COA - Instituto Municipal de Planeación y Competitividad Torreón
+21757	COA - Instituto Registral y Catastral del Estado de Coahuila de Zaragoza
+962	COA - Instituto Tecnológico de Estudios Superiores de Ciudad Acuña
+963	COA - Instituto Tecnológico de Estudios Superiores de la Región Carbonifera
+965	COA - Instituto Tecnológico Superior de Melchor Muzquiz
+964	COA - Instituto Tecnológico Superior de Monclova
+966	COA - Instituto Tecnológico Superior de San Pedro de las Colonias
+11421	COA - Jefatura De La Oficina Del Ejecutivo
+1017	COA - Jiménez
+1018	COA - Juárez
+967	COA - Junta Local de Conciliación y Arbitraje
+1019	COA - Lamadrid
+1020	COA - Matamoros
+31889	COA - Mejora Coahuila
+1021	COA - Monclova
+1022	COA - Morelos
+1023	COA - Muzquiz
+1024	COA - Nadadores
+1025	COA - Nava
+1026	COA - Ocampo
+1027	COA - Parras
+11433	COA - Partido Acción Nacional
+11432	COA - Partido Morena
+11434	COA - Partido Revolucionario Institucional
+3105	COA - Partido Unidad Democrática de Coahuila
+3103	COA - Partido Verde Ecologista
+968	COA - Periódico Oficial
+1028	COA - Piedras Negras
+12590	COA - Poder Judicial del Estado
+970	COA - Procuraduría de Niños, Niñas y la Familia (PRONNIF)
+1029	COA - Progreso
+971	COA - Promotora para el Desarrollo Minero
+972	COA - Promotora para el Desarrollo Rural
+1030	COA - Ramos Arizpe
+973	COA - Registro Civil
+1031	COA - Sabinas
+1032	COA - Sacramento
+1033	COA - Saltillo
+1034	COA - San Buenaventura
+1035	COA - San Juan de Sabinas
+1036	COA - San Pedro
+975	COA - Secretaría de Cultura
+977	COA - Secretaría de Desarrollo Rural
+976	COA - Secretaría de Economía
+979	COA - Secretaría de Educación
+980	COA - Secretaría de Finanzas
+981	COA - Secretaría de Fiscalización y Rendición de Cuentas
+983	COA - Secretaría de Gobierno
+978	COA - Secretaría de Inclusión y Desarrollo Social
+984	COA - Secretaría de Infraestructura, Desarrollo Urbano y Movilidad
+986	COA - Secretaría de las Mujeres
+21297	COA - Secretaria De La Vivienda y Ordenamiento Territorial
+989	COA - Secretaría del Trabajo
+987	COA - Secretaría de Medio Ambiente
+988	COA - Secretaría de Salud
+945	COA - Secretaría De Seguridad Publica
+20637	COA - Secretaria de Turismo y Desarrollo de Pueblos Magicos
+27684	COA - Secretaría de Vinculación Ciudadana, Proyectos de Innovación Social e Inversión Pública Productiva
+17937	COA - Secretaria Ejecutiva del Sistema Estatal Anticorrupción
+11451	COA - Servicio Médico de los Trabajadores de la Educación
+11427	COA - Servicios de Salud
+990	COA - Servicios Estatales Aeroportuarios
+1037	COA - Sierra Mojada
+1047	COA - SIMAS Acuña
+1048	COA - SIMAS Allende
+1038	COA - SIMAS Arteaga
+1041	COA - SIMAS Cuatrociénegas
+1042	COA - SIMAS Francisco I. Madero
+1043	COA - SIMAS General Cepeda
+1049	COA - SIMAS Matamoros
+1046	COA - SIMAS Monclova-Frontera
+1050	COA - SIMAS Morelos
+11439	COA - SIMAS Múzquiz, San Juan de Sabinas, Sabinas y Progreso
+1044	COA - SIMAS Parras De La Fuente
+1051	COA - SIMAS Piedras Negras
+1052	COA - SIMAS Sabinas
+1045	COA - SIMAS San Buenaventura
+1053	COA - SIMAS San Pedro
+1054	COA - SIMAS Torreón
+991	COA - SIMAS Torreón-Matamoros-Viesca
+11453	COA - Sindicato Nacional de Trabajadores de la Educación Sección 35 (SNTE 35)
+11454	COA - Sindicato Nacional de Trabajadores de la Educación Sección 38 (SNTE 38)
+11457	COA - Sindicato Único de Empleados y Trabajadores al Servicio del Republicano Ayuntamiento de Torreón
+11459	COA - Sindicato Unico de Trabajadores al Servicio del Municipio de San Pedro
+11456	COA - Sindicato Único de Trabajadores del Gobierno del Estado (SUTGE)
+11458	COA - Sindicato Único Estatal de los Trabajadores al Servicio del Sistema para el Desarrollo Integral de la Familia (DIF)
+13452	COA - Sistema Integral de Mantenimiento Vial de Torreón
+992	COA - Sistema para el Desarrollo Integral de la Familia (DIF)
+19441	COA - Teatro Nazas
+12608	COA - Torreón
+17859	COA - Tribunal de Conciliación y Arbitraje del Poder Judicial del Estado de Coahuila
+17657	COA - Tribunal de Justicia Administrativa
+15170	COA - Tribunal Electoral de Coahuila
+11428	COA - Unidad del Patrimonio de la Beneficencia Pública en Coahuila
+3098	COA - Universidad Autónoma de Coahuila
+993	COA - Universidad Politécnica de la Región Laguna
+13770	COA - Universidad Politécnica de Monclova
+19317	COA - Universidad Politécnica de Piedras Negras
+11424	COA - Universidad Politécnica de Ramos Arizpe
+20938	COA - Universidad Tecnologica De Ciudad Acuña
+11423	COA - Universidad Tecnológica de Coahuila
+995	COA - Universidad Tecnológica de la Región Carbonifera
+11422	COA - Universidad Tecnológica de la Región Centro de Coahuila
+998	COA - Universidad Tecnológica del Norte de Coahuila
+22297	COA - Universidad Tecnológica de Parras
+996	COA - Universidad Tecnológica de Saltillo
+997	COA - Universidad Tecnológica de Torreón
+1056	COA - Viesca
+1057	COA - Villa Unión
+1058	COA - Zaragoza

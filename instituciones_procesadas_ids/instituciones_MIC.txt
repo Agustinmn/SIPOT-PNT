@@ -1,0 +1,274 @@
+3422	MIC - ACUITZIO
+3423	MIC - AGUILILLA
+3424	MIC - ÁLVARO OBREGÓN
+3425	MIC - ANGAMACUTIRO
+3426	MIC - ANGANGUEO
+3427	MIC - APATZINGÁN
+3428	MIC - APORO
+3429	MIC - AQUILA
+3430	MIC - ARIO DE ROSALES
+12771	MIC - ARTEAGA
+3420	MIC - Auditoría Superior de Michoacán
+3486	MIC - Ayuntamiento de Penjamillo
+3431	MIC - BRISEÑAS
+3432	MIC - BUENAVISTA
+3433	MIC - CARÁCUARO
+3375	MIC - Casa de las Artesanías
+26597	MIC - Casa Estatal del Adulto Mayor
+29226	MIC - Centro de Conciliación Laboral del Estado de Michoacán
+3347	MIC - Centro de Convenciones de Morelia
+3348	MIC - Centro Estatal de Certificación, Acreditación y Control de Confianza
+13994	MIC - Centro Estatal de Fomento Ganadero del Estado de Michoacán de Ocampo
+3350	MIC - Centro Estatal para el Desarrollo Municipal
+3434	MIC - CHARAPAN
+3435	MIC - CHARO
+3436	MIC - CHAVINDA
+3438	MIC - CHILCHOTA
+3439	MIC - CHINICUILA
+3440	MIC - CHUCÁNDIRO
+3441	MIC - CHURINTZIO
+3442	MIC - CHURUMUCO
+3443	MIC - COAHUAYANA
+3444	MIC - COALCOMÁN
+3445	MIC - COENEO
+3446	MIC - COJUMATLÁN
+3351	MIC - Colegio de Bachilleres del Estado de Michoacán
+3352	MIC - Colegio de Educación Profesional Técnica del Estado de Michoacán
+3353	MIC - Colegio de Estudios Cientificos y Tecnológicos del Estado de Michoacán
+3415	MIC - Comisión de Agua Potable, Alcantarillado y Saneamiento del Municipio de Uruapan Michoacán (CAPASU)
+3356	MIC - Comisión de Pesca del Estado
+12815	MIC - COMISIÓN EJECUTIVA ESTATAL DE ATENCIÓN A VICTIMAS
+3359	MIC - Comisión Estatal de Agua y Gestión de Cuencas
+3358	MIC - Comisión Estatal de Arbitraje Médico de Michoacán
+12816	MIC - COMISIÓN ESTATAL DE CULTURA FÍSICA Y DEPORTE
+3528	MIC - Comisión Estatal de los Derechos Humanos, Michoacán
+18117	MIC - Comisión Estatal para el Desarrollo de los Pueblos Indígenas
+3360	MIC - Comisión Forestal del Estado del Estado de Michoacán
+3361	MIC - Comité de Adquisiciones del Poder Ejecutivo
+13551	MIC - Comité de Agua Potable y Alcantarillado de Acuitzio
+12817	MIC - Comité de Agua Potable y Alcantarillado Lázaro Cárdenas
+3362	MIC - Compañía Inmobiliaria Fomento Turístico de Michoacán, S.A. de C.V.
+3421	MIC - Congreso del Estado de Michoacán
+29867	MIC - Consejo Económico y Social de Michoacán
+18125	MIC - Consejo Estatal Para Prevenir y Eliminar la Discriminación y la Violencia
+3437	MIC - Consejo Mayor del Gobierno Comunal del Municipio de Cherán
+3447	MIC - CONTEPEC
+18124	MIC - Coordinación del Sistema Penitenciario del Estado de Michoacán de Ocampo
+18118	MIC - Coordinación de Planeación para el Desarrollo del Estado de Michoacán
+3448	MIC - COPÁNDARO
+3449	MIC - COTIJA
+3450	MIC - CUITZEO
+3366	MIC - Despacho del Gobernador
+3367	MIC - Dirección de Pensiones Civiles del Estado
+3451	MIC - ECUANDUREO
+3452	MIC - EPITACIO HUERTA
+3453	MIC - ERONGARÍCUARO
+13990	MIC - Fideicomiso de Garantía Agropecuaria Complementaria para el Estado de Michoacán
+3368	MIC - Fideicomiso de Impulso y Desarrollo para el Estado de Michoacán de Ocampo.
+21557	MIC - Fiscalía General del Estado de Michoacán
+3369	MIC - Fomento Turístico de Michoacán
+13991	MIC - Fondo de Apoyo a la Actividad Artesanal Complementaria para el Estado de Michoacán
+19137	MIC - Fondo Mixto Para El Fomento Industrial De Michoacán
+3454	MIC - GABRIEL ZAMORA
+12772	MIC - HIDALGO
+3455	MIC - HUANDACAREO
+3456	MIC - HUANIQUEO
+3457	MIC - HUETAMO
+3458	MIC - HUIRAMBA
+3459	MIC - INDAPARAPEO
+3371	MIC - Instituto de Capacitación para el Trabajo del Estado de Michoacán
+18123	MIC - Instituto de Ciencia, Tecnología e Innovación del Estado de Michoacán
+29066	MIC - Instituto de Educación Media Superior y Superior del Estado de Michoacán
+3372	MIC - Instituto de La Defensoría Pública del Estado de Michoacán
+3397	MIC - Instituto de la Juventud Michoacana
+3354	MIC - Instituto del Transporte del Estado de Michoacán
+3374	MIC - Instituto de Vivienda del Estado de Michoacán de Ocampo
+3529	MIC - Instituto Electoral de Michoacán
+18121	MIC - Instituto Estatal de Estudios Superiores en Seguridad y Profesionalización Policial del Estado de Michoacán de Ocampo
+3376	MIC - Instituto Michoacano de Ciencias de la Educación
+3530	MIC - Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales
+24077	MIC - Instituto Municipal de Planeación de Uruapan Michoacán
+26937	MIC - Instituto Registral y Catastral del Estado de Michoacán de Ocampo
+3386	MIC - Instituto Tecnológico de Estudios Superiores de Zamora
+3377	MIC - Instituto Tecnológico Superior de Apatzingán
+3378	MIC - Instituto Tecnológico Superior de Ciudad Hidalgo
+3379	MIC - Instituto Tecnológico Superior de Coalcomán
+3380	MIC - Instituto Tecnológico Superior de Huetamo
+3381	MIC - Instituto Tecnológico Superior de Los Reyes, Michoacán
+3382	MIC - Instituto Tecnológico Superior de Pátzcuaro, Michoacán
+3383	MIC - Instituto Tecnológico Superior de Puruándiro
+3384	MIC - Instituto Tecnológico Superior de Tacámbaro
+3385	MIC - Instituto Tecnológico Superior de Uruapan
+3387	MIC - Instituto Tecnológico Superior P'urhépecha
+3460	MIC - IRIMBO
+3461	MIC - IXTLÁN
+3462	MIC - JACONA
+12773	MIC - JIMÉNEZ
+3463	MIC - JIQUILPAN
+3464	MIC - JOSÉ SIXTO VERDUZCO
+12810	MIC - JUÁREZ
+3465	MIC - JUNGAPEO
+12820	MIC - JUNTA DE ASISTENCIA PRIVADA DEL ESTADO DE MICHOACÁN DE OCAMPO
+12822	MIC - JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE
+3468	MIC - LAGUNILLAS
+3466	MIC - LA HUACANA
+3467	MIC - LA PIEDAD
+3469	MIC - LÁZARO CÁRDENAS
+3470	MIC - LOS REYES
+3471	MIC - MADERO
+3472	MIC - MARAVATÍO
+3473	MIC - MARCOS CASTELLANOS
+30308	MIC - Más Michoacán
+30309	MIC - Michoacán Primero
+3474	MIC - MORELIA
+12812	MIC - MORELOS
+3475	MIC - MÚGICA
+3476	MIC - NAHUATZEN
+3477	MIC - NOCUPÉTARO
+3480	MIC - Nuevo Parangaricutiro
+3478	MIC - NUEVO URECHO
+3479	MIC - NUMARÁN
+12813	MIC - OCAMPO
+3417	MIC - Organismo Operador de Agua Potable, Alcantarillado y Saneamiento de Morelia
+3389	MIC - Orquesta Sinfónica de Michoacán
+3481	MIC - PAJACUARÁN
+3482	MIC - PANINDÍCUARO
+3483	MIC - PARACHO
+3484	MIC - PARÁCUARO
+3390	MIC - Parque Zoológico "Benito Juárez"
+12823	MIC - PARTIDO ACCIÓN NACIONAL
+12825	MIC - PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+12826	MIC - PARTIDO DEL TRABAJO
+28385	MIC - Partido Encuentro Solidario Michoacán
+12829	MIC - PARTIDO MOVIMIENTO CIUDADANO
+12831	MIC - PARTIDO MOVIMIENTO REGENERACIÓN NACIONAL
+12833	MIC - Partido Revolucionario Institucional
+12834	MIC - PARTIDO VERDE ECOLOGISTA DE MÉXICO
+3485	MIC - PÁTZCUARO
+3487	MIC - PERIBÁN
+3418	MIC - Poder Judicial del Estado de Michoacán
+18119	MIC - Policía Auxiliar del Estado de Michoacán de Ocampo
+3391	MIC - Procuraduría de Protección al Ambiente de Michoacán de Ocampo
+19877	MIC - Pro Mantenimiento del Sistema de Agua Potable, Alcantarillado y Saneamiento del Municipio de Pátzcuaro,Michoacán
+3488	MIC - PURÉPERO
+3489	MIC - PURUÁNDIRO
+3490	MIC - QUERÉNDARO
+3491	MIC - QUIROGA
+3492	MIC - SAHUAYO
+3493	MIC - SALVADOR ESCALANTE
+12814	MIC - SAN LUCAS
+3494	MIC - SANTA ANA MAYA
+3394	MIC - Secretaría de Agricultura y Desarrollo Rural
+12835	MIC - Secretaría de Comunicaciones y Obras Públicas
+12836	MIC - Secretaría de Contraloría
+12837	MIC - Secretaría de Cultura
+12838	MIC - Secretaría de Desarrollo Económico
+12839	MIC - SECRETARIA DE DESARROLLO URBANO Y MOVILIDAD
+12841	MIC - Secretaría de Educación
+12842	MIC - SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN
+12843	MIC - SECRETARÍA DE GOBIERNO
+3395	MIC - Secretaría de Igualdad Sustantiva y Desarrollo de las Mujeres Michoacanas
+3398	MIC - SECRETARÍA DEL BIENESTAR
+12845	MIC - Secretaría del Medio Ambiente
+3402	MIC - Secretaría del Migrante
+3400	MIC - Secretaría de Salud de Michoacán
+12846	MIC - SECRETARÍA DE SEGURIDAD PÚBLICA
+12847	MIC - Secretaría de Turismo
+12849	MIC - SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
+20157	MIC - Secretaria Ejecutiva Del Sistema Estatal Anticorrupción
+18126	MIC - Secretaría Ejecutiva del Sistema Estatal de Protección de Niñas, Niños y Adolescentes de Michoacán
+3495	MIC - SENGUIO
+30708	MIC - Servicio de Administración Tributaría del Estado de Michoacán
+18035	MIC - Sindicato de Empleado de l H. Ayuntamiento, Sistema de Agua Potable, Alcantarillado y Saneamiento y Dif Municipal de La Piedad, Micho...
+18046	MIC - Sindicato de Empleados "Benito Juárez" del H. Ayuntamiento de Zamora
+18047	MIC - Sindicato de empleados del Ayuntamiento de Zamora Francisco J. Mújica
+18036	MIC - Sindicato de Empleados del H. Ayuntamiento, COMAPAM, DIF y Unidad Deportiva Municipales de Maravatío Michoacán
+18041	MIC - Sindicato de Empleados del H. Ayuntamiento, organismos dependientes y descentralizados de Tacambaro Michoacán
+18013	MIC - Sindicato de Empleados del H. Ayuntamiento, Organismos Municipales Dependientes y Descentralizados de Quiroga, Michoacán.
+18030	MIC - Sindicato de Empleados del H. Ayuntamiento de Buenavista Tomatlán Michoacán
+18034	MIC - Sindicato de Empleados del H. Ayuntamiento de Lázaro Cárdenas Michoacán
+18039	MIC - Sindicato de Empleados del H. Ayuntamiento de Parácuaro, Michoacán
+18042	MIC - Sindicato de Empleados del H. Ayuntamiento de Taretan
+18045	MIC - Sindicato de Empleados del H. Ayuntamiento de Zacapu, Michoacán (S.E.H.A.Z.)
+18048	MIC - Sindicato de Empleados del H. Ayuntamiento de Zitácuaro
+18028	MIC - Sindicato de Empleados del H Ayuntamiento de Aguililla , Michoacán
+18012	MIC - Sindicato de Empleados Municipales, Administrativos y conexos de Morelia. (SEMACM)
+18029	MIC - Sindicato de Empleados Municipales del H. Ayuntamiento de Arteaga Michoacán
+18032	MIC - Sindicato de Empleados Municipales del H. Ayuntamiento de Erongarícuaro, Michoacán
+18011	MIC - Sindicato de Limpia y Transportes
+31568	MIC - Sindicato de Maestros de Empleados del Instituto Superior de Uruapan
+18019	MIC - Sindicato de Médicos, Enfermeras, Trabajadores y Administrativos del Organismo Descentralizado de Salud en el Estado de Michoacán. C...
+18010	MIC - Sindicato Demócrata de Empleados Municipales de Morelia (SIDEMM)
+18024	MIC - Sindicato de Profesores de la Universidad Michoacana (SPUM)
+18018	MIC - Sindicato de Trabajadores al Servicio del Poder Ejecutivo STASPE
+3535	MIC - Sindicato de Trabajadores Asalariados del Organismo Operador de Agua Potable, Alcantarillado y Saneamiento de Morelia (STAOOAPAS - S...
+18015	MIC - Sindicato de Trabajadores de la Comisión de Agua Potable, Alcantarillado y Saneamiento de Uruapan (SUTCAP)
+18038	MIC - Sindicato de Trabajadores del H. Ayuntamiento de Pátzcuaro, Michoacán "Vasco de Quiroga"
+18040	MIC - Sindicato de Trabajadores del H. Ayuntamiento de Santa Clara del Cobre, Michoacán
+18043	MIC - Sindicato de Trabajadores del H. Ayuntamiento de Tepalcatepec, Michoacán "Lic. Ramiro García Sánchez"
+18021	MIC - Sindicato de Trabajadores Descentralizados de Servicios de Salud de Michoacán "General Lázaro Cárdenas"
+18033	MIC - Sindicato de Trabajadores y Empleados del Ayuntamiento de Ciudad Hidalgo, Michoacán, adherido a la CROC
+18050	MIC - Sindicato Independiente de Trabajadores del Colegio de Bachilleres del Estado de Michoacán.
+18022	MIC - Sindicato Independiente de Trabajadores del Sector Salud de Michoacán de Ocampo (SITSSMO)
+18025	MIC - Sindicato Único de Empleados de la Universidad Michoacana (SUEUM)
+18049	MIC - Sindicato Único de Empleados Municipales de Zitácuaro, Mich y Organismo Publico Descentralizado
+18055	MIC - Sindicato Unico del Instituto Tecnológico Superior de Pátzcuaro, Michoacán
+18037	MIC - Sindicato Único de Servidores Públicos del H. Ayuntamiento, Comité de Agua Potable, Alcantarillado y Saneamiento y DIF Municipal de M...
+18052	MIC - Sindicato Único de Trabajadores Académicos del Colegio de Educación Profesional Técnica de Michoacán
+18026	MIC - Sindicato Único de Trabajadores al Servicio del Poder Judicial del Estado de Michoacán (SUTASPJEM)
+18023	MIC - Sindicato Único de Trabajadores de la Universidad Tecnológica de Morelia (SUTUTEM)
+18053	MIC - Sindicato Único de Trabajadores del Instituto de la Infraestructura Física del Estado de Michoacán
+18020	MIC - Sindicato Único de Trabajadores del Organismo Público Descentralizado Servicios de Salud de Michoacán.
+27723	MIC - Sindicato Único de Trabajadores del Telebachillerato Michoacán
+18054	MIC - Sindicato Único de Trabajadores ITS Coalcomán
+18014	MIC - Sindicato único de Trabajadores y Empleados Municipales del H. ayuntamiento de Uruapan, Michoacán
+3404	MIC - Sistema Integral de Financiamiento para el Desarrollo de Michoacán
+3405	MIC - Sistema Michoacano de Radio y Televisión
+3406	MIC - Sistema para el Desarrollo Integral de la Familia, Michoacán
+18785	MIC - Sujeto Obligado Prueba I
+18823	MIC - Sujeto Obligado Pruebas E
+3496	MIC - Susupuato de Guerrero
+3497	MIC - TACÁMBARO
+3498	MIC - TANCÍTARO
+3499	MIC - TANGAMANDAPIO
+3500	MIC - TANGANCÍCUARO
+3501	MIC - TANHUATO
+3502	MIC - TARETAN
+3503	MIC - TARÍMBARO
+3407	MIC - Telebachillerato, Michoacán
+3504	MIC - TEPALCATEPEC
+30310	MIC - Tiempo x México
+3505	MIC - TINGAMBATO
+3506	MIC - TINGÜINDÍN
+3507	MIC - TIQUICHEO
+3508	MIC - TLALPUJAHUA
+3509	MIC - TLAZAZALCA
+3510	MIC - TOCUMBO
+3408	MIC - Tribunal de Conciliación y Arbitraje Del Estado De Michoacán
+3531	MIC - Tribunal de Justicia Administrativa de Michoacán de Ocampo
+3532	MIC - Tribunal Electoral del Estado de Michoacán
+3511	MIC - TUMBISCATÍO
+3512	MIC - TURICATO
+3513	MIC - TUXPAN
+3514	MIC - TUZANTLA
+3515	MIC - TZINTZUNTZAN
+3516	MIC - TZITZIO
+3409	MIC - Universidad De La Ciénega Del Estado De Michoacán De Ocampo
+3410	MIC - Universidad Intercultural Indígena de Michoacán
+3533	MIC - Universidad Michoacana de San Nicolás de Hidalgo
+3411	MIC - Universidad Politécnica de Lázaro Cárdenas, Michoacán
+3412	MIC - Universidad Politécnica de Uruapan, Michoacán
+18122	MIC - Universidad Tecnológica del Oriente de Michoacán
+3413	MIC - Universidad Tecnológica de Morelia
+3414	MIC - Universidad Virtual del Estado de Michoacán de Ocampo
+3517	MIC - URUAPAN
+3518	MIC - VENUSTIANO CARRANZA
+3519	MIC - VILLAMAR
+3520	MIC - VISTA HERMOSA
+3521	MIC - YURÉCUARO
+3522	MIC - ZACAPU
+3523	MIC - ZAMORA
+3524	MIC - ZINÁPARO
+3525	MIC - ZINAPÉCUARO
+3526	MIC - ZIRACUARETIRO
+3527	MIC - ZITÁCUARO

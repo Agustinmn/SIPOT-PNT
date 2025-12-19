@@ -1,0 +1,479 @@
+15380	MEX - (OASCUATLANIZCALLI)Organismo Público Descentralizado Municipal para la Prestación de los Servicios de Agua Potable, Alcantarillado y ...
+15401	MEX - (OASVALLECHALCO)Organismo Descentralizado de Agua Potable Alcantarillado y Saneamiento de Valle de Chalco Solidaridad
+15334	MEX - Agrupación de Trabajadores Académicos al Servicio del Colegio de Estudios Científicos y Tecnológicos del Estado de México
+15340	MEX - Asociación de Personal Administrativo del CECyTEM
+28909	MEX - Asociación de Servidores Públicos Académicos y Administrativos de la Universidad Tecnológica del Sur del Estado de México
+3208	MEX - Ayuntamiento de Acambay de Ruíz Castañeda
+3209	MEX - Ayuntamiento de Acolman
+3210	MEX - Ayuntamiento de Aculco
+3211	MEX - Ayuntamiento de Almoloya de Alquisiras
+3212	MEX - Ayuntamiento de Almoloya de Juárez
+3213	MEX - Ayuntamiento de Almoloya del Río
+3214	MEX - Ayuntamiento de Amanalco
+3215	MEX - Ayuntamiento de Amatepec
+3216	MEX - Ayuntamiento de Amecameca
+3217	MEX - Ayuntamiento de Apaxco
+3218	MEX - Ayuntamiento de Atenco
+3219	MEX - Ayuntamiento de Atizapán
+3220	MEX - Ayuntamiento de Atizapán de Zaragoza
+3221	MEX - Ayuntamiento de Atlacomulco
+3222	MEX - Ayuntamiento de Atlautla
+3223	MEX - Ayuntamiento de Axapusco
+3224	MEX - Ayuntamiento de Ayapango
+3225	MEX - Ayuntamiento de Calimaya
+3226	MEX - Ayuntamiento de Capulhuac
+3227	MEX - Ayuntamiento de Chalco
+3228	MEX - Ayuntamiento de Chapa de Mota
+3229	MEX - Ayuntamiento de Chapultepec
+3230	MEX - Ayuntamiento de Chiautla
+3231	MEX - Ayuntamiento de Chicoloapan
+3232	MEX - Ayuntamiento de Chiconcuac
+3233	MEX - Ayuntamiento de Chimalhuacán
+3234	MEX - Ayuntamiento de Coacalco de Berriozábal
+3235	MEX - Ayuntamiento de Coatepec Harinas
+3236	MEX - Ayuntamiento de Cocotitlán
+3237	MEX - Ayuntamiento de Coyotepec
+3238	MEX - Ayuntamiento de Cuautitlán
+3239	MEX - Ayuntamiento de Cuautitlán Izcalli
+3240	MEX - Ayuntamiento de Donato Guerra
+3241	MEX - Ayuntamiento de Ecatepec de Morelos
+3242	MEX - Ayuntamiento de Ecatzingo
+3243	MEX - Ayuntamiento de el Oro
+3244	MEX - Ayuntamiento de Huehuetoca
+3245	MEX - Ayuntamiento de Hueypoxtla
+3246	MEX - Ayuntamiento de Huixquilucan
+3247	MEX - Ayuntamiento de Isidro Fabela
+3248	MEX - Ayuntamiento de Ixtapaluca
+3249	MEX - Ayuntamiento de Ixtapan de la Sal
+3250	MEX - Ayuntamiento de Ixtapan del Oro
+3251	MEX - Ayuntamiento de Ixtlahuaca
+3252	MEX - Ayuntamiento de Jaltenco
+3253	MEX - Ayuntamiento de Jilotepec
+3254	MEX - Ayuntamiento de Jilotzingo
+3255	MEX - Ayuntamiento de Jiquipilco
+3256	MEX - Ayuntamiento de Jocotitlán
+3257	MEX - Ayuntamiento de Joquicingo
+3258	MEX - Ayuntamiento de Juchitepec
+3259	MEX - Ayuntamiento de la Paz
+3260	MEX - Ayuntamiento de Lerma
+3261	MEX - Ayuntamiento de Luvianos
+3262	MEX - Ayuntamiento de Malinalco
+3263	MEX - Ayuntamiento de Melchor Ocampo
+13170	MEX - Ayuntamiento de Metepec
+3264	MEX - Ayuntamiento de Mexicaltzingo
+11404	MEX - Ayuntamiento de Morelos
+3265	MEX - Ayuntamiento de Naucalpan de Juárez
+3266	MEX - Ayuntamiento de Nextlalpan
+3267	MEX - Ayuntamiento de Nezahualcóyotl
+3268	MEX - Ayuntamiento de Nicolás Romero
+3269	MEX - Ayuntamiento de Nopaltepec
+3270	MEX - Ayuntamiento de Ocoyoacac
+3271	MEX - Ayuntamiento de Ocuilan
+3272	MEX - Ayuntamiento de Otumba
+3273	MEX - Ayuntamiento de Otzoloapan
+3274	MEX - Ayuntamiento de Otzolotepec
+3275	MEX - Ayuntamiento de Ozumba
+3276	MEX - Ayuntamiento de Papalotla
+3277	MEX - Ayuntamiento de Polotitlán
+11405	MEX - Ayuntamiento de Rayón
+3278	MEX - Ayuntamiento de San Antonio la Isla
+3279	MEX - Ayuntamiento de San Felipe del Progreso
+3280	MEX - Ayuntamiento de San José del Rincón
+3281	MEX - Ayuntamiento de San Martín de Las Pirámides
+3282	MEX - Ayuntamiento de San Mateo Atenco
+3283	MEX - Ayuntamiento de San Simón de Guerrero
+3284	MEX - Ayuntamiento de Santo Tomas
+3285	MEX - Ayuntamiento de Soyaniquilpan de Juárez
+3286	MEX - Ayuntamiento de Sultepec
+3287	MEX - Ayuntamiento de Tecámac
+3288	MEX - Ayuntamiento de Tejupilco
+3289	MEX - Ayuntamiento de Temamatla
+3290	MEX - Ayuntamiento de Temascalapa
+3291	MEX - Ayuntamiento de Temascalcingo
+3292	MEX - Ayuntamiento de Temascaltepec
+3293	MEX - Ayuntamiento de Temoaya
+3294	MEX - Ayuntamiento de Tenancingo
+3295	MEX - Ayuntamiento de Tenango del Aire
+3296	MEX - Ayuntamiento de Tenango del Valle
+3297	MEX - Ayuntamiento de Teoloyucan
+3298	MEX - Ayuntamiento de Teotihuacán
+3299	MEX - Ayuntamiento de Tepetlaoxtoc
+3300	MEX - Ayuntamiento de Tepetlixpa
+3301	MEX - Ayuntamiento de Tepotzotlán
+3302	MEX - Ayuntamiento de Tequixquiac
+3303	MEX - Ayuntamiento de Texcaltitlán
+3304	MEX - Ayuntamiento de Texcalyacac
+3305	MEX - Ayuntamiento de Texcoco
+3306	MEX - Ayuntamiento de Tezoyuca
+3307	MEX - Ayuntamiento de Tianguistenco
+3308	MEX - Ayuntamiento de Timilpan
+3309	MEX - Ayuntamiento de Tlalmanalco
+3310	MEX - Ayuntamiento de Tlalnepantla de Baz
+3311	MEX - Ayuntamiento de Tlatlaya
+3312	MEX - Ayuntamiento de Toluca
+3313	MEX - Ayuntamiento de Tonanitla
+3314	MEX - Ayuntamiento de Tonatico
+3315	MEX - Ayuntamiento de Tultepec
+3316	MEX - Ayuntamiento de Tultitlan
+3317	MEX - Ayuntamiento de Valle de Bravo
+3318	MEX - Ayuntamiento de Valle de Chalco Solidaridad
+3319	MEX - Ayuntamiento de Villa de Allende
+3320	MEX - Ayuntamiento de Villa del Carbón
+3321	MEX - Ayuntamiento de Villa Guerrero
+3322	MEX - Ayuntamiento de Villa Victoria
+3323	MEX - Ayuntamiento de Xalatlaco
+3324	MEX - Ayuntamiento de Xonacatlán
+3325	MEX - Ayuntamiento de Zacazonapan
+3326	MEX - Ayuntamiento de Zacualpan
+3327	MEX - Ayuntamiento de Zinacantepec
+3328	MEX - Ayuntamiento de Zumpahuacán
+3329	MEX - Ayuntamiento de Zumpango
+3111	MEX - Banco de Tejidos del Estado de México
+26580	MEX - Centro de Conciliación Laboral del Estado de México
+3112	MEX - Centro de Control de Confianza del Estado de México
+16390	MEX - Centro Regional de Formación Docente e Investigación Educativa
+3113	MEX - Colegio de Bachilleres del Estado de México
+3114	MEX - Colegio de Educación Profesional Técnica de Estado de México
+13046	MEX - Colegio de Estudios Científicos y Tecnológicos del Estado de México
+3115	MEX - Comisión de Conciliación y Arbitraje Médico del Estado de México
+3330	MEX - Comisión de Derechos Humanos del Estado de México
+3116	MEX - Comisión del Agua del Estado de México
+3117	MEX - Comisión Estatal de Parques Naturales y de la Fauna
+3161	MEX - Comisión Estatal de Seguridad Ciudadana
+3118	MEX - Comisión para el Desarrollo Turístico del Valle de Teotihuacán
+17738	MEX - Comisión para la Protección Contra Riesgos Sanitarios del Estado de México
+3119	MEX - Comisión Técnica del Agua del Estado de México
+19018	MEX - Comité de Planeación para el Desarrollo del Estado de México
+31091	MEX - Consejería Jurídica
+3121	MEX - Consejería Jurídica del Ejecutivo Estatal
+3122	MEX - Consejo de Investigación y Evaluación de la Política Social
+3123	MEX - Consejo Estatal de la Mujer y Bienestar Social
+3124	MEX - Consejo Estatal para el Desarrollo Integral de los Pueblos Indígenas del Estado de México
+3125	MEX - Consejo Mexiquense de Ciencia y Tecnología
+12911	MEX - Coordinacion General de Comunicación Social
+23797	MEX - El Colegio Mexiquense A. C.
+16053	MEX - Federación de Asociaciones Autónomas de Personal Académico de la Universidad Autónoma del Estado de México
+12212	MEX - Fideicomiso Irrevocable para la Administración del Fondo de Retiro Para los Servidores Públicos de los Organismos Auxiliares del Pode...
+3728	MEX - Fideicomiso para el Desarrollo de Parques Industriales del Estado de México FIDEPAR
+3727	MEX - Fideicomiso Público Irrevocable de Administración, Financiamiento, Inversión y Pago para la Construcción de Centros Preventivos y de ...
+15371	MEX - Fiscalía General de Justicia del Estado de México
+26578	MEX - Fuerza Social Por México
+3126	MEX - Gubernatura
+3127	MEX - Hospital Regional de Alta Especialidad de Zumpango
+15513	MEX - Inspección General de las Instituciones de Seguridad Pública del Estado de México
+26582	MEX - Instituto de Administración Pública del Estado de México
+3129	MEX - Instituto de Capacitación y Adiestramiento para el Trabajo Industrial
+3130	MEX - Instituto de Evaluación Educativa del Estado de México
+3131	MEX - Instituto de fomento minero y estudios geológicos del Estado de México
+3132	MEX - Instituto de Información Geográfica, Estadística y Catastral del Estado de México
+3133	MEX - Instituto de Investigación y Capacitación Agropecuaria, Acuicola y Forestal del Estado de México
+3134	MEX - Instituto de Investigación y Fomento de las Artesanías del Estado de México
+3135	MEX - Instituto de la Función Registral del Estado de México
+29606	MEX - Instituto de Políticas Públicas del Estado de México y sus Municipios
+3136	MEX - Instituto de Salud del Estado de México
+3137	MEX - Instituto de Seguridad Social del Estado de México y Municipios
+3331	MEX - Instituto de Transparencia y Acceso a la Información Pública del Estado de México y Municipios
+3332	MEX - Instituto Electoral del Estado de México
+3138	MEX - Instituto Estatal de Energía y Cambio Climático
+3139	MEX - Instituto Hacendario del Estado de México
+3140	MEX - Instituto Materno Infantil del Estado de México
+3141	MEX - Instituto Mexiquense de Cultura
+3142	MEX - Instituto Mexiquense de Cultura Física y Deporte
+3143	MEX - Instituto Mexiquense de la Infraestructura Física Educativa
+3144	MEX - Instituto Mexiquense de la Juventud
+3145	MEX - Instituto Mexiquense de la Pirotecnia
+3146	MEX - Instituto Mexiquense de la Vivienda Social
+3148	MEX - Instituto Mexiquense del Emprendedor
+3147	MEX - Instituto Mexiquense de Seguridad y Justicia
+27323	MEX - Instituto Mexiquense para la Discapacidad
+20577	MEX - Instituto Mexiquense para la Protección e Integración al Desarrollo de las Personas con Discapacidad
+31290	MEX - Instituto Municipal de Cultura Física y Deporte de Acolman
+31792	MEX - Instituto Municipal de Cultura Física y Deporte de Aculco
+31349	MEX - Instituto Municipal de Cultura Física y Deporte de Almoloya de Juárez
+31410	MEX - Instituto Municipal de Cultura Física y Deporte de Atlacomulco
+31793	MEX - Instituto Municipal de Cultura Física y Deporte de Atlautla
+31508	MEX - Instituto Municipal de Cultura Física y Deporte de Chalco
+31352	MEX - Instituto Municipal de Cultura Física y Deporte de Chicoloapan
+31796	MEX - Instituto Municipal de Cultura Física y Deporte de Chimalhuacán
+31794	MEX - Instituto Municipal de Cultura Física y Deporte de Coacalco de Berriozábal
+31795	MEX - Instituto Municipal de Cultura Física y Deporte de Cocotitlán
+31275	MEX - Instituto Municipal de Cultura Física y Deporte de Ecatepec
+31280	MEX - Instituto Municipal de Cultura Física y Deporte de Huehuetoca
+31278	MEX - Instituto Municipal de Cultura Física y Deporte de Huixquilucan
+31733	MEX - Instituto Municipal de Cultura Física y Deporte de Ixtapaluca
+31797	MEX - Instituto Municipal de Cultura Física y Deporte de Jaltenco
+31729	MEX - Instituto Municipal de Cultura Física y Deporte de Jilotepec
+31289	MEX - Instituto Municipal de Cultura Física y Deporte de Jilotepec
+31798	MEX - Instituto Municipal de Cultura Física y Deporte de Juchitepec
+31730	MEX - Instituto Municipal de Cultura Física y Deporte de La Paz
+28908	MEX - Instituto Municipal de Cultura Física y Deporte de Lerma
+31279	MEX - Instituto Municipal de Cultura Física y Deporte de Metepec
+31270	MEX - Instituto Municipal de Cultura Física y Deporte de Naucalpan
+31409	MEX - Instituto Municipal de Cultura Física y Deporte de Nezahualcóyotl
+31308	MEX - Instituto Municipal de Cultura Física y Deporte de Nicolás Romero
+31732	MEX - Instituto Municipal de Cultura Física y Deporte de Nicolás Romero
+31351	MEX - Instituto Municipal de Cultura Física y Deporte de Ocoyoacac
+31735	MEX - Instituto Municipal de Cultura Física y Deporte de Otzolotepec
+31530	MEX - Instituto Municipal de Cultura Física y Deporte de San Felipe del Progreso
+31408	MEX - Instituto Municipal de Cultura Física y Deporte de San José del Rincón
+31448	MEX - Instituto Municipal de Cultura Física y Deporte de San Mateo Atenco
+31734	MEX - Instituto Municipal de Cultura Física y Deporte de Tenancingo
+31309	MEX - Instituto Municipal de Cultura Física y Deporte de Tenango del Valle
+31277	MEX - Instituto Municipal de Cultura Física y Deporte de Tepotzotlán
+32738	MEX - Instituto Municipal de Cultura Física y Deporte de Tlalnepantla de Baz
+31273	MEX - Instituto Municipal de Cultura Física y Deporte de Toluca
+31274	MEX - Instituto Municipal de Cultura Física y Deporte de Tultitlán
+31799	MEX - Instituto Municipal de Cultura Física y Deporte de Valle de Bravo
+31271	MEX - Instituto Municipal de Cultura Física y Deporte de Valle de Chalco Solidaridad
+31272	MEX - Instituto Municipal de Cultura Física y Deporte de Zinacantepec
+31288	MEX - Instituto Municipal de Cultura Física y Deporte de Zumpango
+31276	MEX - Instituto Municipal de Cultura Física y Deporte Tecámac
+32737	MEX - Instituto Municipal de la Mujer de Toluca
+31731	MEX - Instituto Municipal del Deporte de Cuautitlán Izcalli
+13042	MEX - Junta de Asistencia Privada
+3149	MEX - Junta de Caminos del Estado de México
+3150	MEX - Junta Local de Conciliación y Arbitraje Valle Cuautitlán-Texcoco
+3151	MEX - Junta Local de Conciliación y Arbitraje Valle de Toluca
+15375	MEX - OASACOLMAN (Organismo Público Descentralizado Municipal para la Prestación de los Servicios de Agua Potable, Drenaje y Tratamiento de...
+15376	MEX - OASALMOLOYADEJUAREZ (Organismo Público Descentralizado Municipal para la Prestación de los Servicios de Agua Potable, Drenaje y Trata...
+15377	MEX - OASATIZAPANDEZARAGOZA (Organismo Público Descentralizado para la Prestación de los Servicios de Agua Potable, Alcantarillado y Saneam...
+15378	MEX - OASATLACOMULCO (Organismo Público Descentralizado de Carácter Municipal para la Prestación de los Servicios de Agua Potable, Alcantar...
+15382	MEX - OASCHALCO (Organismo Descentralizado de Agua Potable, Alcantarillado y Saneamiento del Municipio de Chalco)
+15383	MEX - OASCHICOLOAPAN (Organismo Descentralizado de Agua y Saneamiento de Chicoloapan)
+15384	MEX - OASCHIMALHUACAN (Organismo Público Descentralizado de Agua Potable, Alcantarillado y Saneamiento de Chimalhuacán)
+15379	MEX - OASCOACALCO (Organismo Público Descentralizado para la Prestación de Servicios de Agua Potable, Alcantarillado y Saneamiento de Coaca...
+15381	MEX - OASCUAUTITLAN (Organismo Público descentralizado municipal, para la prestación de servicios de agua potable, drenaje y tratamiento de...
+15889	MEX - OASECATEPEC (Sistema de Agua Potable, Alcantarillado y Saneamiento de Ecatepec de Morelos)
+15386	MEX - OASHUIXQUILUCAN (Organismo Público Descentralizado para la Prestación de los Servicios de Agua Potable, Drenaje y Tratamiento de Agua...
+15387	MEX - OASIXTAPALUCA (Organismo Descentralizado de Agua Potable, Alcantarillado y Saneamiento del Municipio de Ixtapaluca, denominado por su...
+15388	MEX - OASJILOTEPEC (Organismo Público Descentralizado para la prestación de los servicios de Agua Potable, Alcantarillado y Saneamiento del...
+15394	MEX - OASLAPAZ (Organismo Público Descentralizado para la Prestación de los Servicios de Agua Potable, Alcantarillado y Saneamiento del Mun...
+15389	MEX - OASLERMA (Organismo Público Descentralizado para la prestación de los servicios de Agua Potable, Alcantarillado y Saneamiento del Mun...
+15390	MEX - OASMETEPEC (Organismo Público Descentralizado para la Prestación de los Servicios de Agua Potable, Alcantarillado y Saneamiento del M...
+15391	MEX - OASNAUCALPAN (Organismo Público Descentralizado para la Prestación de los Servicios de Agua Potable, Alcantarillado y Saneamiento del...
+15392	MEX - OASNEZAHUALCOYOTL (Organismo Descentralizado de Agua Potable, Alcantarillado y Saneamiento de Nezahualcóyotl)
+15393	MEX - OASNICOLASROMERO (Organismo Público Descentralizado para la Prestación de los Servicios de Agua Potable, Alcantarillado y Saneamiento...
+15395	MEX - OASSANMATEOAT (Organismo Público Descentralizado para la Prestación de los Servicios de Agua Potable, Alcantarillado y Saneamiento de...
+15396	MEX - OASTECAMAC (Organismo Descentralizado para la Prestación de los Servicios del Agua Potable, Alcantarillado y Saneamiento de Tecámac)
+15397	MEX - OASTENANCINGO (Organismo Público Descentralizado para la Prestación de los Servicios de Agua Potable, Alcantarillado y Saneamiento de...
+15398	MEX - OASTENANGODELVALLE (Organismo Público Descentralizado para la Prestación de los Servicios de Agua Potable, Alcantarillado y Saneamien...
+15399	MEX - OASTLALNEPANTLA (Organismo Público Descentralizado para la Prestación de los Servicios de Agua Potable, Alcantarillado y Saneamiento ...
+15374	MEX - OASTOL (Organismo Agua y Saneamiento de Toluca)
+15400	MEX - OASTULTITLAN (Organismo Público Descentralizado para la Prestación de los Servicios de Agua Potable , Alcantarillado y Saneamiento de...
+15402	MEX - OASZINACANTEPEC (Organismo Público Descentralizado para la Prestación de los Servicios de Agua Potable, Alcantarillado y Saneamiento ...
+15403	MEX - OASZUMPANGO (Organismo Público Descentralizado para la prestación de los Servicios de Agua Potable, Alcantarillado y Saneamiento del ...
+31093	MEX - Oficialía Mayor
+31740	MEX - Organismo Público Descentralizado de Agua Potable, Alcantarillado y Saneamiento del Municipio de Ocuilan
+25018	MEX - Organismo Público Descentralizado Municipal para la prestación de los servicios de Agua Potable, Drenaje, Alcantarillado y Saneamient...
+31739	MEX - Organismo Público Descentralizado Municipal para la Prestación de los Servicios de Agua Potable, Drenaje, Alcantarillado y Tratamient...
+31744	MEX - Organismo Público Descentralizado Municipal para la Prestación de los Servicios de Agua Potable, Drenaje, Alcantarillado y Tratamient...
+31741	MEX - Organismo Público Descentralizado Municipal para la Prestación de los Servicios de Agua Potable, Drenaje y Tratamiento de Aguas Resid...
+31737	MEX - Organismo Público Descentralizado para la Prestación de los Servicios de Agua Potable, Alcantarillado y Saneamiento del Municipio de ...
+31743	MEX - Organismo Público Descentralizado para la Prestación de los Servicios de Agua Potable, Alcantarillado y Saneamiento del Municipio de ...
+31745	MEX - Organismo Público Descentralizado para la Prestación de los Servicios de Agua Potable, Alcantarillado y Saneamiento del Municipio de ...
+31742	MEX - Organismo Público Descentralizado para la Prestación de los Servicios de Agua Potable, Alcantarillado y Saneamiento de Teoloyucan
+31738	MEX - Organismo Público Descentralizado para la Prestación de los Servicios de Agua Potable, Drenaje, y Tratamiento de Aguas Residuales del...
+31736	MEX - Organismo Público Descentralizado para la Prestación de los Servicios de Agua Potable, Drenaje y Tratamiento de Aguas Residuales del ...
+3339	MEX - Partido Acción Nacional
+3340	MEX - Partido de la Revolución Democrática
+32558	MEX - Partido de la Revolución Democrática Estado de México
+3341	MEX - Partido del Trabajo
+3335	MEX - Partido Encuentro Social
+25401	MEX - Partido Encuentro Solidario
+3336	MEX - Partido Morena
+3337	MEX - Partido Movimiento Ciudadano
+3338	MEX - Partido Nueva Alianza
+23737	MEX - Partido Nueva Alianza Estado de México
+15353	MEX - Partido Político Virtud Ciudadana
+13172	MEX - Partido Revolucionario Institucional
+3344	MEX - Partido Verde Ecologista de México
+17742	MEX - Partido Vía Radical
+12189	MEX - Poder Judicial
+12188	MEX - Poder Legislativo
+3153	MEX - Procuraduría del Colono del Estado de México
+3152	MEX - Procuraduría de Protección al Ambiente del Estado de México
+3154	MEX - Procuraduría General de Justicia
+3155	MEX - Protectora de Bosques del Estado de México
+17857	MEX - Prueba
+3156	MEX - Reciclagua Ambiental S.A. de C.V.
+26579	MEX - Redes Sociales Progresista
+16052	MEX - Regimen Estatal de Protección Social en Salud
+3162	MEX - Secretaría de Agua y Obra Pública
+31088	MEX - Secretaría de Bienestar
+17743	MEX - Secretaría de Comunicaciones
+3157	MEX - Secretaría de Comunicaciones
+3158	MEX - Secretaría de Cultura del Estado de México
+25400	MEX - Secretaría de Cultura y Turismo
+13053	MEX - Secretaría de Desarrollo Agropecuario
+13040	MEX - Secretaría de Desarrollo Economico
+3159	MEX - Secretaría de Desarrollo Metropolitano
+13041	MEX - Secretaría de Desarrollo Social
+31089	MEX - Secretaría de Desarrollo Urbano e Infraestructura
+25398	MEX - Secretaría de Desarrollo Urbano y Obra
+13044	MEX - Secretaría de Educación
+30928	MEX - Secretaría de Educación, Ciencia, Tecnología e Innovación
+15511	MEX - Secretaría de Finanzas
+16830	MEX - Secretaría de Justicia y Derechos Humanos
+13039	MEX - Secretaría de la Contraloría
+31092	MEX - Secretaría del Agua
+13171	MEX - Secretaría de la Infraestructura
+25397	MEX - Secretaría de la Mujer
+28910	MEX - Secretaría de las Mujeres
+26577	MEX - Secretaría del Campo
+13051	MEX - Secretaría del Medio Ambiente
+31090	MEX - Secretaría del Medio Ambiente y Desarrollo Sostenible
+13052	MEX - Secretaría del Trabajo
+25399	MEX - Secretaría de Movilidad
+13043	MEX - Secretaría de Salud
+17741	MEX - Secretaría de Seguridad
+13055	MEX - Secretaría de Turismo
+15590	MEX - Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública
+19837	MEX - Secretaría Ejecutiva del Sistema Anticorrupción del Estado de México y Municipios
+15470	MEX - Secretaría General de Gobierno
+3163	MEX - Secretaría Técnica del Gabinete
+3164	MEX - Servicios Educativos Integrados al Estado de México
+12214	MEX - Sindicato de Maestros al Servicio del Estado de México
+12213	MEX - Sindicato Único de Trabajadores de los Poderes, Municipios e Instituciones Descentralizadas del Estado de México
+15341	MEX - Sindicato Único de Trabajadores y Empleados al Servicio de la Universidad Autónoma del Estado de México.
+12215	MEX - Sindicato Unificado de Maestros y Académicos del Estado de México
+3165	MEX - Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México
+3166	MEX - Sistema de Radio y Televisión Mexiquense
+3167	MEX - Sistema de Transporte Masivo y Teleférico del Estado de México
+26581	MEX - Sistema Mexiquense de Medios Públicos
+31746	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Acambay
+15404	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Acolman
+15405	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Almoloya de Juárez
+31747	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Amanalco
+31748	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Amecameca
+31749	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Atizapán
+15407	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Atlacomulco
+31750	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Atlautla
+31751	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Axapusco
+31752	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Ayapango
+28125	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Calimaya
+31753	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Capulhuac
+15411	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Chalco
+31756	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Chapa de Mota
+15412	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Chicoloapan
+15413	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Chimalhuacán
+31754	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Cocotitlán
+31755	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Coyotepec
+15410	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Cuautitlán
+15409	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Cuautitlán Izcalli
+15414	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Ecatepec de Morelos
+31757	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Ecatzingo
+15415	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Huehuetoca
+15416	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Huixquilucan
+15417	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Ixtapaluca
+15418	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Ixtlahuaca
+15419	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Jilotepec
+15420	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Jiquipilco
+31758	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Joquicingo
+31759	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Juchitepec
+15427	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de La Paz
+15421	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Lerma
+31790	MEX - Sistema Municipal para el Desarrollo Integral de la Familia del Municipio de Zacazonapa
+31760	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Luvianos
+31761	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Melchor Ocampo
+15422	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Metepec
+31762	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Mexicaltzingo
+31763	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Morelos
+15423	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Naucalpan de Juárez
+15424	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Nezahualcóyotl
+15425	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Nicolás Romero
+31764	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Nopaltepec
+31765	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Ocuilan
+31766	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Otumba
+15426	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Otzolotepec
+31767	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Ozumba
+31768	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Papalotla
+31769	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de San Antonio la Isla
+15428	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de San Felipe del Progreso
+15429	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de San José del Rincón
+31770	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de San Martín de las Pirámides
+15430	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de San Mateo Atenco
+31771	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Soyaniquilpan
+15431	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Tecámac
+15432	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Tejupilco
+31772	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Temamatla
+31773	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Temascalcingo
+15433	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Temoaya
+15434	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Tenancingo
+31774	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Tenango del Aire
+15435	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Tenango del Valle
+31775	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Teoloyucan
+31776	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Teotihuacán
+31777	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Tepetlixpa
+15436	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Tepotzotlán
+31778	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Texcaltitlán
+31779	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Texcalyacac
+15437	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Texcoco
+31780	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Tezoyuca
+15438	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Tianguistenco
+31783	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Tlalmanalco
+15439	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Tlalnepantla de Baz
+31784	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Tlatlaya
+15440	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Toluca
+31781	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Tonanitla
+31782	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Tonatico
+15441	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Tultepec
+15442	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Tultitlán
+31785	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Valle de Bravo
+15443	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Valle de Chalco Solidaridad
+31786	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Villa del Carbón
+31787	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Villa Guerrero
+15444	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Villa Victoria
+31789	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Xonacatlán
+31788	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Xonacatlán
+31791	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Zacualpan
+15445	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Zinacantepec
+15446	MEX - Sistema Municipal para el Desarrollo Integral de la Familia de Zumpango
+15408	MEX - Sistema Municipal para el Desarrollo Integral de la Familia en Coacalco de Berriozábal
+31510	MEX - Sistema Municipal para el Desarrollo Integral de la Familia Municipio de Atenco
+31350	MEX - Sistema Municipal para el Desarrollo Integral de la Familia Municipio de Ocoyoacac
+3168	MEX - Sistema para el Desarrollo Integral de la Familia del Estado de México
+15406	MEX - Sistema para el Desarrollo Integral de la Familia del Municipio de Atizapán de Zaragoza
+3206	MEX - SOP
+3169	MEX - Tecnológico de Estudios Superiores de Chalco
+3170	MEX - Tecnológico de Estudios Superiores de Chicoloapan
+3171	MEX - Tecnológico de Estudios Superiores de Chimalhuacán
+3172	MEX - Tecnológico de Estudios Superiores de Coacalco
+3173	MEX - Tecnológico de Estudios Superiores de Cuautitlán Izcalli
+3174	MEX - Tecnológico de Estudios Superiores de Ecatepec
+3175	MEX - Tecnológico de Estudios Superiores de Huixquilucan
+3176	MEX - Tecnológico de Estudios Superiores de Ixtapaluca
+3177	MEX - Tecnológico de Estudios Superiores de Jilotepec
+3178	MEX - Tecnológico de Estudios Superiores de Jocotitlán
+3183	MEX - Tecnológico de Estudios Superiores del Oriente del Estado de México
+3179	MEX - Tecnológico de Estudios Superiores de San Felipe del Progreso
+3180	MEX - Tecnológico de Estudios Superiores de Tianguistenco
+3181	MEX - Tecnológico de Estudios Superiores de Valle de Bravo
+3182	MEX - Tecnológico de Estudios Superiores de Villa Guerrero
+15352	MEX - Teletón
+17740	MEX - Tribunal de Justicia Administrativa del Estado de México
+12224	MEX - Tribunal de lo Contencioso Administrativo del Estado de Mexico
+3333	MEX - Tribunal Electoral del Estado de México
+3184	MEX - Tribunal Estatal de Conciliación y Arbitraje
+21697	MEX - Unidad de Asuntos Internos
+3334	MEX - Universidad Autónoma del Estado de México
+3185	MEX - Universidad Digital del Estado de México
+3186	MEX - Universidad Estatal del Valle de Ecatepec
+3187	MEX - Universidad Estatal del Valle de Toluca
+3188	MEX - Universidad Intercultural del Estado de México
+3189	MEX - Universidad Mexiquense del Bicentenario
+21698	MEX - Universidad Mexiquense de Seguridad
+3190	MEX - Universidad Politécnica de Atlacomulco
+3191	MEX - Universidad Politécnica de Atlautla
+3192	MEX - Universidad Politécnica de Chimalhuacan
+3193	MEX - Universidad Politécnica de Cuautitlán Izcalli
+3197	MEX - Universidad Politécnica del Valle de México
+3198	MEX - Universidad Politécnica del Valle de Toluca
+3194	MEX - Universidad Politécnica de Otzolotepec
+3195	MEX - Universidad Politécnica de Tecámac
+3196	MEX - Universidad Politécnica de Texcoco
+3202	MEX - Universidad Tecnológica del Sur del Estado de México
+3203	MEX - Universidad Tecnológica del Valle de Toluca
+3199	MEX - Universidad Tecnológica de Nezahualcóyotl
+3200	MEX - Universidad Tecnológica de Tecámac
+3201	MEX - Universidad Tecnológica de Zinacantepec
+3204	MEX - Universidad Tecnológica Fidel Velázquez

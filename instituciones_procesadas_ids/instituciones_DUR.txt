@@ -1,0 +1,170 @@
+1802	DUR - Aguas del Municipio de Durango (AMD)
+1797	DUR - Auditoría Superior del Estado de Durango (ASED)
+11248	DUR - BEBELECHE, Museo Interactivo de Durango
+11249	DUR - Benemérita y Centenaria Escuela Normal del Estado de Durango (ByCENED)
+15764	DUR - Centro Cultural y de Convenciones del Estado de Durango (CCCB))
+27546	DUR - Centro de Conciliación Laboral del Estado de Durango
+11250	DUR - Colegio de Bachilleres del Estado de Durango (COBAED)
+11251	DUR - Colegio de Educación Profesional Técnica del Estado de Durango (CONALEP)
+11252	DUR - Colegio de Estudios Científicos y Tecnológicos del Estado de Durango (CECYTED)
+11253	DUR - Comisión del Agua del Estado de Durango (CAED)
+20117	DUR - Comisión Ejecutiva Estatal de Atención a Victimas del Estado de Durango (CEEAV)
+1843	DUR - Comisión Estatal de Derechos Humanos (CEDH)
+11254	DUR - Comisión Estatal de Suelo y Vivienda del Estado de Durango (COESVI)
+11255	DUR - Consejo de Ciencia y Tecnología del Estado de Durango (COCYTED)
+27017	DUR - Consejo de Participación Ciudadana del Sistema Local Anticorrupción
+11256	DUR - Consejo Estatal de Población (Asignado a Secretaría General de Gobierno)
+1788	DUR - Coordinación Estatal de Protección Civil Durango (Asignado a Secretaría General de Gobierno)
+21938	DUR - Desarrollo Integral de la Familia del Municipio de Canatlán, Dgo
+26418	DUR - Desarrollo Integral de la Familia del Municipio de El Mezquital
+15830	DUR - Desarrollo Integral de la Familia del Municipio de Gómez Palacio, Dgo
+29686	DUR - Desarrollo Integral de la Familia del Municipio de Nuevo Ideal
+15756	DUR - Desarrollo Integral de la Familia del Municipio de Peñón Blanco (Se integró al ayuntamiento municipal el 01 de Marzo de 2021)
+31544	DUR - Desarrollo Integral de la Familia del Municipio de San Bernardo
+15758	DUR - Desarrollo Integral de la Familia del Municipio de Santa Clara, Dgo (Asignado al H. ayuntamiento del municipio de Santa Clara el 3 de...
+16272	DUR - Desarrollo Integral de la Familia del Municipio de Simón Bolívar, Dgo (se integró al H. Ayuntamiento de Simón Bolivar - 29/11/2024)
+16273	DUR - Desarrollo Integral de la Familia del Municipio de Vicente Guerrero, Dgo
+11247	DUR - Despacho del Ejecutivo
+11259	DUR - Dirección del Archivo Histórico del Estado (Asignado a Secretaría General de Gobierno)
+11258	DUR - Dirección de Pensiones del Estado de Durango
+11262	DUR - Dirección General del Registro Civil (Asignado a Secretaría General de Gobierno)
+11263	DUR - Dirección General del Registro Público de la Propiedad y del Comercio (Asignado a Secretaría General de Gobierno)
+11260	DUR - Dirección General de Notarías (Asignado a Secretaría General de Gobierno)
+11261	DUR - Dirección General de Transportes del Estado de Durango (Asignado a Secretaría General de Gobierno)
+11264	DUR - División de Estudios Superiores del Instituto 18 de Marzo
+11279	DUR - Ferias, Espectáculos y Paseos Turísticos de Durango
+17718	DUR - Fideicomiso 80555 “Fondo Durango”
+17726	DUR - Fideicomiso de Administración e Inversión para el Desarrollo Forestal Sustentable en el Estado de Durango
+17725	DUR - Fideicomiso del Programa Nacional de Becas para la Educación Superior "MANUTENCIÓN" en el Estado de Durango - Extinto el 10/04/2024
+17724	DUR - Fideicomiso Estatal Escuelas De Calidad (Extinto el 18/01/2019)
+17721	DUR - Fideicomiso Fondo de Becas Y Apoyos Deportivos “Chelito Zamora”
+17722	DUR - Fideicomiso Fondo De Fomento Agropecuario Del Estado De Durango
+17720	DUR - Fideicomiso Fondo Metropolitano de la Laguna (Extinto en el año 2021)
+17717	DUR - Fideicomiso Fondo Mixto De Fomento A La Investigación Científica Y Tecnología CONACYT (Extinto en el año 2021)
+24877	DUR - Fideicomiso Fondo para la promoción y desarrollo de la actividad empresarial del Municipio de Gómez Palacio
+17719	DUR - Fideicomiso Fondo Para La Promoción Y El Desarrollo De La Actividad Empresarial Durango
+17723	DUR - Fideicomiso Público de Inversión y Adminitración del Impuesto por Servicios de Hospedaje del Municipio de Durango
+21777	DUR - Fiscalía Especializada en Combate a la Corrupción (FECC)
+11265	DUR - Fiscalía General del Estado
+1803	DUR - H. Ayuntamiento del Municipio de Canatlán, Dgo
+11554	DUR - H. Ayuntamiento del Municipio de Canelas, Dgo
+1805	DUR - H. Ayuntamiento del Municipio de Coneto de Comonfort, Dgo
+1806	DUR - H. Ayuntamiento del Municipio de Cuencamé, Dgo
+1807	DUR - H. Ayuntamiento del Municipio de Durango, Dgo
+1808	DUR - H. Ayuntamiento del Municipio de El Oro, Dgo
+1809	DUR - H. Ayuntamiento del Municipio de Guadalupe Victoria, Dgo
+1810	DUR - H. Ayuntamiento del Municipio de Guanaceví, Dgo
+1811	DUR - H. Ayuntamiento del Municipio de Hidalgo, Dgo
+1812	DUR - H. Ayuntamiento del Municipio de Indé, Dgo
+1813	DUR - H. Ayuntamiento del Municipio de Mapimí, Dgo
+1814	DUR - H. Ayuntamiento del Municipio de Mezquital, Dgo
+1815	DUR - H. Ayuntamiento del Municipio de Nazas, Dgo
+1816	DUR - H. Ayuntamiento del Municipio de Nombre de Dios, Dgo
+1817	DUR - H. Ayuntamiento del Municipio de Nuevo Ideal, Dgo
+11326	DUR - H. Ayuntamiento del Municipio de Ocampo, Dgo
+1819	DUR - H. Ayuntamiento del Municipio de Otáez, Dgo
+1820	DUR - H. Ayuntamiento del Municipio de Pánuco de Coronado, Dgo
+1821	DUR - H. Ayuntamiento del Municipio de Peñón Blanco, Dgo
+1822	DUR - H. Ayuntamiento del Municipio de Poanas, Dgo
+11553	DUR - H. Ayuntamiento del Municipio de Pueblo Nuevo, Dgo
+1824	DUR - H. Ayuntamiento del Municipio de Rodeo, Dgo
+1825	DUR - H. Ayuntamiento del Municipio de San Bernardo, Dgo
+1826	DUR - H. Ayuntamiento del Municipio de San Dimas, Dgo
+1827	DUR - H. Ayuntamiento del Municipio de San Juan de Guadalupe, Dgo
+1828	DUR - H. Ayuntamiento del Municipio de San Juan del Río, Dgo
+1829	DUR - H. Ayuntamiento del Municipio de San Luís del Cordero, Dgo
+1830	DUR - H. Ayuntamiento del Municipio de San Pedro del Gallo, Dgo
+1831	DUR - H. Ayuntamiento del Municipio de Santa Clara, Dgo
+1832	DUR - H. Ayuntamiento del Municipio de Santiago Papasquiaro, Dgo
+1833	DUR - H. Ayuntamiento del Municipio de Simón Bolívar, Dgo
+1834	DUR - H. Ayuntamiento del Municipio de Súchil, Dgo
+1835	DUR - H. Ayuntamiento del Municipio de Tamazula, Dgo
+1836	DUR - H. Ayuntamiento del Municipio de Tepehuanes, Dgo
+1837	DUR - H. Ayuntamiento del Municipio de Tlahualilo, Dgo
+1838	DUR - H. Ayuntamiento del Municipio de Topia, Dgo
+1839	DUR - H. Ayuntamiento del Municipio de Vicente Guerrero, Dgo
+1798	DUR - H. Congreso del Estado
+21038	DUR - Instituto de Atención y Protección al Migrante y su Familia (Extinto el 2 de Octubre de 2022)
+11266	DUR - Instituto de Cultura del Estado de Durango
+22637	DUR - Instituto de Educación Medio Superior 18 de Marzo
+11267	DUR - Instituto de Estudios Superiores de Educación Normal Lázaro Cárdenas del Río
+13830	DUR - Instituto de Evaluación de Políticas Públicas del Estado de Durango (Extinto en 2025)
+1845	DUR - Instituto Duranguense de Acceso a la Información Pública y de Protección de Datos Personales
+11268	DUR - Instituto Duranguense de Educación para Adulto
+11269	DUR - Instituto Duranguense de la Juventud (IDJ)
+1844	DUR - Instituto Electoral y de Participación Ciudadana del Estado de Durango
+1762	DUR - Instituto Estatal de Las Mujeres
+1763	DUR - Instituto Estatal del Cultura Física y Deporte (Antes IED)
+1764	DUR - Instituto para el Desarrollo Municipal del Estado de Durango (Extinto)
+1765	DUR - Instituto para la Infraestructura Física Educativa del Estado de Durango
+1766	DUR - Instituto Tecnológico Superior de la Región de los Llanos
+1767	DUR - Instituto Tecnológico Superior de Lerdo
+1768	DUR - Instituto Tecnológico Superior de Santa María de el Oro
+1769	DUR - Instituto Tecnológico Superior de Santiago Papasquiaro
+29536	DUR - Organismo de Agua y Alcantarillado de Nuevo Ideal
+1849	DUR - Partido Acción Nacional
+1850	DUR - Partido de la Revolución Democrática
+1851	DUR - Partido del Trabajo
+1852	DUR - Partido Duranguense (En proceso de liquidación)
+1853	DUR - Partido Encuentro Solidario
+26220	DUR - Partido Fuerza por México (Extinto)
+1848	DUR - Partido Movimiento Ciudadano
+1854	DUR - Partido Movimiento Regeneración Nacional
+1855	DUR - Partido Nueva Alianza
+1856	DUR - Partido Revolucionario Institucional
+1857	DUR - Partido Verde Ecologista de México
+31629	DUR - Partido Villista
+23757	DUR - Procuraduría de Protección al Ambiente del Estado de Durango (EXTINTO)
+1840	DUR - R. Ayuntamiento del Municipio de Gómez Palacio, Dgo
+1841	DUR - R. Ayuntamiento del Municipio de Lerdo, Dgo
+16590	DUR - Régimen Estatal de Protección Social en Salud (Extinto)
+1772	DUR - Secretaría de Agricultura, Ganadería y Desarrollo Rural
+1773	DUR - Secretaría de Comunicaciones y Obras Públicas del Estado de Durango (SECOPE)
+1774	DUR - Secretaría de Contraloría del Estado de Durango (SECOED)
+1775	DUR - Secretaría de Desarrollo Económico del Estado de Durango (SEDECO)
+1777	DUR - Secretaría de Educación del Estado de Durango (SEED)
+1778	DUR - Secretaría de Finanzas y de Administración del Estado de Durango (SFA)
+1776	DUR - Secretaría del Bienestar Social del Estado de Durango
+1783	DUR - Secretaría del Trabajo y Previsión Social del Estado de Durango
+1779	DUR - Secretaría de Recursos Naturales y Medio Ambiente del Estado de Durango (SRNYMA)
+1780	DUR - Secretaría de Salud del Estado de Durango (SSD)
+1781	DUR - Secretaría de Seguridad Pública del Estado de Durango (SSP)
+1782	DUR - Secretaría de Turismo del Estado de Durango (SETUED)
+1785	DUR - Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública
+18357	DUR - Secretaría Ejecutiva del Sistema Local Anticorrupción
+1784	DUR - Secretaría General de Gobierno
+13795	DUR - Sindicato del Colegio de Bachilleres del Estado de Durango
+29826	DUR - Sindicato del Colegio de Estudios Científicos y Tecnológicos del Estado de Durango
+17477	DUR - Sindicato de Personal Académico de la UJED
+13630	DUR - Sindicato de Trabajadores al Servicio de los Tres Poderes del Estado de Durango
+26840	DUR - Sindicato de Trabajadores Municipales (SITRAM)
+18957	DUR - Sindicato de Trabajadores y Empleados de la UJED
+30889	DUR - Sindicato de Unidad Municipal del Ayuntamiento de Durango
+13070	DUR - Sindicato Único de Trabajadores Municipales de la Capital del Estado de Durango
+16252	DUR - Sistema de Agua Potable del Municipio de Vicente Guerrero (Se integró al H.Ayuntamiento de Vicente Guerrero a partir de Enero 2024)
+31528	DUR - Sistema De Agua Potable Y Alcantarillado Del Municipio De Lerdo, Dgo.
+21957	DUR - Sistema de Aguas del Municipio de Canatlán
+15875	DUR - Sistema de Aguas del Municipio de Gomez Palacio (SIDEAPA)
+15870	DUR - Sistema de Aguas del Municipio de Mapimí (Asignado al H. ayuntamiento del municipio de Mapimí el 5 de octubre de 2023)
+15757	DUR - Sistema de Aguas del Municipio de Peñón Blanco (Se integró al ayuntamiento municipal el 01 de Marzo de 2021)
+15791	DUR - Sistema de Aguas del Municipio de Santa Clara (Asignado al H. ayuntamiento del municipio de Santa Clara el 3 de octubre de 2023)
+1786	DUR - Sistema Estatal de Telesecundarias
+1787	DUR - Sistema Estatal para el Desarrollo Integral de la Familia
+17745	DUR - Sistema para el Desarrollo Integral de la Familia del Municipio de Durango
+29466	DUR - Sistema para el Desarrollo Integral de la Familia - Nombre de Dios
+16290	DUR - Teletón Fundación Centro de Rehabilitación e Inclusión Infantil Durango
+1799	DUR - Tribunal de Justicia Administrativa del Estado de Durango
+12412	DUR - Tribunal Electoral del Estado de Durango
+1800	DUR - Tribunal para Menores Infractores del Poder Judicial del Estado
+12411	DUR - Tribunal Superior de Justicia del Estado de Durango (TSJ)
+1847	DUR - Universidad Juárez del Estado de Durango
+1789	DUR - Universidad Pedagógica de Durango
+1790	DUR - Universidad Politécnica de Cuencamé
+1791	DUR - Universidad Politécnica de Durango
+1792	DUR - Universidad Politécnica de Gómez Palacio
+1793	DUR - Universidad Tecnológica de Durango
+1794	DUR - Universidad Tecnológica de la Laguna Durango
+14726	DUR - Universidad Tecnológica del Mezquital
+1795	DUR - Universidad Tecnológica de Poanas
+1796	DUR - Universidad Tecnológica de Rodeo
+26857	DUR - Universidad Tecnológica de Tamazula

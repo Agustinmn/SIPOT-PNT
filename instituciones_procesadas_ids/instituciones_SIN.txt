@@ -1,0 +1,220 @@
+4849	SIN - AY00100-Ayuntamiento de Ahome
+12591	SIN - AY00101-Comisión Municipal de Desarrollo de Centros Poblados del Ayto. de Ahome
+12592	SIN - AY00102-Instituto Municipal de Arte y Cultura del Ayuntamiento de Ahome
+12593	SIN - AY00103-Instituto Municipal de la Juventud de Ahome
+12594	SIN - AY00104-Instituto Municipal de Las Mujeres de Ahome (EXTINTO)
+12595	SIN - AY00105-Instituto Municipal de Planeación de Ahome
+12596	SIN - AY00106-Instituto Municipal del Deporte en Ahome
+12597	SIN - AY00107-Junta de Agua Potable y Alcant. del Municipio de Ahome
+12598	SIN - AY00108-Sistema DIF Ahome
+4843	SIN - AY00200-Ayuntamiento de Angostura
+12599	SIN - AY00201-Junta Municipal de Agua Potable y Alcant. de Angostura
+12600	SIN - AY00202-Sistema DIF Angostura
+4844	SIN - AY00300-Ayuntamiento de Badiraguato
+12605	SIN - AY00305-Junta Municipal de Agua Potable y Alcant. de Badiraguato
+12606	SIN - AY00306-Sistema DIF Badiraguato
+4845	SIN - AY00400-Ayuntamiento de Choix
+12607	SIN - AY00401-Instituto Municipal del Deporte de Choix
+12614	SIN - AY00402-Instituto Municipal de las Mujeres de Choix
+12615	SIN - AY00403-Junta de Agua Potable y Alcant. del Municipio de Choix
+12616	SIN - AY00404-Sistema DIF Choix
+4846	SIN - AY00500-Ayuntamiento de Concordia
+12617	SIN - AY00501-Junta Municipal de Agua Potable y Alcant. de Concordia
+12618	SIN - AY00502-Sistema DIF Concordia
+4847	SIN - AY00600-Ayuntamiento de Cosalá
+12619	SIN - AY00605-Junta de Agua Potable y Alcant. de Cosalá
+12620	SIN - AY00606-Sistema DIF Cosalá
+4848	SIN - AY00700-Ayuntamiento de Culiacán
+12621	SIN - AY00701-Comisión Municipal de Desarrollo de Centros Poblados de Culiacán
+12622	SIN - AY00702-Instituto de Vivienda del Municipio de Culiacán
+12623	SIN - AY00703-Instituto Municipal de Cultura Culiacán
+12624	SIN - AY00704-Instituto Municipal de la Juventud de Culiacán
+12625	SIN - AY00705-Instituto Municipal de Las Mujeres de Culiacán (EXTINTO)
+12626	SIN - AY00706-Instituto Municipal de Planeación Urbana de Culiacán
+12627	SIN - AY00707-Instituto Municipal del Deporte y la Cultura Física
+11624	SIN - AY00708-Junta Municipal de Agua Potable y Alcant. de Culiacán
+12628	SIN - AY00709-La Crónica de Culiacán
+12629	SIN - AY00710-Instituto MIA
+12630	SIN - AY00711-Parque Culiacán
+12632	SIN - AY00712-Sistema DIF Culiacán
+12633	SIN - AY00713-Zoológico de Culiacán
+4851	SIN - AY00800-Ayuntamiento de El Fuerte
+11621	SIN - AY00801-Instituto Municipal de la Juventud de El Fuerte
+12634	SIN - AY00802-Instituto Municipal de las Mujeres de El Fuerte
+11623	SIN - AY00803-Instituto Municipal del Deporte de El Fuerte
+11622	SIN - AY00804-Junta Municipal de Agua Potable y Alcant. de El Fuerte
+11620	SIN - AY00805-Sistema Municipal DIF El Fuerte
+4853	SIN - AY00900-Ayuntamiento de Elota
+12635	SIN - AY00901-Junta Municipal de Agua Potable y Alcant. del Municipio de Elota
+12636	SIN - AY00902-Sistema DIF Elota
+4854	SIN - AY01000-Ayuntamiento de Escuinapa
+12710	SIN - AY01001-Junta Municipal de Agua Potable y Alcant. de Escuinapa
+12711	SIN - AY01002-Sistema DIF Escuinapa
+4855	SIN - AY01100-Ayuntamiento de Guasave
+12713	SIN - AY01101-Desarrollo Urbano Río Sinaloa
+12714	SIN - AY01102-Instituto Municipal de la Juventud de Guasave
+12715	SIN - AY01103-Instituto Municipal de las Mujeres Guasave
+12716	SIN - AY01104-Instituto Municipal de Planeación de Guasave
+12717	SIN - AY01105-Instituto Municipal del Deporte de Guasave
+11625	SIN - AY01106-Junta Municipal de Agua Potable y Alcant. de Guasave
+12720	SIN - AY01107-Sistema DIF Guasave
+4856	SIN - AY01200-Ayuntamiento de Mazatlán
+12722	SIN - AY01201-Acuario de Mazatlán (EXTINTO)
+12723	SIN - AY01202-Instituto Municipal de Cultura, Turismo y Arte de Mazatlán
+12724	SIN - AY01203-Instituto Municipal de la Juventud de Mazatlán
+12725	SIN - AY01204-Instituto Municipal de la Mujer de Mazatlán
+12726	SIN - AY01205-Instituto Municipal de Planeación de Mazatlán
+12727	SIN - AY01206-Instituto Municipal del Deporte de Mazatlán
+11626	SIN - AY01207-Junta Municipal de Agua Potable y Alcant. de Mazatlán
+12728	SIN - AY01208-Sistema DIF Mazatlán
+20337	SIN - AY01209-Centro Deportivo y Recreativo Benito Juárez de Mazatlán (EXTINTO)
+24397	SIN - AY01210-Operadora y Administradora de Playas Mazatlán
+26537	SIN - AY01211-Rastro de Mazatlán
+4857	SIN - AY01300-Ayuntamiento de Mocorito
+12729	SIN - AY01301-Junta Municipal de Agua Potable y Alcant. de Mocorito
+12730	SIN - AY01302-Sistema DIF Mocorito
+4858	SIN - AY01400-Ayuntamiento de Navolato
+12731	SIN - AY01401-Junta Municipal de Agua Potable y Alcant. de Navolato
+12732	SIN - AY01402-Sistema DIF Navolato
+4852	SIN - AY01500-Ayuntamiento de Rosario
+12734	SIN - AY01502-Junta Municipal de Agua Potable y Alcant. de El Rosario Sinaloa
+12735	SIN - AY01503-Sistema DIF El Rosario
+4859	SIN - AY01600-Ayuntamiento de Salvador Alvarado
+12736	SIN - AY01601-Instituto Municipal de la Juventud de Salvador Alvarado
+12737	SIN - AY01602-Instituto Municipal de la Mujer de Salvador Alvarado
+12738	SIN - AY01603-Instituto Municipal de Planeación de Salvador Alvarado
+12739	SIN - AY01604-Instituto Municipal del Deporte y Cultura Física de Salvador Alvarado
+12740	SIN - AY01605-Junta Municipal de Agua Potable y Alcant. de Salvador Alvarado
+12741	SIN - AY01606-Sistema DIF Salvador Alvarado
+30488	SIN - AY01607-Instituto Municipal de Cultura de Salvador Alvarado
+4860	SIN - AY01700-Ayuntamiento de San Ignacio
+12609	SIN - AY01701-Junta Municipal de Agua Potable y Alcant. de San Ignacio
+12610	SIN - AY01702-Sistema DIF San Ignacio
+4850	SIN - AY01800-Ayuntamiento de Sinaloa
+12611	SIN - AY01801-Junta Municipal de Agua Potable y Alcant. de Sinaloa
+12612	SIN - AY01802-Sistema DIF Sinaloa Municipio
+32089	SIN - AY01900-Ayuntamiento de Eldorado
+32090	SIN - AY02000-Ayuntamiento de Juan José Ríos
+4861	SIN - OA00100-Comisión Estatal de los Derechos Humanos
+4862	SIN - OA00200-Comisión Estatal para el Acceso a la Información Pública de Sinaloa
+4863	SIN - OA00300-Instituto Electoral del Estado de Sinaloa
+11594	SIN - OA00400-Tribunal de Justicia Administrativa del Estado de Sinaloa
+11593	SIN - OA00500-Tribunal Electoral del Estado de Sinaloa
+4865	SIN - OA00700-Universidad Autónoma de Sinaloa
+4830	SIN - OA00800-Fiscalía General del Estado de Sinaloa
+12638	SIN - OA00900-Universidad Autónoma Indígena de México
+4839	SIN - OA01000-Universidad Autónoma de Occidente
+29626	SIN - OA01100-Instituto para la Protección de Personas Defensoras de Derechos Humanos y Periodistas del Estado de Sinaloa
+22337	SIN - OS00600-Secretaría Ejecutiva del Sistema Estatal y Municipal Anticorrupción del Estado de Sinaloa
+4794	SIN - PE00100-Centro de Ciencias de Sinaloa (EXTINTO)
+4795	SIN - PE00200-Centro de Internamiento para Adolescentes
+4796	SIN - PE00300-Colegio de Bachilleres del Estado de Sinaloa
+4797	SIN - PE00400-Colegio de Educación Profesional Técnica del Estado de Sinaloa
+4798	SIN - PE00500-Comisión Coordinadora de Capacitación y Asesoría Fiscal (EXTINTO)
+4799	SIN - PE00600-Comisión de Arbitraje Médico de Sinaloa
+4800	SIN - PE00700-Comisión Estatal de Agua Potable y Alcant. de Sinaloa
+4801	SIN - PE00800-Comisión Estatal de Mejora Regulatoria y Gestión Empresarial de Sinaloa
+11615	SIN - PE00900-Comisión Estatal para la Protección Contra Riesgos Sanitarios de Sinaloa
+4803	SIN - PE01100-Consejo Estatal para la Prevención y Atención de la Violencia Familiar(EXTINTO)
+4804	SIN - PE01200-Consejo para el Desarrollo Económico del Estado de Sinaloa CODESIN (Poder Ejecutivo)
+11619	SIN - PE01300-Coordinación de Comunicación Social
+12693	SIN - PE01400-Desarrollo Comunitario
+4806	SIN - PE01500-Desarrollo Urbano Tres Ríos
+4808	SIN - PE01600-El Colegio de Sinaloa
+12694	SIN - PE01700-Escuela Libre de Derecho de Sinaloa (No es sujeto obligado)
+4809	SIN - PE01800-Escuela Normal de Especialización del Estado
+4810	SIN - PE01900-Escuela Normal de Sinaloa
+4811	SIN - PE02000-Hospital Civil de Culiacán
+4813	SIN - PE02200-Instituto Catastral del Estado de Sinaloa
+11614	SIN - PE02300-Instituto de Apoyo a la Investigación e Innovación (EXTINTO)
+4814	SIN - PE02400-Instituto de Capacitación para el Trabajo del Estado de Sinaloa -ICATSIN
+4815	SIN - PE02500-Instituto de la Defensoría Pública del Estado de Sinaloa
+4816	SIN - PE02600-Instituto de Pensiones del Estado de Sinaloa- IPES
+4818	SIN - PE02700-Comisión de Vivienda del Estado de Sinaloa
+4819	SIN - PE02800-Instituto Estatal de Ciencias Penales y Seguridad Pública -INECIPE (EXTINTO)
+4821	SIN - PE03100-Instituto Sinaloense de Acuacultura y Pesca
+4822	SIN - PE03200-Instituto Sinaloense de Cultura
+4823	SIN - PE03300-Instituto Sinaloense de Desarrollo Social - ISDESOL
+4824	SIN - PE03400-Instituto Sinaloense de Infraestructura Física Educativa
+4825	SIN - PE03500-Instituto Sinaloense de la Juventud
+4826	SIN - PE03600-Instituto Sinaloense de las Mujeres(EXTINTO)
+4827	SIN - PE03700-Instituto Sinaloense de Cultura Física y el Deporte
+4828	SIN - PE03800-Instituto Sinaloense para la Educación de los Jóvenes y Adultos
+11611	SIN - PE03900-Instituto Tecnológico Superior de Eldorado
+12696	SIN - PE04000-Instituto Tecnológico Superior de Guasave
+4817	SIN - PE04100-Instituto de Seguridad y Servicios Sociales de los Trabajadores de la Educación del Estado de Sinaloa (ISSSTEESIN)
+11610	SIN - PE04200-Junta de Asistencia Privada
+11613	SIN - PE04300-Junta Local de Conciliación y Arbitraje
+11612	SIN - PE04400-Oficina del Gobernador
+11604	SIN - PE04900-Secretaría de Administración y Finanzas
+4835	SIN - PE05000-Secretaría de Agricultura y Ganadería
+11605	SIN - PE05100-Secretaría de Economía
+4836	SIN - PE05200-Secretaría de Desarrollo Social(EXTINTO)
+4831	SIN - PE05300-Secretaría de Obras Públicas
+4832	SIN - PE05400-Secretaría de Educación Pública y Cultura
+11602	SIN - PE05500-Secretaría General de Gobierno
+4833	SIN - PE05600-Secretaría de Innovación (EXTINTO)
+11599	SIN - PE05700-Secretaría de Salud
+14150	SIN - PE05702-Régimen Estatal de Protección Social en Salud (EXTINTO)
+11600	SIN - PE05800-Secretaría de Seguridad Pública
+11601	SIN - PE05900-Secretaría de Turismo
+11598	SIN - PE06000-Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública
+4837	SIN - PE06100-Servicios de Educación Pública Descentralizada del Estado de Sinaloa
+4838	SIN - PE06200-Servicios de Salud de Sinaloa
+12637	SIN - PE06300-Sinaloa Red Plus (EXTINTO)
+11597	SIN - PE06400-Sistema para el Desarrollo Integral de la Familia
+4834	SIN - PE06500-Secretaría de Transparencia y Rendición de Cuentas
+4840	SIN - PE06800-Universidad Pedagógica del Estado de Sinaloa
+12639	SIN - PE06900-Universidad Politécnica de Sinaloa
+12640	SIN - PE07000-Universidad Politécnica del Mar y la Sierra
+12641	SIN - PE07100-Universidad Politécnica del Valle del Évora
+12642	SIN - PE07200-Universidad Tecnológica de Culiacán
+12643	SIN - PE07300-Universidad Tecnológica de Escuinapa
+4805	SIN - PE07400-Coordinación General de Proyectos Estratégicos (EXTINTO)
+14737	SIN - PE07500-Secretaría de Pesca y Acuacultura
+14724	SIN - PE07600-Secretaría de Desarrollo Sustentable(EXTINTO)
+17250	SIN - PE07700-Colegio de Estudios Científicos y Tecnológicos del Estado de Sinaloa
+27345	SIN - PE07800-Secretaría de Bienestar y Desarrollo Sustentable
+27346	SIN - PE07900-Secretaría de las Mujeres
+27463	SIN - PE08000-Coordinación General de Desarrollo Tecnológico y Proyectos Especiales
+27765	SIN - PE08100-Coordinación General para el Fomento de la Investigación Científica e Innovación del Estado de Sinaloa
+27946	SIN - PE08200-Universidad de la Policía del Estado de Sinaloa
+31488	SIN - PE08300-Centro de Conciliación Laboral del Estado de Sinaloa
+12644	SIN - PJ00100-Supremo Tribunal de Justicia del Estado de Sinaloa
+11617	SIN - PL00100-Congreso del Estado de Sinaloa
+11607	SIN - PP00100-Partido Acción Nacional
+12645	SIN - PP00200-Partido de la Revolución Democrática (EXTINTO)
+12646	SIN - PP00300-Partido del Trabajo
+11606	SIN - PP00400-Partido Encuentro Social (EXTINTO)
+12647	SIN - PP00500-Partido Morena
+11608	SIN - PP00600-Partido Movimiento Ciudadano
+12648	SIN - PP00700-Partido Nueva Alianza (EXTINTO)
+11609	SIN - PP00800-Partido Revolucionario Institucional
+4867	SIN - PP00900-Partido Sinaloense
+12650	SIN - SI00100-Sindicato de Trab. al Serv. de la Junta Mpal. de Agua Potable y Alcant. de Mazatlán
+12651	SIN - SI00200-Sindicato de Trab. al Serv. de la Junta Mpal. de Agua Potable y Alcant. de Navolato
+12652	SIN - SI00300-Sindicato de Trab. al Serv. de la Junta Mpal. de Agua Potable y Alcant. de Angostura (EXTINTO)
+12653	SIN - SI00400-Sindicato de Trab. al Serv. de la Junta Mpal. de Agua Potable y Alcant. de Culiacán
+12654	SIN - SI00500-Sindicato de Trab. al Serv. de la Junta Mpal. de Agua Potable y Alcant. de El Rosario
+12655	SIN - SI00600-Sindicato de Trab. al Serv. de la Junta Mpal. de Agua Potable y Alcant. de Mocorito
+12657	SIN - SI00800-Sindicato de Trab. al Serv. de la Junta Mpal. de Agua Potable y Alcant. de Guasave
+12658	SIN - SI00900-Sindicato de Trab. al Serv. de la Junta Mpal. de Agua Potable y Alcant. de Sinaloa
+12659	SIN - SI01000-Sindicato de Trab. al Serv. de la Junta Mpal. de Agua Potable y Alcant. de Elota
+12660	SIN - SI01100-Sindicato de Trab. al Serv. de las Juntas Mpales. de Agua Potable y Alcant. de los Mpios. de Badiraguato Y Salvador Alvarado
+12661	SIN - SI01200-Sindicato de Trab. al Serv. del Ayto. de Ahome
+12662	SIN - SI01300-Sindicato de Trab. al Serv. del Ayto. de Concordia
+12663	SIN - SI01400-Sindicato de Trab. al Serv. del Ayto. de Culiacán
+12664	SIN - SI01500-Sindicato de Trab. al Serv. del Ayto. de Escuinapa
+12665	SIN - SI01600-Sindicato de Trab. al Serv. del Ayto. de Guasave
+12666	SIN - SI01700-Sindicato de Trab. al Serv. del Ayto. de Mazatlán
+12667	SIN - SI01800-Sindicato de Trab. al Serv. del Ayto. de Mocorito
+12668	SIN - SI01900-Sindicato de Trab. al Serv. del Ayto. de Navolato
+12669	SIN - SI02000-Sindicato de Trab. al Serv. del Ayto. de Salvador Alvarado
+12670	SIN - SI02100-Sindicato de Trab. al Serv. del Ayto. de Sinaloa
+12671	SIN - SI02200-Sindicato de Trab. al Serv. del Estado- STASE
+12674	SIN - SI02500-Sindicato Único de Trab. al Serv. del Ayto. de San Ignacio
+12676	SIN - SI02700-Sindicato Único de Trabajadores de la UAS
+13938	SIN - SI02800-Sindicato de Trabajadores al Servicio del Hospital Civil de Culiacán
+29806	SIN - SI02900-Sindicato Autónomo de Trabajadores del Ayuntamiento de Guasave (SATAG)
+29928	SIN - SI03000-Sindicato de Trabajadores Profesionistas del Hospital Civil de Culiacán
+30048	SIN - SI03100-Sindicato Único de Trabajadores Académicos y Administrativos de la Universidad Autónoma de Occidente

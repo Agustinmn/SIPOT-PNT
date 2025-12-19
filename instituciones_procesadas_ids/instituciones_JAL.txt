@@ -1,0 +1,581 @@
+13021	JAL - Administración de Estacionómetros para la Asistencia Social de Zapotlán el Grande
+28947	JAL - Agencia de Coinversión para el Desarrollo Sostenible de Jalisco
+32009	JAL - Agencia de Conectividad y Acceso a Internet
+16216	JAL - Agencia de Energía del Estado de Jalisco
+25620	JAL - Agencia de Sanidad, Inocuidad y Calidad Agroalimentaria de Jalisco, (ASICA)
+21098	JAL - Agencia Estatal de Entretenimiento de Jalisco
+26397	JAL - Agencia Integral de Regulación de Emisiones
+25698	JAL - Agencia Metropolitana de Bosques Urbanos del Área Metropolitana de Guadalajara
+24117	JAL - Agencia Metropolitana de Servicios de Infraestructura para la Movilidad del Área Metropolitana de Guadalajara
+24137	JAL - Agencia para el Desarrollo de Industrias Creativas y Digitales del Estado de Jalisco
+32447	JAL - Agrupación Sindical Autónoma del Municipio de Zapopan
+2366	JAL - Agua y Saneamiento del Municipio de Tepatitlán
+13018	JAL - Albergue "Las Cuadritas" Fray Antonio Alcalde (extinto)
+32157	JAL - Archivo General del Estado de Jalisco
+12452	JAL - Asociación Intermunicipal para la Protección del Medio Ambiente y Desarrollo Sustentable del Lago de Chapala
+2800	JAL - Auditoría Superior del Estado de Jalisco
+2808	JAL - Ayuntamiento de Acatic
+2809	JAL - Ayuntamiento de Acatlán de Juárez
+2810	JAL - Ayuntamiento de Ahualulco de Mercado
+2811	JAL - Ayuntamiento de Amacueca
+2812	JAL - Ayuntamiento de Amatitán
+2813	JAL - Ayuntamiento de Ameca
+2814	JAL - Ayuntamiento de Arandas
+2815	JAL - Ayuntamiento de Atemajac de Brizuela
+2930	JAL - Ayuntamiento de Atengo
+2816	JAL - Ayuntamiento de Atenguillo
+2817	JAL - Ayuntamiento de Atotonilco el Alto
+2818	JAL - Ayuntamiento de Atoyac
+2819	JAL - Ayuntamiento de Autlán de Navarro
+2820	JAL - Ayuntamiento de Ayotlán
+2821	JAL - Ayuntamiento de Ayutla
+2822	JAL - Ayuntamiento de Bolaños
+2823	JAL - Ayuntamiento de Cabo Corrientes
+2824	JAL - Ayuntamiento de Cañadas de Obregón
+2825	JAL - Ayuntamiento de Casimiro Castillo
+2826	JAL - Ayuntamiento de Chapala
+2827	JAL - Ayuntamiento de Chimaltitán
+2828	JAL - Ayuntamiento de Chiquilistlán
+2829	JAL - Ayuntamiento de Cihuatlán
+2830	JAL - Ayuntamiento de Cocula
+2831	JAL - Ayuntamiento de Colotlán
+2832	JAL - Ayuntamiento de Concepción de Buenos Aires
+2833	JAL - Ayuntamiento de Cuautitlán de García Barragán
+2834	JAL - Ayuntamiento de Cuautla
+2835	JAL - Ayuntamiento de Cuquio
+2836	JAL - Ayuntamiento de Degollado
+2837	JAL - Ayuntamiento de Ejutla
+2838	JAL - Ayuntamiento de El Arenal
+2839	JAL - Ayuntamiento de El Grullo
+2840	JAL - Ayuntamiento de El Limón
+2841	JAL - Ayuntamiento de El Salto
+2842	JAL - Ayuntamiento de Encarnación de Díaz
+2843	JAL - Ayuntamiento de Etzatlán
+2844	JAL - Ayuntamiento de Gómez Farias
+2845	JAL - Ayuntamiento de Guachinango
+2846	JAL - Ayuntamiento de Guadalajara
+2847	JAL - Ayuntamiento de Hostotipaquillo
+2848	JAL - Ayuntamiento de Huejúcar
+2849	JAL - Ayuntamiento de Huejuquilla el Alto
+2850	JAL - Ayuntamiento de Ixtlahuacán de los Membrillos
+2851	JAL - Ayuntamiento de Ixtlahuacán del Río
+2852	JAL - Ayuntamiento de Jalostotitlán
+2853	JAL - Ayuntamiento de Jamay
+2854	JAL - Ayuntamiento de Jesús María
+2855	JAL - Ayuntamiento de Jilotlán de los Dolores
+2856	JAL - Ayuntamiento de Jocotepec
+2857	JAL - Ayuntamiento de Juanacatlán
+2858	JAL - Ayuntamiento de Juchitlán
+2859	JAL - Ayuntamiento de La Barca
+2862	JAL - Ayuntamiento de Lagos de Moreno
+2860	JAL - Ayuntamiento de La Huerta
+2861	JAL - Ayuntamiento de La Manzanilla de la Paz
+2863	JAL - Ayuntamiento de Magdalena
+2864	JAL - Ayuntamiento de Mascota
+2865	JAL - Ayuntamiento de Mazamitla
+2866	JAL - Ayuntamiento de Mexticacán
+2867	JAL - Ayuntamiento de Mezquitic
+2868	JAL - Ayuntamiento de Mixtlán
+2869	JAL - Ayuntamiento de Ocotlán
+2870	JAL - Ayuntamiento de Ojuelos
+2871	JAL - Ayuntamiento de Pihuamo
+2872	JAL - Ayuntamiento de Poncitlán
+2873	JAL - Ayuntamiento de Puerto Vallarta
+2874	JAL - Ayuntamiento de Quitupán
+2875	JAL - Ayuntamiento de San Cristóbal de la Barranca
+2876	JAL - Ayuntamiento de San Diego de Alejandría
+2877	JAL - Ayuntamiento de San Gabriel
+2878	JAL - Ayuntamiento de San Ignacio Cerro Gordo
+2879	JAL - Ayuntamiento de San Juan de los Lagos
+2880	JAL - Ayuntamiento de San Juanito de Escobedo
+2881	JAL - Ayuntamiento de San Julián
+2882	JAL - Ayuntamiento de San Marcos
+2883	JAL - Ayuntamiento de San Martín de Bolaños
+2884	JAL - Ayuntamiento de San Martín Hidalgo
+2885	JAL - Ayuntamiento de San Miguel el Alto
+2886	JAL - Ayuntamiento de San Pedro Tlaquepaque
+2887	JAL - Ayuntamiento de San Sebastián del Oeste
+2889	JAL - Ayuntamiento de Santa María del Oro
+2888	JAL - Ayuntamiento de Santa María de los Ángeles
+2890	JAL - Ayuntamiento de Sayula
+2891	JAL - Ayuntamiento de Tala
+2892	JAL - Ayuntamiento de Talpa de Allende
+2806	JAL - Ayuntamiento de Tamazula de Gordiano
+2893	JAL - Ayuntamiento de Tapalpa
+2894	JAL - Ayuntamiento de Tecalitlán
+2895	JAL - Ayuntamiento de Techaluta de Montenegro
+2896	JAL - Ayuntamiento de Tecolotlán
+2897	JAL - Ayuntamiento de Tenamaxtlán
+2898	JAL - Ayuntamiento de Teocaltiche
+2899	JAL - Ayuntamiento de Teocuitatlán de Corona
+2900	JAL - Ayuntamiento de Tepatitlán de Morelos
+2901	JAL - Ayuntamiento de Tequila
+2902	JAL - Ayuntamiento de Teuchitlán
+2903	JAL - Ayuntamiento de Tizapán el Alto
+2904	JAL - Ayuntamiento de Tlajomulco de Zúñiga
+2905	JAL - Ayuntamiento de Tolimán
+2906	JAL - Ayuntamiento de Tomatlán
+2907	JAL - Ayuntamiento de Tonalá
+2908	JAL - Ayuntamiento de Tonaya
+2909	JAL - Ayuntamiento de Tonila
+2910	JAL - Ayuntamiento de Totatiche
+2807	JAL - Ayuntamiento de Tototlán
+2911	JAL - Ayuntamiento de Tuxcacuesco
+2912	JAL - Ayuntamiento de Tuxcueca
+2913	JAL - Ayuntamiento de Tuxpan
+2914	JAL - Ayuntamiento de Unión de San Antonio
+2915	JAL - Ayuntamiento de Unión de Tula
+2916	JAL - Ayuntamiento de Valle de Guadalupe
+2917	JAL - Ayuntamiento de Valle de Juárez
+2918	JAL - Ayuntamiento de Villa Corona
+2919	JAL - Ayuntamiento de Villa Guerrero
+2920	JAL - Ayuntamiento de Villa Hidalgo
+2921	JAL - Ayuntamiento de Villa Purificación
+2922	JAL - Ayuntamiento de Yahualica de González Gallo
+2923	JAL - Ayuntamiento de Zacoalco de Torres
+2924	JAL - Ayuntamiento de Zapopan
+2925	JAL - Ayuntamiento de Zapotiltic
+2926	JAL - Ayuntamiento de Zapotitlán de Vadillo
+2927	JAL - Ayuntamiento de Zapotlán del Rey
+2929	JAL - Ayuntamiento de Zapotlanejo
+2928	JAL - Ayuntamiento de Zapotlán el Grande
+2371	JAL - Bosque La Primavera
+29026	JAL - Centro de Conciliación Laboral del Estado de Jalisco
+25157	JAL - Centro de Coordinación, Comando, Control, Comunicaciones y Cómputo del Estado de Jalisco
+11462	JAL - Centro de Estimulación para Personas con Discapacidad Intelectual
+27663	JAL - Centro de Trasplantes de Órganos y Tejidos del Estado de Jalisco
+2392	JAL - Colegio de Bachilleres del Estado de Jalisco
+2393	JAL - Colegio de Educación Profesional Técnica del Estado de Jalisco
+2394	JAL - Colegio de Estudios Científicos y Tecnológicos del Estado de Jalisco
+2931	JAL - Colegio de Notarios del Estado de Jalisco
+30108	JAL - Colonos BSA Asociación Civil
+2395	JAL - Comisión de Arbitraje Médico del Estado de Jalisco
+13145	JAL - Comisión de Filmaciones del Estado de Jalisco (extinto)
+19898	JAL - Comisión de Selección Sistema Anticorrupción del Estado de Jalisco
+2941	JAL - Comisión Ejecutiva Estatal del Partido del Trabajo
+2932	JAL - Comisión Estatal de Derechos Humanos de Jalisco
+2397	JAL - Comisión Estatal del Agua de Jalisco
+2398	JAL - Comisión Estatal Indígena
+22537	JAL - Comité de Ferias y Eventos de Sayula
+19899	JAL - Comité de Participación Social Sistema Anticorrupción del Estado de Jalisco
+2939	JAL - Comité Directivo Estatal del Partido Acción Nacional en Jalisco
+2940	JAL - Comité Directivo Estatal del Partido Revolucionario Institucional en el Estado de Jalisco
+2946	JAL - Comité Ejecutivo Estatal del Partido de la Revolución Democrática de Jalisco (PRD Jalisco) (extinto 2022)
+12391	JAL - Comité Ejecutivo Estatal del Partido Morena
+2947	JAL - Comité Ejecutivo Estatal del Partido Verde Ecologista de México en el Estado de Jalisco
+2801	JAL - Congreso del Estado de Jalisco
+23177	JAL - Consejería Jurídica del Poder Ejecutivo del Estado
+13049	JAL - Consejo de Colaboración Municipal de Guadalajara
+2802	JAL - Consejo de la Judicatura del Estado de Jalisco
+2933	JAL - Consejo Económico y Social del Estado de Jalisco para el Desarrollo y Competitividad (extinto)
+2407	JAL - Consejo Estatal Contra las Adicciones en Jalisco (extinto)
+2408	JAL - Consejo Estatal de Ciencia y Tecnología de Jalisco
+2412	JAL - Consejo Estatal de Promoción Económica (extinto)
+32011	JAL - Consejo Estatal de Salud Mental y Adicciones (CESMA)
+2414	JAL - Consejo Estatal de Transplantes de Órganos y Tejidos (extinto)
+2415	JAL - Consejo Estatal para el Fomento Deportivo del Estado de Jalisco
+14092	JAL - Consejo Estatal para la Atención e Inclusión de Personas con Discapacidad (extinto)
+13710	JAL - Consejo Estatal para la Cultura y las Artes de Jalisco
+2417	JAL - Consejo Estatal para la Prevención de Accidentes (CEPAJ)
+2418	JAL - Consejo Estatal para la Prevención del Síndrome de Inmunodeficiencia Adquirida
+12958	JAL - Consejo Estatal para la Prevención y Atención a la Violencia Intrafamiliar
+2420	JAL - Consejo Municipal del Deporte de Guadalajara
+12743	JAL - Consejo Municipal del Deporte de Jocotepec (extinto)
+15885	JAL - Consejo Municipal del Deporte de La Barca (extinto)
+11739	JAL - Consejo Municipal del Deporte de Puerto Vallarta
+2421	JAL - Consejo Municipal del Deporte de San Pedro Tlaquepaque
+24138	JAL - Consejo Municipal del Deporte de Tlajomulco de Zúñiga, Jalisco
+2422	JAL - Consejo Municipal del Deporte de Tonalá
+14155	JAL - Consejo Municipal del Deporte de Yahualica de González Gallo (extinto 2024)
+2423	JAL - Consejo Municipal del Deporte de Zapopan
+2419	JAL - Consejo Municipal para el Combate a las Adicciones en San Pedro Tlaquepaque
+2425	JAL - Contraloría del Estado
+23181	JAL - Coordinación General de Comunicación
+21437	JAL - Coordinación General de Transparencia
+20420	JAL - Coordinación General Estratégica de Crecimiento y Desarrollo Económico (Desarrollo Económico, Agricultura, Desarrollo Rural, Turismo,...
+20419	JAL - Coordinación General Estratégica de Desarrollo Social (Educación, Salud, Asistencia Social, Igualdad Sustantiva, Cultura y Procuradur...
+20421	JAL - Coordinación General Estratégica de Gestión del Territorio (Medio Ambiente, Desarrollo Territorial, Infraestructura, Obra Pública, Tr...
+20418	JAL - Coordinación General Estratégica de Seguridad
+16162	JAL - Cruz Roja Delegación Jalisco
+12290	JAL - Despacho del Gobernador y Unidades Auxiliares del Gobernador
+2447	JAL - DIF Municipal de Acatic
+2448	JAL - DIF Municipal de Acatlán de Juárez
+2435	JAL - DIF Municipal de Ahualulco de Mercado
+13015	JAL - DIF Municipal de Amacueca
+2437	JAL - DIF Municipal de Amatitán
+2438	JAL - DIF Municipal de Ameca
+2439	JAL - DIF Municipal de Arandas
+2444	JAL - DIF Municipal de Atemajac de Brizuela
+2433	JAL - DIF Municipal de Atengo
+2432	JAL - DIF Municipal de Atenguillo
+2430	JAL - DIF Municipal de Atotonilco el Alto
+2445	JAL - DIF Municipal de Atoyac
+2449	JAL - DIF Municipal de Autlán de Navarro
+2446	JAL - DIF Municipal de Ayotlán
+2450	JAL - DIF Municipal de Ayutla
+2440	JAL - DIF Municipal de Bolaños
+2441	JAL - DIF Municipal de Cabo Corrientes
+2442	JAL - DIF Municipal de Cañadas de Obregón
+12967	JAL - DIF Municipal de Casimiro Castillo
+2451	JAL - DIF Municipal de Chapala
+2452	JAL - DIF Municipal de Chimaltitán
+2453	JAL - DIF Municipal de Chiquilistlán
+13694	JAL - DIF Municipal de Cihuatlán
+2455	JAL - DIF Municipal de Cocula
+2456	JAL - DIF Municipal de Colotlán
+2457	JAL - DIF Municipal de Concepción de Buenos Aires
+2458	JAL - DIF Municipal de Cuautitlán de Garcia Barragán
+2459	JAL - DIF Municipal de Cuautla
+2460	JAL - DIF Municipal de Cuquio
+2461	JAL - DIF Municipal de Degollado
+13412	JAL - DIF Municipal de Ejutla
+2463	JAL - DIF Municipal de El Grullo
+13671	JAL - DIF Municipal de El Limón
+2465	JAL - DIF Municipal de El Salto
+2466	JAL - DIF Municipal de Encarnación de Díaz
+2467	JAL - DIF Municipal de Etzatlán
+2468	JAL - DIF Municipal de Gómez Farias
+2469	JAL - DIF Municipal de Guachinango
+2470	JAL - DIF Municipal de Guadalajara
+2471	JAL - DIF Municipal de Hostotipaquillo
+2472	JAL - DIF Municipal de Huejucar
+13037	JAL - DIF Municipal de Huejuquilla El Alto
+2474	JAL - DIF Municipal de Ixtlahuacan de los Membrillos
+2475	JAL - DIF Municipal de Ixtlahuacan del Río
+2476	JAL - DIF Municipal de Jalostotitlán
+12450	JAL - DIF Municipal de Jamay
+2478	JAL - DIF Municipal de Jesús María
+2479	JAL - DIF Municipal de Jilotlán de los Dolores
+2480	JAL - DIF Municipal de Jocotepec
+2481	JAL - DIF Municipal de Juanacatlán
+12718	JAL - DIF Municipal de Juchitlán
+2483	JAL - DIF Municipal de la Barca
+2486	JAL - DIF Municipal de Lagos de Moreno
+2484	JAL - DIF Municipal de La Huerta
+13411	JAL - DIF Municipal de la Manzanilla de la Paz
+2487	JAL - DIF Municipal de Magdalena
+2488	JAL - DIF Municipal de Mascota
+2489	JAL - DIF Municipal de Mazamitla
+2490	JAL - DIF Municipal de Mexticacan
+2491	JAL - DIF Municipal de Mezquitic
+2492	JAL - DIF Municipal de Mixtlán
+2493	JAL - DIF Municipal de Ocotlán
+2494	JAL - DIF Municipal de Ojuelos
+2495	JAL - DIF Municipal de Pihuamo
+12712	JAL - DIF Municipal de Poncitlán
+2497	JAL - DIF Municipal de Puerto Vallarta
+13017	JAL - DIF Municipal de Quitupan
+2499	JAL - DIF Municipal de San Cristóbal de la Barranca
+13493	JAL - DIF Municipal de San Diego de Alejandría
+2501	JAL - DIF Municipal de San Gabriel
+2502	JAL - DIF Municipal de San Ignacio Cerro Gordo
+2503	JAL - DIF Municipal de San Juan de los Lagos
+2504	JAL - DIF Municipal de San Juanito de Escobedo
+2505	JAL - DIF Municipal de San Julián
+13692	JAL - DIF Municipal de San Marcos
+13430	JAL - DIF Municipal de San Martín de Bolaños
+2508	JAL - DIF Municipal de San Martín de Hidalgo
+2509	JAL - DIF Municipal de San Miguel el Alto
+2510	JAL - DIF Municipal de San Pedro Tlaquepaque
+2511	JAL - DIF Municipal de San Sebastián del Oeste
+14721	JAL - DIF Municipal de Santa María del Oro
+2512	JAL - DIF Municipal de Santa María de los Angeles
+2514	JAL - DIF Municipal de Sayula
+2515	JAL - DIF Municipal de Tala
+2516	JAL - DIF Municipal de Talpa de Allende
+2517	JAL - Dif Municipal de Tamazula de Gordiano
+2518	JAL - DIF Municipal de Tapalpa
+2519	JAL - DIF Municipal de Tecalitlán
+2520	JAL - DIF Municipal de Techaluta de Montenegro
+2521	JAL - DIF Municipal de Tecolotlán
+2522	JAL - DIF Municipal de Tenamaxtlán
+2523	JAL - DIF Municipal de Teocaltiche
+2524	JAL - DIF Municipal de Teocuitatlán de Corona
+2525	JAL - DIF Municipal de Tepatitlán de Morelos
+2526	JAL - DIF Municipal de Tequila
+2527	JAL - DIF Municipal de Teuchitlán
+2528	JAL - DIF Municipal de Tizapán el Alto
+2529	JAL - DIF Municipal de Tlajomulco de Zúñiga
+2530	JAL - DIF Municipal de Tolimán
+2531	JAL - DIF Municipal de Tomatlán
+2443	JAL - DIF Municipal de Tonalá
+2532	JAL - DIF Municipal de Tonaya
+2533	JAL - DIF Municipal de Tonila
+2534	JAL - DIF Municipal de Totatiche
+2535	JAL - DIF Municipal de Tototlán
+2536	JAL - DIF Municipal de Tuxcacuesco
+2537	JAL - DIF Municipal de Tuxcueca
+2538	JAL - DIF Municipal de Tuxpan
+2539	JAL - DIF Municipal de Unión de San Antonio
+2540	JAL - DIF Municipal de Unión de Tula
+2541	JAL - DIF Municipal de Valle de Guadalupe
+2542	JAL - DIF Municipal de Valle de Juárez
+2543	JAL - DIF Municipal de Villa Corona
+2544	JAL - DIF Municipal de Villa Guerrero
+2545	JAL - DIF Municipal de Villa Hidalgo
+2546	JAL - DIF Municipal de Villa Purificación
+2547	JAL - DIF Municipal de Yahualica de González Gallo
+2548	JAL - DIF Municipal de Zacoalco de Torres
+2549	JAL - DIF Municipal de Zapopan
+2550	JAL - DIF Municipal de Zapotiltic
+2551	JAL - DIF Municipal de Zapotitlán de Vadillo
+2552	JAL - DIF Municipal de Zapotlán del Rey
+2554	JAL - DIF Municipal de Zapotlanejo
+2553	JAL - DIF Municipal de Zapotlán el Grande
+2431	JAL - DIF Municipal El Arenal
+15768	JAL - El Colegio de Jalisco A.C.
+2557	JAL - Escuela de Conservación y Restauración de Occidente
+2766	JAL - Extinto Procuraduría Social (Información del 2015 al 2018)
+2768	JAL - Extinto Secretaría de Cultura (Información del 2015 al 2018)
+2770	JAL - Extinto Secretaría de Desarrollo Económico (Información del 2015 al 2018)
+2769	JAL - Extinto Secretaría de Desarrollo e Integración Social (Información del 2015 al 2018)
+2771	JAL - Extinto Secretaría de Desarrollo Rural (Información del 2015 al 2018)
+2772	JAL - Extinto Secretaría de Educación (Información del 2015 al 2018)
+2773	JAL - Extinto Secretaría de Infraestructura y Obra Pública (Información del 2015 al 2018)
+2774	JAL - Extinto Secretaría de Innovación, Ciencia y Tecnología (Información del 2015 al 2018)
+2775	JAL - Extinto Secretaría de Medio Ambiente y Desarrollo Territorial (Información del 2015 al 2018)
+2776	JAL - Extinto Secretaría de Movilidad (Información del 2015 al 2018)
+2777	JAL - Extinto Secretaría de Planeación, Administración y Finanzas (Información del 2015 al 2018)
+2778	JAL - Extinto Secretaría de Salud (Información del 2015 al 2018)
+2779	JAL - Extinto Secretaría de Trabajo y Previsión Social (Información del 2015 al 2018)
+2780	JAL - Extinto Secretaría de Turismo (Información del 2015 al 2018)
+29786	JAL - Federación de Sindicatos de Empleados al Servicio de los Poderes del Estado, Municipios y Organismos Públicos Descentralizados en Jal...
+21377	JAL - Fideicomiso 2003993-1, Fideicomiso de Inversión y Administración para la mejora de la Seguridad Vial
+17272	JAL - Fideicomiso Avenida Juan Palomar y Arias
+2968	JAL - Fideicomiso Ciudad Creativa Digital
+17290	JAL - Fideicomiso Coeficiente de Utilización de Suelo (CUSMAX)
+13090	JAL - Fideicomiso de Administración y Fuente Alterna de Pago para la Reestructura de la Deuda del SIAPA
+13147	JAL - Fideicomiso de Administración y Fuente de Pago "Fuerza Única y de Seguridad Pública del Estado de Jalisco" (extinto)
+17731	JAL - Fideicomiso de Administración y Medio de Pago denominado "Nuevo Sistema de Justicia Penal y Juicios Orales del Estado de Jalisco"
+13093	JAL - Fideicomiso de Aportación para la Infraestructura Social y Municipal
+13140	JAL - Fideicomiso de Apoyo de Seguridad Social (FIASS)
+28987	JAL - Fideicomiso de Fondo de Inversión y Administración denominado "Fondo Impulso Jalisco"
+29027	JAL - Fideicomiso de Fondo Irrevocable de Inversión y Administración denominado "Fondo para la Infraestructura Educativa del Estado de Jali...
+13092	JAL - Fideicomiso de Garantía de Deuda con SANTANDER (extinto)
+13091	JAL - Fideicomiso de Garantía de Deudas con BANAMEX
+13097	JAL - Fideicomiso de Garantía de Deuda y Fuente de Pago SANTANDER-BANORTE (extinto)
+17291	JAL - Fideicomiso de Inversión y Administración denominado "Fideicomiso de Equipamiento e Infraestructura Urbana y vial en la Zona del Bají...
+20457	JAL - Fideicomiso de Inversión y Administración Número 750477, "Marca Ciudad Guadalajara" (extinto 2022)
+2962	JAL - Fideicomiso de la Alianza para el Campo en el Estado de Jalisco
+17732	JAL - Fideicomiso del Fondo Estatal de Protección al Ambiente del Estado de Jalisco
+13148	JAL - Fideicomiso del Fondo Mixto CONACYT- Gobierno del Estado de Jalisco (Secretaría de Innovación, Ciencia y Tecnología)(extinto 2023)
+2984	JAL - Fideicomiso del Plan Múltiple de Beneficios para Trabajadores del Gobierno del Estado
+12955	JAL - Fideicomiso de Turismo de la Zona Metropolitana de Guadalajara
+12956	JAL - Fideicomiso de Turismo de los Municipios del Interior del Estado de Jalisco
+18824	JAL - Fideicomiso de Turismo de San Juan de los Lagos (Estatal)(extinto 2023)
+13135	JAL - Fideicomiso de Turismo de San Juan de los Lagos (Municipal extinto)
+13050	JAL - Fideicomiso de Turismo Puerto Vallarta (extinto)
+13144	JAL - Fideicomiso Estatal para la Cultura y las Artes
+13712	JAL - Fideicomiso Fondo Estatal de Ciencia y Tecnología
+2967	JAL - Fideicomiso Fondo Jalisco de Fomento Empresarial
+17170	JAL - Fideicomiso Hecho por Mujeres de Zapopan (extinto)
+24197	JAL - Fideicomiso Irrevocable, de Administración y Fuente de Pago Santander
+24198	JAL - Fideicomiso Irrevocable, para Administración y Fuente de Pago Banorte Fid. 751607
+21378	JAL - Fideicomiso Irrevocable de Administración, y Fuente de Pago con Santander, F/2004034-1
+13150	JAL - Fideicomiso Irrevocable de Administración y Fuente de Pago identificado por el número F/3087
+13149	JAL - Fideicomiso Irrevocable de Administración y Pago Denominado "Adquisición de Vagones para la Línea 1 del Tren Eléctrico Urbano de Guad...
+17273	JAL - Fideicomiso Irrevocable de Garantía, Administración, y Fuente de Pago
+13151	JAL - Fideicomiso Irrevocable de Garantía, Administración y Fuente Alterna de Pago Invex Solucash Transporte (extinto)
+17730	JAL - Fideicomiso Irrevocable Secundario de Inversión de Capital Privado denominado "CCD VENTURES"
+13146	JAL - Fideicomiso Jalisco Evalúa
+17271	JAL - Fideicomiso Maestro de Fomento Económico para el Municipio de Zapopan
+13152	JAL - Fideicomiso Manutención (Sectorizado a la Secretaría de Innovación, Ciencia y Tecnología) (extinto)
+25697	JAL - Fideicomiso para Coberturas de Precios del Maíz del Estado de Jalisco
+13143	JAL - Fideicomiso para el Desarrollo de los Sistemas de Enseñanza Vivencial e Indagatoria (SEVIC) (extinto 2024)
+2969	JAL - Fideicomiso para el Desarrollo Rural del estado de Jalisco (extinto en junio del 2021)
+2970	JAL - Fideicomiso para el Desarrollo Urbano de Jalisco
+13094	JAL - Fideicomiso para la Administración de los Recursos para el Pago de Pensiones e Indemnizaciones de los Servidores Públicos de Base del...
+2971	JAL - Fideicomiso para la Administracion del Programa de Desarrollo Forestal del Estado de Jalisco
+13138	JAL - Fideicomiso para la Protección del Estero de El Salado y el Desarrollo de las Áreas Colindantes
+13032	JAL - Fideicomiso Premio IJAS
+15960	JAL - Fideicomiso Público de Atención a Jaliscienses en el Extranjero
+29868	JAL - Fideicomiso Público de Turismo para la Promoción y Publicidad del Municipio de Puerto Vallarta
+32158	JAL - Fideicomiso Público de Turismo Zona de Costalegre Jalisco 29471
+13139	JAL - Fideicomiso Público para el Relleno Sanitario Metropolitano (FRSZM)
+21057	JAL - Fiscalía Especializada en Combate a la Corrupción
+31431	JAL - Fiscalía Especializada en Materia de Delitos Electorales
+2558	JAL - Fiscalía Estatal
+13131	JAL - Fondo de Apoyo al Programa Especial de Financiamiento a la Vivienda para el Magisterio
+13136	JAL - Fondo de Garantía Agropecuaria de Jalisco (FIFOJAL)
+13141	JAL - Fondo Estatal de Desastres Naturales (FOEDEN)
+13133	JAL - Fondo Metropolitano de la Ciudad de Guadalajara (extinto 2022)
+13132	JAL - Fondo Metropolitano de Ocotlán (extinto)
+15794	JAL - Fondo Metropolitano de Puerto Vallarta - Bahía de Banderas (extinto)
+25617	JAL - Futuro (extinto)
+26757	JAL - Hagamos (extinto)
+2561	JAL - Hogar Juan Cruz Ruíz de Cabañas y Crespo
+2562	JAL - Hospital Civil de Guadalajara
+2563	JAL - Industria Jalisciense de Rehabilitación Social
+2571	JAL - Instituto Cultural Cabañas
+2572	JAL - Instituto de Alternativas Para los Jóvenes de Tlajomulco de Zúñiga
+2665	JAL - Instituto de Alternativas para los Jóvenes de Tonalá
+2575	JAL - Instituto de Cultura, Recreación y Deporte del Municipio de Tlajomulco de Zúñiga (extinto)
+2576	JAL - Instituto de Estudios del Federalismo "Prisciliano Sánchez" (extinto)
+2577	JAL - Instituto de Fomento al Comercio Exterior del Estado de Jalisco (extinto)
+2578	JAL - Instituto de Formación para el Trabajo del Estado de Jalisco
+2579	JAL - Instituto de Información Estadística y Geográfica del Estado de Jalisco
+2803	JAL - Instituto de Justicia Alternativa
+2581	JAL - Instituto de la Artesanía Jalisciense (extinto)
+2580	JAL - Instituto de la Infraestructura Física Educativa del Estado de Jalisco
+13494	JAL - Instituto de la Juventud Jocotepec (extinto)
+13715	JAL - Instituto de la Juventud La Barca (extinto)
+2642	JAL - Instituto de la Juventud San Gabriel
+13351	JAL - Instituto de la Juventud Yahualica de González Gallo (extinto 2024)
+13020	JAL - Instituto de las Mujeres de Cuquío (extinto 2024)
+2696	JAL - Instituto de las Mujeres de Jamay (extinto)
+2698	JAL - Instituto de Movilidad y Transporte del Estado de Jalisco (extinto)
+2699	JAL - Instituto de Pensiones del Estado de Jalisco
+2710	JAL - Instituto de Planeación y Gestión del Desarrollo del Área Metropolitana de Guadalajara
+2934	JAL - Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco
+2935	JAL - Instituto Electoral y de Participación Ciudadana del Estado de Jalisco
+2700	JAL - Instituto Estatal para la Educación de Personas Jóvenes y Adultas
+2701	JAL - Instituto Jalisciense de Asistencia Social (extinto)
+2702	JAL - Instituto Jalisciense de Cancerología
+2703	JAL - Instituto Jalisciense de Ciencias Forenses
+11596	JAL - Instituto Jalisciense del Adulto Mayor (extinto)
+2705	JAL - Instituto Jalisciense de la Juventud (extinto)
+2707	JAL - Instituto Jalisciense de las Mujeres (Información 2015 - abril 2019)
+2706	JAL - Instituto Jalisciense de la Vivienda
+2709	JAL - Instituto Jalisciense del Emprendedor (extinto)
+15793	JAL - Instituto Jalisciense para los Migrantes (extinto)
+2713	JAL - Instituto Municipal de Atención a la Juventud de Guadalajara (extinto)
+2692	JAL - Instituto Municipal de Atención a la Juventud Teocaltichense (extinto)
+2722	JAL - Instituto Municipal de la Juventud en San Pedro Tlaquepaque
+2632	JAL - Instituto Municipal de la Juventud Mazamitla (extinto 2024)
+2725	JAL - Instituto Municipal de la Mujer del Municipio de Autlán de Navarro
+2567	JAL - Instituto Municipal de la Mujer de Zapotlán de Vadillo (extinto 2025)
+13036	JAL - Instituto Municipal de la Mujer en Jocotepec (extinto)
+13714	JAL - Instituto Municipal de la Mujer en La Barca (extinto)
+14132	JAL - Instituto Municipal de la Mujer en Pihuamo (extinto)
+13693	JAL - Instituto Municipal de la Mujer en San Diego de Alejandría (extinto 2024)
+13230	JAL - Instituto Municipal de la Mujer en San Ignacio Cerro Gordo (extinto 2024)
+13476	JAL - Instituto Municipal de la Mujer en San Julián
+16251	JAL - Instituto Municipal de la Mujer en Tonalá
+14670	JAL - Instituto Municipal de la Mujer en Zapotlán el Grande (extinto 2023)
+2574	JAL - Instituto Municipal de la Mujer Teocaltichense (extinto)
+2726	JAL - Instituto Municipal de la Mujer Tlajomulquense
+13350	JAL - Instituto Municipal de la Mujer Yahualicense (extinto 2024)
+2729	JAL - Instituto Municipal de las Mujeres de El Grullo
+20357	JAL - Instituto Municipal de las Mujeres de Ixtlahuacán de los Membrillos
+12451	JAL - Instituto Municipal de las Mujeres de Mazamitla (extinto 2024)
+2731	JAL - Instituto Municipal de las Mujeres en Guadalajara
+11745	JAL - Instituto Municipal de las Mujeres en Jilotlán de los Dolores (extinto)
+11744	JAL - Instituto Municipal de las Mujeres en Tenamaxtlán
+2730	JAL - Instituto Municipal de las Mujeres y para la Igualdad Sustantiva en San Pedro Tlaquepaque
+16091	JAL - Instituto Municipal de las Mujeres Zapopanas para la Igualdad Sustantiva
+11533	JAL - Instituto Municipal de la Vivienda de Guadalajara (extinto)
+18077	JAL - Instituto Municipal de Planeación de Lagos de Moreno
+24199	JAL - Instituto para el Mejoramiento del Hábitat del Municipio de Tlajomulco de Zúñiga, Jalisco (extinto)
+21100	JAL - Instituto Tecalitlense de la Mujer
+13791	JAL - Instituto Tecnológico José Mario Molina Pasquel y Henríquez
+23178	JAL - Jefatura de Gabinete
+12957	JAL - Junta Intermunicipal del Medio Ambiente para la Gestión Integral de la Cuenca Baja del Río Ayuquila
+12964	JAL - Junta Intermunicipal del Medio Ambiente para la gestión integral de la cuenca del Rio Coahuayana
+11743	JAL - Junta Intermunicipal de Medio Ambiente Altos Sur (JIAS)
+11415	JAL - Junta Intermunicipal de Medio Ambiente de la Costa Sur
+26400	JAL - Junta Intermunicipal de Medio Ambiente del Ayuquila Alto
+13672	JAL - Junta Intermunicipal de Medio Ambiente de Sierra Occidental y Costa (JISOC)
+25618	JAL - Junta Intermunicipal de Medio Ambiente Lagunas
+18078	JAL - Junta Intermunicipal de Medio Ambiente para la Gestión Integral de la Región Norte del Estado de Jalisco (JINOR)
+17457	JAL - Junta Intermunicipal de Medio Ambiente para la Gestión Integral de la Región Valles (JIMAV)
+2944	JAL - Movimiento Ciudadano
+21097	JAL - Museos, Exposiciones y Galerías de Jalisco
+12961	JAL - Museo Trompo Mágico (extinto 2023)
+13951	JAL - O.P.D. Comité de la Feria de Zapotlán el Grande
+2752	JAL - O.P.D. Servicios de Salud del Municipio de Zapopan
+12965	JAL - O.P.D. Servicios de Salud Jalisco
+25619	JAL - Organismo Municipal de Agua y Saneamiento de Tala
+2755	JAL - Organismo Operador del Parque de la Solidaridad y Montenegro (extinto 2022)
+12390	JAL - Organismo Operador del Sistema de Agua Potable y Alcantarillado de Unión de Tula
+2753	JAL - Organismo Público Descentralizado Zoológico Guadalajara
+2983	JAL - Orquesta Filarmónica del Estado de Jalisco
+2759	JAL - Parque Metropolitano de Guadalajara (extinto 2022)
+26398	JAL - Partido Encuentro Solidario (extinto)
+2945	JAL - Partido Político Nacional Nueva Alianza
+2760	JAL - Patronato del Centro Histórico, Barrios y Zonas Tradicionales de Guadalajara (extinto)
+2761	JAL - Patronato Fiestas de Octubre de la Zona Metropolitana de Guadalajara (extinto)
+2762	JAL - Patronato Nacional de la Cerámica
+25597	JAL - Plataforma Abierta de Innovación y Desarrollo de Jalisco
+15550	JAL - Policía Metropolitana de Guadalajara
+2764	JAL - Procuraduría de Desarrollo Urbano
+2765	JAL - Procuraduría Estatal de Protección al Ambiente
+13098	JAL - Programa Caracol (extinto 2023)
+13130	JAL - Programa Escuelas de Calidad (extinto 2025)
+13142	JAL - Programas de Tecnologías Educativas y de la Información
+2370	JAL - Red de Bosques Urbanos de Guadalajara (extinto)
+28986	JAL - Red de Centros de Justicia para las Mujeres
+13038	JAL - Régimen Estatal de Protección Social en Salud de Jalisco (extinto)
+20424	JAL - Secretaría de Administración
+23182	JAL - Secretaría de Igualdad Sustantiva entre Mujeres y Hombres
+20422	JAL - Secretaría de la Hacienda Pública
+23180	JAL - Secretaría de Planeación y Participación Ciudadana
+19897	JAL - Secretaría Ejecutiva del Sistema Estatal Anticorrupción
+2781	JAL - Secretaría General de Gobierno
+2782	JAL - Servicio de Agua Potable, Alcantarillado y Saneamiento del Municipio de Magdalena
+31609	JAL - Servicio Estatal Tributario de Jalisco
+2785	JAL - Servicios y Transportes (extinto)
+30368	JAL - Sierra de Quila
+32442	JAL - Sindicato Autónomo de la Secretaría de Medio Ambiente y Desarrollo Territorial y sus Órganos Públicos Descentralizados
+29787	JAL - Sindicato de Empleados del Ayuntamiento de Zapopan
+32438	JAL - Sindicato de la Secretaría de Administración "SINSA"
+30410	JAL - Sindicato Democrático de Servidores Públicos del Ayuntamiento de Zapopan
+29668	JAL - Sindicato de Servidores Públicos del Ayuntamiento de Zapopan y sus Organismos Públicos Descentralizados
+32437	JAL - Sindicato de Servidores Públicos del Consejo Estatal para el Fomento Deportivo y el Apoyo a la Juventud (CODE Jalisco)
+19957	JAL - Sindicato de Servidores Públicos en el Ayuntamiento Constitucional de Guadalajara, Jalisco y sus Organismos Públicos Descentralizados
+32441	JAL - Sindicato de Trabajadores de la Secretaría de Infraestructura y Obra Pública
+32443	JAL - Sindicato de Trabajadores del Instituto Tecnológico Superior de Jalisco Mario Molina Pasquel y Henríquez
+32351	JAL - Sindicato de Trabajadores del Municipio de Guadalajara
+32352	JAL - Sindicato Guadalajara
+32436	JAL - Sindicato Independiente del Poder Legislativo del Estado de Jalisco
+32577	JAL - Sindicatos Autónomos Federados (SAFE)
+29888	JAL - Sindicato Único de Trabajadores del Hospital Civil de Guadalajara
+30408	JAL - Sindicato Único de Trabajadores del Instituto de Formación para el Trabajo del Estado de Jalisco
+29667	JAL - Sindicato Único de Trabajadores Unidos de Zapopan
+32444	JAL - Sindicato Unión y Fuerza de Académicos y Administrativos del Tecnológico Mario Molina
+16111	JAL - Sistema Administrativo Municipal de Agua Potable y Alcantarillado de Ixtlahuacan de los Membrillos
+13711	JAL - Sistema de Agua Potable, Alcantarillado y Saneamiento del Municipio de Amacueca SAPASA (extinto)
+11413	JAL - Sistema de Agua Potable, Alcantarillado y Saneamiento del Municipio de Arandas
+12071	JAL - Sistema de Agua Potable, Alcantarillado y Saneamiento del Municipio de Atotonilco el Alto (SAPAMA)
+12072	JAL - Sistema de Agua Potable, Alcantarillado y Saneamiento del Municipio de Chapala (SIMAPA)
+11701	JAL - Sistema de Agua Potable, Alcantarillado y Saneamiento del Municipio de Colotlán
+13034	JAL - Sistema de Agua Potable, Alcantarillado y Saneamiento del Municipio de Degollado (SIAPADEG) (extinto 2023)
+13432	JAL - Sistema de Agua Potable, Alcantarillado y Saneamiento del Municipio de Jamay (SIMAPAS)(extinto 2023)
+12721	JAL - Sistema de Agua Potable, Alcantarillado y Saneamiento del Municipio de La Barca
+26399	JAL - Sistema de Agua Potable, Alcantarillado y Saneamiento del Municipio de la Huerta
+20358	JAL - Sistema de Agua Potable, Alcantarillado y Saneamiento del Municipio de Mazamitla
+13231	JAL - Sistema de Agua potable, Alcantarillado y Saneamiento del Municipio de San Ignacio Cerro Gordo
+13590	JAL - Sistema de Agua Potable, Alcantarillado y Saneamiento del Municipio de San Julián (SAPAJ)
+12073	JAL - Sistema de Agua Potable, Alcantarillado y Saneamiento del Municipio de San Miguel el Alto (SAPASMA)
+13014	JAL - Sistema de Agua Potable, Alcantarillado y Saneamiento del Municipio de Talpa de Allende
+13012	JAL - Sistema de Agua Potable, Alcantarillado y Saneamiento del Municipio de Tapalpa
+13016	JAL - Sistema de Agua Potable, Alcantarillado y Saneamiento del Municipio de Tototlán (extinto 2023)
+13019	JAL - Sistema de Agua Potable, Alcantarillado y Saneamiento del Municipio de Villa Hidalgo
+13013	JAL - Sistema de Agua Potable, Alcantarillado y Saneamiento del Municipio de Zapotlán el Grande
+25177	JAL - Sistema de Agua Potable, Drenaje y Alcantarillado de Puerto Vallarta, Jalisco
+2786	JAL - Sistema de Agua Potable Alcantarillado y Saneamiento del Municipio de Ameca
+13047	JAL - Sistema de Agua Potable y Alcantarillado Mascota
+31228	JAL - Sistema de Atención Médica de Urgencias (SAMU)
+2790	JAL - Sistema del Agua de San Martín Hidalgo
+2787	JAL - Sistema de los Servicios de Agua Potable, Drenaje y Alcantarillado de Puerto Vallarta (extinto)
+2788	JAL - Sistema de Transporte Colectivo de la Zona Metropolitana (SISTECOZOME)(extinto)
+2789	JAL - Sistema de Tren Eléctrico Urbano
+2989	JAL - Sistema Estatal de Ahorro para el Retiro
+31108	JAL - Sistema Integral de Agua de Ayotlán (extinto)
+13477	JAL - Sistema Intermunicipal de Manejo de Residuos (SIMAR SURESTE)
+29086	JAL - Sistema Intermunicipal de Manejo de Residuos (SUR-SURESTE)
+32578	JAL - Sistema Intermunicipal de Manejo de Residuos Lagunas (SIMAR LAGUNAS)
+2792	JAL - Sistema Intermunicipal para los Servicios de Agua Potable y Alcantarillado (SIAPA)
+2793	JAL - Sistema Jalisciense de Radio y Televisión
+32476	JAL - Sistema Municipal de Agua El Arenal
+2794	JAL - Sistema para el Desarrollo Integral de la Familia DIF Jalisco
+13691	JAL - Somos (extinto 2022)
+2804	JAL - Supremo Tribunal de Justicia del Estado de Jalisco
+12330	JAL - Tribunal de Arbitraje y Escalafón del Estado de Jalisco
+2805	JAL - Tribunal de Justicia Administrativa del Estado de Jalisco
+2795	JAL - Tribunal Electoral del Estado de Jalisco
+23179	JAL - Unidad de Enlace Federal y Asuntos Internacionales
+2796	JAL - Unidad Estatal de Protección Civil y Bomberos
+2936	JAL - Universidad de Guadalajara
+2797	JAL - Universidad Politécnica de la Zona Metropolitana de Guadalajara
+2798	JAL - Universidad Tecnológica de Jalisco
+2799	JAL - Universidad Tecnológica de la Zona Metropolitana de Guadalajara

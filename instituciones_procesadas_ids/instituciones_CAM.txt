@@ -1,0 +1,167 @@
+802	CAM - Administración Portuaria Integral de Campeche, S.A. de C.V.
+18079	CAM - Agencia de Energía del Estado de Campeche
+32289	CAM - Agencia Reguladora del Transporte del Estado de Campeche
+861	CAM - Auditoría Superior del Estado de Campeche
+28686	CAM - Autoridad del Patrimonio Cultural del Estado de Campeche
+26417	CAM - Centro de Conciliación Laboral del Estado de Campeche
+803	CAM - Colegio de Bachilleres del Estado de Campeche
+804	CAM - Colegio de Educación Profesional Técnica del Estado de Campeche
+805	CAM - Colegio de Estudios Científicos y Tecnológicos del Estado de Campeche
+806	CAM - Comisión de Agua Potable y Alcantarillado del Estado de Campeche
+13270	CAM - Comisión de Conciliación y Arbitraje Médico del Estado de Campeche
+914	CAM - Comisión de Derechos Humanos del Estado de Campeche
+915	CAM - Comisión de Transparencia y Acceso a la Información Pública del Estado de Campeche
+807	CAM - Comisión Estatal de Desarrollo de Suelo y Vivienda
+862	CAM - Congreso del Estado de Campeche
+808	CAM - Consejería Jurídica
+809	CAM - Consejo Estatal de Investigación Científica y Desarrollo Tecnológico del Estado de Campeche
+12274	CAM - Coordinación General de la Oficina de la Gobernadora del Estado de Campeche
+31130	CAM - Encuentro Solidario Campeche
+926	CAM - Fideicomiso de Inversión del Impuesto del 2% sobre Nóminas del Estado de Campeche
+17638	CAM - Fiscalía Especializada en Combate a la Corrupción del Estado de Campeche
+810	CAM - Fiscalía General del Estado de Campeche
+927	CAM - Fondo Campeche
+17677	CAM - Fondo Estatal de Fomento Industrial del Estado de Campeche
+12272	CAM - Frente Campechano en Movimiento (DESINCORPORADO por extinción 21/01/22)
+29908	CAM - Frente Unido por la Equidad y el Respeto a los Trabajadores del Estado de Campeche
+811	CAM - Fundación Pablo García
+814	CAM - Hospital Dr. Manuel Campos
+815	CAM - Hospital Psiquiátrico de Campeche
+816	CAM - Instituto Campechano
+817	CAM - Instituto de Acceso a la Justicia del Estado de Campeche
+818	CAM - Instituto de Capacitación para el Trabajo del Estado de Campeche
+27787	CAM - Instituto de Cultura y Artes del Estado de Campeche
+819	CAM - Instituto de Desarrollo y Formación Social del Estado de Campeche
+820	CAM - Instituto de Información Estadística, Geográfica y Catastral del Estado de Campeche
+821	CAM - Instituto de la Infraestructura Física Educativa del Estado de Campeche
+822	CAM - Instituto de la Juventud del Estado de Campeche
+823	CAM - Instituto de la Mujer del Estado de Campeche
+826	CAM - Instituto del Deporte del Estado de Campeche
+896	CAM - Instituto del Deporte y de la Juventud de Carmen
+27704	CAM - Instituto de Pesca y Acuacultura del Estado de Campeche
+824	CAM - Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Campeche
+825	CAM - Instituto de Servicios Descentralizados de Salud Pública del Estado de Campeche
+916	CAM - Instituto Electoral del Estado de Campeche
+827	CAM - Instituto Estatal de la Educación para los Adultos
+828	CAM - Instituto Estatal para el Fomento de las Actividades Artesanales en Campeche
+893	CAM - Instituto Municipal de la Mujer de Carmen
+894	CAM - Instituto Municipal de la Vivienda de Carmen
+895	CAM - Instituto Municipal de Planeación de Carmen (Extinto)
+830	CAM - Instituto Tecnológico Superior de Calkiní
+831	CAM - Instituto Tecnológico Superior de Champotón
+832	CAM - Instituto Tecnológico Superior de Escárcega
+829	CAM - Instituto Tecnológico Superior de Hopelchén
+12273	CAM - Junta Local de Conciliación y Arbitraje del Estado de Campeche (DESINCORPORADO e integrado a la Secretaría de Gobierno 01/01/2022)
+812	CAM - Junta Municipal de Alfredo V. Bonfil
+813	CAM - Junta Municipal de Atasta
+875	CAM - Junta Municipal de Bécal
+876	CAM - Junta Municipal de Bolonchén de Rejón
+877	CAM - Junta Municipal de Centenario
+878	CAM - Junta Municipal de Constitución
+20597	CAM - Junta Municipal de División del Norte
+879	CAM - Junta Municipal de Dzibalchén
+881	CAM - Junta Municipal de Felipe Carrillo Puerto
+882	CAM - Junta Municipal de Hampolol
+883	CAM - Junta Municipal de Hool
+884	CAM - Junta Municipal de Mamantel
+21077	CAM - Junta Municipal de Miguel Hidalgo y Costilla
+24297	CAM - Junta Municipal de Monclova
+885	CAM - Junta Municipal de Nunkiní
+886	CAM - Junta Municipal de Pich
+887	CAM - Junta Municipal de Pomuch
+888	CAM - Junta Municipal de Sabancuy
+890	CAM - Junta Municipal de Sihochac
+891	CAM - Junta Municipal de Tinún
+892	CAM - Junta Municipal de Tixmucuy
+20557	CAM - Junta Municipal de Ukum
+919	CAM - MORENA
+920	CAM - Movimiento Ciudadano
+864	CAM - Municipio de Calakmul
+872	CAM - Municipio de Calkiní
+873	CAM - Municipio de Campeche
+865	CAM - Municipio de Candelaria
+874	CAM - Municipio de Carmen
+866	CAM - Municipio de Champotón
+880	CAM - Municipio de Dzitbalché
+867	CAM - Municipio de Escárcega
+868	CAM - Municipio de Hecelchakán
+869	CAM - Municipio de Hopelchén
+870	CAM - Municipio de Palizada
+889	CAM - Municipio de Seybaplaya
+871	CAM - Municipio de Tenabo
+922	CAM - Partido Acción Nacional
+923	CAM - Partido de la Revolución Democrática
+12275	CAM - Partido del Trabajo
+918	CAM - Partido Encuentro Social (DESINCORPORADO por extinción 21/01/22)
+17640	CAM - Partido Liberal Campechano (DESINCORPORADO por extinción 21/01/22)
+921	CAM - Partido Nueva Alianza (DESINCORPORADO por extinción 16/08/2019)
+924	CAM - Partido Revolucionario Institucional
+925	CAM - Partido Verde Ecologista de México
+833	CAM - Promotora de Eventos Artísticos, Culturales y de Convenciones del Estado de Campeche
+12276	CAM - Promotora para la Conservación y Desarrollo Sustentable del Estado de Campeche
+12277	CAM - Régimen Estatal de Protección Social en Salud (DESINCORPORADO por extinción 01/01/2022)
+834	CAM - Secretaría de Administración e Innovación Gubernamental (DESINCORPORADO por extinción 21/01/22)
+842	CAM - Secretaría de Administración y Finanzas
+839	CAM - Secretaría de Bienestar
+835	CAM - Secretaría de Cultura (DESINCORPORADO por extinción 21/01/22)
+838	CAM - Secretaría de Desarrollo Agropecuario
+836	CAM - Secretaría de Desarrollo Económico
+837	CAM - Secretaría de Desarrollo Energético Sustentable (DESINCORPORADO por extinción 21/01/22)
+840	CAM - Secretaría de Desarrollo Territorial, Urbano y Obras Públicas
+841	CAM - Secretaría de Educación
+843	CAM - Secretaría de Gobierno
+28685	CAM - Secretaría de Inclusión
+844	CAM - Secretaría de la Contraloría
+845	CAM - Secretaría de Medio Ambiente, Biodiversidad, Cambio Climático y Energía
+847	CAM - Secretaría de Modernización Administrativa e Innovación Gubernamental
+846	CAM - Secretaría de Pesca y Acuacultura (DESINCORPORADO por extinción 21/01/22)
+848	CAM - Secretaría de Protección Civil
+850	CAM - Secretaría de Protección y Seguridad Ciudadana
+849	CAM - Secretaría de Salud
+852	CAM - Secretaría de Trabajo y Previsión Social (DESINCORPORADO por extinción 21/01/22)
+851	CAM - Secretaría de Turismo
+24637	CAM - Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Campeche
+936	CAM - Sindicato Único del Personal Académico, Administrativo, Manual y Apoyo del Colegio de Estudios Científicos y Tecnológicos del Estado ...
+928	CAM - Sindicato Único de Personal Académico de la Universidad Autónoma de Campeche
+929	CAM - Sindicato Único de Personal Docente del Colegio de Educación Profesional Técnica del Estado de Campeche
+930	CAM - Sindicato Único de Trabajadores Académicos, Administrativos y Manuales del Instituto Campechano
+935	CAM - Sindicato Único de Trabajadores Administrativos, de Intendencia y Similares de la Universidad Autónoma de Campeche
+12279	CAM - Sindicato Único de Trabajadores al Servicio del Gobierno Municipal
+12278	CAM - Sindicato Único de Trabajadores al Servicio de los Poderes, Municipios e Instituciones Descentralizadas del Estado de Campeche
+12280	CAM - Sindicato Único de Trabajadores de Base del H. Ayuntamiento, Juntas y Comisarías Municipales del Municipio del Carmen (DESINCORPORADO...
+937	CAM - Sindicato Único de Trabajadores de la Universidad Autónoma del Carmen
+931	CAM - Sindicato Único de Trabajadores de la Universidad Tecnológica de Campeche
+932	CAM - Sindicato Único de Trabajadores del Colegio de Bachilleres del Estado de Campeche
+933	CAM - Sindicato Único de Trabajadores del Colegio de Estudios Científicos y Tecnológicos del Estado de Campeche
+934	CAM - Sindicato Único de Trabajadores del Gobierno del Estado al Servicio de la Educación (DESINCORPORADO por extinción 16/08/2019)
+853	CAM - Sistema de Atención a Niños, Niñas y Adolescentes Farmacodependientes del Estado de Campeche "Vida Nueva"
+854	CAM - Sistema de Televisión y Radio de Campeche
+897	CAM - Sistema Municipal de Agua Potable y Alcantarillado de Calkiní (DESINCORPORADO por extinción 16/08/2019)
+901	CAM - Sistema Municipal de Agua Potable y Alcantarillado de Campeche
+898	CAM - Sistema Municipal de Agua Potable y Alcantarillado de Candelaria (DESINCORPORADO por extinción 16/08/2019)
+902	CAM - Sistema Municipal de Agua Potable y Alcantarillado de Carmen
+899	CAM - Sistema Municipal de Agua Potable y Alcantarillado de Champotón (DESINCORPORADO por extinción 16/08/2019)
+900	CAM - Sistema Municipal de Agua Potable y Alcantarillado de Escárcega
+855	CAM - Sistema para el Desarrollo Integral de la Familia del Estado de Campeche
+904	CAM - Sistema para el Desarrollo Integral de la Familia en el Municipio de Calakmul
+905	CAM - Sistema para el Desarrollo Integral de la Familia en el Municipio de Calkiní
+906	CAM - Sistema para el Desarrollo Integral de la Familia en el Municipio de Campeche
+907	CAM - Sistema para el Desarrollo Integral de la Familia en el Municipio de Candelaria
+908	CAM - Sistema para el Desarrollo Integral de la Familia en el Municipio de Carmen
+909	CAM - Sistema para el Desarrollo Integral de la Familia en el Municipio de Champotón
+28926	CAM - Sistema para el Desarrollo Integral de la Familia en el Municipio de Dzitbalché
+910	CAM - Sistema para el Desarrollo Integral de la Familia en el Municipio de Escárcega
+911	CAM - Sistema para el Desarrollo Integral de la Familia en el Municipio de Hecelchakán
+903	CAM - Sistema para el Desarrollo Integral de la Familia en el Municipio de Hopelchén
+912	CAM - Sistema para el Desarrollo Integral de la Familia en el Municipio de Palizada
+27985	CAM - Sistema para el Desarrollo Integral de la Familia en el Municipio de Seybaplaya
+913	CAM - Sistema para el Desarrollo Integral de la Familia en el Municipio de Tenabo
+17637	CAM - Tribunal de Justicia Administrativa del Estado de Campeche
+917	CAM - Tribunal Electoral del Estado de Campeche
+863	CAM - Tribunal Superior de Justicia del Estado de Campeche
+856	CAM - Universidad Autónoma de Campeche
+857	CAM - Universidad Autónoma del Carmen
+32029	CAM - Universidad Intercultural de Campeche
+858	CAM - Universidad Tecnológica de Calakmul
+859	CAM - Universidad Tecnológica de Campeche
+860	CAM - Universidad Tecnológica de Candelaria

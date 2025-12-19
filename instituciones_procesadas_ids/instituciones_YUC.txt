@@ -1,0 +1,323 @@
+5739	YUC - Abalá
+5740	YUC - Abastos de Mérida
+5741	YUC - Acanceh
+5674	YUC - Administración del Patrimonio de la Beneficencia Pública de Estado de Yucatán, APBPY.
+19758	YUC - Aeropuerto de Chichén Itzá del Estado de Yucatán S.A. de C.V.
+12074	YUC - Agencia de Administración Fiscal de Yucatán
+31369	YUC - Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán
+31689	YUC - Agencia de Transporte de Yucatán
+19197	YUC - Agencia para el Desarrollo de Yucatán
+5742	YUC - Akil
+18522	YUC - Asociación de Personal Académico de la Universidad Autónoma de Yucatán, APAUADY
+12205	YUC - Asociación Única de Trabajadores Administrativos y Manuales de la Universidad Autónoma de Yucatán “Felipe Carrillo Puerto”, AUTAMUADY...
+30989	YUC - ATY-Fideicomiso Público Maestro Irrevocable de Administración e Inversión F/2460492
+12186	YUC - Auditoría Superior del Estado de Yucatán
+5743	YUC - Baca
+5744	YUC - Bokobá
+5745	YUC - Buctzotz
+5746	YUC - Cacalchén
+5747	YUC - Calotmul
+5748	YUC - Cansahcab
+5749	YUC - Cantamayec
+5676	YUC - Casa De Las Artesanías
+27143	YUC - CEEV-Fideicomiso de Inversión y Administración del Fondo Estatal de Ayuda, Asistencia y Reparación Integral (FEAARI)
+5750	YUC - Celestún
+5751	YUC - Cenotillo
+5752	YUC - Central de Abasto Mérida
+29306	YUC - Centro de Conciliación Laboral del Estado de Yucatán, CECOLEY
+5677	YUC - Centro Estatal de Trasplantes de Yucatán, CEETRY.
+5753	YUC - Chacsinkín
+5754	YUC - Chankom
+5755	YUC - Chapab
+5756	YUC - Chemax
+5757	YUC - Chichimilá
+5758	YUC - Chicxulub Pueblo
+5759	YUC - Chikindzonot
+5760	YUC - Chocholá
+5761	YUC - Chumayel
+5678	YUC - Colegio de Bachilleres del Estado de Yucatán, COBAY.
+5679	YUC - Colegio de Educación Profesional Técnica del Estado de Yucatán, CONALEP.
+5680	YUC - Colegio de Estudios Científicos y Tecnológicos del Estado de Yucatán, CECYTEY.
+5866	YUC - Comisión de Derechos Humanos
+15892	YUC - Comisión Ejecutiva Estatal de Atención a Víctimas, CEEAV.
+5762	YUC - Comité Permanente del Carnaval de Mérida
+12185	YUC - Congreso del Estado de Yucatán
+5763	YUC - Conkal
+5681	YUC - Consejería Jurídica
+5734	YUC - Consejo de la Judicatura del Estado de Yucatán
+5683	YUC - Coordinación Metropolitana De Yucatán
+5764	YUC - Cuncunul
+5765	YUC - Cuzamá
+12158	YUC - Despacho del Gobernador
+5766	YUC - Dzan
+5767	YUC - Dzemul
+5768	YUC - Dzidzantún
+5769	YUC - Dzilam de Bravo
+5770	YUC - Dzilam González
+5771	YUC - Dzitás
+5772	YUC - Dzoncauich
+19757	YUC - Empresa Portuaria Yucateca S.A. de C.V.
+5773	YUC - Espita
+5685	YUC - Fábrica De Postes De Yucatán, S.A. De C.V.
+26199	YUC - Federación de Sindicatos de Trabajadores al Servicio del Estado de Yucatán
+5871	YUC - Fideicomiso Garante De La Orquesta Sinfónica De Yucatán
+26219	YUC - Fideicomiso para la Administración del Fondo de Apoyo a Víctimas del Delito
+19057	YUC - Fideicomiso Público para el Desarrollo del Turismo de Reuniones en Yucatán
+5872	YUC - Fideicomiso Público para la Administración de la Reserva Territorial de Ucú
+21797	YUC - Fideicomiso Público para la Administración del Palacio de la Música
+26697	YUC - Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán
+5686	YUC - Fiscalia General Del Estado De Yucatan
+5735	YUC - Fondo Auxiliar para la Administración de Justicia del Estado de Yucatán.
+5774	YUC - Halachó
+5775	YUC - Hocabá
+5776	YUC - Hoctún
+5777	YUC - Homún
+5688	YUC - Hospital Comunitario de Peto, Yucatán; HCPY.
+5689	YUC - Hospital Comunitario de Ticul, Yucatán; HCTY.
+5690	YUC - Hospital de la Amistad, HA.
+18517	YUC - Hospital General de Tekax, Yucatán.
+5778	YUC - Huhí
+5779	YUC - Hunucmá
+16163	YUC - IBECEY-Programa de becas nacionales para la educación superior de manutención en Yucatán
+25277	YUC - IDEY-FIDEICOMISO DE DEPORTE DE ALTO RENDIMIENTO
+31630	YUC - IEPAC-Fideicomiso de Inversión y Administración “Fondo de Ahorro Individual” (F/4135406)
+16070	YUC - IEPAC-Fideicomiso Fondo de Participación Ciudadana, IEPAC
+31631	YUC - IMDUT-Fideicomiso Sistema Integrado de Transporte en la zona metropolitana de Mérida Yucatán Etapa 2
+29948	YUC - IMDUT-Fondo Estatal para la Movilidad
+20423	YUC - IMDUT-Fondo Metropolitano de Yucatán (FOMEY)
+26777	YUC - IMDUT-Sistema Integrado de Transporte en la Zona metropolitana de Mérida Yucatán (SIT- Mérida)
+5691	YUC - Instituto De Becas Y Crédito Educativo Del Estado De Yucatán
+14154	YUC - Instituto de Capacitación para el Trabajo del Estado de Yucatán, ICATEY.
+5692	YUC - Instituto de Educación para Adultos del Estado de Yucatán, IEAEY.
+5693	YUC - Instituto De Historia Y Museos De Yucatan
+5694	YUC - Instituto de Infraestructura Carretera de Yucatán, INCAY.
+5698	YUC - Instituto del Deporte del Estado de Yucatán, IDEY.
+21457	YUC - Instituto de Movilidad y Desarrollo Urbano Territorial
+5695	YUC - Instituto de Seguridad Jurídica Patrimonial de Yucatán, INSEJUPY.
+5696	YUC - Instituto de Seguridad Social de los Trabajadores del Estado de Yucatán, ISSTEY.
+5697	YUC - Instituto de Vivienda del Estado de Yucatán, IVEY.
+5867	YUC - Instituto Electoral y de Participación Ciudadana de Yucatán.
+5868	YUC - Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales
+5699	YUC - Instituto para el Desarrollo de la Cultura Maya del Estado de Yucatán, INDEMAYA.
+5700	YUC - Instituto para el Desarrollo y Certificación de la Infraestructura Física Educativa y Eléctrica de Yucatán, IDEFEEY.
+5701	YUC - Instituto para la Construcción y Conservación de Obra Pública en Yucatán, INCCOPY.
+5702	YUC - Instituto para la Igualdad entre Mujeres y Hombres en Yucatán
+21977	YUC - Instituto para la Inclusión de las Personas con Discapacidad del Estado de Yucatán
+5703	YUC - Instituto Promotor de Ferias de Yucatán, IPFY.
+5707	YUC - Instituto Tecnológico Superior del Sur del Estado de Yucatán, ITSSY.
+5704	YUC - Instituto Tecnológico Superior de Motul, ITSM.
+5706	YUC - Instituto Tecnológico Superior de Valladolid, ITSVA.
+5705	YUC - Instituto Tecnológico Superior Progreso, ITSP.
+5708	YUC - Instituto Yucateco de Emprendedores, IYEM.
+5780	YUC - Ixil
+5781	YUC - Izamal
+5709	YUC - Junta de Agua Potable y Alcantarillado de Yucatán, JAPAY.
+5710	YUC - Junta de Asistencia Privada del Estado de Yucatán, JAPEY.
+5711	YUC - Junta De Electrificación De Yucatán
+23277	YUC - Junta Intermunicipal Biocultural del Puuc
+5782	YUC - Kanasín
+5783	YUC - Kantunil
+5784	YUC - Kaua
+5785	YUC - Kinchil
+5786	YUC - Kopomá
+5787	YUC - Mama
+5788	YUC - Mani
+5789	YUC - Maxcanú
+5790	YUC - Mayapán
+5791	YUC - Mérida
+12099	YUC - Mérida, Capital Americana de la Cultura 2017
+16312	YUC - Mérida-Fideicomiso para pago de deuda
+16311	YUC - Mérida- Fondo de Vivienda del Ayuntamiento de Mérida (FOVIM)
+16310	YUC - Mérida-Sistema Individual de Retiro y Jubilación Municipal (SIRJUM)
+5792	YUC - Mocochá
+5793	YUC - Motul
+5794	YUC - Muna
+5795	YUC - Muxupip
+5796	YUC - Opichen
+30631	YUC - Organismo Público Descentralizado Intermunicipal denominado Sistema Intermunicipal de Gestión de Residuos Sólidos-Zona Metropolitana ...
+17963	YUC - Organismo Público Municipal Descentralizado de Operación y Administración de la Zona Sujeta a Conservación Ecológica Reserva Cuxtal
+5797	YUC - Oxkutzcab
+5798	YUC - Panabá
+29646	YUC - Parque Científico y Tecnológico de Yucatán, PCTY.
+12192	YUC - Partido Acción Nacional
+12193	YUC - Partido de la Revolución Democrática
+12194	YUC - Partido del Trabajo
+12110	YUC - Partido Encuentro Social
+12198	YUC - Partido MORENA
+12197	YUC - Partido Movimiento Ciudadano
+12195	YUC - Partido Nueva Alianza
+21577	YUC - Partido Nueva Alianza Yucatán
+12191	YUC - Partido Revolucionario Institucional
+12196	YUC - Partido Verde Ecologista de México
+5712	YUC - Patronato de Asistencia para la Reinserción Social en el Estado de Yucatán
+5713	YUC - Patronato de las Unidades de Servicios Culturales y Turísticos del Estado de Yucatán, CULTUR.
+5799	YUC - Peto
+12187	YUC - Progreso
+5800	YUC - Quintana Roo
+5714	YUC - Régimen Estatal de Protección Social en Salud de Yucatán
+5801	YUC - Río Lagartos
+5802	YUC - Sacalum
+24798	YUC - SAF-Fideicomiso de Administración e Inversión número F/4109146 (Yucatán Seguro Administración)
+30110	YUC - SAF-Fideicomiso de Administración F/4130480
+31468	YUC - SAF-Fideicomiso de Administración F/4137634
+18262	YUC - SAF-Fideicomiso de Administración número F/0199 (PROTEGO F/0199)
+18261	YUC - SAF-Fideicomiso de Inversión y Administración F/4142634 antes Fideicomiso Público de Administración e Inversión número F/0007 (PROTEG...
+18264	YUC - SAF-Fideicomiso del Estado de Yucatán para la Implementación del Sistema de Justicia Penal (PROTEGO F/0173)
+18260	YUC - SAF-Fideicomiso Irrevocable de Administración y Fuente Alterna de Pago F/0019 (PROTEGO F/0019)
+24797	YUC - SAF-Fideicomiso Irrevocable de Administración y Fuente de Pago F/4109088 (Yucatán Seguro Pago)
+18259	YUC - SAF-Fideicomiso Maestro Irrevocable de Administración y Fuente de Pago identificado bajo el número F/0002 (PROTEGO F/0002)
+18263	YUC - SAF-PROTEGO F/0198
+5803	YUC - Samahil
+5804	YUC - Sanahcat
+12190	YUC - San Felipe
+5805	YUC - Santa Elena
+16112	YUC - SDR-Fideicomiso denominado Fondo de Fomento Agropecuario del Estado de Yucatán (FOFAY)
+16069	YUC - SDS-Fideicomiso de Administración, Inversión y Medio de Pago denominado FIAMBIYUC
+30348	YUC - SDS-Fondo Ambiental
+5715	YUC - Secretaría De Administracion Y Finanzas
+12163	YUC - Secretaría de Bienestar antes Secretaría De Desarrollo Social (03 de diciembre de 2024)
+5720	YUC - Secretaría de Ciencia, Humanidades, Tecnología e Innovación antes Secretaría de Investigación, Innovación y Educación Superior (31 de...
+5716	YUC - Secretaria De Desarrollo Rural
+5717	YUC - Secretaría De Desarrollo Sustentable
+5718	YUC - Secretaría de Economía y Trabajo antes Secretaría y Fomento Económico y Trabajo (31 de diciembre de 2024)
+12165	YUC - Secretaría De Educación
+5719	YUC - Secretaría De Fomento Turístico
+12168	YUC - Secretaría de Infraestructura para el Bienestar antes Secretaría de Obras Públicas (03 de diciembre de 2024)
+5721	YUC - Secretaría De La Contraloría General
+5722	YUC - Secretaria De La Cultura Y Las Artes
+32170	YUC - Secretaría de las Juventudes.
+21537	YUC - Secretaría de las Mujeres
+12172	YUC - Secretaría Del Trabajo Y Previsión Social
+21857	YUC - Secretaría de Pesca y Acuacultura Sustentable
+12169	YUC - Secretaría De Salud
+12171	YUC - Secretaría De Seguridad Pública
+20057	YUC - Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Yucatán
+12173	YUC - Secretaría General De Gobierno
+13045	YUC - Secretaría Técnica de Planeación y Evaluación, SEPLAN.
+16313	YUC - SEDER-Fondo de Apoyo a la Productividad Agropecuaria del Estado de Yucatán (FOPROYUC)
+16314	YUC - SEDER-Fondo de Crédito Agropecuario y Pesquero (FOCAPY)
+16315	YUC - SEDER-Fondo de Micro Créditos del Estado de Yucatán (FOMICY)
+20359	YUC - SEDER-Fondo Estatal Para Apoyo Inmediato a los Productores Avícolas, Porcícolas y de Ganado Bovíno y Ovícaprino en el Estado de Yucat...
+19617	YUC - SEFOE-Fondo Integral para el Desarrollo Económico de Yucatán (FIDEY)
+19620	YUC - SEFOE-Fondo Yucatán
+19619	YUC - SEFOET-Fondo de Promoción y Fomento a las Empresas en el Estado de Yucatán (FOPROFEY)
+19618	YUC - SEFOET-Fondo Para la Consolidación y Fomento del Empleo Permanente del Estado de Yucatán (Empleo Permanente)
+16071	YUC - SEFOTUR-Fideicomiso para la Promoción y Fomento al Desarrollo Turístico y Económico del Estado de Yucatán (FIPROTUY)
+16063	YUC - SEGEY-Fideicomiso del Fondo de Apoyo al Programa de Vivienda Magisterial de Yucatán (FOVIMYUC)
+27644	YUC - SEPLAN -Fideicomiso para el Desarrollo Regional del Sur Sureste 2050 (FIDESUR)
+5723	YUC - Servicios de Salud de Yucatán, SSY.
+12101	YUC - Servi-limpia
+5807	YUC - Seyé
+19738	YUC - SGG-Fondo para la Atención de Emergencias y Desastres del Estado (FAED)
+27105	YUC - SIIES-Fideicomiso del Programa Nacional de Becas para la Educación Superior del Estado de Yucatán (Manutención Yucatán)
+27106	YUC - SIIES-Fondo de Emprendedores e Innovadores de Yucatán SIIES
+21817	YUC - SIIES -Fondo Mixto CONACYT-Gobierno del Estado (FOMIX)
+21818	YUC - SIIES -Fondo para Emprendedores de Yucatán (FONDEY)
+5808	YUC - Sinanché
+18437	YUC - Sindicato al Servicio del Instituto de Seguridad Social de los Trabajadores del Estado de Yucatán
+12144	YUC - Sindicato Auténtico de Trabajadores del Ayuntamiento de Mérida
+18521	YUC - Sindicato Confederación Revolucionario de Obreros y Campesinos, CROC, (Cansahcab)
+12125	YUC - Sindicato de Empleados del Poder Legislativo de Yucatán (SEPLY).
+30288	YUC - Sindicato de Empleados y Obreros del H. Ayuntamiento de Progreso
+18438	YUC - Sindicato de Profesionales Técnicos y Empleados al Servicio del H. Ayuntamiento. (Mérida)
+18519	YUC - Sindicato de Trabajadores al Servicio del Municipio de Mérida
+30988	YUC - Sindicato de Trabajadores al Servicio del Municipio de Progreso
+12203	YUC - Sindicato de Trabajadores al Servicio del Poder Ejecutivo e Instituciones Descentralizadas de Yucatán, STSPEIDY
+26877	YUC - Sindicato de Trabajadores al Servicio del Poder Judicial del Estado de Yucatán
+18439	YUC - Sindicato de Trabajadores de la Empresa Servi-Limpia.
+30388	YUC - Sindicato de Trabajadores del Ayuntamiento de la Ciudad y Puerto de Progreso, Yucatán, Felipe Carrillo Puerto.
+12138	YUC - Sindicato de Trabajadores del Ayuntamiento de Mérida
+18440	YUC - Sindicato de Trabajadores de los Sistemas de Agua Potable y Alcantarillado, Similares y Conexos de Yucatán (STSAPASCY).
+30489	YUC - Sindicato de Trabajadores en General al Servicio del Ayuntamiento de la Ciudad y Puerto de Progreso de Castro, Yucatán “Rafael Cházar...
+12152	YUC - Sindicato de Trabajadores Unidos del Ayuntamiento de Mérida
+18520	YUC - Sindicato de Tricitaxistas de Cansahcab "Felipe Carrillo Puerto", CTM.
+12146	YUC - Sindicato Estatal de Trabajadores de la Educación de Yucatán, SETEY
+12153	YUC - Sindicato Integrado de los Trabajadores Municipales. (Mérida)
+12122	YUC - Sindicato Nacional de Trabajadores de la Educación Sección 57, SNTE
+18441	YUC - Sindicato Nacional de Trabajadores de la Secretaría de Salud Comité Ejecutivo Seccional 2014-2017.
+12145	YUC - Sindicato Nueva Alianza de Trabajadores al Servicio del Municipio de Mérida
+31909	YUC - Sindicato Progresista de los Trabajadores del Poder Judicial del Estado de Yucatán
+24717	YUC - Sindicato Único de Trabajadores Profesionistas, Administrativos y Manuales del Poder Judicial del Estado.
+31008	YUC - Sindicato Unión y Fuerza de Trabajadores al Servicio del Ayuntamiento de Mérida
+5809	YUC - Sistema de Agua Potable y Alcantarillado del Municipio de Chemax
+5810	YUC - Sistema de Agua Potable y Alcantarillado del Municipio de Conkal
+5811	YUC - Sistema de Agua Potable y Alcantarillado del Municipio de Cuzamá
+5812	YUC - Sistema de Agua Potable y Alcantarillado del Municipio de Dzan
+5813	YUC - Sistema de Agua Potable y Alcantarillado del Municipio de Dzemul
+5814	YUC - Sistema de Agua Potable y Alcantarillado del Municipio de Hocabá
+5815	YUC - Sistema de Agua Potable y Alcantarillado del Municipio de Homún
+5816	YUC - Sistema de Agua Potable y Alcantarillado del Municipio de Kanasín
+5817	YUC - Sistema de Agua Potable y Alcantarillado del Municipio de Kantunil
+5818	YUC - Sistema de Agua Potable y Alcantarillado del Municipio de Motul
+5819	YUC - Sistema de Agua Potable y Alcantarillado del Municipio de Oxkutzcab
+5820	YUC - Sistema de Agua Potable y Alcantarillado del Municipio de Progreso
+5821	YUC - Sistema de Agua Potable y Alcantarillado del Municipio de Seyé
+5822	YUC - Sistema de Agua Potable y Alcantarillado del Municipio de Sucila
+5823	YUC - Sistema de Agua Potable y Alcantarillado del Municipio de Ticul
+5824	YUC - Sistema de Agua Potable y Alcantarillado del Municipio de Timucuy
+5825	YUC - Sistema de Agua Potable y Alcantarillado del Municipio de Tixkokob
+5826	YUC - Sistema de Agua Potable y Alcantarillado del Municipio de Umán
+5827	YUC - Sistema de Agua Potable y Alcantarillado del Municipio de Valladolid
+5724	YUC - Sistema para el Desarrollo Integral de la Familia en Yucatán, DIF.
+5725	YUC - Sistema Teleyucatán, S.A. De C.V.
+16110	YUC - SOP-FIDEICOMISO No. 1708757511 DE INVERSIÓN Y ADMINISTRACIÓN DE UN FONDO PARA EL APOYO DE OBRAS DE INFRAESTRUCTURA DEL ESTADO DE YUCA...
+16430	YUC - SOP-Fideicomiso Yucateco para la dignificación y desarrollo integral de los trabajadores de la construcción (FYDITRAC)
+5828	YUC - Sotuta
+19737	YUC - SSP-Fondo de Aportaciones Para la Seguridad Pública de los Estados y el Distrito Federal (FASP)
+31576	YUC - SSP-Fondo Estatal de Seguridad Pública (FOSEG)
+19659	YUC - SSY-Fideicomiso para la administración e inversión de los recursos del programa de calidad, equidad y desarrollo en salud (PROCEDES)
+19658	YUC - SSY-Fideicomiso para la administración e inversión para la construcción de la infraestructura hospitalaria del Estado de Yucatán.
+19657	YUC - SSY-Fideicomiso para la administración e inversión para la construcción del hospital regional de alta especialidad en Mérida, Yucatán...
+5829	YUC - Sucilá
+5830	YUC - Sudzal
+5831	YUC - Suma de Hidalgo
+5832	YUC - Tahdziú
+5833	YUC - Tahmek
+5834	YUC - Teabo
+5835	YUC - Tecoh
+5836	YUC - Tekal de Venegas
+5837	YUC - Tekanto
+5838	YUC - Tekax
+5839	YUC - Tekit
+5840	YUC - Tekom
+5841	YUC - Telchac Pueblo
+5842	YUC - Telchac Puerto
+5843	YUC - Temax
+5844	YUC - Temozón
+5845	YUC - Tepakán
+5846	YUC - Tetiz
+5847	YUC - Teya
+5848	YUC - Ticul
+5849	YUC - Timucuy
+5850	YUC - Tinum
+5851	YUC - Tixcacalcupul
+5852	YUC - Tixkokob
+5853	YUC - Tixméhuac
+5854	YUC - Tixpéhual
+5855	YUC - Tizimín
+5736	YUC - Tribunal de Justicia Administrativa del Estado de Yucatán
+12100	YUC - Tribunal de lo Contencioso Administrativo del Municipio de Mérida
+5737	YUC - Tribunal de los Trabajadores al Servicio del Estado y Municipios de Yucatán
+5869	YUC - Tribunal Electoral del Estado de Yucatán
+5738	YUC - Tribunal Superior de Justicia del Estado de Yucatán
+5856	YUC - Tunkás
+5857	YUC - Tzucacab
+16065	YUC - UADY-Fideicomiso denominado Fondo de Becas Abogado Francisco Repetto Milán
+30188	YUC - UADY-Rancho Hobonil
+5858	YUC - Uayma
+5859	YUC - Ucú
+5860	YUC - Umán
+5870	YUC - Universidad Autónoma de Yucatán
+5684	YUC - Universidad de las Artes de Yucatán
+5726	YUC - Universidad de Oriente, UNO.
+14745	YUC - Universidad Politécnica de Yucatán, UPY.
+5727	YUC - Universidad Tecnológica del Centro, UTC.
+5728	YUC - Universidad Tecnológica del Mayab, UTMAYAB.
+5729	YUC - Universidad Tecnológica del Poniente, UTP.
+5730	YUC - Universidad Tecnológica Metropolitana, UTM.
+5731	YUC - Universidad Tecnológica Regional del Sur, UTRS.
+5861	YUC - Valladolid
+5862	YUC - Xocchel
+5863	YUC - Yaxcabá
+5864	YUC - Yaxkukul
+5865	YUC - Yobaín
